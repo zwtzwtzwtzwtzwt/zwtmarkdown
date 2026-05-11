@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "高数/基础",
+      "folder": "高数基础",
       "template": "模版/高数基础模版.md"
     }
   ],
