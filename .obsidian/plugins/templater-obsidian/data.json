@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "高数/基础",
+      "template": "模版/数学学习模版.md"
     }
   ],
   "enable_file_templates": false,
@@ -35,9 +35,5 @@
     ""
   ],
   "intellisense_render": 1,
-  "ignore_folders_on_creation": [
-    {
-      "folder": ""
-    }
-  ]
+  "ignore_folders_on_creation": []
 }
