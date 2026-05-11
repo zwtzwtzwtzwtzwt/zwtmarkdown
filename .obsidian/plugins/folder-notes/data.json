@@ -1,10 +1,10 @@
 {
   "syncFolderName": true,
-  "ctrlKey": true,
-  "altKey": false,
+  "ctrlKey": false,
+  "altKey": true,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": false,
+  "autoCreate": true,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
