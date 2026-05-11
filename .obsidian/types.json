@@ -3,6 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "时间": "checkbox"
+    "时间": "date"
   }
 }
