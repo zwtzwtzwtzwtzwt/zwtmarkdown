@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "高数/基础",
-      "template": "模版/数学学习模版.md"
+      "template": "高数"
     }
   ],
   "enable_file_templates": false,
