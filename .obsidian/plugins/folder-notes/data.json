@@ -3,7 +3,7 @@
   "ctrlKey": false,
   "altKey": true,
   "hideFolderNote": true,
-  "templatePath": "",
+  "templatePath": "模版/模版.md",
   "autoCreate": true,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
