@@ -1,0 +1,20 @@
+# --- 忽略 Obsidian 界面状态（解决多端冲突核心） ---
+# 使用通配符同时覆盖 .obsidian 和 .obsidianm
+.obsidian*/workspace.json
+.obsidian*/workspace-mobile.json
+.obsidian*/graph.json
+
+# --- 忽略本地缓存与运行数据 ---
+.obsidian*/cache/
+.obsidian*/indexed-db/
+.obsidian*/plugins/obsidian-git/
+
+# --- 忽略系统垃圾桶 ---
+.trash/
+
+# --- 忽略操作系统生成的临时文件 ---
+.DS_Store
+Thumbs.db
+
+# --- 如果你之前配置了 LFS 处理大文件 PDF，确保这些文件被追踪而非忽略 ---
+# 这里不需要写忽略 PDF，除非你确定不想同步它们
