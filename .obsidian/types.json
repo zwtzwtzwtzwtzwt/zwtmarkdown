@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "时间": "date"
+    "时间": "date",
+    "描述": "text"
   }
 }
