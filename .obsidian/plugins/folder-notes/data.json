@@ -4,7 +4,7 @@
   "altKey": true,
   "hideFolderNote": true,
   "templatePath": "模版/模版.md",
-  "autoCreate": true,
+  "autoCreate": false,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
