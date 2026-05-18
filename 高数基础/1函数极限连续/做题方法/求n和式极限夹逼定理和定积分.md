@@ -25,6 +25,7 @@ tags:
 
 # 题目  
 #题目/n和式的极限  
+https://www.bilibili.com/video/BV19E411p7n8/?spm_id_from=333.337.search-card.all.click&vd_source=00e9babc4deca9e64ec25dd54e7bfe0c
 ![](assets/求n和式极限夹逼定理和定积分/file-20260516213341232.png)  
 
 ![](assets/求n和式极限夹逼定理和定积分/file-20260516213341233.png)
