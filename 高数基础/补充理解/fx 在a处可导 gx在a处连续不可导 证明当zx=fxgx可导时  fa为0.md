@@ -37,4 +37,4 @@ $$z'(a) = \lim_{x \to a} \frac{f(x)g(x) - f(a)g(x) + f(a)g(x) - f(a)g(a)}{x-a}$$
 将其拆分为两项的极限：
 
 $$z'(a) = \lim_{x \to a} \left[ g(a) \frac{f(x) - f(a)}{x-a} + f(a) \frac{g(x) - g(a)}{x-a} \right]$$
-这里 左边存在  右边也要存在
+这里 左边存在  右边也要存在    
