@@ -12,5 +12,6 @@
   "templater-obsidian",
   "oz-clear-unused-images",
   "note-refactor-obsidian",
-  "image-converter"
+  "image-converter",
+  "obsidian-checklist-plugin"
 ]
