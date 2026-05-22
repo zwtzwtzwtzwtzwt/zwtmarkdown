@@ -13,5 +13,6 @@
   "oz-clear-unused-images",
   "note-refactor-obsidian",
   "image-converter",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "execute-code"
 ]
