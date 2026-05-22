@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "NoteName-Timestamp",
+  "selectedFilenamePreset": "Keep original name",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
