@@ -97,7 +97,7 @@
   "cppFileExtension": "cpp",
   "cppInject": "",
   "cppArgs": "",
-  "cppUseMain": false,
+  "cppUseMain": true,
   "clingPath": "cling",
   "clingArgs": "",
   "clingStd": "c++17",
