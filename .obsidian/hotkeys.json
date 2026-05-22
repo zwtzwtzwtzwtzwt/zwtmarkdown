@@ -24,5 +24,14 @@
       ],
       "key": "D"
     }
+  ],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
   ]
 }
