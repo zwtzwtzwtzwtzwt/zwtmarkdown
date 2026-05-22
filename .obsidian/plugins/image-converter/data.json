@@ -26,6 +26,11 @@
       "customTemplate": "{notename}-{timestamp}",
       "skipRenamePatterns": "",
       "conflictResolution": "increment"
+    },
+    {
+      "name": "markdown语法的",
+      "customTemplate": "assets/${noteFileName}/${generatedAttachmentFileName}",
+      "skipRenamePatterns": ""
     }
   ],
   "selectedFilenamePreset": "NoteName-Timestamp",
