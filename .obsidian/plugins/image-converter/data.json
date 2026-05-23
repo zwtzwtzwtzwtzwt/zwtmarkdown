@@ -26,14 +26,9 @@
       "customTemplate": "{notename}-{timestamp}",
       "skipRenamePatterns": "",
       "conflictResolution": "increment"
-    },
-    {
-      "name": "markdown语法的",
-      "customTemplate": "assets/${noteFileName}/${generatedAttachmentFileName}",
-      "skipRenamePatterns": ""
     }
   ],
-  "selectedFilenamePreset": "markdown语法的",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
