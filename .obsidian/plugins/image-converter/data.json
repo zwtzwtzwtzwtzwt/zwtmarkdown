@@ -11,9 +11,13 @@
     {
       "type": "CURRENT",
       "name": "Same folder as current note"
+    },
+    {
+      "name": "标准",
+      "type": "SUBFOLDER"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "标准",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -28,7 +32,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -46,7 +50,7 @@
     "folder": false,
     "filename": false
   },
-  "subfolderTemplate": "",
+  "subfolderTemplate": "assets/{notename}",
   "conversionPresets": [
     {
       "name": "None",
@@ -138,7 +142,7 @@
         "hideFolders": false
       }
     ],
-    "selectedLinkFormatPreset": "Default (Wikilink, Shortest)"
+    "selectedLinkFormatPreset": "Markdown, Relative"
   },
   "nonDestructiveResizeSettings": {
     "resizePresets": [
