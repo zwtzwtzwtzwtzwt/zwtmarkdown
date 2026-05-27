@@ -24,7 +24,7 @@ tags:
 > 不变的为主部  判断的是变的部分如果求和之后对主部造成影响了 定积分,反之就是夹逼定理(从本质上来说)    大体的感觉
 
 # 题目  
-#题目/n和式的极限  
+
 https://www.bilibili.com/video/BV19E411p7n8/?spm_id_from=333.337.search-card.all.click&vd_source=00e9babc4deca9e64ec25dd54e7bfe0c
 ![](assets/求n和式极限夹逼定理和定积分/file-20260524204131150.webp)  
 
