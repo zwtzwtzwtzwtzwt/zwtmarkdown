@@ -3,6 +3,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "custom-rainbow-colors"
+    "custom-rainbow-colors",
+    "file"
   ]
 }

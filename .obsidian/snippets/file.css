@@ -1,0 +1,31 @@
+/* 针对 Obsidian 彩虹文件夹：仅为文件夹上色，排除普通文件 */
+
+/* 1级文件夹 - 红色 */
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-title .nav-folder-title-content {
+    color: #ff5252 !important;
+}
+
+/* 2级文件夹 - 橙色 */
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-title .nav-folder-title-content {
+    color: #ffb142 !important;
+}
+
+/* 3级文件夹 - 绿色 */
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-title .nav-folder-title-content {
+    color: #33d9b2 !important;
+}
+
+/* 4级文件夹 - 蓝色 */
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-title .nav-folder-title-content {
+    color: #34ace0 !important;
+}
+
+/* 5级及以上文件夹 - 紫色 */
+.nav-folder.mod-root .nav-folder .nav-folder .nav-folder .nav-folder .nav-folder .nav-folder-title .nav-folder-title-content {
+    color: #706fd3 !important;
+}
+
+/* 强制：所有层级的【普通文件】保持默认文字颜色 */
+.nav-file-title .nav-file-title-content {
+    color: var(--text-normal) !important;
+}

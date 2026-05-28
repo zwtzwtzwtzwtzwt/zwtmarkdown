@@ -16,7 +16,9 @@
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-default-rainbow",
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": false,
-  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-rosewater"
+  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-rosewater",
+  "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-flamingo",
+  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-flamingo"
 }
