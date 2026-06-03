@@ -124,3 +124,4 @@ int main() {
 p->member  完全等价于  (*p).member  
 
 
+# C 语言和 C++结构体使用上的不同  
