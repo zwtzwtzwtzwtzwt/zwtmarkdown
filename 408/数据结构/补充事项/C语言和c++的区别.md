@@ -121,4 +121,6 @@ int main() {
 
 
 # p ->member
-p->member  完全等价于  (*p).member
+p->member  完全等价于  (*p).member  
+
+
