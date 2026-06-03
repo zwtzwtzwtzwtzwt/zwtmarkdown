@@ -125,3 +125,38 @@ p->member  完全等价于  (*p).member
 
 
 # C 语言和 C++结构体使用上的不同  
+这也是你在手写数据结构代码时最常碰到的不同点。
+
+- **C 语言：必须带上 `struct` 关键字，或者依赖 `typedef`。** 在 C 语言中，`struct Node` 才是一个完整的类型名。如果你不加 `typedef`，每次定义变量都要写 `struct`。
+    
+    C
+    
+    ```
+    // C 语言
+    struct Node {
+        int data;
+    };
+    
+    struct Node n1;  // 正确：必须加 struct
+    Node n2;         // 错误：C 编译器不认识 Node
+    
+    // 为了偷懒，C 语言通常这么写：
+    typedef struct {
+        int data;
+    } Node;
+    Node n3;         // 正确：借助 typedef 给结构体起了个别名
+    ```
+    
+- **C++：直接使用结构体名。** C++ 编译器会自动把结构体名当作类型名，所以直接写名字即可。
+    
+    C++
+    
+    ```
+    // C++ 语言
+    struct Node {
+        int data;
+    };
+    
+    Node n1;         // 正确：C++ 里 struct 名字直接就是类型
+    struct Node n2;  // 也正确，但没必要
+    ```
