@@ -1,13 +1,3 @@
-# 单链表的定义  
-![](./assets/单链表crud/file-20260604185239154.webp)  
-![](./assets/单链表crud/file-20260604185239150.webp)  
-
-# 单链表的初始化（带头不带头）  
-<font color="#ff0000">头结点不存放数据  视为下标 0</font>
-![](./assets/单链表crud/file-20260604185239151.webp)  
-![](./assets/单链表crud/file-20260604185239152.webp)  
-![](./assets/单链表crud/file-20260604185239153.webp)  
-
 #  按位序处插入  
 ![](./assets/单链表crud/file-20260604185239129.webp)![](./assets/单链表crud/file-20260604185239145.webp)
 # 指定节点后插操作    
