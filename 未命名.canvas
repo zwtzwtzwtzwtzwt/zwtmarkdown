@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"7ccc36f921cd1cca","x":-200,"y":-200,"width":250,"height":60,"type":"text","text":""}
+		{"id":"fce63f227fa4d223","x":40,"y":-200,"width":170,"height":140,"type":"text","text":""},
+		{"id":"7ccc36f921cd1cca","x":-240,"y":-200,"width":140,"height":140,"type":"text","text":""}
 	],
 	"edges":[]
 }
