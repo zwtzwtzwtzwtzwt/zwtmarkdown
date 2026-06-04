@@ -1,22 +1,22 @@
 # 单链表的定义  
-![](./assets/单链表/file-20260604135737291.webp)  
-![](./assets/单链表/file-20260604135737301.webp)  
+![](./assets/单链表crud/file-20260604185239154.webp)  
+![](./assets/单链表crud/file-20260604185239150.webp)  
 
 # 单链表的初始化（带头不带头）  
 <font color="#ff0000">头结点不存放数据  视为下标 0</font>
-![](./assets/单链表/file-20260604135737300.webp)  
-![](./assets/单链表/file-20260604135737295.webp)  
-![](./assets/单链表/file-20260604135737293.webp)  
+![](./assets/单链表crud/file-20260604185239151.webp)  
+![](./assets/单链表crud/file-20260604185239152.webp)  
+![](./assets/单链表crud/file-20260604185239153.webp)  
 
 #  按位序处插入  
-![](./assets/单链表/image.webp)![](./assets/单链表/image-2.webp)
+![](./assets/单链表crud/file-20260604185239129.webp)![](./assets/单链表crud/file-20260604185239145.webp)
 # 指定节点后插操作    
-![](./assets/单链表/image-3.webp)
+![](./assets/单链表crud/file-20260604185239143.webp)
 
 # 指定节点前插操作  
-![](./assets/单链表/image-4.webp)![](./assets/单链表/image-5.webp)  
+![](./assets/单链表crud/file-20260604185239142.webp)![](./assets/单链表crud/file-20260604185239139.webp)  
 # 按位序删除  
-![](./assets/单链表/image-6.webp)C++
+![](./assets/单链表crud/file-20260604185239138.webp)C++
 
 ```
 bool ListDelete(LinkList &L, int i, ElemType &e) {
@@ -61,17 +61,17 @@ bool ListDelete(LinkList &L, int i, ElemType &e) {
 如果是从 1 考试计数 间隔数是位序数-1  
 
 # 删除指定节点  
-![](./assets/单链表/image-8.webp)  
+![](./assets/单链表crud/file-20260604185239136.webp)  
 
 
 # 按位序查找  
-![](./assets/单链表/image-9.webp)
+![](./assets/单链表crud/file-20260604185239135.webp)
 
 # 按值查找  
-![](./assets/单链表/image-10.webp)
+![](./assets/单链表crud/file-20260604185239134.webp)
 
 # 求表长  
-![](./assets/单链表/image-12.webp)
+![](./assets/单链表crud/file-20260604185239131.webp)
 
 
 # 时间复杂度  
