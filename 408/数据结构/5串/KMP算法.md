@@ -7,4 +7,5 @@
 ![](./assets/KMP算法/image-4.webp)  
 
 # 求 next 数组  
+![](./assets/KMP算法/image-6.webp)
 ![](./assets/KMP算法/image-5.webp)  
