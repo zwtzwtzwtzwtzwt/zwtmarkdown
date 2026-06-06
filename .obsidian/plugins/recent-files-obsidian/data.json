@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "408",
+      "path": "408/408.md"
+    },
+    {
       "basename": "KMP算法",
       "path": "408/数据结构/5串/KMP算法.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "计算机组成原理",
       "path": "408/计算机组成原理/计算机组成原理.md"
-    },
-    {
-      "basename": "408",
-      "path": "408/408.md"
     },
     {
       "basename": "README",
@@ -195,10 +195,6 @@
     {
       "basename": "时间复杂度",
       "path": "408/数据结构/1基本概念/时间复杂度.md"
-    },
-    {
-      "basename": "数据结构和算法概念",
-      "path": "408/数据结构/1基本概念/数据结构和算法概念.md"
     }
   ],
   "omittedPaths": [],
