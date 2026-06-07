@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "数据结构/7图/未命名.md"
+    },
+    {
+      "basename": "7图",
+      "path": "数据结构/7图/7图.md"
+    },
+    {
       "basename": "并查集（双亲表示法）",
       "path": "数据结构/6树/5树和二叉树的应用/并查集（双亲表示法）.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "测试",
-      "path": "测试.md"
     }
   ],
   "omittedPaths": [],
