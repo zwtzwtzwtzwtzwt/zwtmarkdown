@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "数据结构/7图/未命名.md"
+    },
+    {
       "basename": "最短路径问题-BFS算法",
       "path": "数据结构/7图/最短路径问题-BFS算法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "栈的顺序存储实现",
       "path": "数据结构/3栈/栈的顺序存储实现.md"
-    },
-    {
-      "basename": "栈的基本概念（LIFO）",
-      "path": "数据结构/3栈/栈的基本概念（LIFO）.md"
     }
   ],
   "omittedPaths": [],
