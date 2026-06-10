@@ -5,3 +5,4 @@
 
 ![](./assets/最短路径问题-BFS算法/image-1.webp)  
 
+![](./assets/最短路径问题-BFS算法/image-2.webp)
