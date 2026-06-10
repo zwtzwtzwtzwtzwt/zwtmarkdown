@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "英语/未命名.md"
+    },
+    {
       "basename": "最短路径问题-Dijkstra算法",
       "path": "数据结构/7图/最短路径问题-Dijkstra算法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "共享栈",
       "path": "数据结构/3栈/共享栈.md"
-    },
-    {
-      "basename": "栈的顺序存储实现",
-      "path": "数据结构/3栈/栈的顺序存储实现.md"
     }
   ],
   "omittedPaths": [],
