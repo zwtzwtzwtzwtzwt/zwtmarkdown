@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "408",
+      "path": "408/408.md"
+    },
+    {
       "basename": "六级作文模版",
       "path": "英语/六级作文模版.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "串的定义和基本操作",
       "path": "数据结构/5串/串的定义和基本操作.md"
-    },
-    {
-      "basename": "5串",
-      "path": "数据结构/5串/5串.md"
     }
   ],
   "omittedPaths": [],
