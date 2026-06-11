@@ -12,6 +12,7 @@
 ![](./assets/floyd算法/image-6.webp)  
 ![](./assets/floyd算法/image-8.webp)
 
+每次找中转点  是根据前一步状态来进行的  
 
 
 
