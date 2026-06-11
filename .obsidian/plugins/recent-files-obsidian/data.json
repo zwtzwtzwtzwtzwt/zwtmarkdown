@@ -5,6 +5,10 @@
       "path": "数据结构/算法代码/kmp.cpp"
     },
     {
+      "basename": "Dijkstra求最短路 I",
+      "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "串的存储结构",
       "path": "数据结构/5串/串的存储结构.md"
-    },
-    {
-      "basename": "朴素模式匹配算法（暴力一一对比）",
-      "path": "数据结构/5串/朴素模式匹配算法（暴力一一对比）.md"
     }
   ],
   "omittedPaths": [],
