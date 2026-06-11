@@ -24,7 +24,7 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "lucideIconPackType": "custom",
     "debugMode": false,
     "useInternalPlugins": false
   }
