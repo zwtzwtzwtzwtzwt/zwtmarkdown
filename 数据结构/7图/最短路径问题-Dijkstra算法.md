@@ -6,5 +6,8 @@
 
 ![](./assets/最短路径问题-Dijkstra算法/image-2.webp)  
 
+![](./assets/最短路径问题-Dijkstra算法/image-4.webp)  
+
+
 
 
