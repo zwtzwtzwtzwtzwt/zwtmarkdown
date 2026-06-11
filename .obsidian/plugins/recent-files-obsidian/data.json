@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "图的最小生成树算法",
-      "path": "数据结构/算法代码/图的最小生成树算法.md"
+      "basename": "最短路径问题-Dijkstra算法",
+      "path": "数据结构/7图/最短路径问题-Dijkstra算法.md"
     },
     {
       "basename": "最短路径问题-BFS算法",
       "path": "数据结构/7图/最短路径问题-BFS算法.md"
     },
     {
-      "basename": "最短路径问题-Dijkstra算法",
-      "path": "数据结构/7图/最短路径问题-Dijkstra算法.md"
+      "basename": "内部排序算法分析总结",
+      "path": "数据结构/8排序/内部排序算法分析总结.md"
+    },
+    {
+      "basename": "图的最小生成树算法",
+      "path": "数据结构/算法代码/图的最小生成树算法.md"
     },
     {
       "basename": "floyd算法",
@@ -35,10 +39,6 @@
     {
       "basename": "图的广度优先遍历",
       "path": "数据结构/7图/图的广度优先遍历.md"
-    },
-    {
-      "basename": "内部排序算法分析总结",
-      "path": "数据结构/8排序/内部排序算法分析总结.md"
     },
     {
       "basename": "邻接矩阵法  （顺序存储）",
