@@ -7,4 +7,8 @@
 ![](./assets/有向无环图（DAG）描述表达式/image.webp)
 
 ![](./assets/有向无环图（DAG）描述表达式/image-1.webp)![](./assets/有向无环图（DAG）描述表达式/image-3.webp)  
-![](./assets/有向无环图（DAG）描述表达式/image-4.webp)![](./assets/有向无环图（DAG）描述表达式/image-5.webp)
+![](./assets/有向无环图（DAG）描述表达式/image-4.webp)  
+
+
+
+![](./assets/有向无环图（DAG）描述表达式/image-5.webp)![](./assets/有向无环图（DAG）描述表达式/image-6.webp)
