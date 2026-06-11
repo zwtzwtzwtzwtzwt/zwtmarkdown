@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "图的最小生成树算法",
+      "path": "数据结构/算法代码/图的最小生成树算法.md"
+    },
+    {
+      "basename": "最短路径问题-BFS算法",
+      "path": "数据结构/7图/最短路径问题-BFS算法.md"
+    },
+    {
+      "basename": "最短路径问题-Dijkstra算法",
+      "path": "数据结构/7图/最短路径问题-Dijkstra算法.md"
+    },
+    {
+      "basename": "floyd算法",
+      "path": "数据结构/7图/floyd算法.md"
+    },
+    {
+      "basename": "最小生成树",
+      "path": "数据结构/7图/最小生成树.md"
+    },
+    {
+      "basename": "内部排序",
+      "path": "数据结构/算法代码/内部排序.md"
+    },
+    {
+      "basename": "图的存储方式和基本操作",
+      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
+    },
+    {
+      "basename": "图的深度优先遍历",
+      "path": "数据结构/7图/图的深度优先遍历.md"
+    },
+    {
+      "basename": "图的广度优先遍历",
+      "path": "数据结构/7图/图的广度优先遍历.md"
+    },
+    {
+      "basename": "内部排序算法分析总结",
+      "path": "数据结构/8排序/内部排序算法分析总结.md"
+    },
+    {
+      "basename": "邻接矩阵法  （顺序存储）",
+      "path": "数据结构/7图/邻接矩阵法  （顺序存储）.md"
+    },
+    {
+      "basename": "邻接表法   顺序存储+链式存储",
+      "path": "数据结构/7图/邻接表法   顺序存储+链式存储.md"
+    },
+    {
+      "basename": "十字链表法 邻接多重表",
+      "path": "数据结构/7图/十字链表法 邻接多重表.md"
+    },
+    {
+      "basename": "图的基本操作",
+      "path": "数据结构/7图/图的基本操作.md"
+    },
+    {
+      "basename": "kmp",
+      "path": "数据结构/算法代码/kmp.cpp"
+    },
+    {
+      "basename": "8排序",
+      "path": "数据结构/8排序/8排序.md"
+    },
+    {
+      "basename": "排序的基本概念",
+      "path": "数据结构/8排序/排序的基本概念.md"
+    },
+    {
+      "basename": "数据结构和算法概念",
+      "path": "数据结构/1基本概念/数据结构和算法概念.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "数据结构/未命名.md"
+    },
+    {
+      "basename": "关键路径",
+      "path": "数据结构/7图/关键路径.md"
+    },
+    {
+      "basename": "拓补排序",
+      "path": "数据结构/7图/拓补排序.md"
+    },
+    {
+      "basename": "有向无环图（DAG）描述表达式",
+      "path": "数据结构/7图/有向无环图（DAG）描述表达式.md"
+    },
+    {
+      "basename": "补充事项",
+      "path": "数据结构/补充事项/补充事项.md"
+    },
+    {
+      "basename": "7图",
+      "path": "数据结构/7图/7图.md"
+    },
+    {
+      "basename": "image-4",
+      "path": "数据结构/7图/assets/拓补排序/image-4.webp"
+    },
+    {
+      "basename": "image-2",
+      "path": "数据结构/7图/assets/拓补排序/image-2.webp"
+    },
+    {
+      "basename": "image-1",
+      "path": "数据结构/7图/assets/拓补排序/image-1.webp"
+    },
+    {
+      "basename": "image",
+      "path": "数据结构/7图/assets/拓补排序/image.webp"
+    },
+    {
+      "basename": "image",
+      "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/image.webp"
+    },
+    {
+      "basename": "file-20260611185411513",
+      "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/file-20260611185411513.webp"
+    },
+    {
+      "basename": "file-20260611185411511",
+      "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/file-20260611185411511.webp"
+    },
+    {
+      "basename": "image-1",
+      "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/image-1.webp"
+    },
+    {
+      "basename": "Prim算法求最小生成树",
+      "path": "数据结构/算法代码/Prim算法求最小生成树.cpp"
+    },
+    {
+      "basename": "微程序控制器",
+      "path": "408/计算机组成原理/微程序控制器.md"
+    },
+    {
+      "basename": "Floyd求最短路",
+      "path": "数据结构/算法代码/Floyd求最短路.cpp"
+    },
+    {
+      "basename": "Dijkstra求最短路 I",
+      "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
+    },
+    {
+      "basename": "Kruskal算法求最小生成树",
+      "path": "数据结构/算法代码/Kruskal算法求最小生成树.cpp"
+    },
+    {
+      "basename": "六级作文模版",
+      "path": "英语/六级作文模版.md"
+    },
+    {
+      "basename": "英语单词1到30",
+      "path": "英语/英语单词1到30.pdf"
+    },
+    {
+      "basename": "单链表带 不带头节点的对比",
+      "path": "数据结构/补充事项/单链表带 不带头节点的对比.md"
+    },
+    {
+      "basename": "线性表总结",
+      "path": "数据结构/补充事项/线性表总结.md"
+    },
+    {
+      "basename": "数组模拟链表(补充)",
+      "path": "数据结构/补充事项/数组模拟链表(补充).md"
+    },
+    {
+      "basename": "链表插入节点注意事项",
+      "path": "数据结构/补充事项/链表插入节点注意事项.md"
+    },
+    {
+      "basename": "C语言和c++的区别",
+      "path": "数据结构/补充事项/C语言和c++的区别.md"
+    },
+    {
+      "basename": "极值点和驻点的关系",
+      "path": "高数基础/3微分中值定理与导数应用/补充理解/极值点和驻点的关系.md"
+    },
+    {
+      "basename": "三个定理的区别与关系",
+      "path": "高数基础/3微分中值定理与导数应用/补充理解/三个定理的区别与关系.md"
+    },
+    {
+      "basename": "基本知识点",
+      "path": "高数基础/3微分中值定理与导数应用/记忆内容/基本知识点.md"
+    },
+    {
+      "basename": "求斜渐近线的快速方法",
+      "path": "高数基础/3微分中值定理与导数应用/做题方法/求斜渐近线的快速方法.md"
+    },
+    {
+      "basename": "做题方法",
+      "path": "高数基础/3微分中值定理与导数应用/做题方法/做题方法.md"
+    },
+    {
+      "basename": "皮阿诺余项与拉格朗日余项泰勒对比",
+      "path": "高数基础/3微分中值定理与导数应用/补充理解/皮阿诺余项与拉格朗日余项泰勒对比.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
