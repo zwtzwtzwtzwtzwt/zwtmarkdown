@@ -5,8 +5,32 @@
       "path": "数据结构/7图/floyd算法.md"
     },
     {
+      "basename": "Floyd求最短路",
+      "path": "数据结构/算法代码/Floyd求最短路.cpp"
+    },
+    {
+      "basename": "Dijkstra求最短路 I",
+      "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
+    },
+    {
+      "basename": "kmp",
+      "path": "数据结构/算法代码/kmp.cpp"
+    },
+    {
+      "basename": "Kruskal算法求最小生成树",
+      "path": "数据结构/算法代码/Kruskal算法求最小生成树.cpp"
+    },
+    {
+      "basename": "六级作文模版",
+      "path": "英语/六级作文模版.md"
+    },
+    {
       "basename": "英语单词1到30",
       "path": "英语/英语单词1到30.pdf"
+    },
+    {
+      "basename": "Prim算法求最小生成树",
+      "path": "数据结构/算法代码/Prim算法求最小生成树.cpp"
     },
     {
       "basename": "单链表带 不带头节点的对比",
@@ -31,14 +55,6 @@
     {
       "basename": "补充事项",
       "path": "数据结构/补充事项/补充事项.md"
-    },
-    {
-      "basename": "kmp",
-      "path": "数据结构/算法代码/kmp.cpp"
-    },
-    {
-      "basename": "Dijkstra求最短路 I",
-      "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
     },
     {
       "basename": "极值点和驻点的关系",
@@ -87,10 +103,6 @@
     {
       "basename": "408",
       "path": "408/408.md"
-    },
-    {
-      "basename": "六级作文模版",
-      "path": "英语/六级作文模版.md"
     },
     {
       "basename": "最短路径问题-Dijkstra算法",
@@ -187,18 +199,6 @@
     {
       "basename": "链式法则推隐函数求导公式",
       "path": "高数基础/8多元函数微分学/补充理解/链式法则推隐函数求导公式.md"
-    },
-    {
-      "basename": "全微分的不变性例题",
-      "path": "高数基础/8多元函数微分学/做题方法/全微分的不变性例题.md"
-    },
-    {
-      "basename": "多元隐函数求导与全微分  没咋了",
-      "path": "高数基础/8多元函数微分学/补充理解/多元隐函数求导与全微分  没咋了.md"
-    },
-    {
-      "basename": "多元函数连续可导可微关系",
-      "path": "高数基础/8多元函数微分学/补充理解/多元函数连续可导可微关系.md"
     }
   ],
   "omittedPaths": [],
