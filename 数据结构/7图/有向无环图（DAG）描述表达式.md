@@ -6,3 +6,4 @@
 # 合并树的方法  
 ![](./assets/有向无环图（DAG）描述表达式/image.webp)
 
+![](./assets/有向无环图（DAG）描述表达式/image-1.webp)
