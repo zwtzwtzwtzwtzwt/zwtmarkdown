@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "内部排序",
+      "path": "数据结构/算法代码/内部排序.md"
+    },
+    {
+      "basename": "图的存储方式和基本操作",
+      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
+    },
+    {
+      "basename": "图的最小生成树算法prim  kruskal",
+      "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
+    },
+    {
       "basename": "图的DFS和BFS遍历",
       "path": "数据结构/算法代码/图的DFS和BFS遍历.md"
     },
@@ -17,24 +29,12 @@
       "path": "数据结构/算法代码/Floyd求最短路.cpp"
     },
     {
-      "basename": "内部排序",
-      "path": "数据结构/算法代码/内部排序.md"
-    },
-    {
       "basename": "kmp",
       "path": "数据结构/算法代码/kmp.cpp"
     },
     {
       "basename": "floyd算法",
       "path": "数据结构/7图/floyd算法.md"
-    },
-    {
-      "basename": "图的最小生成树算法prim  kruskal",
-      "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
-    },
-    {
-      "basename": "图的存储方式和基本操作",
-      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
     },
     {
       "basename": "图的基本操作",

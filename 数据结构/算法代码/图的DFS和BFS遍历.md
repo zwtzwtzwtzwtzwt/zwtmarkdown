@@ -141,7 +141,7 @@ void BFS_MGraph(MGraph G, int v, Queue *Q) {
 
 C
 
-```
+```C
 void BFS_ALGraph(ALGraph G, int v, Queue *Q) {
     visit(v);                     // 1. 访问初始顶点
     visited[v] = true;            // 2. 标记已访问
