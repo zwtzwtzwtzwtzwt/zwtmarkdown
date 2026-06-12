@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "图的存储方式和基本操作",
-      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
+      "basename": "kmp",
+      "path": "数据结构/算法代码/kmp.cpp"
     },
     {
-      "basename": "图的最小生成树算法",
-      "path": "数据结构/算法代码/图的最小生成树算法.md"
+      "basename": "floyd算法",
+      "path": "数据结构/7图/floyd算法.md"
+    },
+    {
+      "basename": "图的最小生成树算法prim  kruskal",
+      "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
+    },
+    {
+      "basename": "内部排序",
+      "path": "数据结构/算法代码/内部排序.md"
+    },
+    {
+      "basename": "图的存储方式和基本操作",
+      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
     },
     {
       "basename": "图的基本操作",
@@ -37,16 +49,8 @@
       "path": "数据结构/8排序/内部排序算法分析总结.md"
     },
     {
-      "basename": "floyd算法",
-      "path": "数据结构/7图/floyd算法.md"
-    },
-    {
       "basename": "最小生成树",
       "path": "数据结构/7图/最小生成树.md"
-    },
-    {
-      "basename": "内部排序",
-      "path": "数据结构/算法代码/内部排序.md"
     },
     {
       "basename": "邻接矩阵法  （顺序存储）",
@@ -55,10 +59,6 @@
     {
       "basename": "邻接表法   顺序存储+链式存储",
       "path": "数据结构/7图/邻接表法   顺序存储+链式存储.md"
-    },
-    {
-      "basename": "kmp",
-      "path": "数据结构/算法代码/kmp.cpp"
     },
     {
       "basename": "8排序",
@@ -129,10 +129,6 @@
       "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/image-1.webp"
     },
     {
-      "basename": "Prim算法求最小生成树",
-      "path": "数据结构/算法代码/Prim算法求最小生成树.cpp"
-    },
-    {
       "basename": "微程序控制器",
       "path": "408/计算机组成原理/微程序控制器.md"
     },
@@ -143,10 +139,6 @@
     {
       "basename": "Dijkstra求最短路 I",
       "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
-    },
-    {
-      "basename": "Kruskal算法求最小生成树",
-      "path": "数据结构/算法代码/Kruskal算法求最小生成树.cpp"
     },
     {
       "basename": "六级作文模版",
