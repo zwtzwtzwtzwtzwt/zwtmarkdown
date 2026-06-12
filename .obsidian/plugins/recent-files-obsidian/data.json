@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "最短路径",
+      "path": "数据结构/算法代码/最短路径.md"
+    },
+    {
       "basename": "内部排序",
       "path": "数据结构/算法代码/内部排序.md"
     },
     {
-      "basename": "图的存储方式和基本操作",
-      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
+      "basename": "内部排序算法分析总结",
+      "path": "数据结构/8排序/内部排序算法分析总结.md"
+    },
+    {
+      "basename": "图的DFS和BFS遍历",
+      "path": "数据结构/算法代码/图的DFS和BFS遍历.md"
     },
     {
       "basename": "图的最小生成树算法prim  kruskal",
       "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
     },
     {
-      "basename": "图的DFS和BFS遍历",
-      "path": "数据结构/算法代码/图的DFS和BFS遍历.md"
+      "basename": "图的存储方式和基本操作",
+      "path": "数据结构/算法代码/图的存储方式和基本操作.md"
     },
     {
       "basename": "最短路径问题-Dijkstra算法",
@@ -47,10 +55,6 @@
     {
       "basename": "十字链表法 邻接多重表",
       "path": "数据结构/7图/十字链表法 邻接多重表.md"
-    },
-    {
-      "basename": "内部排序算法分析总结",
-      "path": "数据结构/8排序/内部排序算法分析总结.md"
     },
     {
       "basename": "最小生成树",
