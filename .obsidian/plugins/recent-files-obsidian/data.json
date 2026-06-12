@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "图的最小生成树算法prim  kruskal",
+      "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
+    },
+    {
+      "basename": "图的DFS和BFS遍历",
+      "path": "数据结构/算法代码/图的DFS和BFS遍历.md"
+    },
+    {
       "basename": "最短路径",
       "path": "数据结构/算法代码/最短路径.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "内部排序算法分析总结",
       "path": "数据结构/8排序/内部排序算法分析总结.md"
-    },
-    {
-      "basename": "图的DFS和BFS遍历",
-      "path": "数据结构/算法代码/图的DFS和BFS遍历.md"
-    },
-    {
-      "basename": "图的最小生成树算法prim  kruskal",
-      "path": "数据结构/算法代码/图的最小生成树算法prim  kruskal.md"
     },
     {
       "basename": "图的存储方式和基本操作",
