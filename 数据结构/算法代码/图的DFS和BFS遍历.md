@@ -49,7 +49,7 @@ void DFSTraverse(ALGraph G) {
 
 C
 
-```
+```C
 void DFS_MGraph(MGraph G, int v) {
     visit(v);                     // 1. 访问初始顶点
     visited[v] = true;            // 2. 标记已访问
@@ -68,7 +68,7 @@ void DFS_MGraph(MGraph G, int v) {
 
 C
 
-```
+```C
 void DFS_ALGraph(ALGraph G, int v) {
     visit(v);                     // 1. 访问初始顶点
     visited[v] = true;            // 2. 标记已访问
@@ -93,7 +93,7 @@ void DFS_ALGraph(ALGraph G, int v) {
 
 C
 
-```
+```C
 void BFSTraverse(MGraph G) {
     for (int i = 0; i < G.vexnum; i++) {
         visited[i] = false;       // 初始化访问数组
@@ -114,7 +114,7 @@ void BFSTraverse(MGraph G) {
 
 C
 
-```
+```C
 void BFS_MGraph(MGraph G, int v, Queue *Q) {
     visit(v);                     // 1. 访问初始顶点
     visited[v] = true;            // 2. 标记已访问
