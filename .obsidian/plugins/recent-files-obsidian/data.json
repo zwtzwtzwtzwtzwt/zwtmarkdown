@@ -25,10 +25,6 @@
       "path": "数据结构/7图/最短路径问题-BFS算法.md"
     },
     {
-      "basename": "Floyd求最短路",
-      "path": "数据结构/算法代码/Floyd求最短路.cpp"
-    },
-    {
       "basename": "kmp",
       "path": "数据结构/算法代码/kmp.cpp"
     },
@@ -139,10 +135,6 @@
     {
       "basename": "微程序控制器",
       "path": "408/计算机组成原理/微程序控制器.md"
-    },
-    {
-      "basename": "Dijkstra求最短路 I",
-      "path": "数据结构/算法代码/Dijkstra求最短路 I.cpp"
     },
     {
       "basename": "六级作文模版",
