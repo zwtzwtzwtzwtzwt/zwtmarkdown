@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "基数排序",
+      "path": "数据结构/8排序/基数排序.md"
+    },
+    {
       "basename": "归并排序",
       "path": "数据结构/8排序/归并排序.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "file-20260611185411511",
       "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/file-20260611185411511.webp"
-    },
-    {
-      "basename": "image-1",
-      "path": "数据结构/7图/assets/有向无环图（DAG）描述表达式/image-1.webp"
     }
   ],
   "omittedPaths": [],
