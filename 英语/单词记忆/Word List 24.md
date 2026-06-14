@@ -59,8 +59,8 @@
 | 55.probe         | 易于的 2                                                     | 1            |     |
 | 56.probability   | 可能性  概率                                                   | 可能性 概率       |     |
 | 57.prone         | 2                                                         | 易于的          |     |
-| 58.purify        |                                                           | 进化           |     |
-| 59.quantitative  |                                                           | 1            |     |
+| 58.purify        | 净化 2                                                      | 进化           |     |
+| 59.quantitative  | 量化的 2                                                     | 1            |     |
 | 60.conquer       |                                                           | 克服           |     |
 | 61.query         |                                                           | 询问疑问  1 质疑   |     |
 | 62.erase         |                                                           | 1消灭 消除       |     |
