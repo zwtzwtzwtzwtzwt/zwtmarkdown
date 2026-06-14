@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "空间复杂度",
+      "path": "数据结构/1基本概念/空间复杂度.md"
+    },
+    {
       "basename": "外部排序",
       "path": "数据结构/8排序/外部排序.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "image-1",
       "path": "数据结构/7图/assets/拓补排序/image-1.webp"
-    },
-    {
-      "basename": "image",
-      "path": "数据结构/7图/assets/拓补排序/image.webp"
     }
   ],
   "omittedPaths": [],
