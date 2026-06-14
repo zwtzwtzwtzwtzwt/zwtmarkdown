@@ -5,7 +5,7 @@
 4.accommodation
 5.modernization
 6.naive
-7.**negligible**
+7.negligible
 8.neutral
 9.denote
 10.novelty
