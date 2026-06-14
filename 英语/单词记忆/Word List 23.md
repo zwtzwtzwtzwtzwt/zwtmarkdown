@@ -4,7 +4,7 @@
 | --------------- | ------------------- |
 | 1. deficiency   | 缺少 缺点               |
 | 2. superficial  | 表面的 肤浅的 粗略的         |
-| 3. proficiency  |                     |
+| 3. proficiency  | 精通 1                |
 | 4. feasible     |                     |
 | 5. confidential |                     |
 | 6. profile      |                     |
