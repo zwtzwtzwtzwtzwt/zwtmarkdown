@@ -1,4 +1,3 @@
-[英语单词1到30, p.80](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%2024))
 1.omit
 2.premise
 3.emit
@@ -75,4 +74,4 @@
 74.prescribe
 75.subscribe
 76.manuscript
-77.prescription  
+77.prescription
