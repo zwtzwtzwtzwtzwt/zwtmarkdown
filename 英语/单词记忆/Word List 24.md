@@ -61,7 +61,7 @@
 | 57.prone         |          |
 | 58.purify        |          |
 | 59.quantitative  |          |
-| 60.conquer       |          |
+| 60.conquer       | 克服       |
 | 61.query         | 询问疑问     |
 | 62.erase         | 消灭 消除    |
 | 63.rational      | 1 理智的    |
