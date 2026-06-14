@@ -71,8 +71,8 @@
 | 67. analytical  |                               |
 | 68. magnitude   |                               |
 | 69. manipulate  |                               |
-| 70. marine      |                               |
-| 71. masculine   | 男性的 男人                        |
+| 70. marine      | 海洋的                           |
+| 71. masculine   | 男性的 男人的                       |
 | 72. mature      | 成熟 完全成长 全面的 1                 |
 | 73. maximum     | 最大量的 最大限度的 最大量                |
 | 74. remedy      | 1                             |
