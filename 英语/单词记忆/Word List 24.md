@@ -11,9 +11,9 @@
 | 7.negligible     | 微不足道的      |     |
 | 8.neutral        | 中立的        |     |
 | 9.denote         | 1          |     |
-| 10.novelty       | 新奇的 新颖     |     |
-| 11.numerical     |            |     |
-| 12.numerous      |            |     |
+| 10.novelty       | 新奇的 新颖的    |     |
+| 11.numerical     | 数量的        |     |
+| 12.numerous      | 大量的        |     |
 | 13.petroleum     |            |     |
 | 14.anonymous     |            |     |
 | 15.cooperative   |            |     |
