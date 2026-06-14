@@ -74,7 +74,7 @@
 | 70. marine      |                               |
 | 71. masculine   |                               |
 | 72. mature      |                               |
-| 73. maximum     |                               |
+| 73. maximum     | 最大量的 最大                       |
 | 74. remedy      | 1                             |
 | 75. mend        | 使痊愈 修补 1                      |
 | 76. merchant    | 商人 批发商 商船的                    |
