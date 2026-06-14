@@ -65,7 +65,7 @@
 | 61. catalogue   |                               |
 | 62. analogy     |                               |
 | 63. logic       |                               |
-| 64. lottery     | 彩票                            |
+| 64. lottery     | 彩票抽奖  碰运气的                    |
 | 65. lucrative   | 获利多的                          |
 | 66. paralyse    | 1                             |
 | 67. analytical  | 分析的 头脑缜密的                     |
