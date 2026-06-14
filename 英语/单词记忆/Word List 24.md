@@ -36,8 +36,8 @@
 | 32.perpetual     |              |     |
 | 33.pit           |              |     |
 | 34.symphony      |              |     |
-| 35.physicist     |              |     |
-| 36.compile       |              |     |
+| 35.physicist     | 物理           |     |
+| 36.compile       | 编译的 编制的      |     |
 | 37.empirical     | 以经验为依据 经验注意的 |     |
 | 38.plague        | 灾难 1         |     |
 | 39.transplant    | 移植 1         |     |
