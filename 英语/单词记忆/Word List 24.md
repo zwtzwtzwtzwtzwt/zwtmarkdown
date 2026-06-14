@@ -62,8 +62,8 @@
 | 58.purify        |          |
 | 59.quantitative  |          |
 | 60.conquer       |          |
-| 61.query         |          |
-| 62.erase         | 消灭       |
+| 61.query         | 询问疑问     |
+| 62.erase         | 消灭 消除    |
 | 63.rational      | 1 理智的    |
 | 64.erect         | 建立 建造 树立 |
 | 65.regime        | 1 制度 政权  |
@@ -78,4 +78,4 @@
 | 74.prescribe     | 开处方 规定   |
 | 75.subscribe     | 订阅 捐款    |
 | 76.manuscript    | 手稿       |
-| 77.prescription  | 处方  药房  
+| 77.prescription  | 处方  药房   |
