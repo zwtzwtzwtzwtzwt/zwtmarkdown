@@ -33,9 +33,9 @@
 | 29. gratitude   | 感谢 感激 1             |
 | 30. gross       | 严重的 毛的              |
 | 31. harmony     | 和谐 1                |
-| 32. inherit     |                     |
-| 33. prohibit    |                     |
-| 34. historic    |                     |
+| 32. inherit     | 继承                  |
+| 33. prohibit    | 禁止                  |
+| 34. historic    | 历史的 历史性的            |
 | 35. humidity    |                     |
 | 36. hygiene     |                     |
 | 37. identical   |                     |
