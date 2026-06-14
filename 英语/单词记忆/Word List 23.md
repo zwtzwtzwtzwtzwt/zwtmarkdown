@@ -69,7 +69,7 @@
 | 65. lucrative   | 获利多的                          |
 | 66. paralyse    | 1                             |
 | 67. analytical  | 分析的 头脑缜密的                     |
-| 68. magnitude   | 巨大 重要性                        |
+| 68. magnitude   | 巨大 重要性 1                      |
 | 69. manipulate  | 操作 操纵                         |
 | 70. marine      | 海洋的                           |
 | 71. masculine   | 男性的 男人的                       |
