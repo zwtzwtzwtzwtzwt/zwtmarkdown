@@ -58,7 +58,7 @@
 | 54.compress      | 压缩       |
 | 55.probe         |          |
 | 56.probability   |          |
-| 57.prone         |          |
+| 57.prone         | 易于的      |
 | 58.purify        |          |
 | 59.quantitative  |          |
 | 60.conquer       | 克服       |
