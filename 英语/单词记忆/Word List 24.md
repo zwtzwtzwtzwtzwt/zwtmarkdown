@@ -29,9 +29,9 @@
 | 25.impatient     | 没有耐心的                                                     | 没有耐心的        |     |
 | 26.surpass       | 2                                                         | 超过  胜过       |     |
 | 27.repel         | 驱逐  2                                                     | 驱逐 使厌恶       |     |
-| 28.compulsory    |                                                           | 义务的 强制的      |     |
-| 29.expenditure   |                                                           | 支出 耗费        |     |
-| 30.pessimistic   |                                                           | 悲观的 悲观主义的    |     |
+| 28.compulsory    | 强制的  义务的                                                  | 义务的 强制的      |     |
+| 29.expenditure   | 支出  耗费                                                    | 支出 耗费        |     |
+| 30.pessimistic   | 悲观的 悲观主义的                                                 | 悲观的 悲观主义的    |     |
 | 31.appetite      |                                                           | 食欲 欲望        |     |
 | 32.perpetual     |                                                           | 长久的 1        |     |
 | 33.pit           |                                                           | 深坑 打洞        |     |
