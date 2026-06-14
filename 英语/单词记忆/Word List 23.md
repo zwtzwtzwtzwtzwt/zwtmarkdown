@@ -23,9 +23,9 @@
 | 19. refute      | 反驳 1                |
 | 20. geography   | 地质学                 |
 | 21. geology     | 地质学 地址              |
-| 22. pregnant    |                     |
-| 23. hydrogen    |                     |
-| 24. genre       |                     |
+| 22. pregnant    | 怀孕的                 |
+| 23. hydrogen    | 氢气 氢                |
+| 24. genre       | 体裁 类型               |
 | 25. grand       |                     |
 | 26. aggravate   |                     |
 | 27. grave       |                     |
