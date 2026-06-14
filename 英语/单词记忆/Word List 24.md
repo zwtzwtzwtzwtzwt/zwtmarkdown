@@ -21,7 +21,7 @@
 | 17.orchestra     | 管弦乐         |     |
 | 18.subordinate   | 1           |     |
 | 19.extraordinary | 杰出的         |     |
-| 20.orderly       |             |     |
+| 20.orderly       | 有序的 有秩序的    |     |
 | 21.ornament      |             |     |
 | 22.transparent   |             |     |
 | 23.partial       |             |     |
