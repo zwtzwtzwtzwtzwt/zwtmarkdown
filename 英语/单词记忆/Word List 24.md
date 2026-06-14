@@ -54,8 +54,8 @@
 | 50.disposal      |          |
 | 51.disposition   |          |
 | 52.proposition   | 主张 建议 提案 |
-| 53.predator      |          |
-| 54.compress      |          |
+| 53.predator      | 剥削者 掠夺者  |
+| 54.compress      | 压缩       |
 | 55.probe         |          |
 | 56.probability   |          |
 | 57.prone         |          |
