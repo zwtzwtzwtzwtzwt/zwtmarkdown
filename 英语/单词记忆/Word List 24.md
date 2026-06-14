@@ -69,8 +69,8 @@
 | 65.regime        |          |
 | 66.arrest        |          |
 | 67.rhetoric      |          |
-| 68.rotate        |          |
-| 69.abrupt        |          |
+| 68.rotate        | 旋转 人员    |
+| 69.abrupt        | 突然的 唐突的  |
 | 70.erupt         | 爆发 突然爆发的 |
 | 71.sacred        | 上帝的  神圣的 |
 | 72.descendant    | 后代 后裔    |
