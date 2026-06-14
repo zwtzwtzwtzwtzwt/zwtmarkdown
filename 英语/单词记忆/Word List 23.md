@@ -16,7 +16,7 @@
 | 12. superfluous | 1                   |
 | 13. enforce     | 强制执行                |
 | 14. conform     | 遵守 遵从               |
-| 15. fortunate   |                     |
+| 15. fortunate   | 有幸的                 |
 | 16. fragile     |                     |
 | 17. frontier    |                     |
 | 18. diffuse     |                     |
