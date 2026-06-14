@@ -35,7 +35,7 @@
 | 31.appetite      |              |     |
 | 32.perpetual     |              |     |
 | 33.pit           |              |     |
-| 34.symphony      |              |     |
+| 34.symphony      | 交响乐          |     |
 | 35.physicist     | 物理学家         |     |
 | 36.compile       | 编译的 编制的      |     |
 | 37.empirical     | 以经验为依据 经验注意的 |     |
