@@ -18,8 +18,8 @@
 | 14.anonymous     | 匿名的  不知姓名的                            | 匿名的  不止姓名的   |     |
 | 15.cooperative   | 合作的 合作企业                              | 合作的          |     |
 | 16.operational   | 操作的 可使用的  运营的                         | 操作的          |     |
-| 17.orchestra     |                                       | 管弦乐          |     |
-| 18.subordinate   |                                       | 1            |     |
+| 17.orchestra     | 管弦乐                                   | 管弦乐          |     |
+| 18.subordinate   | 2                                     | 1            |     |
 | 19.extraordinary |                                       | 杰出的          |     |
 | 20.orderly       |                                       | 有序的 有秩序的     |     |
 | 21.ornament      |                                       | 1            |     |
