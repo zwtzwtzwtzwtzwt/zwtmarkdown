@@ -42,7 +42,7 @@
 | 38.plague        |            |
 | 39.transplant    |            |
 | 40.plausible     |            |
-| 41.duplicate     | 复制         |
+| 41.duplicate     | 复制 复制的     |
 | 42.appliance     | 电器 器具      |
 | 43.compliment    | 赞美         |
 | 44.plentiful     | 充足的        |
