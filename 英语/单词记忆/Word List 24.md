@@ -29,7 +29,7 @@
 | 25.impatient     |              |     |
 | 26.surpass       |              |     |
 | 27.repel         |              |     |
-| 28.compulsory    |              |     |
+| 28.compulsory    | 义务的          |     |
 | 29.expenditure   | 支出 耗费        |     |
 | 30.pessimistic   | 悲观的 悲观主义的    |     |
 | 31.appetite      | 食欲 欲望        |     |
