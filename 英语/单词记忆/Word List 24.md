@@ -50,9 +50,9 @@
 | 46.explode       | 爆发 猛增                                                     | 爆炸 猛增        |     |
 | 47.polish        | 磨光 润色 修改 2                                                | 抛光 润色 修改     |     |
 | 48.postpone      | 推迟 延迟                                                     | 推迟 延迟        |     |
-| 49.posture       |                                                           | 姿势 立场        |     |
-| 50.disposal      |                                                           | 消除 清除        |     |
-| 51.disposition   |                                                           | 性质 布置 倾向     |     |
+| 49.posture       | 姿势 立场                                                     | 姿势 立场        |     |
+| 50.disposal      | 消除 2                                                      | 消除 清除        |     |
+| 51.disposition   | 2                                                         | 性质 布置 倾向     |     |
 | 52.proposition   |                                                           | 主张 建议 提案     |     |
 | 53.predator      |                                                           | 剥削者 掠夺者      |     |
 | 54.compress      |                                                           | 压缩           |     |
