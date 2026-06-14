@@ -53,7 +53,7 @@
 | 49.posture       |          |
 | 50.disposal      |          |
 | 51.disposition   |          |
-| 52.proposition   | 主张 建议    |
+| 52.proposition   | 主张 建议 提案 |
 | 53.predator      |          |
 | 54.compress      |          |
 | 55.probe         |          |
