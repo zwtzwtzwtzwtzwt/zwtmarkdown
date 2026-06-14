@@ -68,7 +68,7 @@
 | 64. lottery     |                               |
 | 65. lucrative   |                               |
 | 66. paralyse    |                               |
-| 67. analytical  | 分析的                           |
+| 67. analytical  | 分析的 头脑缜密的                     |
 | 68. magnitude   | 巨大 重要性                        |
 | 69. manipulate  | 操作 操纵                         |
 | 70. marine      | 海洋的                           |
