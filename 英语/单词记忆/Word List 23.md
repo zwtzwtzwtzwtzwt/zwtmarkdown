@@ -68,9 +68,9 @@
 | 64. lottery     |                               |
 | 65. lucrative   |                               |
 | 66. paralyse    |                               |
-| 67. analytical  |                               |
-| 68. magnitude   |                               |
-| 69. manipulate  |                               |
+| 67. analytical  | 分析的                           |
+| 68. magnitude   | 巨大 重要性                        |
+| 69. manipulate  | 操作 操纵                         |
 | 70. marine      | 海洋的                           |
 | 71. masculine   | 男性的 男人的                       |
 | 72. mature      | 成熟 完全成长 全面的 1                 |
