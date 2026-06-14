@@ -5,8 +5,8 @@
 | 1. deficiency   | 缺少 缺点               |
 | 2. superficial  | 表面的 肤浅的 粗略的         |
 | 3. proficiency  | 精通 熟练               |
-| 4. feasible     | 可行的 说得通             |
-| 5. confidential |                     |
+| 4. feasible     | 可行的 说得通的            |
+| 5. confidential | 机密的 1               |
 | 6. profile      |                     |
 | 7. finite       |                     |
 | 8. infinite     |                     |
