@@ -54,8 +54,8 @@
 | 50.disposal      | 消除 2                                                      | 消除 清除        |     |
 | 51.disposition   | 2                                                         | 性质 布置 倾向     |     |
 | 52.proposition   | 主张 提案 2                                                   | 主张 建议 提案     |     |
-| 53.predator      | 侵略者  剥削者                                                  | 剥削者 掠夺者      |     |
-| 54.compress      |                                                           | 压缩           |     |
+| 53.predator      | 侵略者  剥削者 2                                                | 剥削者 掠夺者      |     |
+| 54.compress      | 压缩 2                                                      | 压缩           |     |
 | 55.probe         |                                                           | 1            |     |
 | 56.probability   |                                                           | 可能性 概率       |     |
 | 57.prone         |                                                           | 易于的          |     |
