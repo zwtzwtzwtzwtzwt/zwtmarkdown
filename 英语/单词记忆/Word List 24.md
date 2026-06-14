@@ -1,9 +1,6 @@
 1. omit
-    
 2. premise
-    
 3. emit
-    
 4. accommodation
     
 5. modernization
