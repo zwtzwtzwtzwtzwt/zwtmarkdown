@@ -320,3 +320,6 @@
 79. immense
     
 80. emigrate   
+
+
+deficiency
