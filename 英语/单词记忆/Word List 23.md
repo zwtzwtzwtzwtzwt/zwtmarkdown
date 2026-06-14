@@ -63,7 +63,7 @@
 | 59. allocate    |                               |
 | 60. analogue    |                               |
 | 61. catalogue   |                               |
-| 62. analogy     |                               |
+| 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
 | 64. lottery     | 彩票抽奖  碰运气的事                   |
 | 65. lucrative   | 获利多的                          |
