@@ -22,7 +22,7 @@
 | 18.subordinate   | 2 下级的                                 | 1            |     |
 | 19.extraordinary | 杰出的 2                                 | 杰出的          |     |
 | 20.orderly       | 有秩序的                                  | 有序的 有秩序的     |     |
-| 21.ornament      |                                       | 1            |     |
+| 21.ornament      | 添彩之物                                  | 1            |     |
 | 22.transparent   |                                       | 透明的 清除的      |     |
 | 23.partial       |                                       | 部分的  不公平的    |     |
 | 24.particle      |                                       | 粒子 颗粒        |     |
