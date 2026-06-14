@@ -69,7 +69,7 @@
 | 65.regime        |                   |
 | 66.arrest        |                   |
 | 67.rhetoric      |                   |
-| 68.rotate        | 旋转                |
+| 68.rotate        | 旋转 转动             |
 | 69.abrupt        | 突然的以外的            |
 | 70.erupt         | 突然发生 火山八方         |
 | 71.sacred        | 身上的 桑迪的           |
