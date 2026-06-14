@@ -47,8 +47,8 @@
 | 43.compliment    |            |
 | 44.plentiful     |            |
 | 45.applicable    |            |
-| 46.explode       |            |
-| 47.polish        | 抛光         |
+| 46.explode       | 爆炸 猛增      |
+| 47.polish        | 抛光 润色 修改   |
 | 48.postpone      | 推迟 延迟      |
 | 49.posture       | 姿势 立场      |
 | 50.disposal      | 消除 清除      |
