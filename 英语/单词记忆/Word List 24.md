@@ -4,10 +4,10 @@
 | ---------------- | ---------- | --- |
 | 1.omit           | 忽略 1       |     |
 | 2.premise        | 前提 假定      |     |
-| 3.emit           |            |     |
-| 4.accommodation  |            |     |
-| 5.modernization  |            |     |
-| 6.naive          |            |     |
+| 3.emit           | 排放 散发      |     |
+| 4.accommodation  | 住宿 住处      |     |
+| 5.modernization  | 现代化        |     |
+| 6.naive          | 天真的 幼稚的    |     |
 | 7.negligible     |            |     |
 | 8.neutral        |            |     |
 | 9.denote         |            |     |
