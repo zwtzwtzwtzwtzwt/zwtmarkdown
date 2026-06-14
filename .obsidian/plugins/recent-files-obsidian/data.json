@@ -5,6 +5,10 @@
       "path": "单词记忆/单词记忆.md"
     },
     {
+      "basename": "Word List 2",
+      "path": "单词记忆/Word List 2.md"
+    },
+    {
       "basename": "英语",
       "path": "英语/英语.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "1高数基础",
       "path": "1高数基础/1高数基础.md"
-    },
-    {
-      "basename": "Word List 2",
-      "path": "单词记忆/Word List 2.md"
     },
     {
       "basename": "Word List 1",
