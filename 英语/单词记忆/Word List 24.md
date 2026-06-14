@@ -30,7 +30,7 @@
 | 26.surpass       |              |     |
 | 27.repel         |              |     |
 | 28.compulsory    |              |     |
-| 29.expenditure   |              |     |
+| 29.expenditure   | 支出 耗费        |     |
 | 30.pessimistic   | 悲观的 悲观主义的    |     |
 | 31.appetite      | 食欲 欲望        |     |
 | 32.perpetual     | 长久的 1        |     |
