@@ -63,7 +63,7 @@
 | 59.quantitative  | 1            |     |
 | 60.conquer       | 克服           |     |
 | 61.query         | 询问疑问  1 质疑   |     |
-| 62.erase         | 消灭 消除        |     |
+| 62.erase         | 1消灭 消除       |     |
 | 63.rational      | 理智的 1 合理的    |     |
 | 64.erect         | 建立 建造 树立     |     |
 | 65.regime        | 1 制度 政权      |     |
