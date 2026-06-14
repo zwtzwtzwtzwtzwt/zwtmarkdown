@@ -2,8 +2,8 @@
 
 | **英文单词**        | 1111111111111111111 |
 | --------------- | ------------------- |
-| 1. deficiency   |                     |
-| 2. superficial  |                     |
+| 1. deficiency   | 缺少 缺点               |
+| 2. superficial  | 表面的                 |
 | 3. proficiency  |                     |
 | 4. feasible     |                     |
 | 5. confidential |                     |
