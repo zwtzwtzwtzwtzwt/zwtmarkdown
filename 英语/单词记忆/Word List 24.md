@@ -66,7 +66,7 @@
 | 62.erase         |          |
 | 63.rational      |          |
 | 64.erect         |          |
-| 65.regime        | 1        |
+| 65.regime        | 1 制度 政权  |
 | 66.arrest        | 逮捕 拘留    |
 | 67.rhetoric      | 空话  修辞艺术 |
 | 68.rotate        | 旋转 人员转换  |
