@@ -36,11 +36,11 @@
 | 32.perpetual     | 长久的 2                                                     | 长久的 1        |     |
 | 33.pit           | 深坑  挖洞                                                    | 深坑 打洞        |     |
 | 34.symphony      | 交响乐                                                       | 交响乐          |     |
-| 35.physicist     |                                                           | 物理学家         |     |
-| 36.compile       |                                                           | 编译的 编制的      |     |
-| 37.empirical     |                                                           | 以经验为依据 经验注意的 |     |
-| 38.plague        |                                                           | 灾难 1         |     |
-| 39.transplant    |                                                           | 移植 1         |     |
+| 35.physicist     | 物理学家                                                      | 物理学家         |     |
+| 36.compile       | 编译  编制                                                    | 编译的 编制的      |     |
+| 37.empirical     | 2                                                         | 以经验为依据 经验注意的 |     |
+| 38.plague        | 灾难  2                                                     | 灾难 1         |     |
+| 39.transplant    | 移植                                                        | 移植 1         |     |
 | 40.plausible     |                                                           | 可信的 合理的      |     |
 | 41.duplicate     |                                                           | 复制 复制的       |     |
 | 42.appliance     |                                                           | 电器 器具        |     |
