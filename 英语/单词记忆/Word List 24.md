@@ -26,8 +26,8 @@
 | 22.transparent   | 透明的   清楚的                             | 透明的 清除的      |     |
 | 23.partial       | 部分的  偏袒的 不公平的                         | 部分的  不公平的    |     |
 | 24.particle      | 粒子  颗粒                                | 粒子 颗粒        |     |
-| 25.impatient     |                                       | 没有耐心的        |     |
-| 26.surpass       |                                       | 超过  胜过       |     |
+| 25.impatient     | 没有耐心的                                 | 没有耐心的        |     |
+| 26.surpass       | 2                                     | 超过  胜过       |     |
 | 27.repel         |                                       | 驱逐 使厌恶       |     |
 | 28.compulsory    |                                       | 义务的 强制的      |     |
 | 29.expenditure   |                                       | 支出 耗费        |     |
