@@ -1,84 +1,84 @@
 [英语单词1到30, p.78](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%2023))
 
-| **英文单词**        | 1111111111111111111 |
-| --------------- | ------------------- |
-| 1. deficiency   | 缺少 缺点               |
-| 2. superficial  | 表面的 肤浅的 粗略的         |
-| 3. proficiency  | 精通 熟练               |
-| 4. feasible     | 可行的 说得通的            |
-| 5. confidential | 机密的 1               |
-| 6. profile      | 外形 简介 轮廓 1          |
-| 7. finite       | 有限的 限定的             |
-| 8. infinite     | 无限的 无穷的             |
-| 9. affirm       | 确认 证实 1             |
-| 10. fiscal      | 财政的 国库的             |
-| 11. flexible    | 可变的 灵活的 1           |
-| 12. superfluous | 1                   |
-| 13. enforce     | 强制执行                |
-| 14. conform     | 遵守 遵从               |
-| 15. fortunate   | 有幸的                 |
-| 16. fragile     | 脆弱的 易碎的             |
-| 17. frontier    | 边境 尖端 1             |
-| 18. diffuse     | 舒缓 传播 扩散            |
-| 19. refute      | 反驳 1                |
-| 20. geography   | 地质学                 |
-| 21. geology     | 地质学 地址              |
-| 22. pregnant    | 怀孕的                 |
-| 23. hydrogen    | 氢气 氢                |
-| 24. genre       | 体裁 类型               |
-| 25. grand       | 宏伟的 宏大的             |
-| 26. aggravate   | 使严重 使恶化 激怒          |
-| 27. grave       | 严重的 坟墓 死亡 逝世        |
-| 28. agreeable   | 令人愉悦的 欣然同意的         |
-| 29. gratitude   | 感谢 感激 1             |
-| 30. gross       | 严重的 毛的 1            |
-| 31. harmony     | 和谐 1                |
-| 32. inherit     | 继承                  |
-| 33. prohibit    | 禁止                  |
-| 34. historic    | 历史的 历史性的            |
-| 35. humidity    | 湿度 潮湿               |
-| 36. hygiene     |                     |
-| 37. identical   |                     |
-| 38. imaginary   |                     |
-| 39. imitation   |                     |
-| 40. imperative  |                     |
-| 41. irony       |                     |
-| 42. isolate     |                     |
-| 43. peninsula   |                     |
-| 44. exit        |                     |
-| 45. adjective   |                     |
-| 46. conjunction |                     |
-| 47. juvenile    |                     |
-| 48. lateral     |                     |
-| 49. delete      |                     |
-| 50. alleviate   |                     |
-| 51. deliberate  |                     |
-| 52. liberty     |                     |
-| 53. eligible    |                     |
-| 54. obligation  |                     |
-| 55. align       |                     |
-| 56. preliminary |                     |
-| 57. linguistic  |                     |
-| 58. illiterate  |                     |
-| 59. allocate    |                     |
-| 60. analogue    |                     |
-| 61. catalogue   |                     |
-| 62. analogy     |                     |
-| 63. logic       |                     |
-| 64. lottery     |                     |
-| 65. lucrative   |                     |
-| 66. paralyse    |                     |
-| 67. analytical  |                     |
-| 68. magnitude   |                     |
-| 69. manipulate  |                     |
-| 70. marine      |                     |
-| 71. masculine   |                     |
-| 72. mature      |                     |
-| 73. maximum     |                     |
-| 74. remedy      |                     |
-| 75. mend        |                     |
-| 76. merchant    |                     |
-| 77. immerse     |                     |
-| 78. geometry    |                     |
-| 79. immense     |                     |
-| 80. emigrate    |                     |
+| **英文单词**        | 11111111111111111111111111111 |
+| --------------- | ----------------------------- |
+| 1. deficiency   |                               |
+| 2. superficial  |                               |
+| 3. proficiency  |                               |
+| 4. feasible     |                               |
+| 5. confidential |                               |
+| 6. profile      |                               |
+| 7. finite       |                               |
+| 8. infinite     |                               |
+| 9. affirm       |                               |
+| 10. fiscal      |                               |
+| 11. flexible    |                               |
+| 12. superfluous |                               |
+| 13. enforce     |                               |
+| 14. conform     |                               |
+| 15. fortunate   |                               |
+| 16. fragile     |                               |
+| 17. frontier    |                               |
+| 18. diffuse     |                               |
+| 19. refute      |                               |
+| 20. geography   |                               |
+| 21. geology     |                               |
+| 22. pregnant    |                               |
+| 23. hydrogen    |                               |
+| 24. genre       |                               |
+| 25. grand       |                               |
+| 26. aggravate   |                               |
+| 27. grave       |                               |
+| 28. agreeable   |                               |
+| 29. gratitude   |                               |
+| 30. gross       |                               |
+| 31. harmony     |                               |
+| 32. inherit     |                               |
+| 33. prohibit    |                               |
+| 34. historic    |                               |
+| 35. humidity    |                               |
+| 36. hygiene     |                               |
+| 37. identical   |                               |
+| 38. imaginary   |                               |
+| 39. imitation   |                               |
+| 40. imperative  |                               |
+| 41. irony       |                               |
+| 42. isolate     |                               |
+| 43. peninsula   |                               |
+| 44. exit        |                               |
+| 45. adjective   |                               |
+| 46. conjunction |                               |
+| 47. juvenile    |                               |
+| 48. lateral     |                               |
+| 49. delete      |                               |
+| 50. alleviate   |                               |
+| 51. deliberate  |                               |
+| 52. liberty     |                               |
+| 53. eligible    |                               |
+| 54. obligation  |                               |
+| 55. align       |                               |
+| 56. preliminary |                               |
+| 57. linguistic  |                               |
+| 58. illiterate  |                               |
+| 59. allocate    |                               |
+| 60. analogue    |                               |
+| 61. catalogue   |                               |
+| 62. analogy     |                               |
+| 63. logic       |                               |
+| 64. lottery     |                               |
+| 65. lucrative   |                               |
+| 66. paralyse    |                               |
+| 67. analytical  |                               |
+| 68. magnitude   |                               |
+| 69. manipulate  |                               |
+| 70. marine      |                               |
+| 71. masculine   |                               |
+| 72. mature      |                               |
+| 73. maximum     |                               |
+| 74. remedy      |                               |
+| 75. mend        |                               |
+| 76. merchant    |                               |
+| 77. immerse     |                               |
+| 78. geometry    |                               |
+| 79. immense     |                               |
+| 80. emigrate    |                               |
