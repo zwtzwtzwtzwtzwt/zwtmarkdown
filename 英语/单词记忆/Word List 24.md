@@ -76,6 +76,6 @@
 | 72.descendant    | 后代  后裔                                                    | 后代 后裔        |     |
 | 73.microscope    | 显微镜                                                       | 显微镜          |     |
 | 74.prescribe     | 2                                                         | 开处方 规定       |     |
-| 75.subscribe     | 订阅                                                        | 订阅 捐款        |     |
-| 76.manuscript    |                                                           | 手稿           |     |
+| 75.subscribe     | 订阅   捐款                                                   | 订阅 捐款        |     |
+| 76.manuscript    | 手稿  2                                                     | 手稿           |     |
 | 77.prescription  |                                                           | 处方  药房       |     |
