@@ -79,3 +79,5 @@
 | 75.subscribe     | 订阅 订购 烟款          |
 | 76.manuscript    | 远远高 手稿            |
 | 77.prescription  | 厨房  药房            |
+|                  |                   |
+|                  |                   |
