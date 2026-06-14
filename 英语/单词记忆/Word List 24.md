@@ -32,8 +32,8 @@
 | 28.compulsory    |              |     |
 | 29.expenditure   |              |     |
 | 30.pessimistic   |              |     |
-| 31.appetite      |              |     |
-| 32.perpetual     |              |     |
+| 31.appetite      | 食欲 欲望        |     |
+| 32.perpetual     | 长久的 1        |     |
 | 33.pit           | 深坑 打洞        |     |
 | 34.symphony      | 交响乐          |     |
 | 35.physicist     | 物理学家         |     |
