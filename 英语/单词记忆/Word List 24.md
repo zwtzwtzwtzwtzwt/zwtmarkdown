@@ -32,10 +32,10 @@
 | 28.compulsory    | 强制的  义务的                                                  | 义务的 强制的      |     |
 | 29.expenditure   | 支出  耗费                                                    | 支出 耗费        |     |
 | 30.pessimistic   | 悲观的 悲观主义的                                                 | 悲观的 悲观主义的    |     |
-| 31.appetite      |                                                           | 食欲 欲望        |     |
-| 32.perpetual     |                                                           | 长久的 1        |     |
-| 33.pit           |                                                           | 深坑 打洞        |     |
-| 34.symphony      |                                                           | 交响乐          |     |
+| 31.appetite      | 胃口 食欲 欲望                                                  | 食欲 欲望        |     |
+| 32.perpetual     | 长久的 2                                                     | 长久的 1        |     |
+| 33.pit           | 深坑  挖洞                                                    | 深坑 打洞        |     |
+| 34.symphony      | 交响乐                                                       | 交响乐          |     |
 | 35.physicist     |                                                           | 物理学家         |     |
 | 36.compile       |                                                           | 编译的 编制的      |     |
 | 37.empirical     |                                                           | 以经验为依据 经验注意的 |     |
