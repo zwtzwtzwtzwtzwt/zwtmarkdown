@@ -40,7 +40,7 @@
 | 36.compile       |             |     |
 | 37.empirical     |             |     |
 | 38.plague        |             |     |
-| 39.transplant    |             |     |
+| 39.transplant    | 移植 1        |     |
 | 40.plausible     | 可信的 合理的     |     |
 | 41.duplicate     | 复制 复制的      |     |
 | 42.appliance     | 电器 器具       |     |
