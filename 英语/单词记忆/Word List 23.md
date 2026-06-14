@@ -8,8 +8,8 @@
 | 4. feasible     | 可行的 说得通的            |
 | 5. confidential | 机密的 1               |
 | 6. profile      | 外形 简介 轮廓 1          |
-| 7. finite       | 有限的 限定              |
-| 8. infinite     |                     |
+| 7. finite       | 有限的 限定的             |
+| 8. infinite     | 无限的 无穷的             |
 | 9. affirm       |                     |
 | 10. fiscal      |                     |
 | 11. flexible    |                     |
