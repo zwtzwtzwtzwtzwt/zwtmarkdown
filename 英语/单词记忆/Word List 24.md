@@ -72,9 +72,9 @@
 | 68.rotate        | 人员轮换  2                                                   | 旋转 人员转换      |     |
 | 69.abrupt        | 突然的 唐突的                                                   | 突然的 唐突的      |     |
 | 70.erupt         | 突然爆发  爆发                                                  | 爆发 突然爆发的     |     |
-| 71.sacred        | 圣神的                                                       | 上帝的  神圣的     |     |
-| 72.descendant    |                                                           | 后代 后裔        |     |
-| 73.microscope    |                                                           | 显微镜          |     |
+| 71.sacred        | 圣神的  上帝的                                                  | 上帝的  神圣的     |     |
+| 72.descendant    | 后代  后裔                                                    | 后代 后裔        |     |
+| 73.microscope    | 显微镜                                                       | 显微镜          |     |
 | 74.prescribe     |                                                           | 开处方 规定       |     |
 | 75.subscribe     |                                                           | 订阅 捐款        |     |
 | 76.manuscript    |                                                           | 手稿           |     |
