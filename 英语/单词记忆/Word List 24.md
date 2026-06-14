@@ -41,7 +41,7 @@
 | 37.empirical     |             |     |
 | 38.plague        |             |     |
 | 39.transplant    |             |     |
-| 40.plausible     |             |     |
+| 40.plausible     | 可信的 合理的     |     |
 | 41.duplicate     | 复制 复制的      |     |
 | 42.appliance     | 电器 器具       |     |
 | 43.compliment    | 赞美          |     |
