@@ -25,7 +25,7 @@
 | 21.ornament      | 添彩之物  装饰品  装饰                         | 1            |     |
 | 22.transparent   | 透明的   清楚的                             | 透明的 清除的      |     |
 | 23.partial       | 部分的  偏袒的 不公平的                         | 部分的  不公平的    |     |
-| 24.particle      |                                       | 粒子 颗粒        |     |
+| 24.particle      | 粒子  颗粒                                | 粒子 颗粒        |     |
 | 25.impatient     |                                       | 没有耐心的        |     |
 | 26.surpass       |                                       | 超过  胜过       |     |
 | 27.repel         |                                       | 驱逐 使厌恶       |     |
