@@ -2,8 +2,8 @@
 | ---------------- | ----------------- |
 | 1.omit           | 忽略，遗漏             |
 | 2.premise        | 前提 假定             |
-| 3.emit           | 排放，               |
-| 4.accommodation  |                   |
+| 3.emit           | 排放 散发             |
+| 4.accommodation  | 住宿住处              |
 | 5.modernization  |                   |
 | 6.naive          |                   |
 | 7.negligible     |                   |
