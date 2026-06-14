@@ -81,4 +81,4 @@
 | 77. immerse     |                               |
 | 78. geometry    |                               |
 | 79. immense     |                               |
-| 80. emigrate    |                               |
+| 80. emigrate    | 移民国外                          |
