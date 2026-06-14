@@ -33,5 +33,13 @@
       ],
       "key": "G"
     }
+  ],
+  "language-learner:vocabulary-quiz": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
   ]
 }
