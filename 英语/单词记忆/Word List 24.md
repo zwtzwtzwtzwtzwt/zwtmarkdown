@@ -8,10 +8,10 @@
 | 4.accommodation  | 住宿 住处      |     |
 | 5.modernization  | 现代化        |     |
 | 6.naive          | 天真的 幼稚的    |     |
-| 7.negligible     |            |     |
-| 8.neutral        |            |     |
-| 9.denote         |            |     |
-| 10.novelty       |            |     |
+| 7.negligible     | 微不足道的      |     |
+| 8.neutral        | 中立的        |     |
+| 9.denote         | 1          |     |
+| 10.novelty       | 新奇的 新颖     |     |
 | 11.numerical     |            |     |
 | 12.numerous      |            |     |
 | 13.petroleum     |            |     |
