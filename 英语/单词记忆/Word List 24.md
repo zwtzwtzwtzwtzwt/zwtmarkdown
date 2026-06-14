@@ -2,8 +2,8 @@
 
 | **英文单词**         |            |     |
 | ---------------- | ---------- | --- |
-| 1.omit           | 忽略         |     |
-| 2.premise        |            |     |
+| 1.omit           | 忽略 1       |     |
+| 2.premise        | 前提 假定      |     |
 | 3.emit           |            |     |
 | 4.accommodation  |            |     |
 | 5.modernization  |            |     |
