@@ -72,8 +72,8 @@
 | 68.rotate        |        |
 | 69.abrupt        |        |
 | 70.erupt         |        |
-| 71.sacred        |        |
-| 72.descendant    |        |
+| 71.sacred        | 上帝的    |
+| 72.descendant    | 后代 后裔  |
 | 73.microscope    | 显微镜    |
 | 74.prescribe     | 开处方 规定 |
 | 75.subscribe     | 订阅 捐款  |
