@@ -12,7 +12,7 @@
 | 8. infinite     | 无限的 无穷的             |
 | 9. affirm       | 确认 证实               |
 | 10. fiscal      | 财政的 国库的             |
-| 11. flexible    | 可变的                 |
+| 11. flexible    | 可变的 灵活的             |
 | 12. superfluous |                     |
 | 13. enforce     |                     |
 | 14. conform     |                     |
