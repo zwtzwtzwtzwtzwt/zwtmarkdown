@@ -43,8 +43,8 @@
 | 39.transplant    |            |
 | 40.plausible     |            |
 | 41.duplicate     |            |
-| 42.appliance     |            |
-| 43.compliment    |            |
+| 42.appliance     | 电器         |
+| 43.compliment    | 赞美         |
 | 44.plentiful     | 充足的        |
 | 45.applicable    | 适用的        |
 | 46.explode       | 爆炸 猛增      |
