@@ -51,8 +51,8 @@
 | 47.polish        | 磨光 润色 修改 2（擦光油）                                           | 抛光 润色 修改     |     |
 | 48.postpone      | 推迟 延迟                                                     | 推迟 延迟        |     |
 | 49.posture       | 姿势 立场                                                     | 姿势 立场        |     |
-| 50.disposal      | 消除 2                                                      | 消除 清除        |     |
-| 51.disposition   | 2                                                         | 性质 布置 倾向     |     |
+| 50.disposal      | 消除 2（处理）                                                  | 消除 清除        |     |
+| 51.disposition   | 2（）                                                       | 性质 布置 倾向     |     |
 | 52.proposition   | 主张 提案 2                                                   | 主张 建议 提案     |     |
 | 53.predator      | 侵略者  剥削者 2                                                | 剥削者 掠夺者      |     |
 | 54.compress      | 压缩 2                                                      | 压缩           |     |
