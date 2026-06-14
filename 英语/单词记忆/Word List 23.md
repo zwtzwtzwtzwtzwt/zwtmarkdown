@@ -10,7 +10,7 @@
 | 6. profile      | 外形 简介 轮廓 1          |
 | 7. finite       | 有限的 限定的             |
 | 8. infinite     | 无限的 无穷的             |
-| 9. affirm       |                     |
+| 9. affirm       | 确认 证实               |
 | 10. fiscal      |                     |
 | 11. flexible    |                     |
 | 12. superfluous |                     |
