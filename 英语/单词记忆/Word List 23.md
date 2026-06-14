@@ -31,7 +31,7 @@
 | 27. grave       | 严重的 坟墓 死亡 逝世        |
 | 28. agreeable   | 令人愉悦的 欣然同意的         |
 | 29. gratitude   | 感谢 感激 1             |
-| 30. gross       | 严重的 毛的              |
+| 30. gross       | 严重的 毛的 1            |
 | 31. harmony     | 和谐 1                |
 | 32. inherit     | 继承                  |
 | 33. prohibit    | 禁止                  |
