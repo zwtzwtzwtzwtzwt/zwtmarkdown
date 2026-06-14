@@ -78,4 +78,4 @@
 | 74.prescribe     |                   |
 | 75.subscribe     |                   |
 | 76.manuscript    |                   |
-| 77.prescription  |                   |
+| 77.prescription  | 厨房  药房            |
