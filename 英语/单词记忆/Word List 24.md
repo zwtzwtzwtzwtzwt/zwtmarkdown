@@ -58,7 +58,7 @@
 | 54.compress      | 压缩 2                                                      | 压缩           |     |
 | 55.probe         | 2                                                         | 1            |     |
 | 56.probability   | 可能性  概率                                                   | 可能性 概率       |     |
-| 57.prone         | 2                                                         | 易于的          |     |
+| 57.prone         | 2（易于）                                                     | 易于的          |     |
 | 58.purify        | 净化 2                                                      | 进化           |     |
 | 59.quantitative  | 量化的 2（定量的）                                                | 1            |     |
 | 60.conquer       | 征服 2（客服）                                                  | 克服           |     |
