@@ -38,7 +38,7 @@
 | 34.symphony      | 交响乐                                                       | 交响乐          |     |
 | 35.physicist     | 物理学家                                                      | 物理学家         |     |
 | 36.compile       | 编译  编制                                                    | 编译的 编制的      |     |
-| 37.empirical     | 2（一实验）                                                    | 以经验为依据 经验注意的 |     |
+| 37.empirical     | 2                                                         | 以经验为依据 经验注意的 |     |
 | 38.plague        | 灾难  2                                                     | 灾难 1         |     |
 | 39.transplant    | 移植                                                        | 移植 1         |     |
 | 40.plausible     | 2                                                         | 可信的 合理的      |     |
