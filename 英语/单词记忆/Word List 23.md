@@ -77,8 +77,8 @@
 | 73. maximum     |                               |
 | 74. remedy      |                               |
 | 75. mend        |                               |
-| 76. merchant    |                               |
+| 76. merchant    | 商人 批发商                        |
 | 77. immerse     | 是沉浸 沉浸于                       |
 | 78. geometry    | 几何形状 几何学                      |
-| 79. immense     |                               |
+| 79. immense     | 巨大的 极大的                       |
 | 80. emigrate    | 移民国外 移民                       |
