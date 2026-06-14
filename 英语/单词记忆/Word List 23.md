@@ -78,7 +78,7 @@
 | 74. remedy      |                               |
 | 75. mend        |                               |
 | 76. merchant    |                               |
-| 77. immerse     |                               |
-| 78. geometry    |                               |
-| 79. immense     | 使沉浸                           |
+| 77. immerse     | 是                             |
+| 78. geometry    | 几何形状 几何学                      |
+| 79. immense     | 使沉浸 沉浸于                       |
 | 80. emigrate    | 移民国外 移民                       |
