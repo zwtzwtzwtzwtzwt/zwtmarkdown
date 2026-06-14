@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "英语/单词记忆/未命名.md"
+    },
+    {
       "basename": "Word List 23",
       "path": "英语/单词记忆/Word List 23.md"
+    },
+    {
+      "basename": "单词记忆",
+      "path": "英语/单词记忆/单词记忆.md"
     },
     {
       "basename": "Word List 24",
@@ -27,10 +35,6 @@
     {
       "basename": "Word List 2",
       "path": "英语/单词记忆/Word List 2.md"
-    },
-    {
-      "basename": "单词记忆",
-      "path": "英语/单词记忆/单词记忆.md"
     },
     {
       "basename": "英语",
@@ -195,10 +199,6 @@
     {
       "basename": "做题方法",
       "path": "1高数基础/7微分方程/做题方法/做题方法.md"
-    },
-    {
-      "basename": "7微分方程",
-      "path": "1高数基础/7微分方程/7微分方程.md"
     }
   ],
   "omittedPaths": [],
