@@ -72,8 +72,8 @@
 | 68. magnitude   |                               |
 | 69. manipulate  |                               |
 | 70. marine      |                               |
-| 71. masculine   |                               |
-| 72. mature      | 成熟 完全成长                       |
+| 71. masculine   | 男性的 男人                        |
+| 72. mature      | 成熟 完全成长 全面的 1                 |
 | 73. maximum     | 最大量的 最大限度的 最大量                |
 | 74. remedy      | 1                             |
 | 75. mend        | 使痊愈 修补 1                      |
