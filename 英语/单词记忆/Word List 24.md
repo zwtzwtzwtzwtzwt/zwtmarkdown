@@ -6,7 +6,7 @@
 | 4.accommodation  | 住宿住处              |
 | 5.modernization  | 现代化               |
 | 6.naive          | 天真的，幼稚的           |
-| 7.negligible     |                   |
+| 7.negligible     | 微不足道的             |
 | 8.neutral        |                   |
 | 9.denote         |                   |
 | 10.novelty       |                   |
