@@ -70,10 +70,10 @@
 | 66.arrest        |                   |
 | 67.rhetoric      |                   |
 | 68.rotate        |                   |
-| 69.abrupt        |                   |
-| 70.erupt         |                   |
-| 71.sacred        |                   |
-| 72.descendant    |                   |
+| 69.abrupt        | 突然的以外的            |
+| 70.erupt         | 突然发生 火山八方         |
+| 71.sacred        | 身上的 桑迪的           |
+| 72.descendant    | 后代 后裔             |
 | 73.microscope    | 修显微镜              |
 | 74.prescribe     | 开要 规定在总统选集方法      |
 | 75.subscribe     | 订阅 订购 烟款          |
