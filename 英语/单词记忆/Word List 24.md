@@ -67,7 +67,7 @@
 | 63.rational      |          |
 | 64.erect         |          |
 | 65.regime        |          |
-| 66.arrest        |          |
+| 66.arrest        | 逮捕 拘留    |
 | 67.rhetoric      | 空话  修辞艺术 |
 | 68.rotate        | 旋转 人员转换  |
 | 69.abrupt        | 突然的 唐突的  |
