@@ -7,9 +7,9 @@
 | 3.emit           | 排放 散发 发出                              | 排放 散发        |     |
 | 4.accommodation  | 住宿  住处                                | 住宿 住处        |     |
 | 5.modernization  | 现代化                                   | 现代化          |     |
-| 6.naive          | 天真的                                   | 天真的 幼稚的      |     |
-| 7.negligible     |                                       | 微不足道的        |     |
-| 8.neutral        |                                       | 中立的          |     |
+| 6.naive          | 天真的 幼稚的                               | 天真的 幼稚的      |     |
+| 7.negligible     | 微不足道的                                 | 微不足道的        |     |
+| 8.neutral        | 中立的                                   | 中立的          |     |
 | 9.denote         |                                       |              |     |
 | 10.novelty       |                                       | 新奇的 新颖的      |     |
 | 11.numerical     |                                       | 数量的 1        |     |
