@@ -9,7 +9,7 @@
 | 7.negligible     | 微不足道的             |
 | 8.neutral        | 中立的               |
 | 9.denote         |                   |
-| 10.novelty       |                   |
+| 10.novelty       | 新颖的               |
 | 11.numerical     |                   |
 | 12.numerous      |                   |
 | 13.petroleum     |                   |
