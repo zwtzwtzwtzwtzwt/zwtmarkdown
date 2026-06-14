@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "模版",
+      "path": "模版/模版.md"
+    },
+    {
       "basename": "单词记忆",
       "path": "英语/单词记忆/单词记忆.md"
+    },
+    {
+      "basename": "1高数基础",
+      "path": "1高数基础/1高数基础.md"
     },
     {
       "basename": "高数基础模版",
@@ -55,10 +63,6 @@
     {
       "basename": "Word List 3",
       "path": "英语/单词记忆/Word List 3.md"
-    },
-    {
-      "basename": "模版",
-      "path": "模版/模版.md"
     },
     {
       "basename": "1-2极限",
@@ -195,10 +199,6 @@
     {
       "basename": "5定积分与反常积分",
       "path": "1高数基础/5定积分与反常积分/5定积分与反常积分.md"
-    },
-    {
-      "basename": "做题方法",
-      "path": "1高数基础/5定积分与反常积分/做题方法/做题方法.md"
     }
   ],
   "omittedPaths": [],
