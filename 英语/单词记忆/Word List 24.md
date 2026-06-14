@@ -23,8 +23,8 @@
 | 19.extraordinary | 杰出的          |     |
 | 20.orderly       | 有序的 有秩序的     |     |
 | 21.ornament      |              |     |
-| 22.transparent   |              |     |
-| 23.partial       | 部分的          |     |
+| 22.transparent   | 透明的          |     |
+| 23.partial       | 部分的  不公平的    |     |
 | 24.particle      | 粒子 颗粒        |     |
 | 25.impatient     | 没有耐心的        |     |
 | 26.surpass       | 超过  胜过       |     |
