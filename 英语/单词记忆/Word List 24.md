@@ -74,8 +74,8 @@
 | 70.erupt         |                   |
 | 71.sacred        |                   |
 | 72.descendant    |                   |
-| 73.microscope    |                   |
-| 74.prescribe     | 开                 |
+| 73.microscope    | 修显微镜              |
+| 74.prescribe     | 开要 规定在总统选集方法      |
 | 75.subscribe     | 订阅 订购 烟款          |
 | 76.manuscript    | 远远高 手稿            |
 | 77.prescription  | 厨房  药房            |
