@@ -19,8 +19,8 @@
 | 15.cooperative   | 合作的         |     |
 | 16.operational   | 操作的         |     |
 | 17.orchestra     | 管弦乐         |     |
-| 18.subordinate   |             |     |
-| 19.extraordinary |             |     |
+| 18.subordinate   | 1           |     |
+| 19.extraordinary | 杰出的         |     |
 | 20.orderly       |             |     |
 | 21.ornament      |             |     |
 | 22.transparent   |             |     |
