@@ -19,7 +19,7 @@
 | 15.cooperative   | 合作的 合作企业                                                  | 合作的          |     |
 | 16.operational   | 操作的 可使用的  运营的                                             | 操作的          |     |
 | 17.orchestra     | 管弦乐                                                       | 管弦乐          |     |
-| 18.subordinate   | 2 下级的                                                     | 1            |     |
+| 18.subordinate   | 2 下级的  （）                                                 | 1            |     |
 | 19.extraordinary | 杰出的 2                                                     | 杰出的          |     |
 | 20.orderly       | 有秩序的                                                      | 有序的 有秩序的     |     |
 | 21.ornament      | 添彩之物  装饰品  装饰                                             | 1            |     |
