@@ -80,5 +80,5 @@
 | 76. merchant    |                               |
 | 77. immerse     |                               |
 | 78. geometry    |                               |
-| 79. immense     |                               |
-| 80. emigrate    | 移民国外                          |
+| 79. immense     | 使沉浸                           |
+| 80. emigrate    | 移民国外 移民                       |
