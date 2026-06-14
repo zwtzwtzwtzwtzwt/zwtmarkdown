@@ -19,8 +19,8 @@
 | 15. fortunate   | 有幸的                 |
 | 16. fragile     | 脆弱的 易碎的             |
 | 17. frontier    | 边境 尖端 1             |
-| 18. diffuse     |                     |
-| 19. refute      |                     |
+| 18. diffuse     | 舒缓 传播 扩散            |
+| 19. refute      | 反驳 1                |
 | 20. geography   |                     |
 | 21. geology     |                     |
 | 22. pregnant    |                     |
