@@ -60,8 +60,8 @@
 | 56. preliminary |                               |
 | 57. linguistic  |                               |
 | 58. illiterate  |                               |
-| 59. allocate    |                               |
-| 60. analogue    |                               |
+| 59. allocate    | 分配 配个                         |
+| 60. analogue    | 模拟的 类似物 相似物                   |
 | 61. catalogue   | 目录 一系列 编目录 1                  |
 | 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
