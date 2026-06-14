@@ -41,7 +41,7 @@
 | 37.empirical     | 2                                                         | 以经验为依据 经验注意的 |     |
 | 38.plague        | 灾难  2                                                     | 灾难 1         |     |
 | 39.transplant    | 移植                                                        | 移植 1         |     |
-| 40.plausible     |                                                           | 可信的 合理的      |     |
+| 40.plausible     | 2                                                         | 可信的 合理的      |     |
 | 41.duplicate     |                                                           | 复制 复制的       |     |
 | 42.appliance     |                                                           | 电器 器具        |     |
 | 43.compliment    |                                                           | 赞美           |     |
