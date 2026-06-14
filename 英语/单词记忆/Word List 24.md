@@ -10,8 +10,8 @@
 | 8.neutral        | 中立的               |
 | 9.denote         |                   |
 | 10.novelty       | 新颖的 新奇的           |
-| 11.numerical     |                   |
-| 12.numerous      |                   |
+| 11.numerical     | 数量的               |
+| 12.numerous      | 许多的 众多的           |
 | 13.petroleum     |                   |
 | 14.anonymous     |                   |
 | 15.cooperative   |                   |
