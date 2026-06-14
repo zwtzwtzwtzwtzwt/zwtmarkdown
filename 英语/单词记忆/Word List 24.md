@@ -4,8 +4,8 @@
 | 2.premise        | 前提 假定             |
 | 3.emit           | 排放 散发             |
 | 4.accommodation  | 住宿住处              |
-| 5.modernization  |                   |
-| 6.naive          |                   |
+| 5.modernization  | 现代化               |
+| 6.naive          | 天真的，幼稚的           |
 | 7.negligible     |                   |
 | 8.neutral        |                   |
 | 9.denote         |                   |
