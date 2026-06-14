@@ -36,7 +36,7 @@
 | 32. inherit     | 继承                  |
 | 33. prohibit    | 禁止                  |
 | 34. historic    | 历史的 历史性的            |
-| 35. humidity    |                     |
+| 35. humidity    | 湿度 潮湿               |
 | 36. hygiene     |                     |
 | 37. identical   |                     |
 | 38. imaginary   |                     |
