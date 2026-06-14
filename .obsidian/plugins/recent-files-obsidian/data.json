@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "高数基础模版",
+      "path": "模版/高数基础模版.md"
+    },
+    {
       "basename": "单词记忆",
       "path": "单词记忆/单词记忆.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "线性代数",
       "path": "线性代数/线性代数.md"
-    },
-    {
-      "basename": "高数基础模版",
-      "path": "模版/高数基础模版.md"
     },
     {
       "basename": "1高数基础",
