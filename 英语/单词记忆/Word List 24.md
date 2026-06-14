@@ -46,7 +46,7 @@
 | 42.appliance     | 电器 器具                                                     | 电器 器具        |     |
 | 43.compliment    | 赞美 2（恭维）                                                  | 赞美           |     |
 | 44.plentiful     | 2（丰富的 充足的）                                                | 充足的          |     |
-| 45.applicable    | 适用的 2                                                     | 适用的          |     |
+| 45.applicable    | 适用的 2（适合的）                                                | 适用的          |     |
 | 46.explode       | 爆发 猛增                                                     | 爆炸 猛增        |     |
 | 47.polish        | 磨光 润色 修改 2                                                | 抛光 润色 修改     |     |
 | 48.postpone      | 推迟 延迟                                                     | 推迟 延迟        |     |
