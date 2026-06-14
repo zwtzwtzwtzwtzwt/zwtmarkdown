@@ -28,7 +28,7 @@
 | 24.particle      |              |     |
 | 25.impatient     |              |     |
 | 26.surpass       |              |     |
-| 27.repel         | 1            |     |
+| 27.repel         | 驱逐 使厌恶       |     |
 | 28.compulsory    | 义务的 强制的      |     |
 | 29.expenditure   | 支出 耗费        |     |
 | 30.pessimistic   | 悲观的 悲观主义的    |     |
