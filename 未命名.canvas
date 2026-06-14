@@ -1,9 +1,41 @@
 {
-	"nodes":[
-		{"id":"fce63f227fa4d223","type":"text","text":"","x":-25,"y":-220,"width":135,"height":140},
-		{"id":"66276eefc2653343","type":"text","text":"","x":-75,"y":80,"width":100,"height":60},
-		{"id":"7ccc36f921cd1cca","type":"text","text":"","x":-215,"y":-220,"width":140,"height":140},
-		{"id":"2b0016b28c711310","x":-500,"y":-220,"width":400,"height":400,"type":"file","file":"数据结构/算法代码/kmp.cpp"}
+	"nodes": [
+		{
+			"id": "fce63f227fa4d223",
+			"type": "text",
+			"text": "",
+			"x": -25,
+			"y": -220,
+			"width": 135,
+			"height": 140
+		},
+		{
+			"id": "66276eefc2653343",
+			"type": "text",
+			"text": "",
+			"x": -75,
+			"y": 80,
+			"width": 100,
+			"height": 60
+		},
+		{
+			"id": "7ccc36f921cd1cca",
+			"type": "text",
+			"text": "",
+			"x": -215,
+			"y": -220,
+			"width": 140,
+			"height": 140
+		},
+		{
+			"id": "2b0016b28c711310",
+			"x": -500,
+			"y": -220,
+			"width": 400,
+			"height": 400,
+			"type": "file",
+			"file": "2数据结构/算法代码/kmp.cpp"
+		}
 	],
-	"edges":[]
+	"edges": []
 }
