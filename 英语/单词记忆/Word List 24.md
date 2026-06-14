@@ -1,8 +1,8 @@
 | **英文单词**         | **中文释义 (请在此处默写)** |
 | ---------------- | ----------------- |
-| 1.omit           | 忽略，               |
-| 2.premise        |                   |
-| 3.emit           |                   |
+| 1.omit           | 忽略，遗漏             |
+| 2.premise        | 前提 假定             |
+| 3.emit           | 排放，               |
 | 4.accommodation  |                   |
 | 5.modernization  |                   |
 | 6.naive          |                   |
