@@ -34,7 +34,7 @@
 | 30.pessimistic   |              |     |
 | 31.appetite      |              |     |
 | 32.perpetual     |              |     |
-| 33.pit           |              |     |
+| 33.pit           | 深坑 打洞        |     |
 | 34.symphony      | 交响乐          |     |
 | 35.physicist     | 物理学家         |     |
 | 36.compile       | 编译的 编制的      |     |
