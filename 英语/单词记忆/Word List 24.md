@@ -68,8 +68,8 @@
 | 64.erect         |          |
 | 65.regime        |          |
 | 66.arrest        |          |
-| 67.rhetoric      |          |
-| 68.rotate        | 旋转 人员    |
+| 67.rhetoric      | 空话       |
+| 68.rotate        | 旋转 人员转换  |
 | 69.abrupt        | 突然的 唐突的  |
 | 70.erupt         | 爆发 突然爆发的 |
 | 71.sacred        | 上帝的  神圣的 |
