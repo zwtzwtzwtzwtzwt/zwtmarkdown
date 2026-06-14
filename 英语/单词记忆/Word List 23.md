@@ -28,7 +28,7 @@
 | 24. genre       | 体裁 类型               |
 | 25. grand       | 宏伟的 宏大的             |
 | 26. aggravate   | 使严重 使恶化 激怒          |
-| 27. grave       | 严重的                 |
+| 27. grave       | 严重的 坟墓 死亡           |
 | 28. agreeable   |                     |
 | 29. gratitude   |                     |
 | 30. gross       |                     |
