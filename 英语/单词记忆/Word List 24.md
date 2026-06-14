@@ -64,7 +64,7 @@
 | 60.conquer       | 克服         |
 | 61.query         | 询问疑问  1 质疑 |
 | 62.erase         | 消灭 消除      |
-| 63.rational      | 1 理智的      |
+| 63.rational      | 理智的        |
 | 64.erect         | 建立 建造 树立   |
 | 65.regime        | 1 制度 政权    |
 | 66.arrest        | 逮捕 拘留      |
