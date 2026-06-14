@@ -75,7 +75,7 @@
 | 71.sacred        | 圣神的  上帝的                                                  | 上帝的  神圣的     |     |
 | 72.descendant    | 后代  后裔                                                    | 后代 后裔        |     |
 | 73.microscope    | 显微镜                                                       | 显微镜          |     |
-| 74.prescribe     | 2（开药 ）                                                    | 开处方 规定       |     |
+| 74.prescribe     | 2（开药 规定）                                                  | 开处方 规定       |     |
 | 75.subscribe     | 订阅   捐款                                                   | 订阅 捐款        |     |
-| 76.manuscript    | 手稿  2                                                     | 手稿           |     |
+| 76.manuscript    | 手稿  2（原稿）                                                 | 手稿           |     |
 | 77.prescription  | 2（处方 药房 ）                                                 | 处方  药房       |     |
