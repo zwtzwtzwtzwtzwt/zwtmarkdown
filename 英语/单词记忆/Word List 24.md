@@ -38,8 +38,8 @@
 | 34.symphony      |             |     |
 | 35.physicist     |             |     |
 | 36.compile       |             |     |
-| 37.empirical     |             |     |
-| 38.plague        |             |     |
+| 37.empirical     | 以           |     |
+| 38.plague        | 灾难 1        |     |
 | 39.transplant    | 移植 1        |     |
 | 40.plausible     | 可信的 合理的     |     |
 | 41.duplicate     | 复制 复制的      |     |
