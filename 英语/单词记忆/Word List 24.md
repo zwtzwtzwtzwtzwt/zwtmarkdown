@@ -12,7 +12,7 @@
 | 8.neutral        | 中立的          |     |
 | 9.denote         |              |     |
 | 10.novelty       | 新奇的 新颖的      |     |
-| 11.numerical     | 数量的          |     |
+| 11.numerical     | 数量的 1        |     |
 | 12.numerous      | 大量的 许多的 众多的  |     |
 | 13.petroleum     | 石油 原油的       |     |
 | 14.anonymous     | 匿名的  不止姓名的   |     |
