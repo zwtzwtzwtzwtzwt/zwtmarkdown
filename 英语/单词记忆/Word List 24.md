@@ -57,12 +57,12 @@
 | 53.predator      | 剥削者 掠夺者  |
 | 54.compress      | 压缩       |
 | 55.probe         | 1        |
-| 56.probability   | 可能       |
+| 56.probability   | 可能性 概率   |
 | 57.prone         | 易于的      |
 | 58.purify        | 进化       |
 | 59.quantitative  | 1        |
 | 60.conquer       | 克服       |
-| 61.query         | 询问疑问     |
+| 61.query         | 询问疑问 1 之 |
 | 62.erase         | 消灭 消除    |
 | 63.rational      | 1 理智的    |
 | 64.erect         | 建立 建造 树立 |
