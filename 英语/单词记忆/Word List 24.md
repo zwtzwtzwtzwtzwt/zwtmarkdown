@@ -48,11 +48,11 @@
 | 44.plentiful     |            |
 | 45.applicable    |            |
 | 46.explode       |            |
-| 47.polish        |            |
-| 48.postpone      |            |
-| 49.posture       |            |
-| 50.disposal      |            |
-| 51.disposition   |            |
+| 47.polish        | 抛光         |
+| 48.postpone      | 推迟 延迟      |
+| 49.posture       | 姿势 立场      |
+| 50.disposal      | 消除 清除      |
+| 51.disposition   | 性质 布置 倾向   |
 | 52.proposition   | 主张 建议 提案   |
 | 53.predator      | 剥削者 掠夺者    |
 | 54.compress      | 压缩         |
