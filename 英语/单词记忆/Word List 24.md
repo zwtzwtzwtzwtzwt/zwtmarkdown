@@ -7,7 +7,7 @@
 | 5.modernization  | 现代化               |
 | 6.naive          | 天真的，幼稚的           |
 | 7.negligible     | 微不足道的             |
-| 8.neutral        |                   |
+| 8.neutral        | 中立的               |
 | 9.denote         |                   |
 | 10.novelty       |                   |
 | 11.numerical     |                   |
