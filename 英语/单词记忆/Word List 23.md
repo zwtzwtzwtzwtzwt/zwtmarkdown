@@ -7,7 +7,7 @@
 | 3. proficiency  | 精通 熟练               |
 | 4. feasible     | 可行的 说得通的            |
 | 5. confidential | 机密的 1               |
-| 6. profile      |                     |
+| 6. profile      | 外形 简介               |
 | 7. finite       |                     |
 | 8. infinite     |                     |
 | 9. affirm       |                     |
