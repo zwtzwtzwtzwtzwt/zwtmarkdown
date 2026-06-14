@@ -46,7 +46,7 @@
 | 42.appliance     |            |
 | 43.compliment    |            |
 | 44.plentiful     |            |
-| 45.applicable    |            |
+| 45.applicable    | 适用的        |
 | 46.explode       | 爆炸 猛增      |
 | 47.polish        | 抛光 润色 修改   |
 | 48.postpone      | 推迟 延迟      |
