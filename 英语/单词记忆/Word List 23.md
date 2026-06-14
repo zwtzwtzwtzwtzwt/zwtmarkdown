@@ -62,7 +62,7 @@
 | 58. illiterate  |                               |
 | 59. allocate    |                               |
 | 60. analogue    |                               |
-| 61. catalogue   | 目录                            |
+| 61. catalogue   | 目录 一系列 编目录                    |
 | 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
 | 64. lottery     | 彩票抽奖  碰运气的事                   |
