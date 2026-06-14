@@ -15,8 +15,8 @@
 | 11.numerical     | 数字的                                   | 数量的 1        |     |
 | 12.numerous      | 许多的 大量的                               | 大量的 许多的 众多的  |     |
 | 13.petroleum     | 石油 原油                                 | 石油 原油的       |     |
-| 14.anonymous     | 匿名的                                   | 匿名的  不止姓名的   |     |
-| 15.cooperative   |                                       | 合作的          |     |
+| 14.anonymous     | 匿名的  不知姓名的                            | 匿名的  不止姓名的   |     |
+| 15.cooperative   | 合作的 合作                                | 合作的          |     |
 | 16.operational   |                                       | 操作的          |     |
 | 17.orchestra     |                                       | 管弦乐          |     |
 | 18.subordinate   |                                       | 1            |     |
