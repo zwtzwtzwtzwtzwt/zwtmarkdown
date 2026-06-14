@@ -71,7 +71,7 @@
 | 67.rhetoric      |          |
 | 68.rotate        |          |
 | 69.abrupt        |          |
-| 70.erupt         | 爆发 突然    |
+| 70.erupt         | 爆发 突然爆发的 |
 | 71.sacred        | 上帝的  神圣的 |
 | 72.descendant    | 后代 后裔    |
 | 73.microscope    | 显微镜      |
