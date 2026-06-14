@@ -27,7 +27,7 @@
 | 23.partial       |              |     |
 | 24.particle      |              |     |
 | 25.impatient     |              |     |
-| 26.surpass       |              |     |
+| 26.surpass       | 超过  胜过       |     |
 | 27.repel         | 驱逐 使厌恶       |     |
 | 28.compulsory    | 义务的 强制的      |     |
 | 29.expenditure   | 支出 耗费        |     |
