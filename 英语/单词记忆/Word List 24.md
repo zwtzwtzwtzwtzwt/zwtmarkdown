@@ -47,7 +47,7 @@
 | 43.compliment    | 赞美 2                                                      | 赞美           |     |
 | 44.plentiful     | 2                                                         | 充足的          |     |
 | 45.applicable    | 适用的 2                                                     | 适用的          |     |
-| 46.explode       |                                                           | 爆炸 猛增        |     |
+| 46.explode       | 爆发                                                        | 爆炸 猛增        |     |
 | 47.polish        |                                                           | 抛光 润色 修改     |     |
 | 48.postpone      |                                                           | 推迟 延迟        |     |
 | 49.posture       |                                                           | 姿势 立场        |     |
