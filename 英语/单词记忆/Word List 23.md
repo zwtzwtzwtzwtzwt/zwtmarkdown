@@ -26,7 +26,7 @@
 | 22. pregnant    | 怀孕的                 |
 | 23. hydrogen    | 氢气 氢                |
 | 24. genre       | 体裁 类型               |
-| 25. grand       |                     |
+| 25. grand       | 宏伟的                 |
 | 26. aggravate   |                     |
 | 27. grave       |                     |
 | 28. agreeable   |                     |
