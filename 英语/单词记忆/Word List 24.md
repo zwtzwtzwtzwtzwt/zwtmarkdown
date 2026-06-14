@@ -66,9 +66,9 @@
 | 62.erase         |                   |
 | 63.rational      |                   |
 | 64.erect         |                   |
-| 65.regime        |                   |
-| 66.arrest        |                   |
-| 67.rhetoric      |                   |
+| 65.regime        | 猪肚                |
+| 66.arrest        | 逮捕 拘留             |
+| 67.rhetoric      | 空谈 修辞艺术           |
 | 68.rotate        | 旋转 转动             |
 | 69.abrupt        | 突然的以外的            |
 | 70.erupt         | 突然发生 火山八方         |
