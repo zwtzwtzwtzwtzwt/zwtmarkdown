@@ -77,5 +77,5 @@
 | 73.microscope    |                   |
 | 74.prescribe     |                   |
 | 75.subscribe     |                   |
-| 76.manuscript    |                   |
+| 76.manuscript    | 远远高 手稿            |
 | 77.prescription  | 厨房  药房            |
