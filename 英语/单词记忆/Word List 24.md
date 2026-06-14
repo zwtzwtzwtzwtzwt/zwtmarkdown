@@ -26,7 +26,7 @@
 | 22.transparent   |              |     |
 | 23.partial       |              |     |
 | 24.particle      |              |     |
-| 25.impatient     |              |     |
+| 25.impatient     | 没有耐心的        |     |
 | 26.surpass       | 超过  胜过       |     |
 | 27.repel         | 驱逐 使厌恶       |     |
 | 28.compulsory    | 义务的 强制的      |     |
