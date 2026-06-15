@@ -14,10 +14,10 @@
 | 10. fiscal      | 财政的 国库的                       |
 | 11. flexible    | 灵活的 可变的 有弯曲的                  |
 | 12. superfluous | 过剩的 多余的                       |
-| 13. enforce     |                               |
-| 14. conform     |                               |
-| 15. fortunate   |                               |
-| 16. fragile     |                               |
+| 13. enforce     | 强制执行                          |
+| 14. conform     | 遵守 遵从                         |
+| 15. fortunate   | 幸运的 有幸的                       |
+| 16. fragile     | 脆弱的                           |
 | 17. frontier    |                               |
 | 18. diffuse     |                               |
 | 19. refute      |                               |
