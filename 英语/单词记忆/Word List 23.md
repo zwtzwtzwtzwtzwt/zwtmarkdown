@@ -3,7 +3,7 @@
 | **英文单词**        | 11111111111111111111111111111 |
 | --------------- | ----------------------------- |
 | 1. deficiency   | 缺乏 缺陷 缺点                      |
-| 2. superficial  | 表面的 肤浅的 1                     |
+| 2. superficial  | 表面的 肤浅的 1（粗略的）                |
 | 3. proficiency  | 熟练 精确                         |
 | 4. feasible     | 可行的 行的通的                      |
 | 5. confidential | 秘密的 保密的                       |
@@ -27,7 +27,7 @@
 | 23. hydrogen    | 氢气 氢                          |
 | 24. genre       | 体裁 类型                         |
 | 25. grand       | 宏大的 宏伟的                       |
-| 26. aggravate   | 1（使验证 ）                       |
+| 26. aggravate   | 1（使严重 激怒）                     |
 | 27. grave       | 严重的 死亡 逝去 坟墓  <br>            |
 | 28. agreeable   | 1（愉悦的 讨人喜欢的 欣然同意）             |
 | 29. gratitude   | 感激 感谢                         |
@@ -81,4 +81,4 @@
 | 77. immerse     | 是沉浸 沉浸于                       |
 | 78. geometry    | 几何形状 几何学                      |
 | 79. immense     | 巨大的 极大的                       |
-| 80. emigrate    | 移民国外 移民               
+| 80. emigrate    | 移民国外 移民                       |
