@@ -32,7 +32,7 @@
 | 28. agreeable   | 愉悦的 讨人喜欢的 欣然接受                                                 | 1（愉悦的 讨人喜欢的 欣然同意）             |
 | 29. gratitude   | 感激 感谢                                                          | 感激 感谢                         |
 | 30. gross       | 毛的 严重的 总的                                                      | 总的 毛的 严重的                     |
-| 31. harmony     |                                                                | 和谐                            |
+| 31. harmony     | 和谐                                                             | 和谐                            |
 | 32. inherit     |                                                                | 继承                            |
 | 33. prohibit    |                                                                | 进制                            |
 | 34. historic    |                                                                | 历史的 历史性的                      |
