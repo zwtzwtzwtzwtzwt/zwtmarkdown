@@ -40,8 +40,8 @@
 | 36. hygiene     |                               |
 | 37. identical   |                               |
 | 38. imaginary   |                               |
-| 39. imitation   |                               |
-| 40. imperative  | 重要的 必要的 及重要的                  |
+| 39. imitation   | 模仿 1                          |
+| 40. imperative  | 重要的 必要的 及重要的 1                |
 | 41. irony       | 讽刺异味的 反语的                     |
 | 42. isolate     | 孤立 脱离                         |
 | 43. peninsula   | 半岛                            |
