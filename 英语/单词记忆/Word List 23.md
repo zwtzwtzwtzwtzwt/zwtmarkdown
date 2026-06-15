@@ -48,8 +48,8 @@
 | 44. exit        |                               |
 | 45. adjective   |                               |
 | 46. conjunction |                               |
-| 47. juvenile    |                               |
-| 48. lateral     |                               |
+| 47. juvenile    | 少年的                           |
+| 48. lateral     | 横看的 侧面的                       |
 | 49. delete      | 删除 删去                         |
 | 50. alleviate   | 避免 1                          |
 | 51. deliberate  | 故意的 1                         |
