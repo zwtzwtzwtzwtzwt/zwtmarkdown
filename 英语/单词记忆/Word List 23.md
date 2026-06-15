@@ -56,7 +56,7 @@
 | 52. liberty     |                               |
 | 53. eligible    |                               |
 | 54. obligation  |                               |
-| 55. align       | 结盟                            |
+| 55. align       | 结盟 化为一条线                      |
 | 56. preliminary | 初步的 1                         |
 | 57. linguistic  | 语言的 语言学的                      |
 | 58. illiterate  | 1                             |
