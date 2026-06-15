@@ -27,8 +27,8 @@
 | 23. hydrogen    | 氢气 氢                          |
 | 24. genre       | 体裁 类型                         |
 | 25. grand       | 宏大的 宏伟的                       |
-| 26. aggravate   | 激烈 1                          |
-| 27. grave       | 严重的 死亡 逝去 坟墓                  |
+| 26. aggravate   | 1                             |
+| 27. grave       | 严重的 死亡 逝去 坟墓  <br>            |
 | 28. agreeable   | 1                             |
 | 29. gratitude   | 感激 感谢                         |
 | 30. gross       | 总的 毛的 严重的                     |
