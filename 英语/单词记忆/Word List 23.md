@@ -6,7 +6,7 @@
 | 2. superficial  | 表面的 肤浅的 1                     |
 | 3. proficiency  | 熟练 精确                         |
 | 4. feasible     | 可行的 行的通的                      |
-| 5. confidential |                               |
+| 5. confidential | 秘密的 保密的                       |
 | 6. profile      |                               |
 | 7. finite       |                               |
 | 8. infinite     |                               |
