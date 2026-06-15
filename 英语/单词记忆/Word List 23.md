@@ -52,9 +52,9 @@
 | 48. lateral     | 侧面的 横看的                                                        | 横看的 侧面的                       |
 | 49. delete      | 删除                                                             | 删除 删去                         |
 | 50. alleviate   | 2                                                              | 1（舒缓 减轻 缓和）                   |
-| 51. deliberate  | 故意的 仔细                                                         | 故意的 1（仔细考虑）                   |
-| 52. liberty     |                                                                | 自由                            |
-| 53. eligible    |                                                                | 合格的 有资格的                      |
+| 51. deliberate  | 故意的 仔细考虑的                                                      | 故意的 1（仔细考虑）                   |
+| 52. liberty     | 自由                                                             | 自由                            |
+| 53. eligible    | 合格的                                                            | 合格的 有资格的                      |
 | 54. obligation  |                                                                | 责任 义务 职责                      |
 | 55. align       |                                                                | 结盟 化为一条线                      |
 | 56. preliminary |                                                                | 初步的 1（预备性的）                   |
