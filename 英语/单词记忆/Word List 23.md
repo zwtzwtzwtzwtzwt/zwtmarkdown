@@ -43,8 +43,8 @@
 | 39. imitation   |                               |
 | 40. imperative  |                               |
 | 41. irony       |                               |
-| 42. isolate     |                               |
-| 43. peninsula   |                               |
+| 42. isolate     | 孤立 脱离                         |
+| 43. peninsula   | 半岛                            |
 | 44. exit        | 离开 退出  出口 通道                  |
 | 45. adjective   | 形容词                           |
 | 46. conjunction | 同时发生  连词                      |
