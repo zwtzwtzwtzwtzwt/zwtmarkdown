@@ -15,7 +15,7 @@
 | 11. flexible    | 可变的 灵活的 可弯折的                                                   | 灵活的 可变的 有弯曲的                  |
 | 12. superfluous | 多余的 剩余的                                                        | 过剩的 多余的                       |
 | 13. enforce     | 强制执行                                                           | 强制执行                          |
-| 14. conform     |                                                                | 遵守 遵从                         |
+| 14. conform     | 遵从 遵循                                                          | 遵守 遵从                         |
 | 15. fortunate   |                                                                | 幸运的 有幸的                       |
 | 16. fragile     |                                                                | 脆弱的 易碎的                       |
 | 17. frontier    |                                                                | 边界 边境 前沿                      |
