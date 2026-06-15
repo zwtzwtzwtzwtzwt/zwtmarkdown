@@ -75,8 +75,8 @@
 | 71. masculine   | 男性的 男人的                       |
 | 72. mature      | 成熟 完全成长 全面的 1                 |
 | 73. maximum     | 最大量的 最大限度的 最大量                |
-| 74. remedy      | 1                             |
-| 75. mend        | 使痊愈 修补 1                      |
+| 74. remedy      | 1（解决方法 治疗 改善）                 |
+| 75. mend        | 使痊愈 修补                        |
 | 76. merchant    | 商人 批发商 商船的                    |
 | 77. immerse     | 是沉浸 沉浸于                       |
 | 78. geometry    | 几何形状 几何学                      |
