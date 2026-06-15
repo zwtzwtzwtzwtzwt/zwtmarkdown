@@ -37,8 +37,8 @@
 | 33. prohibit    | 禁止                                                             | 进制                            |
 | 34. historic    | 历史的 历史性的                                                       | 历史的 历史性的                      |
 | 35. humidity    | 和谐                                                             | 湿度 潮湿                         |
-| 36. hygiene     |                                                                | 卫生                            |
-| 37. identical   |                                                                | 相同的                           |
+| 36. hygiene     | 卫生                                                             | 卫生                            |
+| 37. identical   | 相同的                                                            | 相同的                           |
 | 38. imaginary   |                                                                | 想象的 虚构的                       |
 | 39. imitation   |                                                                | 模仿 1（赝品）                      |
 | 40. imperative  |                                                                | 重要的 必要的 及重要的                  |
