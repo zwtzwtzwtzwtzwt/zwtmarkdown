@@ -3,7 +3,7 @@
 | **英文单词**        | 11111111111111111111111111111 |
 | --------------- | ----------------------------- |
 | 1. deficiency   | 缺乏 缺陷 缺点                      |
-| 2. superficial  |                               |
+| 2. superficial  | 表面的 肤浅的 1                     |
 | 3. proficiency  |                               |
 | 4. feasible     |                               |
 | 5. confidential |                               |
