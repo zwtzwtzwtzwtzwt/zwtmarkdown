@@ -53,9 +53,9 @@
 | 49. delete      |                               |
 | 50. alleviate   |                               |
 | 51. deliberate  |                               |
-| 52. liberty     |                               |
-| 53. eligible    |                               |
-| 54. obligation  | 责任                            |
+| 52. liberty     | 自由                            |
+| 53. eligible    | 合格的 有资格的                      |
+| 54. obligation  | 责任 义务 职责                      |
 | 55. align       | 结盟 化为一条线                      |
 | 56. preliminary | 初步的 1                         |
 | 57. linguistic  | 语言的 语言学的                      |
