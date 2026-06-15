@@ -25,10 +25,10 @@
 | 21. geology     | 地质学 地址                        |
 | 22. pregnant    | 怀孕的                           |
 | 23. hydrogen    | 氢气 氢                          |
-| 24. genre       | 体裁                            |
-| 25. grand       |                               |
-| 26. aggravate   |                               |
-| 27. grave       |                               |
+| 24. genre       | 体裁 类型                         |
+| 25. grand       | 宏大的 宏伟的                       |
+| 26. aggravate   | 激烈 1                          |
+| 27. grave       | 严重的 死亡                        |
 | 28. agreeable   |                               |
 | 29. gratitude   |                               |
 | 30. gross       |                               |
