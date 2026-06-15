@@ -70,9 +70,9 @@
 | 66. paralyse    | 2                                                              | 1（使麻痹 使瘫痪 使不能工作）              |
 | 67. analytical  | 2                                                              | 分析的 头脑缜密的                     |
 | 68. magnitude   | 重大的 2                                                          | 巨大 重要性 1（极大）                  |
-| 69. manipulate  | 操控                                                             | 操作 操纵                         |
-| 70. marine      |                                                                | 海洋的                           |
-| 71. masculine   |                                                                | 男性的 男人的                       |
+| 69. manipulate  | 操控 操纵                                                          | 操作 操纵                         |
+| 70. marine      | 海洋的                                                            | 海洋的                           |
+| 71. masculine   | 男性的 男人的                                                        | 男性的 男人的                       |
 | 72. mature      |                                                                | 成熟 完全成长 全面的 1（慎重的）            |
 | 73. maximum     |                                                                | 最大量的 最大限度的 最大量                |
 | 74. remedy      |                                                                | 1（解决方法 治疗 改善）                 |
