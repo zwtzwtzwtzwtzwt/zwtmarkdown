@@ -21,8 +21,8 @@
 | 17. frontier    | 边界 前沿 边境                                                       | 边界 边境 前沿                      |
 | 18. diffuse     | 舒缓 传播 扩散                                                       | 舒缓 扩散 传播                      |
 | 19. refute      | 否认 反驳                                                          | 反驳 否认                         |
-| 20. geography   | 地理学 地                                                          | 地理学 地势 地貌                     |
-| 21. geology     |                                                                | 地质学 地址                        |
+| 20. geography   | 地理学 地势 地貌                                                      | 地理学 地势 地貌                     |
+| 21. geology     | 地质学 地址                                                         | 地质学 地址                        |
 | 22. pregnant    |                                                                | 怀孕的                           |
 | 23. hydrogen    |                                                                | 氢气 氢                          |
 | 24. genre       |                                                                | 体裁 类型                         |
