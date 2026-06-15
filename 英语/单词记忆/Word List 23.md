@@ -66,14 +66,14 @@
 | 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
 | 64. lottery     | 彩票抽奖  碰运气的事                   |
-| 65. lucrative   | 获利多的 1                        |
-| 66. paralyse    | 1                             |
+| 65. lucrative   | 获利多的 1（赚大钱的）                  |
+| 66. paralyse    | 1（使麻痹 使瘫痪 使不能工作）              |
 | 67. analytical  | 分析的 头脑缜密的                     |
-| 68. magnitude   | 巨大 重要性 1                      |
+| 68. magnitude   | 巨大 重要性 1（极大）                  |
 | 69. manipulate  | 操作 操纵                         |
 | 70. marine      | 海洋的                           |
 | 71. masculine   | 男性的 男人的                       |
-| 72. mature      | 成熟 完全成长 全面的 1                 |
+| 72. mature      | 成熟 完全成长 全面的 1（慎重的）            |
 | 73. maximum     | 最大量的 最大限度的 最大量                |
 | 74. remedy      | 1（解决方法 治疗 改善）                 |
 | 75. mend        | 使痊愈 修补                        |
