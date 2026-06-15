@@ -17,9 +17,9 @@
 | 13. enforce     | 强制执行                          |
 | 14. conform     | 遵守 遵从                         |
 | 15. fortunate   | 幸运的 有幸的                       |
-| 16. fragile     | 脆弱的                           |
-| 17. frontier    |                               |
-| 18. diffuse     |                               |
+| 16. fragile     | 脆弱的 易碎的                       |
+| 17. frontier    | 边界 边境 前沿                      |
+| 18. diffuse     | 舒缓 扩散 传播                      |
 | 19. refute      |                               |
 | 20. geography   |                               |
 | 21. geology     |                               |
