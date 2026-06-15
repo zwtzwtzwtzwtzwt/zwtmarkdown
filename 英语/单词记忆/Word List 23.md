@@ -29,7 +29,7 @@
 | 25. grand       | 宏大的 宏伟的                       |
 | 26. aggravate   | 1                             |
 | 27. grave       | 严重的 死亡 逝去 坟墓  <br>            |
-| 28. agreeable   | 1                             |
+| 28. agreeable   | 1（）                           |
 | 29. gratitude   | 感激 感谢                         |
 | 30. gross       | 总的 毛的 严重的                     |
 | 31. harmony     | 和谐                            |
@@ -40,7 +40,7 @@
 | 36. hygiene     | 卫生                            |
 | 37. identical   | 相同的                           |
 | 38. imaginary   | 想象的 虚构的                       |
-| 39. imitation   | 模仿 1（）                        |
+| 39. imitation   | 模仿 1（赝品）                      |
 | 40. imperative  | 重要的 必要的 及重要的                  |
 | 41. irony       | 讽刺异味的 反语的                     |
 | 42. isolate     | 孤立 脱离                         |
