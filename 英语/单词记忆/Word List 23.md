@@ -10,7 +10,7 @@
 | 6. profile      | 形象 轮廓 简历                      |
 | 7. finite       | 有限的                           |
 | 8. infinite     | 无穷的                           |
-| 9. affirm       | 确认                            |
+| 9. affirm       | 确认 证实 坚定                      |
 | 10. fiscal      |                               |
 | 11. flexible    |                               |
 | 12. superfluous |                               |
