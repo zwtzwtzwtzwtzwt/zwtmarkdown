@@ -6,8 +6,8 @@
 | 2. superficial  | 表面的 肤浅的 粗略的                                                    | 表面的 肤浅的 1（粗略的）                |
 | 3. proficiency  | 精通 熟练                                                          | 熟练 精确                         |
 | 4. feasible     | 行得通的  可行的                                                      | 可行的 行的通的                      |
-| 5. confidential |                                                                | 秘密的 保密的                       |
-| 6. profile      |                                                                | 形象 轮廓 简历                      |
+| 5. confidential | 机密的 保密的                                                        | 秘密的 保密的                       |
+| 6. profile      | 形象 轮廓                                                          | 形象 轮廓 简历                      |
 | 7. finite       |                                                                | 有限的                           |
 | 8. infinite     |                                                                | 无穷的                           |
 | 9. affirm       |                                                                | 确认 证实 坚定                      |
