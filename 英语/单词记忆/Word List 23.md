@@ -50,7 +50,7 @@
 | 46. conjunction |                               |
 | 47. juvenile    |                               |
 | 48. lateral     |                               |
-| 49. delete      |                               |
+| 49. delete      | 删除 删去                         |
 | 50. alleviate   | 避免 1                          |
 | 51. deliberate  | 故意的 1                         |
 | 52. liberty     | 自由                            |
