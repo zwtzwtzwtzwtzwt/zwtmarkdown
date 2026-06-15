@@ -16,8 +16,8 @@
 | 12. superfluous | 多余的 剩余的                                                        | 过剩的 多余的                       |
 | 13. enforce     | 强制执行                                                           | 强制执行                          |
 | 14. conform     | 遵从 遵循                                                          | 遵守 遵从                         |
-| 15. fortunate   |                                                                | 幸运的 有幸的                       |
-| 16. fragile     |                                                                | 脆弱的 易碎的                       |
+| 15. fortunate   | 幸运的 有幸的                                                        | 幸运的 有幸的                       |
+| 16. fragile     | 存入哦的                                                           | 脆弱的 易碎的                       |
 | 17. frontier    |                                                                | 边界 边境 前沿                      |
 | 18. diffuse     |                                                                | 舒缓 扩散 传播                      |
 | 19. refute      |                                                                | 反驳 否认                         |
