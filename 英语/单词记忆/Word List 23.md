@@ -40,7 +40,7 @@
 | 36. hygiene     | 卫生                                                             | 卫生                            |
 | 37. identical   | 相同的                                                            | 相同的                           |
 | 38. imaginary   | 想象的 虚构的                                                        | 想象的 虚构的                       |
-| 39. imitation   | 模仿                                                             | 模仿 1（赝品）                      |
+| 39. imitation   | 模仿 赝品                                                          | 模仿 1（赝品）                      |
 | 40. imperative  |                                                                | 重要的 必要的 及重要的                  |
 | 41. irony       |                                                                | 讽刺异味的 反语的                     |
 | 42. isolate     |                                                                | 孤立 脱离                         |
