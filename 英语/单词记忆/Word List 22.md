@@ -1,82 +1,82 @@
 [考研词汇核心提取 (Word List 22)](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%2022))  
 
-|**英文单词**|**1**|
-|---|---|
-|1. acute||
-|2. agony||
-|3. altitude||
-|4. aluminium||
-|5. angle||
-|6. arbitrary||
-|7. augment||
-|8. authentic||
-|9. rebel||
-|10. bond||
-|11. border||
-|12. captain||
-|13. carrier||
-|14. precaution||
-|15. reception||
-|16. susceptible||
-|17. receipt||
-|18. excellent||
-|19. discern||
-|20. certainty||
-|21. certificate||
-|22. preceding||
-|23. concession||
-|24. chemist||
-|25. precision||
-|26. decisive||
-|27. concise||
-|28. proclaim||
-|29. declaration||
-|30. inclusive||
-|31. colonial||
-|32. comic||
-|33. consult||
-|34. incorporate||
-|35. counter||
-|36. recreation||
-|37. discriminate||
-|38. accumulate||
-|39. incur||
-|40. recur||
-|41. occurrence||
-|42. currency||
-|43. corridor||
-|44. discourse||
-|45. decent||
-|46. condemn||
-|47. demographic||
-|48. condense||
-|49. dental||
-|50. dentist||
-|51. deteriorate||
-|52. dedicate||
-|53. indication||
-|54. indicative||
-|55. verdict||
-|56. dignity||
-|57. indignation||
-|58. dividend||
-|59. doctrine||
-|60. domain||
-|61. donate||
-|62. anecdote||
-|63. induce||
-|64. conductor||
-|65. endurance||
-|66. ecology||
-|67. exempt||
-|68. equation||
-|69. energetic||
-|70. essence||
-|71. interface||
-|72. preface||
-|73. fatigue||
-|74. differentiate||
-|75. confer||
-|76. fertile||
-|77. fertilizer||
-|78. confess||
+| **英文单词**          | **英文单词**          | **1** |
+| ----------------- | ----------------- | ----- |
+| 1. acute          | 1. xxxxx          |       |
+| 2. agony          | 2. agony          |       |
+| 3. altitude       | 3. altitude       |       |
+| 4. aluminium      | 4. aluminium      |       |
+| 5. angle          | 5. angle          |       |
+| 6. arbitrary      | 6. arbitrary      |       |
+| 7. augment        | 7. augment        |       |
+| 8. authentic      | 8. authentic      |       |
+| 9. rebel          | 9. rebel          |       |
+| 10. bond          | 10. bond          |       |
+| 11. border        | 11. border        |       |
+| 12. captain       | 12. captain       |       |
+| 13. carrier       | 13. carrier       |       |
+| 14. precaution    | 14. precaution    |       |
+| 15. reception     | 15. reception     |       |
+| 16. susceptible   | 16. susceptible   |       |
+| 17. receipt       | 17. receipt       |       |
+| 18. excellent     | 18. excellent     |       |
+| 19. discern       | 19. discern       |       |
+| 20. certainty     | 20. certainty     |       |
+| 21. certificate   | 21. certificate   |       |
+| 22. preceding     | 22. preceding     |       |
+| 23. concession    | 23. concession    |       |
+| 24. chemist       | 24. chemist       |       |
+| 25. precision     | 25. precision     |       |
+| 26. decisive      | 26. decisive      |       |
+| 27. concise       | 27. concise       |       |
+| 28. proclaim      | 28. proclaim      |       |
+| 29. declaration   | 29. declaration   |       |
+| 30. inclusive     | 30. inclusive     |       |
+| 31. colonial      | 31. colonial      |       |
+| 32. comic         | 32. comic         |       |
+| 33. consult       | 33. consult       |       |
+| 34. incorporate   | 34. incorporate   |       |
+| 35. counter       | 35. counter       |       |
+| 36. recreation    | 36. recreation    |       |
+| 37. discriminate  | 37. discriminate  |       |
+| 38. accumulate    | 38. accumulate    |       |
+| 39. incur         | 39. incur         |       |
+| 40. recur         | 40. recur         |       |
+| 41. occurrence    | 41. occurrence    |       |
+| 42. currency      | 42. currency      |       |
+| 43. corridor      | 43. corridor      |       |
+| 44. discourse     | 44. discourse     |       |
+| 45. decent        | 45. decent        |       |
+| 46. condemn       | 46. condemn       |       |
+| 47. demographic   | 47. demographic   |       |
+| 48. condense      | 48. condense      |       |
+| 49. dental        | 49. dental        |       |
+| 50. dentist       | 50. dentist       |       |
+| 51. deteriorate   | 51. deteriorate   |       |
+| 52. dedicate      | 52. dedicate      |       |
+| 53. indication    | 53. indication    |       |
+| 54. indicative    | 54. indicative    |       |
+| 55. verdict       | 55. verdict       |       |
+| 56. dignity       | 56. dignity       |       |
+| 57. indignation   | 57. indignation   |       |
+| 58. dividend      | 58. dividend      |       |
+| 59. doctrine      | 59. doctrine      |       |
+| 60. domain        | 60. domain        |       |
+| 61. donate        | 61. donate        |       |
+| 62. anecdote      | 62. anecdote      |       |
+| 63. induce        | 63. induce        |       |
+| 64. conductor     | 64. conductor     |       |
+| 65. endurance     | 65. endurance     |       |
+| 66. ecology       | 66. ecology       |       |
+| 67. exempt        | 67. exempt        |       |
+| 68. equation      | 68. equation      |       |
+| 69. energetic     | 69. energetic     |       |
+| 70. essence       | 70. essence       |       |
+| 71. interface     | 71. interface     |       |
+| 72. preface       | 72. preface       |       |
+| 73. fatigue       | 73. fatigue       |       |
+| 74. differentiate | 74. differentiate |       |
+| 75. confer        | 75. confer        |       |
+| 76. fertile       | 76. fertile       |       |
+| 77. fertilizer    | 77. fertilizer    |       |
+| 78. confess       | 78. confess       |       |
