@@ -45,10 +45,10 @@
 | 41. irony       |                               |
 | 42. isolate     |                               |
 | 43. peninsula   |                               |
-| 44. exit        |                               |
-| 45. adjective   |                               |
-| 46. conjunction |                               |
-| 47. juvenile    | 少年的                           |
+| 44. exit        | 离开                            |
+| 45. adjective   | 形容词                           |
+| 46. conjunction | 同时发生  连词                      |
+| 47. juvenile    | 少年的 未成年的 幼稚的                  |
 | 48. lateral     | 横看的 侧面的                       |
 | 49. delete      | 删除 删去                         |
 | 50. alleviate   | 避免 1                          |
