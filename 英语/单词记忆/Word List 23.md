@@ -27,9 +27,9 @@
 | 23. hydrogen    | 氢气 氢                          |
 | 24. genre       | 体裁 类型                         |
 | 25. grand       | 宏大的 宏伟的                       |
-| 26. aggravate   | 1                             |
+| 26. aggravate   | 1（使验证 ）                       |
 | 27. grave       | 严重的 死亡 逝去 坟墓  <br>            |
-| 28. agreeable   | 1（）                           |
+| 28. agreeable   | 1（愉悦的 讨人喜欢的 欣然同意）             |
 | 29. gratitude   | 感激 感谢                         |
 | 30. gross       | 总的 毛的 严重的                     |
 | 31. harmony     | 和谐                            |
@@ -81,4 +81,4 @@
 | 77. immerse     | 是沉浸 沉浸于                       |
 | 78. geometry    | 几何形状 几何学                      |
 | 79. immense     | 巨大的 极大的                       |
-| 80. emigrate    | 移民国外 移民                       |
+| 80. emigrate    | 移民国外 移民               
