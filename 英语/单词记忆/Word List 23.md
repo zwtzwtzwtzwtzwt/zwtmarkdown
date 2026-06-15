@@ -43,7 +43,7 @@
 | 39. imitation   | 模仿 赝品                                                          | 模仿 1（赝品）                      |
 | 40. imperative  | 2                                                              | 重要的 必要的 及重要的                  |
 | 41. irony       | 2                                                              | 讽刺异味的 反语的                     |
-| 42. isolate     | 孤立                                                             | 孤立 脱离                         |
+| 42. isolate     | 孤立 独立                                                          | 孤立 脱离                         |
 | 43. peninsula   |                                                                | 半岛                            |
 | 44. exit        |                                                                | 离开 退出  出口 通道                  |
 | 45. adjective   |                                                                | 形容词                           |
