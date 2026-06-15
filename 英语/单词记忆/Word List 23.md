@@ -23,8 +23,8 @@
 | 19. refute      | 否认 反驳                                                          | 反驳 否认                         |
 | 20. geography   | 地理学 地势 地貌                                                      | 地理学 地势 地貌                     |
 | 21. geology     | 地质学 地址                                                         | 地质学 地址                        |
-| 22. pregnant    |                                                                | 怀孕的                           |
-| 23. hydrogen    |                                                                | 氢气 氢                          |
+| 22. pregnant    | 怀孕的                                                            | 怀孕的                           |
+| 23. hydrogen    | 氢气                                                             | 氢气 氢                          |
 | 24. genre       |                                                                | 体裁 类型                         |
 | 25. grand       |                                                                | 宏大的 宏伟的                       |
 | 26. aggravate   |                                                                | 1（使严重 激怒）                     |
