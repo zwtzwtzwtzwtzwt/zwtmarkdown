@@ -3,8 +3,8 @@
 | **英文单词**          | **英文单词**          | **1** |
 | ----------------- | ----------------- | ----- |
 | 1. acute          | 1. xxxxx          |       |
-| 2. agony          | 2. agony          |       |
-| 3. altitude       | 3. altitude       |       |
+| 2. agony          | 2. xxxxx          |       |
+| 3. altitude       | 3. xxxxx          |       |
 | 4. aluminium      | 4. aluminium      |       |
 | 5. angle          | 5. angle          |       |
 | 6. arbitrary      | 6. arbitrary      |       |
