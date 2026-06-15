@@ -60,13 +60,13 @@
 | 56. preliminary | 初步的 1                         |
 | 57. linguistic  | 语言的 语言学的                      |
 | 58. illiterate  | 1                             |
-| 59. allocate    | 分配 配个                         |
+| 59. allocate    | 分配 配给                         |
 | 60. analogue    | 模拟的 类似物 相似物                   |
 | 61. catalogue   | 目录 一系列 编目录 1                  |
 | 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
 | 64. lottery     | 彩票抽奖  碰运气的事                   |
-| 65. lucrative   | 获利多的                          |
+| 65. lucrative   | 获利多的 1                        |
 | 66. paralyse    | 1                             |
 | 67. analytical  | 分析的 头脑缜密的                     |
 | 68. magnitude   | 巨大 重要性 1                      |
