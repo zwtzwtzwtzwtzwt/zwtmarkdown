@@ -47,7 +47,7 @@
 | 43. peninsula   | 半岛                                                             | 半岛                            |
 | 44. exit        | 退出 出口 通道 离开                                                    | 离开 退出  出口 通道                  |
 | 45. adjective   | 形容词                                                            | 形容词                           |
-| 46. conjunction | 共同发生 祈使                                                        | 同时发生  连词                      |
+| 46. conjunction | 共同发生 2                                                         | 同时发生  连词                      |
 | 47. juvenile    | 2                                                              | 少年的 未成年的 幼稚的                  |
 | 48. lateral     | 侧面的 横看的                                                        | 横看的 侧面的                       |
 | 49. delete      | 删除                                                             | 删除 删去                         |
