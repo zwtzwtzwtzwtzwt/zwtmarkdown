@@ -42,7 +42,7 @@
 | 38. imaginary   |                               |
 | 39. imitation   |                               |
 | 40. imperative  |                               |
-| 41. irony       | 讽刺                            |
+| 41. irony       | 讽刺异味的 反语的                     |
 | 42. isolate     | 孤立 脱离                         |
 | 43. peninsula   | 半岛                            |
 | 44. exit        | 离开 退出  出口 通道                  |
