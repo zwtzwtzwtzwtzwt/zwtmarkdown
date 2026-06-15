@@ -52,12 +52,12 @@
 | 48. lateral     | 横看的 侧面的                       |
 | 49. delete      | 删除 删去                         |
 | 50. alleviate   | 1                             |
-| 51. deliberate  | 故意的 1                         |
+| 51. deliberate  | 故意的 1（仔细考虑）                   |
 | 52. liberty     | 自由                            |
 | 53. eligible    | 合格的 有资格的                      |
 | 54. obligation  | 责任 义务 职责                      |
 | 55. align       | 结盟 化为一条线                      |
-| 56. preliminary | 初步的 1                         |
+| 56. preliminary | 初步的 1（预备性的）                   |
 | 57. linguistic  | 语言的 语言学的                      |
 | 58. illiterate  | 1（文盲 不识字的 外行的）                |
 | 59. allocate    | 分配 配给                         |
