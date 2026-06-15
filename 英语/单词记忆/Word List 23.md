@@ -56,8 +56,8 @@
 | 52. liberty     | 自由                                                             | 自由                            |
 | 53. eligible    | 合格的 有资格的                                                       | 合格的 有资格的                      |
 | 54. obligation  | 义务 职责                                                          | 责任 义务 职责                      |
-| 55. align       |                                                                | 结盟 化为一条线                      |
-| 56. preliminary |                                                                | 初步的 1（预备性的）                   |
+| 55. align       | 联盟 2                                                           | 结盟 化为一条线                      |
+| 56. preliminary | 初始的                                                            | 初步的 1（预备性的）                   |
 | 57. linguistic  |                                                                | 语言的 语言学的                      |
 | 58. illiterate  |                                                                | 1（文盲 不识字的 外行的）                |
 | 59. allocate    |                                                                | 分配 配给                         |
