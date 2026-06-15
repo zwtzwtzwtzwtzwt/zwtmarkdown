@@ -51,7 +51,7 @@
 | 47. juvenile    |                               |
 | 48. lateral     |                               |
 | 49. delete      |                               |
-| 50. alleviate   | 避免                            |
+| 50. alleviate   | 避免 1                          |
 | 51. deliberate  | 故意的 1                         |
 | 52. liberty     | 自由                            |
 | 53. eligible    | 合格的 有资格的                      |
