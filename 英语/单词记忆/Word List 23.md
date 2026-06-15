@@ -59,10 +59,10 @@
 | 55. align       | 结盟 化为一条线                      |
 | 56. preliminary | 初步的 1                         |
 | 57. linguistic  | 语言的 语言学的                      |
-| 58. illiterate  | 1                             |
+| 58. illiterate  | 1（文盲 不识字的 外行的）                |
 | 59. allocate    | 分配 配给                         |
 | 60. analogue    | 模拟的 类似物 相似物                   |
-| 61. catalogue   | 目录 一系列 编目录 1                  |
+| 61. catalogue   | 目录 一系列 编目录 1（一一列出）            |
 | 62. analogy     | 比喻 类比                         |
 | 63. logic       | 逻辑  逻辑学                       |
 | 64. lottery     | 彩票抽奖  碰运气的事                   |
