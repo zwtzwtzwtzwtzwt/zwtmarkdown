@@ -31,12 +31,12 @@
 | 27. grave       | 严重的 死亡 逝去 坟墓                  |
 | 28. agreeable   | 使人愉悦的 1                       |
 | 29. gratitude   | 感激 感谢                         |
-| 30. gross       |                               |
-| 31. harmony     |                               |
-| 32. inherit     |                               |
-| 33. prohibit    |                               |
-| 34. historic    |                               |
-| 35. humidity    |                               |
+| 30. gross       | 总的 毛的 严重的                     |
+| 31. harmony     | 和谐                            |
+| 32. inherit     | 继承                            |
+| 33. prohibit    | 进制                            |
+| 34. historic    | 历史的 历史性的                      |
+| 35. humidity    | 湿度 潮湿                         |
 | 36. hygiene     |                               |
 | 37. identical   | 相同的                           |
 | 38. imaginary   | 想象的 虚构的 1                     |
