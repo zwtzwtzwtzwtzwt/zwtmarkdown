@@ -51,7 +51,7 @@
 | 47. juvenile    | 少年的 未成年的 幼稚的                  |
 | 48. lateral     | 横看的 侧面的                       |
 | 49. delete      | 删除 删去                         |
-| 50. alleviate   | 避免 1                          |
+| 50. alleviate   | 1                             |
 | 51. deliberate  | 故意的 1                         |
 | 52. liberty     | 自由                            |
 | 53. eligible    | 合格的 有资格的                      |
