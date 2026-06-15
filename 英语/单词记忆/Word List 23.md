@@ -38,8 +38,8 @@
 | 34. historic    |                               |
 | 35. humidity    |                               |
 | 36. hygiene     |                               |
-| 37. identical   |                               |
-| 38. imaginary   |                               |
+| 37. identical   | 相同的                           |
+| 38. imaginary   | 想象的 虚构的 1                     |
 | 39. imitation   | 模仿 1                          |
 | 40. imperative  | 重要的 必要的 及重要的 1                |
 | 41. irony       | 讽刺异味的 反语的                     |
