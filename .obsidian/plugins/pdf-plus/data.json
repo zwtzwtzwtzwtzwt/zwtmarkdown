@@ -77,7 +77,7 @@
   "highlightOnHoverBacklinkPane": true,
   "backlinkHoverColor": "",
   "colors": {
-    "Yellow": "#ffd000",
+    "Yellow": "#59ff00",
     "Red": "#ea5252",
     "Note": "#086ddd",
     "Important": "#bb61e5"
