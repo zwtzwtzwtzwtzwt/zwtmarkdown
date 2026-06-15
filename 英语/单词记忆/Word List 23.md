@@ -4,8 +4,8 @@
 | --------------- | ----------------------------- |
 | 1. deficiency   | 缺乏 缺陷 缺点                      |
 | 2. superficial  | 表面的 肤浅的 1                     |
-| 3. proficiency  |                               |
-| 4. feasible     |                               |
+| 3. proficiency  | 熟练 精确                         |
+| 4. feasible     | 可行的 行的通的                      |
 | 5. confidential |                               |
 | 6. profile      |                               |
 | 7. finite       |                               |
