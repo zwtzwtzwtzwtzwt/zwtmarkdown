@@ -7,10 +7,10 @@
 | 3. proficiency  | 精通 熟练                                                          | 熟练 精确                         |
 | 4. feasible     | 行得通的  可行的                                                      | 可行的 行的通的                      |
 | 5. confidential | 机密的 保密的                                                        | 秘密的 保密的                       |
-| 6. profile      | 形象 轮廓                                                          | 形象 轮廓 简历                      |
-| 7. finite       |                                                                | 有限的                           |
-| 8. infinite     |                                                                | 无穷的                           |
-| 9. affirm       |                                                                | 确认 证实 坚定                      |
+| 6. profile      | 形象 轮廓 简历                                                       | 形象 轮廓 简历                      |
+| 7. finite       | 有限的                                                            | 有限的                           |
+| 8. infinite     | 无限的                                                            | 无穷的                           |
+| 9. affirm       | 证实                                                             | 确认 证实 坚定                      |
 | 10. fiscal      |                                                                | 财政的 国库的                       |
 | 11. flexible    |                                                                | 灵活的 可变的 有弯曲的                  |
 | 12. superfluous |                                                                | 过剩的 多余的                       |
