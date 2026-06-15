@@ -45,7 +45,7 @@
 | 41. irony       |                               |
 | 42. isolate     |                               |
 | 43. peninsula   |                               |
-| 44. exit        | 离开 退出 逃离通道                    |
+| 44. exit        | 离开 退出  出口 通道                  |
 | 45. adjective   | 形容词                           |
 | 46. conjunction | 同时发生  连词                      |
 | 47. juvenile    | 少年的 未成年的 幼稚的                  |
