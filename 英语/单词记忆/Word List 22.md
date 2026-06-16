@@ -17,10 +17,10 @@
 | 13. carrier       | 携带者  运输工具 1（运输公司） |
 | 14. precaution    | 1(预防措施  预防)       |
 | 15. reception     | 1（接待处 接受）         |
-| 16. susceptible   | 1                 |
-| 17. receipt       | 1                 |
+| 16. susceptible   | 1（易受影响的）          |
+| 17. receipt       | 1（收据 接受）          |
 | 18. excellent     | 杰出的 出色的           |
-| 19. discern       | 1                 |
+| 19. discern       | 1（了解 意识）          |
 | 20. certainty     | 确定性               |
 | 21. certificate   |                   |
 | 22. preceding     |                   |
