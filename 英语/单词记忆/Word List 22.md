@@ -75,7 +75,7 @@
 | 71. interface     | 接口 界面             |
 | 72. preface       | 前沿 以什么为开头         |
 | 73. fatigue       | 疲惫 疲劳             |
-| 74. differentiate | 1（分辨 区分 ）         |
+| 74. differentiate | 1（分辨 区分 有别于）      |
 | 75. confer        | 1（授予 商议 商讨）       |
 | 76. fertile       | 肥料                |
 | 77. fertilizer    | 肥沃的 富饶的 能生育的      |
