@@ -20,13 +20,13 @@
 | 16. susceptible   | 1（易受影响的）          |
 | 17. receipt       | 1（收据 接受）          |
 | 18. excellent     | 杰出的 出色的           |
-| 19. discern       | 1（识别了解）           |
+| 19. discern       | 1（识别 了解）          |
 | 20. certainty     | 确定性               |
 | 21. certificate   | 证明 证明书            |
 | 22. preceding     | 前面的 在前面           |
 | 23. concession    | 让步 妥协             |
 | 24. chemist       | 化学家               |
-| 25. precision     |                   |
+| 25. precision     | 精确 准确             |
 | 26. decisive      |                   |
 | 27. concise       |                   |
 | 28. proclaim      |                   |
