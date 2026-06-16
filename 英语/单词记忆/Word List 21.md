@@ -13,7 +13,7 @@
 | 9. provided      | 1               |
 | 10. puzzle       | 使困惑  谜  智力游戏    |
 | 11. ratio        | 比 比例            |
-| 12. raw          |                 |
+| 12. raw          | 生的   未加工的       |
 | 13. readily      |                 |
 | 14. reap         |                 |
 | 15. rear         |                 |
