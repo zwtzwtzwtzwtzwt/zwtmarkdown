@@ -68,8 +68,8 @@
 | 64. tide         | 潮汐  人流                |
 | 65. tidy         | （整洁的 收拾整理）            |
 | 66. tight        | 紧的                    |
-| 67. twist        |                       |
-| 68. underlying   |                       |
+| 67. twist        | （转折 突然变化 ）            |
+| 68. underlying   | （潜在的 ）                |
 | 69. undoubtedly  | 不用怀疑的                 |
 | 70. unity        |                       |
 | 71. valley       |                       |
