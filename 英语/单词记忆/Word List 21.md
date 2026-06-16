@@ -41,7 +41,7 @@
 | 37. spite        |                  |
 | 38. split        |                  |
 | 39. spoil        |                  |
-| 40. spokesperson |                  |
+| 40. spokesperson | 演讲人              |
 | 41. spring       |                  |
 | 42. squeeze      |                  |
 | 43. stake        |                  |
