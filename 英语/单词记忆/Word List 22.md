@@ -4,8 +4,8 @@
 | ----------------- | ------- |
 | 1. acute          | 严重的 激烈的 |
 | 2. agony          | 极度痛苦    |
-| 3. altitude       |         |
-| 4. aluminium      |         |
+| 3. altitude       | 海拔      |
+| 4. aluminium      | 铝       |
 | 5. angle          |         |
 | 6. arbitrary      |         |
 | 7. augment        |         |
