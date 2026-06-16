@@ -32,7 +32,7 @@
 | 28. shuttle      | 航空飞机  往返         |
 | 29. sketch       |                  |
 | 30. skip         | 跳过 不做 跳着         |
-| 31. slice        |                  |
+| 31. slice        | 片 切成片            |
 | 32. slight       |                  |
 | 33. slogan       |                  |
 | 34. smooth       |                  |
