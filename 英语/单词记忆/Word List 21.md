@@ -66,7 +66,7 @@
 | 62. thereby      | 因此 从而                 |
 | 63. threshold    | 门槛  起点                |
 | 64. tide         | 潮汐  人流                |
-| 65. tidy         | （整洁的 ）                |
+| 65. tidy         | （整洁的 收拾整理）            |
 | 66. tight        | 紧的                    |
 | 67. twist        |                       |
 | 68. underlying   |                       |
