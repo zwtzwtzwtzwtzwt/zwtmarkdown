@@ -15,7 +15,7 @@
 | 11. border        | 边界  与什么接壤   |
 | 12. captain       | 队长 船长       |
 | 13. carrier       | 携带者  运输工具 1 |
-| 14. precaution    |             |
+| 14. precaution    | 预知          |
 | 15. reception     |             |
 | 16. susceptible   |             |
 | 17. receipt       |             |
