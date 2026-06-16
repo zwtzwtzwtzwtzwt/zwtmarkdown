@@ -49,7 +49,7 @@
 | 45. decent        | 得体的               |
 | 46. condemn       | 谴责 批判             |
 | 47. demographic   | 人口统计数据  人群 1      |
-| 48. condense      |                   |
+| 48. condense      | 冷凝 使变             |
 | 49. dental        |                   |
 | 50. dentist       |                   |
 | 51. deteriorate   |                   |
