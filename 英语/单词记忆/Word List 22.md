@@ -73,10 +73,10 @@
 | 69. energetic     | 充满活力的                                                  | 充满活力的               |
 | 70. essence       | 本质 精油                                                  | 本质 精油               |
 | 71. interface     | 接口 页面                                                  | 接口 界面               |
-| 72. preface       | 前言  以什么为                                               | 前沿 以什么为开头           |
-| 73. fatigue       |                                                        | 疲惫 疲劳               |
-| 74. differentiate |                                                        | 1（分辨 区分 有别于）        |
-| 75. confer        |                                                        | 1（授予 商议 商讨）         |
-| 76. fertile       |                                                        | 肥料                  |
+| 72. preface       | 前言  以什么为开场白                                            | 前沿 以什么为开头           |
+| 73. fatigue       | 疲惫                                                     | 疲惫 疲劳               |
+| 74. differentiate | 辨别 区分  不同于                                             | 1（分辨 区分 有别于）        |
+| 75. confer        | 授予 2                                                   | 1（授予 商议 商讨）         |
+| 76. fertile       | 肥沃的                                                    | 肥料                  |
 | 77. fertilizer    |                                                        | 肥沃的 富饶的 能生育的        |
 | 78. confess       |                                                        | 坦白 承认               |
