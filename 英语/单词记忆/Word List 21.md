@@ -46,7 +46,7 @@
 | 42. squeeze      | 1（压缩 压榨 挤 经济困难）    |
 | 43. stake        | （重大利益  重大利益关系  股份） |
 | 44. starve       | （缺乏 饿死 挨饿）         |
-| 45. steady       |                    |
+| 45. steady       | 稳定的                |
 | 46. steer        | 引导                 |
 | 47. storey       |                    |
 | 48. stream       |                    |
