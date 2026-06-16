@@ -23,7 +23,7 @@
 | 19. discern       | 了解 2                                                   | 1（识别 了解）            |
 | 20. certainty     | 确定 确定性                                                 | 确定性                 |
 | 21. certificate   | 证明 证明书                                                 | 证明 证明书              |
-| 22. preceding     |                                                        | 前面的 在前面             |
+| 22. preceding     | 向前的 前面的                                                | 前面的 在前面             |
 | 23. concession    |                                                        | 让步 妥协               |
 | 24. chemist       |                                                        | 化学家                 |
 | 25. precision     |                                                        | 精确 准确               |
