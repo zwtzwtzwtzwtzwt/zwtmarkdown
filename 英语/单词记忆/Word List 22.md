@@ -74,9 +74,9 @@
 | 70. essence       | 本质 精油             |
 | 71. interface     | 接口 界面             |
 | 72. preface       | 前沿 以什么为开头         |
-| 73. fatigue       |                   |
-| 74. differentiate |                   |
-| 75. confer        |                   |
+| 73. fatigue       | 疲惫 疲劳             |
+| 74. differentiate | 1                 |
+| 75. confer        | 1                 |
 | 76. fertile       |                   |
 | 77. fertilizer    |                   |
 | 78. confess       |                   |
