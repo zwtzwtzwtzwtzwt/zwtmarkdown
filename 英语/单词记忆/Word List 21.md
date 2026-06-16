@@ -31,7 +31,7 @@
 | 27. shrink       | 缩小 后退            |
 | 28. shuttle      | 航空飞机  往返         |
 | 29. sketch       |                  |
-| 30. skip         |                  |
+| 30. skip         | 跳过 不做 跳着         |
 | 31. slice        |                  |
 | 32. slight       |                  |
 | 33. slogan       |                  |
