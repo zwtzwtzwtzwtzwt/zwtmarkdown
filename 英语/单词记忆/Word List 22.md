@@ -27,7 +27,7 @@
 | 23. concession    | 让步 妥协             |
 | 24. chemist       | 化学家               |
 | 25. precision     | 精确 准确             |
-| 26. decisive      |                   |
+| 26. decisive      | 决定性的 关键的          |
 | 27. concise       |                   |
 | 28. proclaim      |                   |
 | 29. declaration   |                   |
