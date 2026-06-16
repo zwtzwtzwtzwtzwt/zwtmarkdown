@@ -15,8 +15,8 @@
 | 11. border        | 边界 国界                                                  | 边界  与什么接壤           |
 | 12. captain       | 队长 船长                                                  | 队长 船长               |
 | 13. carrier       | 运输公司 运输工具  携带者                                         | 携带者  运输工具 1（运输公司）   |
-| 14. precaution    |                                                        | 1(预防措施  预防)         |
-| 15. reception     |                                                        | 1（接待处 接受）           |
+| 14. precaution    | 精确 准确                                                  | 1(预防措施  预防)         |
+| 15. reception     | 接待处 棘手                                                 | 1（接待处 接受）           |
 | 16. susceptible   |                                                        | 1（易受影响的）            |
 | 17. receipt       |                                                        | 1（收据 接受）            |
 | 18. excellent     |                                                        | 杰出的 出色的             |
