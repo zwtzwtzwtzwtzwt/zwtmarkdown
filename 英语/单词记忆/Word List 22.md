@@ -16,8 +16,8 @@
 | 12. captain       | 队长 船长             |
 | 13. carrier       | 携带者  运输工具 1（运输公司） |
 | 14. precaution    | 1(预防措施  预防)       |
-| 15. reception     | 1（）               |
-| 16. susceptible   | 易接受的              |
+| 15. reception     | 1（接待处 接受）         |
+| 16. susceptible   | 1                 |
 | 17. receipt       | 1                 |
 | 18. excellent     | 杰出的 出色的           |
 | 19. discern       | 1                 |
