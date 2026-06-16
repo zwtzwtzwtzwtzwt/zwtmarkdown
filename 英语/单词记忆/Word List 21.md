@@ -8,7 +8,7 @@
 | 4. pledge        | 承诺 保证           |
 | 5. poisonous     | 有毒的             |
 | 6. pour          | 倒 流出 下大雨        |
-| 7. prestige      | 声望  体面的 手       |
+| 7. prestige      | 声望  体面的 受尊重的    |
 | 8. proud         |                 |
 | 9. provided      |                 |
 | 10. puzzle       |                 |
