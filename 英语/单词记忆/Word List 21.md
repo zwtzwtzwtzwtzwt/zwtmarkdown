@@ -58,7 +58,7 @@
 | 54. surroundings | 环境                    |
 | 55. sweep        | 横扫  席卷                |
 | 56. swing        | 改变 秋千 摇摆 摆动           |
-| 57. tackle       | 解决                    |
+| 57. tackle       | 解决 处理                 |
 | 58. tactic       |                       |
 | 59. tap          |                       |
 | 60. tear         |                       |
