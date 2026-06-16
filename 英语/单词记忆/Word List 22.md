@@ -60,7 +60,7 @@
 | 56. dignity       | 自尊 尊严  1          |
 | 57. indignation   | 愤怒 愤慨             |
 | 58. dividend      |                   |
-| 59. doctrine      |                   |
+| 59. doctrine      | 信条                |
 | 60. domain        |                   |
 | 61. donate        |                   |
 | 62. anecdote      |                   |
