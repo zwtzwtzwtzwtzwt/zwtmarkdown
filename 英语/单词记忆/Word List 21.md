@@ -18,9 +18,9 @@
 | 14. reap         | 1               |
 | 15. rear         | 尾部的             |
 | 16. refuge       | 庇护所             |
-| 17. regarding    |                 |
-| 18. rescue       |                 |
-| 19. rocket       |                 |
+| 17. regarding    | 关于              |
+| 18. rescue       | 职员救援            |
+| 19. rocket       | 1               |
 | 20. rough        |                 |
 | 21. rubber       |                 |
 | 22. scarcely     |                 |
