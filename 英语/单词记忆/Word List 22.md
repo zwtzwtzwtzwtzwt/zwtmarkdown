@@ -63,7 +63,7 @@
 | 59. doctrine      | 信条 教义             |
 | 60. domain        | 领域 领地             |
 | 61. donate        | 捐赠                |
-| 62. anecdote      |                   |
+| 62. anecdote      | 轶事                |
 | 63. induce        |                   |
 | 64. conductor     |                   |
 | 65. endurance     |                   |
