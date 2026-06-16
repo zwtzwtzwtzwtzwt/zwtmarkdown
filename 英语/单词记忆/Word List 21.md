@@ -47,7 +47,7 @@
 | 43. stake        | （重大利益  重大利益关系  股份） |
 | 44. starve       | （缺乏 饿死 挨饿）         |
 | 45. steady       |                    |
-| 46. steer        |                    |
+| 46. steer        | 引导                 |
 | 47. storey       |                    |
 | 48. stream       |                    |
 | 49. stretch      |                    |
