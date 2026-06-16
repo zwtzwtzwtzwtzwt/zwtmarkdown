@@ -17,8 +17,8 @@
 | 13. carrier       | 运输公司 运输工具  携带者                                         | 携带者  运输工具 1（运输公司）   |
 | 14. precaution    | 精确 准确                                                  | 1(预防措施  预防)         |
 | 15. reception     | 接待处 接受                                                 | 1（接待处 接受）           |
-| 16. susceptible   |                                                        | 1（易受影响的）            |
-| 17. receipt       |                                                        | 1（收据 接受）            |
+| 16. susceptible   | 2                                                      | 1（易受影响的）            |
+| 17. receipt       | 收据 接受                                                  | 1（收据 接受）            |
 | 18. excellent     |                                                        | 杰出的 出色的             |
 | 19. discern       |                                                        | 1（识别 了解）            |
 | 20. certainty     |                                                        | 确定性                 |
