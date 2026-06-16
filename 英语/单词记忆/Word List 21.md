@@ -39,8 +39,8 @@
 | 35. snap         | 迅速的 临时的 咔嚓声      |
 | 36. spare        | 抽出  空闲的          |
 | 37. spite        |                  |
-| 38. split        |                  |
-| 39. spoil        | （破坏 毁坏 变质  ）     |
+| 38. split        | （）               |
+| 39. spoil        | （破坏 毁坏 变质  宠坏）   |
 | 40. spokesperson | 演讲人              |
 | 41. spring       | 春天 源泉            |
 | 42. squeeze      | 1（压缩 压榨 挤 经济困难）  |
