@@ -24,8 +24,8 @@
 | 20. rough        | 危险的 粗略的 粗糙的      |
 | 21. rubber       | 橡胶 1（橡皮擦）        |
 | 22. scarcely     | 勉强不 刚....就       |
-| 23. scheme       | 方案 计划            |
-| 24. sculpture    |                  |
+| 23. scheme       | 方案 计划  暗谋        |
+| 24. sculpture    | 雕刻品 雕刻术          |
 | 25. shade        |                  |
 | 26. sharp        |                  |
 | 27. shrink       |                  |
