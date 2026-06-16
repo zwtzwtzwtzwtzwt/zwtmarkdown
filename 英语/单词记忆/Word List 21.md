@@ -42,7 +42,7 @@
 | 38. split        |                  |
 | 39. spoil        |                  |
 | 40. spokesperson | 演讲人              |
-| 41. spring       |                  |
+| 41. spring       | 春天               |
 | 42. squeeze      |                  |
 | 43. stake        |                  |
 | 44. starve       |                  |
