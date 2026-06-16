@@ -60,12 +60,12 @@
 | 56. swing        | 改变 秋千 摇摆 摆动           |
 | 57. tackle       | 解决 处理  交涉             |
 | 58. tactic       |                       |
-| 59. tap          |                       |
+| 59. tap          | 开发 利用 水龙头             |
 | 60. tear         | 眼泪 撕裂                 |
 | 61. theme        | 主题                    |
 | 62. thereby      | 因此 从而                 |
 | 63. threshold    | 门槛  起点                |
-| 64. tide         | 潮汐                    |
+| 64. tide         | 潮汐  人流                |
 | 65. tidy         | 悲剧                    |
 | 66. tight        |                       |
 | 67. twist        |                       |
