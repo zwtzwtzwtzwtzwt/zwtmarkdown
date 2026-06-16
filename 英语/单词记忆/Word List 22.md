@@ -59,7 +59,7 @@
 | 55. verdict       | 裁定 裁决 1           |
 | 56. dignity       | 自尊 尊严  1          |
 | 57. indignation   | 愤怒 愤慨             |
-| 58. dividend      |                   |
+| 58. dividend      | 1                 |
 | 59. doctrine      | 信条 教义             |
 | 60. domain        | 领域 领地             |
 | 61. donate        | 捐赠                |
