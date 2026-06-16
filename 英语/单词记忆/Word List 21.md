@@ -20,7 +20,7 @@
 | 16. refuge       | 庇护所              |
 | 17. regarding    | 关于               |
 | 18. rescue       | 职员救援             |
-| 19. rocket       | 1                |
+| 19. rocket       | 1（火箭 快速增长 极速移动）  |
 | 20. rough        | 危险的 粗略的 粗糙的      |
 | 21. rubber       | 橡胶               |
 | 22. scarcely     |                  |
