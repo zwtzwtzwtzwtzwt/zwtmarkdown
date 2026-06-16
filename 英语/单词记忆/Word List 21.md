@@ -53,9 +53,9 @@
 | 49. stretch      | 延伸 延展 1（一段时间 舒展）      |
 | 50. stuff        | 物品  1（东西 事情 活动 装满 填满） |
 | 51. supplement   | 补充的   补充  增补物         |
-| 52. surgery      | 外科                    |
-| 53. surname      |                       |
-| 54. surroundings |                       |
+| 52. surgery      | 外科  诊室                |
+| 53. surname      | 姓                     |
+| 54. surroundings | 环境                    |
 | 55. sweep        |                       |
 | 56. swing        |                       |
 | 57. tackle       |                       |
