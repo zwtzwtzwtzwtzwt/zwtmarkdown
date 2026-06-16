@@ -54,7 +54,7 @@
 | 50. dentist       | 牙医                                                            | 牙医                                                     | 牙医                  |
 | 51. deteriorate   | 恶化 3                                                          | 使恶化 2                                                  | 使恶化                 |
 | 52. dedicate      | 献身与                                                           | 献身于                                                    | 献身于                 |
-| 53. indication    |                                                               |                                                        | 表明 指明               |
+| 53. indication    | 显示 表明 标明                                                      |                                                        | 表明 指明               |
 | 54. indicative    |                                                               |                                                        | 指明的 表明的             |
 | 55. verdict       |                                                               | 裁决 意见 2                                                | 裁定 裁决 1（意见 结论 ）     |
 | 56. dignity       |                                                               | 自尊 尊贵                                                  | 自尊 尊严  1 （尊贵）       |
