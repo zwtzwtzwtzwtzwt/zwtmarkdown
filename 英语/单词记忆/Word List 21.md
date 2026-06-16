@@ -78,5 +78,5 @@
 | 74. warrant      |                       |
 | 75. wheel        |                       |
 | 76. wholly       |                       |
-| 77. worthy       | 值得尊敬的  值              |
+| 77. worthy       | 值得尊敬的 值得的             |
 | 78. youth        | 年轻 活力                 |
