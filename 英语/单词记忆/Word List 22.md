@@ -17,7 +17,7 @@
 | 13. carrier       | 携带者  运输工具 1 |
 | 14. precaution    | 预知          |
 | 15. reception     | 接待          |
-| 16. susceptible   |             |
+| 16. susceptible   | 易接受的        |
 | 17. receipt       |             |
 | 18. excellent     |             |
 | 19. discern       |             |
