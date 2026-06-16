@@ -20,7 +20,7 @@
 | 16. susceptible   | 1（易受影响的）          |
 | 17. receipt       | 1（收据 接受）          |
 | 18. excellent     | 杰出的 出色的           |
-| 19. discern       | 1（了解 意识）          |
+| 19. discern       | 1（识别了解）           |
 | 20. certainty     | 确定性               |
 | 21. certificate   |                   |
 | 22. preceding     |                   |
