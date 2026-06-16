@@ -76,7 +76,7 @@
 | 72. vessel       |                       |
 | 73. vice         |                       |
 | 74. warrant      |                       |
-| 75. wheel        |                       |
+| 75. wheel        | 轮子  推动                |
 | 76. wholly       | 全面的 整体的               |
 | 77. worthy       | 得尊敬的 值得的 （指明人士）       |
 | 78. youth        | 年轻 活力                 |
