@@ -11,7 +11,7 @@
 | 7. prestige      | 声望  体面的 受尊重的    |
 | 8. proud         | 骄傲的 骄傲自大的       |
 | 9. provided      | 1               |
-| 10. puzzle       | 使困惑             |
+| 10. puzzle       | 使困惑  谜          |
 | 11. ratio        |                 |
 | 12. raw          |                 |
 | 13. readily      |                 |
