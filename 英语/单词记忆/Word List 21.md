@@ -26,7 +26,7 @@
 | 22. scarcely     | 勉强不 刚....就       |
 | 23. scheme       | 方案 计划  暗谋        |
 | 24. sculpture    | 雕刻品 雕刻术          |
-| 25. shade        | 阴凉处  暗处 给什么      |
+| 25. shade        | 阴凉处  暗处 遮挡       |
 | 26. sharp        |                  |
 | 27. shrink       |                  |
 | 28. shuttle      |                  |
