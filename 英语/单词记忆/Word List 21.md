@@ -37,7 +37,7 @@
 | 33. slogan       | 标语               |
 | 34. smooth       | 丝滑的 顺滑的 抹        |
 | 35. snap         |                  |
-| 36. spare        | 抽出               |
+| 36. spare        | 抽出  空闲的          |
 | 37. spite        |                  |
 | 38. split        |                  |
 | 39. spoil        |                  |
