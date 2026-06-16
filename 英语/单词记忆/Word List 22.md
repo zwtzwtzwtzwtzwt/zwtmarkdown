@@ -61,12 +61,12 @@
 | 57. indignation   | 愤怒 义愤                                                  | 愤怒 愤慨               |
 | 58. dividend      | 2                                                      | 1（红利 股息）            |
 | 59. doctrine      | 信条 教义                                                  | 信条 教义               |
-| 60. domain        | 领域                                                     | 领域 领地               |
-| 61. donate        |                                                        | 捐赠                  |
-| 62. anecdote      |                                                        | 轶事                  |
-| 63. induce        |                                                        | 引起 招致               |
-| 64. conductor     |                                                        | 组织者  导体             |
-| 65. endurance     |                                                        | 忍耐力                 |
+| 60. domain        | 领域 领土                                                  | 领域 领地               |
+| 61. donate        | 捐赠                                                     | 捐赠                  |
+| 62. anecdote      | 轶事                                                     | 轶事                  |
+| 63. induce        | 引起 招致 遭受                                               | 引起 招致               |
+| 64. conductor     | 2                                                      | 组织者  导体             |
+| 65. endurance     | 忍耐力                                                    | 忍耐力                 |
 | 66. ecology       |                                                        | 生态 生态学              |
 | 67. exempt        |                                                        | 免除                  |
 | 68. equation      |                                                        | 等式                  |
