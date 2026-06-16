@@ -9,8 +9,8 @@
 | 5. angle          | 角度 角        |
 | 6. arbitrary      | 专制的 武断的 专断的 |
 | 7. augment        | 提高 提升       |
-| 8. authentic      |             |
-| 9. rebel          |             |
+| 8. authentic      | 正在的 真实的     |
+| 9. rebel          | 叛军 反抗       |
 | 10. bond          |             |
 | 11. border        |             |
 | 12. captain       |             |
