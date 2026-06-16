@@ -29,7 +29,7 @@
 | 25. shade        | 阴凉处  暗处 遮挡       |
 | 26. sharp        | 恶劣的 激烈的          |
 | 27. shrink       | 缩小 后退            |
-| 28. shuttle      | 航空飞机             |
+| 28. shuttle      | 航空飞机  往返         |
 | 29. sketch       |                  |
 | 30. skip         |                  |
 | 31. slice        |                  |
