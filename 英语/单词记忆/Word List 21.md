@@ -21,7 +21,7 @@
 | 17. regarding    | 关于              |
 | 18. rescue       | 职员救援            |
 | 19. rocket       | 1               |
-| 20. rough        | 危险的             |
+| 20. rough        | 危险的 粗略的         |
 | 21. rubber       |                 |
 | 22. scarcely     |                 |
 | 23. scheme       |                 |
