@@ -50,8 +50,8 @@
 | 46. condemn       | 谴责 批判                                                  | 谴责 批判               |
 | 47. demographic   | 人口结构的   人群 人口统计数据                                      | 人口统计数据  人群 1（人口结构的） |
 | 48. condense      | 2                                                      | 冷凝 使变浓              |
-| 49. dental        |                                                        | 牙齿的                 |
-| 50. dentist       |                                                        | 牙医                  |
+| 49. dental        | 牙齿的                                                    | 牙齿的                 |
+| 50. dentist       | 牙医                                                     | 牙医                  |
 | 51. deteriorate   |                                                        | 使恶化                 |
 | 52. dedicate      |                                                        | 献身于                 |
 | 53. indication    |                                                        | 表明 指明               |
