@@ -30,9 +30,9 @@
 | 26. sharp        | 恶劣的 激烈的          |
 | 27. shrink       | 缩小 后退            |
 | 28. shuttle      | 航空飞机  往返         |
-| 29. sketch       |                  |
+| 29. sketch       | 概述 素描            |
 | 30. skip         | 跳过 不做 跳着         |
-| 31. slice        | 切成片  片 部分        |
+| 31. slice        | 切成片  片 部分 份额     |
 | 32. slight       |                  |
 | 33. slogan       |                  |
 | 34. smooth       |                  |
