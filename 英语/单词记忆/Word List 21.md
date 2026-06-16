@@ -67,7 +67,7 @@
 | 63. threshold    | 门槛  起点                |
 | 64. tide         | 潮汐  人流                |
 | 65. tidy         | 悲剧                    |
-| 66. tight        |                       |
+| 66. tight        | 紧的                    |
 | 67. twist        |                       |
 | 68. underlying   |                       |
 | 69. undoubtedly  |                       |
