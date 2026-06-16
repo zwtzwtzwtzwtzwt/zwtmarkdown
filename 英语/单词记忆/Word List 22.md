@@ -43,12 +43,12 @@
 | 39. incur         | 招致 致使             |
 | 40. recur         | 反复出现              |
 | 41. occurrence    | 发生的事  事件          |
-| 42. currency      |                   |
-| 43. corridor      |                   |
-| 44. discourse     |                   |
-| 45. decent        |                   |
-| 46. condemn       |                   |
-| 47. demographic   |                   |
+| 42. currency      | 货币  传播 1          |
+| 43. corridor      | 走廊 过道             |
+| 44. discourse     | 1                 |
+| 45. decent        | 得体的               |
+| 46. condemn       | 谴责 批判             |
+| 47. demographic   | 人口统计数据  人群 1      |
 | 48. condense      |                   |
 | 49. dental        |                   |
 | 50. dentist       |                   |
