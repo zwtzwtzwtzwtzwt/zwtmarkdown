@@ -12,9 +12,9 @@
 | 8. authentic      | 正在的 真实的     |
 | 9. rebel          | 叛军 反抗       |
 | 10. bond          | 联系 纽带       |
-| 11. border        | 边界  与什么     |
-| 12. captain       |             |
-| 13. carrier       |             |
+| 11. border        | 边界  与什么接壤   |
+| 12. captain       | 队长 船长       |
+| 13. carrier       | 携带者  运输工具 1 |
 | 14. precaution    |             |
 | 15. reception     |             |
 | 16. susceptible   |             |
