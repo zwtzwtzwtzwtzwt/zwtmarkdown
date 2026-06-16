@@ -56,7 +56,7 @@
 | 52. surgery      | 外科  诊室                |
 | 53. surname      | 姓                     |
 | 54. surroundings | 环境                    |
-| 55. sweep        |                       |
+| 55. sweep        | 横扫                    |
 | 56. swing        |                       |
 | 57. tackle       |                       |
 | 58. tactic       |                       |
