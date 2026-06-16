@@ -44,7 +44,7 @@
 | 40. spokesperson | 演讲人                |
 | 41. spring       | 春天 源泉              |
 | 42. squeeze      | 1（压缩 压榨 挤 经济困难）    |
-| 43. stake        |                    |
+| 43. stake        | （重大利益  重大利益关系  股份） |
 | 44. starve       |                    |
 | 45. steady       |                    |
 | 46. steer        |                    |
