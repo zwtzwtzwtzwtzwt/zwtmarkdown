@@ -78,5 +78,5 @@
 | 74. differentiate | 1                 |
 | 75. confer        | 1                 |
 | 76. fertile       |                   |
-| 77. fertilizer    |                   |
-| 78. confess       |                   |
+| 77. fertilizer    | 肥沃的 富饶的 能生育的      |
+| 78. confess       | 坦白 承认             |
