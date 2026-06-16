@@ -11,8 +11,8 @@
 | 7. augment        | 提高 提升       |
 | 8. authentic      | 正在的 真实的     |
 | 9. rebel          | 叛军 反抗       |
-| 10. bond          |             |
-| 11. border        |             |
+| 10. bond          | 联系 纽带       |
+| 11. border        | 边界  与什么     |
 | 12. captain       |             |
 | 13. carrier       |             |
 | 14. precaution    |             |
