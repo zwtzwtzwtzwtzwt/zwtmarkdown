@@ -57,7 +57,7 @@
 | 53. surname      | 姓                     |
 | 54. surroundings | 环境                    |
 | 55. sweep        | 横扫  席卷                |
-| 56. swing        |                       |
+| 56. swing        | 改变 秋千                 |
 | 57. tackle       |                       |
 | 58. tactic       |                       |
 | 59. tap          |                       |
