@@ -40,7 +40,7 @@
 | 36. recreation    | 娱乐 重建             |
 | 37. discriminate  | 歧视 1              |
 | 38. accumulate    | 积累                |
-| 39. incur         | 招致 致使             |
+| 39. incur         | 招致 1              |
 | 40. recur         | 反复出现              |
 | 41. occurrence    | 发生的事  1           |
 | 42. currency      | 货币  传播 1          |
