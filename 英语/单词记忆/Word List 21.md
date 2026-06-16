@@ -51,8 +51,8 @@
 | 47. storey       | 楼层                 |
 | 48. stream       | 一系列  流 小河          |
 | 49. stretch      | 延伸 延展 1            |
-| 50. stuff        |                    |
-| 51. supplement   |                    |
+| 50. stuff        | 物品                 |
+| 51. supplement   | 补充的                |
 | 52. surgery      |                    |
 | 53. surname      |                    |
 | 54. surroundings |                    |
