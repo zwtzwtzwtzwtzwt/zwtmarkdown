@@ -37,11 +37,11 @@
 | 33. consult       | 询问 查询 查阅 2                                             | 咨询 查询 查阅 1（商议 商量）   |
 | 34. incorporate   | 包含 把什么并入                                               | 把什么并入  包含           |
 | 35. counter       | 反驳 柜台                                                  | 反驳 柜台               |
-| 36. recreation    |                                                        | 娱乐 重建               |
-| 37. discriminate  |                                                        | 歧视 1（区分辨别）          |
-| 38. accumulate    |                                                        | 积累                  |
-| 39. incur         |                                                        | 招致 1（引起 遭受）         |
-| 40. recur         |                                                        | 反复出现                |
+| 36. recreation    | 重建 娱乐                                                  | 娱乐 重建               |
+| 37. discriminate  | 歧视  辨别 区分                                              | 歧视 1（区分辨别）          |
+| 38. accumulate    | 积累                                                     | 积累                  |
+| 39. incur         | 引起 招致 遭受                                               | 招致 1（引起 遭受）         |
+| 40. recur         | 2                                                      | 反复出现                |
 | 41. occurrence    |                                                        | 发生的事  1（发生 出现）      |
 | 42. currency      |                                                        | 货币  传播 1（被接受）       |
 | 43. corridor      |                                                        | 走廊 过道               |
