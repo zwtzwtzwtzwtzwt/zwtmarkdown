@@ -22,9 +22,9 @@
 | 18. excellent     | 杰出的 出色的           |
 | 19. discern       | 1（识别了解）           |
 | 20. certainty     | 确定性               |
-| 21. certificate   |                   |
+| 21. certificate   | 证明 证明书            |
 | 22. preceding     |                   |
-| 23. concession    |                   |
+| 23. concession    | 让步                |
 | 24. chemist       |                   |
 | 25. precision     |                   |
 | 26. decisive      |                   |
