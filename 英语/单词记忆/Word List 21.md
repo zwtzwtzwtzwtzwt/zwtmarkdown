@@ -43,7 +43,7 @@
 | 39. spoil        |                  |
 | 40. spokesperson | 演讲人              |
 | 41. spring       | 春天 源泉            |
-| 42. squeeze      |                  |
+| 42. squeeze      | 1（压缩 压榨 ）        |
 | 43. stake        |                  |
 | 44. starve       |                  |
 | 45. steady       |                  |
