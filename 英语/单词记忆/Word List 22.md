@@ -52,7 +52,7 @@
 | 48. condense      | 凝结 使变稠                                                        | 2                                                      | 冷凝 使变浓              |
 | 49. dental        | 牙齿的                                                           | 牙齿的                                                    | 牙齿的                 |
 | 50. dentist       | 牙医                                                            | 牙医                                                     | 牙医                  |
-| 51. deteriorate   |                                                               | 使恶化 2                                                  | 使恶化                 |
+| 51. deteriorate   | 恶化 3                                                          | 使恶化 2                                                  | 使恶化                 |
 | 52. dedicate      |                                                               | 献身于                                                    | 献身于                 |
 | 53. indication    |                                                               |                                                        | 表明 指明               |
 | 54. indicative    |                                                               |                                                        | 指明的 表明的             |
