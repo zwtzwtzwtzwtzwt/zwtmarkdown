@@ -49,7 +49,7 @@
 | 45. steady       | 稳定的 稳住             |
 | 46. steer        | （引导 驾驶）            |
 | 47. storey       | 楼层                 |
-| 48. stream       |                    |
+| 48. stream       | 一系列  流 小何          |
 | 49. stretch      |                    |
 | 50. stuff        |                    |
 | 51. supplement   |                    |
