@@ -77,6 +77,6 @@
 | 73. vice         |                       |
 | 74. warrant      |                       |
 | 75. wheel        |                       |
-| 76. wholly       |                       |
-| 77. worthy       | 值得尊敬的 值得的             |
+| 76. wholly       | 全面的 整体的               |
+| 77. worthy       | 得尊敬的 值得的 （指明人士）       |
 | 78. youth        | 年轻 活力                 |
