@@ -57,7 +57,7 @@
 | 53. indication    |                                                        | 表明 指明               |
 | 54. indicative    |                                                        | 指明的 表明的             |
 | 55. verdict       | 裁决 意见 2                                                | 裁定 裁决 1（意见 结论 ）     |
-| 56. dignity       |                                                        | 自尊 尊严  1 （尊贵）       |
+| 56. dignity       | 自尊 尊贵                                                  | 自尊 尊严  1 （尊贵）       |
 | 57. indignation   |                                                        | 愤怒 愤慨               |
 | 58. dividend      |                                                        | 1（红利 股息）            |
 | 59. doctrine      |                                                        | 信条 教义               |
