@@ -33,7 +33,7 @@
 | 29. sketch       | 概述 素描            |
 | 30. skip         | 跳过 不做 跳着         |
 | 31. slice        | 切成片  片 部分 份额     |
-| 32. slight       | 轻微的 消瘦的          |
+| 32. slight       | 轻微的 消瘦的  轻视      |
 | 33. slogan       |                  |
 | 34. smooth       |                  |
 | 35. snap         |                  |
