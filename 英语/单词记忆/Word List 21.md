@@ -35,9 +35,9 @@
 | 31. slice        | 切成片  片 部分 份额     |
 | 32. slight       | 轻微的 消瘦的  轻视      |
 | 33. slogan       | 标语               |
-| 34. smooth       | 丝滑               |
+| 34. smooth       | 丝滑的 顺滑的 抹        |
 | 35. snap         |                  |
-| 36. spare        |                  |
+| 36. spare        | 抽出               |
 | 37. spite        |                  |
 | 38. split        |                  |
 | 39. spoil        |                  |
