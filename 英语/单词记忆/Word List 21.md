@@ -7,8 +7,8 @@
 | 3. plain         | 简直 平凡的 平庸的  朴素的 |
 | 4. pledge        | 承诺 保证           |
 | 5. poisonous     | 有毒的             |
-| 6. pour          |                 |
-| 7. prestige      |                 |
+| 6. pour          | 倒 流出 下大雨        |
+| 7. prestige      | 声望  体面的 手       |
 | 8. proud         |                 |
 | 9. provided      |                 |
 | 10. puzzle       |                 |
