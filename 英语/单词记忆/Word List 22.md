@@ -45,10 +45,10 @@
 | 41. occurrence    | 发生的是 发生 出现                                             | 发生的事  1（发生 出现）      |
 | 42. currency      | 货币 接受 传播                                               | 货币  传播 1（被接受）       |
 | 43. corridor      | 走廊 过道                                                  | 走廊 过道               |
-| 44. discourse     |                                                        | 1（话语演讲）             |
-| 45. decent        |                                                        | 得体的                 |
-| 46. condemn       |                                                        | 谴责 批判               |
-| 47. demographic   |                                                        | 人口统计数据  人群 1（人口结构的） |
+| 44. discourse     | 语句  演讲                                                 | 1（话语演讲）             |
+| 45. decent        | 得体的 2                                                  | 得体的                 |
+| 46. condemn       | 谴责 批判                                                  | 谴责 批判               |
+| 47. demographic   | 人口结构的                                                  | 人口统计数据  人群 1（人口结构的） |
 | 48. condense      |                                                        | 冷凝 使变浓              |
 | 49. dental        |                                                        | 牙齿的                 |
 | 50. dentist       |                                                        | 牙医                  |
