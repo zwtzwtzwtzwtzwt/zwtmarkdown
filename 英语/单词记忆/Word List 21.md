@@ -66,7 +66,7 @@
 | 62. thereby      | 因此 从而                 |
 | 63. threshold    |                       |
 | 64. tide         |                       |
-| 65. tidy         |                       |
+| 65. tidy         | 悲剧                    |
 | 66. tight        |                       |
 | 67. twist        |                       |
 | 68. underlying   |                       |
