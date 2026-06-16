@@ -67,13 +67,13 @@
 | 63. induce        | 引起 招致 遭受                                               | 引起 招致               |
 | 64. conductor     | 2                                                      | 组织者  导体             |
 | 65. endurance     | 忍耐力                                                    | 忍耐力                 |
-| 66. ecology       |                                                        | 生态 生态学              |
-| 67. exempt        |                                                        | 免除                  |
-| 68. equation      |                                                        | 等式                  |
-| 69. energetic     |                                                        | 充满活力的               |
-| 70. essence       |                                                        | 本质 精油               |
-| 71. interface     |                                                        | 接口 界面               |
-| 72. preface       |                                                        | 前沿 以什么为开头           |
+| 66. ecology       | 生态 生态学                                                 | 生态 生态学              |
+| 67. exempt        | 免除                                                     | 免除                  |
+| 68. equation      | 等式 2                                                   | 等式                  |
+| 69. energetic     | 充满活力的                                                  | 充满活力的               |
+| 70. essence       | 本质 精油                                                  | 本质 精油               |
+| 71. interface     | 接口 页面                                                  | 接口 界面               |
+| 72. preface       | 前言  以什么为                                               | 前沿 以什么为开头           |
 | 73. fatigue       |                                                        | 疲惫 疲劳               |
 | 74. differentiate |                                                        | 1（分辨 区分 有别于）        |
 | 75. confer        |                                                        | 1（授予 商议 商讨）         |
