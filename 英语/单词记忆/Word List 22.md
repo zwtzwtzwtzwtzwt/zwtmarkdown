@@ -49,9 +49,9 @@
 | 45. decent        | 得体的               |
 | 46. condemn       | 谴责 批判             |
 | 47. demographic   | 人口统计数据  人群 1      |
-| 48. condense      | 冷凝 使变             |
-| 49. dental        |                   |
-| 50. dentist       |                   |
+| 48. condense      | 冷凝 使变浓            |
+| 49. dental        | 牙齿的               |
+| 50. dentist       | 牙医                |
 | 51. deteriorate   |                   |
 | 52. dedicate      |                   |
 | 53. indication    |                   |
