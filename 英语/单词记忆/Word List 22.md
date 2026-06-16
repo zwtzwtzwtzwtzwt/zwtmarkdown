@@ -58,7 +58,7 @@
 | 54. indicative    | 指明的 表明的           |
 | 55. verdict       | 裁定 裁决 1           |
 | 56. dignity       | 自尊 尊严  1          |
-| 57. indignation   |                   |
+| 57. indignation   | 愤怒 愤慨             |
 | 58. dividend      |                   |
 | 59. doctrine      |                   |
 | 60. domain        |                   |
