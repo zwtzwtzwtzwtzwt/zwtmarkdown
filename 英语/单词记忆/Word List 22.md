@@ -42,7 +42,7 @@
 | 38. accumulate    | 积累                                                     | 积累                  |
 | 39. incur         | 引起 招致 遭受                                               | 招致 1（引起 遭受）         |
 | 40. recur         | 2                                                      | 反复出现                |
-| 41. occurrence    |                                                        | 发生的事  1（发生 出现）      |
+| 41. occurrence    | 发生的是 发生 出现                                             | 发生的事  1（发生 出现）      |
 | 42. currency      |                                                        | 货币  传播 1（被接受）       |
 | 43. corridor      |                                                        | 走廊 过道               |
 | 44. discourse     |                                                        | 1（话语演讲）             |
