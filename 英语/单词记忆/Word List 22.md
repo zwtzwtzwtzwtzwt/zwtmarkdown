@@ -34,12 +34,12 @@
 | 30. inclusive     | 包容广泛的 包含全部费用的     |
 | 31. colonial      | 殖民的 殖民统治时期        |
 | 32. comic         | 滑稽的 搞笑的 喜剧演员      |
-| 33. consult       | 咨询 查询             |
-| 34. incorporate   |                   |
-| 35. counter       |                   |
-| 36. recreation    |                   |
-| 37. discriminate  |                   |
-| 38. accumulate    |                   |
+| 33. consult       | 咨询 查询 查阅 1        |
+| 34. incorporate   | 把什么并入  包含         |
+| 35. counter       | 反驳 柜台             |
+| 36. recreation    | 娱乐 重建             |
+| 37. discriminate  | 歧视 1              |
+| 38. accumulate    | 积累                |
 | 39. incur         |                   |
 | 40. recur         |                   |
 | 41. occurrence    |                   |
