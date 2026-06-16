@@ -73,7 +73,7 @@
 | 69. undoubtedly  | 不用怀疑的                 |
 | 70. unity        | 团结统一  协调              |
 | 71. valley       | 山谷                    |
-| 72. vessel       | （）                    |
+| 72. vessel       | （轮船 血管 容器）            |
 | 73. vice         | 恶行  邪恶罪行              |
 | 74. warrant      | 执行令（保证 授权令）           |
 | 75. wheel        | 轮子  推动                |
