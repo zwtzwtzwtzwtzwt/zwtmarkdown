@@ -58,12 +58,12 @@
 | 54. surroundings | 环境                    |
 | 55. sweep        | 横扫  席卷                |
 | 56. swing        | 改变 秋千 摇摆 摆动           |
-| 57. tackle       | 解决 处理                 |
+| 57. tackle       | 解决 处理  交涉             |
 | 58. tactic       |                       |
 | 59. tap          |                       |
-| 60. tear         |                       |
-| 61. theme        |                       |
-| 62. thereby      |                       |
+| 60. tear         | 眼泪 撕裂                 |
+| 61. theme        | 主题                    |
+| 62. thereby      | 因此 从而                 |
 | 63. threshold    |                       |
 | 64. tide         |                       |
 | 65. tidy         |                       |
