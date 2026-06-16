@@ -6,7 +6,7 @@
 | 2. agony          | 极度痛苦    |
 | 3. altitude       | 海拔      |
 | 4. aluminium      | 铝       |
-| 5. angle          |         |
+| 5. angle          | 角度 角    |
 | 6. arbitrary      |         |
 | 7. augment        |         |
 | 8. authentic      |         |
