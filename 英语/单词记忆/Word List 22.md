@@ -31,8 +31,8 @@
 | 27. concise       | 简明的 简洁的           |
 | 28. proclaim      | 宣告 公告 声明          |
 | 29. declaration   | 宣告 公告 声明          |
-| 30. inclusive     |                   |
-| 31. colonial      |                   |
+| 30. inclusive     | 包容广泛的 包含全部费用的     |
+| 31. colonial      | 殖民的               |
 | 32. comic         |                   |
 | 33. consult       |                   |
 | 34. incorporate   |                   |
