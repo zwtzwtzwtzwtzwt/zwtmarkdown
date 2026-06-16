@@ -70,7 +70,7 @@
 | 66. tight        | 紧的                    |
 | 67. twist        |                       |
 | 68. underlying   |                       |
-| 69. undoubtedly  |                       |
+| 69. undoubtedly  | 不用怀疑的                 |
 | 70. unity        |                       |
 | 71. valley       |                       |
 | 72. vessel       |                       |
