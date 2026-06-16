@@ -53,10 +53,10 @@
 | 49. dental        | 牙齿的               |
 | 50. dentist       | 牙医                |
 | 51. deteriorate   | 使恶化               |
-| 52. dedicate      |                   |
-| 53. indication    |                   |
-| 54. indicative    |                   |
-| 55. verdict       |                   |
+| 52. dedicate      | 献身于               |
+| 53. indication    | 表明 指明             |
+| 54. indicative    | 指明的 表明的           |
+| 55. verdict       | 裁定 裁决 1           |
 | 56. dignity       |                   |
 | 57. indignation   |                   |
 | 58. dividend      |                   |
