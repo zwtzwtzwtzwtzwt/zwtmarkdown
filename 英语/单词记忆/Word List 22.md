@@ -21,7 +21,7 @@
 | 17. receipt       | 1           |
 | 18. excellent     | 杰出的 出色的     |
 | 19. discern       | 1           |
-| 20. certainty     |             |
+| 20. certainty     | 确定性         |
 | 21. certificate   |             |
 | 22. preceding     |             |
 | 23. concession    |             |
