@@ -52,7 +52,7 @@
 | 48. stream       | 一系列  流 小河             |
 | 49. stretch      | 延伸 延展 1（一段时间 舒展）      |
 | 50. stuff        | 物品  1（东西 事情 活动 装满 填满） |
-| 51. supplement   | 补充的                   |
+| 51. supplement   | 补充的   补充  增补          |
 | 52. surgery      |                       |
 | 53. surname      |                       |
 | 54. surroundings |                       |
