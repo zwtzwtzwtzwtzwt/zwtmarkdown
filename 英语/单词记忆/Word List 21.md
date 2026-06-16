@@ -27,7 +27,7 @@
 | 23. scheme       | 方案 计划  暗谋        |
 | 24. sculpture    | 雕刻品 雕刻术          |
 | 25. shade        | 阴凉处  暗处 遮挡       |
-| 26. sharp        |                  |
+| 26. sharp        | 恶劣的              |
 | 27. shrink       |                  |
 | 28. shuttle      |                  |
 | 29. sketch       |                  |
