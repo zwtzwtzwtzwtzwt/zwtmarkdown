@@ -69,10 +69,10 @@
 | 65. tidy         | （整洁的 收拾整理）            |
 | 66. tight        | 紧的                    |
 | 67. twist        | （转折 突然变化 ）            |
-| 68. underlying   | （潜在的 ）                |
+| 68. underlying   | （潜在的 表面下的）            |
 | 69. undoubtedly  | 不用怀疑的                 |
 | 70. unity        |                       |
-| 71. valley       |                       |
+| 71. valley       | 山谷                    |
 | 72. vessel       |                       |
 | 73. vice         |                       |
 | 74. warrant      |                       |
