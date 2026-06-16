@@ -22,7 +22,7 @@
 | 18. rescue       | 职员救援             |
 | 19. rocket       | 1（火箭 快速增长 极速移动）  |
 | 20. rough        | 危险的 粗略的 粗糙的      |
-| 21. rubber       | 橡胶               |
+| 21. rubber       | 橡胶 1（橡皮擦）        |
 | 22. scarcely     |                  |
 | 23. scheme       |                  |
 | 24. sculpture    |                  |
