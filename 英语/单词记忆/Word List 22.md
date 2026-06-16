@@ -33,7 +33,7 @@
 | 29. declaration   | 宣告 公告 声明          |
 | 30. inclusive     | 包容广泛的 包含全部费用的     |
 | 31. colonial      | 殖民的 殖民统治时期        |
-| 32. comic         |                   |
+| 32. comic         | 滑稽的 搞笑的           |
 | 33. consult       |                   |
 | 34. incorporate   |                   |
 | 35. counter       |                   |
