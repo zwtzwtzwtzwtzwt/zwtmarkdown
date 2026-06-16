@@ -16,11 +16,11 @@
 | 12. captain       | 队长 船长       |
 | 13. carrier       | 携带者  运输工具 1 |
 | 14. precaution    | 预知          |
-| 15. reception     | 接待          |
+| 15. reception     | 1           |
 | 16. susceptible   | 易接受的        |
-| 17. receipt       |             |
-| 18. excellent     |             |
-| 19. discern       |             |
+| 17. receipt       | 1           |
+| 18. excellent     | 杰出的 出色的     |
+| 19. discern       | 1           |
 | 20. certainty     |             |
 | 21. certificate   |             |
 | 22. preceding     |             |
