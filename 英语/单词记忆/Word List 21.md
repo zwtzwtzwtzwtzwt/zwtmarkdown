@@ -13,11 +13,11 @@
 | 9. provided      | 1               |
 | 10. puzzle       | 使困惑  谜  智力游戏    |
 | 11. ratio        | 比 比例            |
-| 12. raw          | 生的   未加工的       |
-| 13. readily      |                 |
-| 14. reap         |                 |
-| 15. rear         |                 |
-| 16. refuge       |                 |
+| 12. raw          | 生的   未加工的  原始的  |
+| 13. readily      | 1               |
+| 14. reap         | 1               |
+| 15. rear         | 尾部的             |
+| 16. refuge       | 庇护所             |
 | 17. regarding    |                 |
 | 18. rescue       |                 |
 | 19. rocket       |                 |
