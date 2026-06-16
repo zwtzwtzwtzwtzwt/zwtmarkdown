@@ -38,12 +38,12 @@
 | 34. incorporate   | 把什么并入  包含         |
 | 35. counter       | 反驳 柜台             |
 | 36. recreation    | 娱乐 重建             |
-| 37. discriminate  | 歧视 1              |
+| 37. discriminate  | 歧视 1（区分辨别）        |
 | 38. accumulate    | 积累                |
-| 39. incur         | 招致 1              |
+| 39. incur         | 招致 1（引起 遭受）       |
 | 40. recur         | 反复出现              |
 | 41. occurrence    | 发生的事  1（发生 出现）    |
-| 42. currency      | 货币  传播 1          |
+| 42. currency      | 货币  传播 1（）        |
 | 43. corridor      | 走廊 过道             |
 | 44. discourse     | 1（话语演讲）           |
 | 45. decent        | 得体的               |
