@@ -19,8 +19,8 @@
 | 15. reception     | 接待处 接受                                                 | 1（接待处 接受）           |
 | 16. susceptible   | 2                                                      | 1（易受影响的）            |
 | 17. receipt       | 收据 接受                                                  | 1（收据 接受）            |
-| 18. excellent     |                                                        | 杰出的 出色的             |
-| 19. discern       |                                                        | 1（识别 了解）            |
+| 18. excellent     | 杰出的 出色的                                                | 杰出的 出色的             |
+| 19. discern       | 了解 轶                                                   | 1（识别 了解）            |
 | 20. certainty     |                                                        | 确定性                 |
 | 21. certificate   |                                                        | 证明 证明书              |
 | 22. preceding     |                                                        | 前面的 在前面             |
