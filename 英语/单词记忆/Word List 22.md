@@ -65,8 +65,8 @@
 | 61. donate        | 捐赠                |
 | 62. anecdote      | 轶事                |
 | 63. induce        | 引起 招致             |
-| 64. conductor     | 组织者               |
-| 65. endurance     |                   |
+| 64. conductor     | 组织者  导体           |
+| 65. endurance     | 忍耐力               |
 | 66. ecology       |                   |
 | 67. exempt        |                   |
 | 68. equation      |                   |
