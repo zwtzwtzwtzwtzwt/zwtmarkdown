@@ -67,13 +67,13 @@
 | 63. induce        | 引起 招致             |
 | 64. conductor     | 组织者  导体           |
 | 65. endurance     | 忍耐力               |
-| 66. ecology       |                   |
-| 67. exempt        |                   |
-| 68. equation      |                   |
-| 69. energetic     |                   |
-| 70. essence       |                   |
-| 71. interface     |                   |
-| 72. preface       |                   |
+| 66. ecology       | 生态 生态学            |
+| 67. exempt        | 免除                |
+| 68. equation      | 等式                |
+| 69. energetic     | 充满活力的             |
+| 70. essence       | 本质 精油             |
+| 71. interface     | 接口 界面             |
+| 72. preface       | 前沿 以什么为开头         |
 | 73. fatigue       |                   |
 | 74. differentiate |                   |
 | 75. confer        |                   |
