@@ -34,7 +34,7 @@
 | 30. inclusive     | 包容广泛的 包含全部费用的       |
 | 31. colonial      | 殖民的 殖民统治时期          |
 | 32. comic         | 滑稽的 搞笑的 喜剧演员        |
-| 33. consult       | 咨询 查询 查阅 1          |
+| 33. consult       | 咨询 查询 查阅 1（商议 商量）   |
 | 34. incorporate   | 把什么并入  包含           |
 | 35. counter       | 反驳 柜台               |
 | 36. recreation    | 娱乐 重建               |
