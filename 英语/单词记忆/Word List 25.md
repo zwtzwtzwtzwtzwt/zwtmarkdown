@@ -49,9 +49,9 @@
 | 45. therapy        | 治疗 疗法            |
 | 46. synthetic      | 合成的 人造的          |
 | 47. continual      | 持续的  反复的         |
-| 48. toxic          |                  |
-| 49. tractor        |                  |
-| 50. intricate      |                  |
+| 48. toxic          | 有毒的              |
+| 49. tractor        | 拖拉机              |
+| 50. intricate      | 复杂的              |
 | 51. tune           |                  |
 | 52. turbulent      |                  |
 | 53. abound         |                  |
