@@ -42,8 +42,8 @@
 | 38. tedious        | 单调的 令人厌烦的        |
 | 39. contemplate    | 考虑 深思            |
 | 40. intensive      | 密集的 集约的 集中的      |
-| 41. tense          | 时态               |
-| 42. pretend        |                  |
+| 41. tense          | 时态 紧绷的 紧张的       |
+| 42. pretend        | 假装               |
 | 43. tentative      |                  |
 | 44. terminate      |                  |
 | 45. therapy        |                  |
