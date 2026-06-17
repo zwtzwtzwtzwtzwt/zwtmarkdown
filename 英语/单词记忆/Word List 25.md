@@ -41,8 +41,8 @@
 | 37. detector       | 探测器  检测器         |
 | 38. tedious        | 单调的 令人厌烦的        |
 | 39. contemplate    | 考虑 深思            |
-| 40. intensive      | 密集的 集约的          |
-| 41. tense          |                  |
+| 40. intensive      | 密集的 集约的 集中的      |
+| 41. tense          | 时态               |
 | 42. pretend        |                  |
 | 43. tentative      |                  |
 | 44. terminate      |                  |
