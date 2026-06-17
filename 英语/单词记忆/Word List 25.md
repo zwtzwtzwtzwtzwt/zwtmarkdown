@@ -67,7 +67,7 @@
 | 63. converge       | 趋同 聚集            |
 | 64. invert         | 颠倒  倒置           |
 | 65. divert         | 转移 分散            |
-| 66. diversion      | 转移               |
+| 66. diversion      | 转移 转向            |
 | 67. conversely     |                  |
 | 68. conviction     |                  |
 | 69. violent        |                  |
