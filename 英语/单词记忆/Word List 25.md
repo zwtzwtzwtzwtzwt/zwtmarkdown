@@ -14,8 +14,8 @@
 | 10. designate      | 指定 选定 标明         |
 | 11. silicon        | 硅                |
 | 12. singular       | 显著的 单数的 奇特的 单数形式 |
-| 13. consistent     | 一致的 持续的          |
-| 14. skim           |                  |
+| 13. consistent     | 一致的 持续的 连贯的      |
+| 14. skim           | 浏览 略读            |
 | 15. sole           |                  |
 | 16. resolution     |                  |
 | 17. spectrum       |                  |
