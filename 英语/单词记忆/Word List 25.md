@@ -10,7 +10,7 @@
 | 6. resent          | 憎恶 怨恨         |
 | 7. reservation     | 预定 保留         |
 | 8. considerate     | 体贴的           |
-| 9. preside         |               |
+| 9. preside         | 负责 主持         |
 | 10. designate      |               |
 | 11. silicon        |               |
 | 12. singular       |               |
