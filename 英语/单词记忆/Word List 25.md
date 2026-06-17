@@ -64,7 +64,7 @@
 | 60. velocity       | 速度               |
 | 61. avenue         | 途径 方法 大道         |
 | 62. intervene      | 干预 干涉 介入         |
-| 63. converge       |                  |
+| 63. converge       | 趋同               |
 | 64. invert         |                  |
 | 65. divert         |                  |
 | 66. diversion      |                  |
