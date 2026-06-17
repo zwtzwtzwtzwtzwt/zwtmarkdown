@@ -20,7 +20,7 @@
 | 16. resolution     | 决定 解决 决心         |
 | 17. spectrum       | 范围               |
 | 18. conspicuous    | 易见的 明显的          |
-| 19. specialize     | 专门               |
+| 19. specialize     | 专门 专攻            |
 | 20. spiritual      |                  |
 | 21. spontaneous    |                  |
 | 22. correspondent  |                  |
