@@ -70,7 +70,7 @@
 | 66. diversion      | 转移 转向 消遣         |
 | 67. conversely     | 相反的              |
 | 68. conviction     | 定罪 坚定的看法         |
-| 69. violent        | 暴力的              |
+| 69. violent        | 暴力的 强烈的 剧烈的      |
 | 70. virgin         |                  |
 | 71. subway         |                  |
 | 72. voyage         |                  |
