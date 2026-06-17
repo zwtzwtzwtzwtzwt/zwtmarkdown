@@ -29,7 +29,7 @@
 | 25. destination    | 目的地 终点           |
 | 26. stationary     | 不懂的 静止的 固定的      |
 | 27. distinct       | 不同的 明显的          |
-| 28. constituent    |                  |
+| 28. constituent    | 选民 成分 组成的        |
 | 29. destruction    |                  |
 | 30. studio         |                  |
 | 31. persuasion     |                  |
