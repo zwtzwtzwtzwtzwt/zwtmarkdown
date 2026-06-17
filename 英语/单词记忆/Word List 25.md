@@ -56,8 +56,8 @@
 | 52. turbulent      | 动荡的 混乱的 汹涌的      |
 | 53. abound         | 大量存在 有许多         |
 | 54. vacant         | 空的 呆滞的           |
-| 55. vacuum         |                  |
-| 56. prevail        |                  |
+| 55. vacuum         | 空虚 真空            |
+| 56. prevail        | 普遍存在             |
 | 57. invalid        |                  |
 | 58. prevalent      |                  |
 | 59. revelation     |                  |
