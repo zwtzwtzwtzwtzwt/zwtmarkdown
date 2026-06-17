@@ -53,7 +53,7 @@
 | 49. tractor        | 拖拉机              |
 | 50. intricate      | 复杂的              |
 | 51. tune           | 调台 曲调            |
-| 52. turbulent      |                  |
+| 52. turbulent      | 动荡的 混乱的 汹涌的      |
 | 53. abound         |                  |
 | 54. vacant         |                  |
 | 55. vacuum         |                  |
