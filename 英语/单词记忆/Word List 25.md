@@ -34,8 +34,8 @@
 | 30. studio         | 工作室 录音棚          |
 | 31. persuasion     | 劝说 说服 信仰         |
 | 32. résumé         | 简历 概述            |
-| 33. superiority    |                  |
-| 34. insure         |                  |
+| 33. superiority    | 优越 优越感           |
+| 34. insure         | 保证 确保 投保         |
 | 35. assurance      |                  |
 | 36. detach         |                  |
 | 37. detector       |                  |
