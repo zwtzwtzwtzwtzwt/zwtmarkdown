@@ -27,7 +27,7 @@
 | 23. correspondence | 通信 通信联系          |
 | 24. stern          | 严格的 严厉的 激烈的      |
 | 25. destination    | 目的地 终点           |
-| 26. stationary     |                  |
+| 26. stationary     | 不懂的 静止的 固定的      |
 | 27. distinct       |                  |
 | 28. constituent    |                  |
 | 29. destruction    |                  |
