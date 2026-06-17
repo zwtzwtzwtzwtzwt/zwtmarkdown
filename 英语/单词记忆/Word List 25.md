@@ -17,7 +17,7 @@
 | 13. consistent     | 一致的 持续的 连贯的      |
 | 14. skim           | 浏览 略读 掠过         |
 | 15. sole           | 唯一的 仅有的          |
-| 16. resolution     |                  |
+| 16. resolution     | 决定               |
 | 17. spectrum       |                  |
 | 18. conspicuous    |                  |
 | 19. specialize     |                  |
