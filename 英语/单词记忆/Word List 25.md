@@ -12,7 +12,7 @@
 | 8. considerate     | 体贴的           |
 | 9. preside         | 负责 主持         |
 | 10. designate      | 指定 选定 标明      |
-| 11. silicon        |               |
+| 11. silicon        | 硅             |
 | 12. singular       |               |
 | 13. consistent     |               |
 | 14. skim           |               |
