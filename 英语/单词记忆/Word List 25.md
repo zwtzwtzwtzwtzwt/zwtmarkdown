@@ -62,7 +62,7 @@
 | 58. prevalent      | 流行的 普遍存在         |
 | 59. revelation     | 真相 揭露            |
 | 60. velocity       | 速度               |
-| 61. avenue         | 途径               |
+| 61. avenue         | 途径 方法 大道         |
 | 62. intervene      |                  |
 | 63. converge       |                  |
 | 64. invert         |                  |
