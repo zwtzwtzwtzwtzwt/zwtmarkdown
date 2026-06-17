@@ -38,8 +38,8 @@
 | 34. insure         | 保证 确保 投保         |
 | 35. assurance      | 把握 保证 承诺         |
 | 36. detach         | 脱离 拆卸            |
-| 37. detector       | 探测器              |
-| 38. tedious        |                  |
+| 37. detector       | 探测器  检测器         |
+| 38. tedious        | 单调的              |
 | 39. contemplate    |                  |
 | 40. intensive      |                  |
 | 41. tense          |                  |
