@@ -57,8 +57,8 @@
 | 53. abound         | 大量存在 有许多         |
 | 54. vacant         | 空的 呆滞的           |
 | 55. vacuum         | 空虚 真空            |
-| 56. prevail        | 普遍存在             |
-| 57. invalid        |                  |
+| 56. prevail        | 普遍存在  战胜         |
+| 57. invalid        | 无效的              |
 | 58. prevalent      |                  |
 | 59. revelation     |                  |
 | 60. velocity       |                  |
