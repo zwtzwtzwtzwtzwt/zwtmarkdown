@@ -11,7 +11,7 @@
 | 7. reservation     | 预定 保留         |
 | 8. considerate     | 体贴的           |
 | 9. preside         | 负责 主持         |
-| 10. designate      | 指定 选定 表明      |
+| 10. designate      | 指定 选定 标明      |
 | 11. silicon        |               |
 | 12. singular       |               |
 | 13. consistent     |               |
