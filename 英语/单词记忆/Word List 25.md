@@ -9,7 +9,7 @@
 | 5. presently       | 目前 现在 马上      |
 | 6. resent          | 憎恶 怨恨         |
 | 7. reservation     | 预定 保留         |
-| 8. considerate     |               |
+| 8. considerate     | 体贴的           |
 | 9. preside         |               |
 | 10. designate      |               |
 | 11. silicon        |               |
