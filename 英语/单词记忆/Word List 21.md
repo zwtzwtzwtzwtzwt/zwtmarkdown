@@ -56,7 +56,7 @@
 | 52. surgery      | 2                                                             | 外科  诊室                |
 | 53. surname      | 姓                                                             | 姓                     |
 | 54. surroundings | 环境                                                            | 环境                    |
-| 55. sweep        |                                                               | 横扫  席卷                |
+| 55. sweep        | 扫                                                             | 横扫  席卷                |
 | 56. swing        |                                                               | 改变 秋千 摇摆 摆动           |
 | 57. tackle       |                                                               | 解决 处理  交涉             |
 | 58. tactic       |                                                               | 策略  （招数 手段）           |
