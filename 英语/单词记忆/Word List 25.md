@@ -52,7 +52,7 @@
 | 48. toxic          | 有毒的              |
 | 49. tractor        | 拖拉机              |
 | 50. intricate      | 复杂的              |
-| 51. tune           |                  |
+| 51. tune           | 调台               |
 | 52. turbulent      |                  |
 | 53. abound         |                  |
 | 54. vacant         |                  |
