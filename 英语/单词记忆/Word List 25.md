@@ -60,9 +60,9 @@
 | 56. prevail        | 普遍存在  战胜         |
 | 57. invalid        | 无效的   病人         |
 | 58. prevalent      | 流行的 普遍存在         |
-| 59. revelation     | 真相               |
-| 60. velocity       |                  |
-| 61. avenue         |                  |
+| 59. revelation     | 真相 揭露            |
+| 60. velocity       | 速度               |
+| 61. avenue         | 途径               |
 | 62. intervene      |                  |
 | 63. converge       |                  |
 | 64. invert         |                  |
