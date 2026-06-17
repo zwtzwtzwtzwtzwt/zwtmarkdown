@@ -32,7 +32,7 @@
 | 28. constituent    | 选民 成分 组成的        |
 | 29. destruction    | 破坏 摧毁 毁灭         |
 | 30. studio         | 工作室 录音棚          |
-| 31. persuasion     |                  |
+| 31. persuasion     | 劝说 说服 信仰         |
 | 32. résumé         |                  |
 | 33. superiority    |                  |
 | 34. insure         |                  |
