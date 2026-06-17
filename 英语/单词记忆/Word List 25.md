@@ -47,8 +47,8 @@
 | 43. tentative      | 暂定的 犹豫的          |
 | 44. terminate      | 结束 终止            |
 | 45. therapy        | 治疗 疗法            |
-| 46. synthetic      | 人工的              |
-| 47. continual      |                  |
+| 46. synthetic      | 合成的 人造的          |
+| 47. continual      | 持续的  反复的         |
 | 48. toxic          |                  |
 | 49. tractor        |                  |
 | 50. intricate      |                  |
