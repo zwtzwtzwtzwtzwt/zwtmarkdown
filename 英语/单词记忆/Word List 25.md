@@ -54,8 +54,8 @@
 | 50. intricate      | 复杂的              |
 | 51. tune           | 调台 曲调            |
 | 52. turbulent      | 动荡的 混乱的 汹涌的      |
-| 53. abound         |                  |
-| 54. vacant         |                  |
+| 53. abound         | 大量存在 有许多         |
+| 54. vacant         | 空的               |
 | 55. vacuum         |                  |
 | 56. prevail        |                  |
 | 57. invalid        |                  |
