@@ -65,8 +65,8 @@
 | 61. avenue         | 途径 方法 大道         |
 | 62. intervene      | 干预 干涉 介入         |
 | 63. converge       | 趋同 聚集            |
-| 64. invert         | 是颠倒              |
-| 65. divert         |                  |
+| 64. invert         | 颠倒  倒置           |
+| 65. divert         | 转移 分散            |
 | 66. diversion      |                  |
 | 67. conversely     |                  |
 | 68. conviction     |                  |
