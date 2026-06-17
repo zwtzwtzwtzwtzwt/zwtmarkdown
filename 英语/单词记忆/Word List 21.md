@@ -54,8 +54,8 @@
 | 50. stuff        | 物品 2                                                          | 物品  1（东西 事情 活动 装满 填满） |
 | 51. supplement   | 补充的 补充物                                                       | 补充的   补充  增补物         |
 | 52. surgery      | 2                                                             | 外科  诊室                |
-| 53. surname      |                                                               | 姓                     |
-| 54. surroundings |                                                               | 环境                    |
+| 53. surname      | 姓                                                             | 姓                     |
+| 54. surroundings | 环境                                                            | 环境                    |
 | 55. sweep        |                                                               | 横扫  席卷                |
 | 56. swing        |                                                               | 改变 秋千 摇摆 摆动           |
 | 57. tackle       |                                                               | 解决 处理  交涉             |
