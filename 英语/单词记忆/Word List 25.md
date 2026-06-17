@@ -69,7 +69,7 @@
 | 65. divert         | 转移 分散            |
 | 66. diversion      | 转移 转向 消遣         |
 | 67. conversely     | 相反的              |
-| 68. conviction     |                  |
+| 68. conviction     | 定罪               |
 | 69. violent        |                  |
 | 70. virgin         |                  |
 | 71. subway         |                  |
