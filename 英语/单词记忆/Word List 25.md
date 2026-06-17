@@ -4,8 +4,8 @@
 | ------------------ | ------------- |
 | 1. secondary       | 中学的  次要的 继发性的 |
 | 2. prosecute       | 起诉 控告  继续做    |
-| 3. assembly        | 装配 组装         |
-| 4. assimilate      |               |
+| 3. assembly        | 装配 组装 集会      |
+| 4. assimilate      | 融入 彻底理解       |
 | 5. presently       |               |
 | 6. resent          |               |
 | 7. reservation     |               |
