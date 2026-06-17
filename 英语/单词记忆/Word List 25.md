@@ -40,7 +40,7 @@
 | 36. detach         | 脱离 拆卸            |
 | 37. detector       | 探测器  检测器         |
 | 38. tedious        | 单调的 令人厌烦的        |
-| 39. contemplate    |                  |
+| 39. contemplate    | 考虑               |
 | 40. intensive      |                  |
 | 41. tense          |                  |
 | 42. pretend        |                  |
