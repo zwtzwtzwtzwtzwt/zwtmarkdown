@@ -45,7 +45,7 @@
 | 41. tense          | 时态 紧绷的 紧张的       |
 | 42. pretend        | 假装 装扮            |
 | 43. tentative      | 暂定的 犹豫的          |
-| 44. terminate      |                  |
+| 44. terminate      | 结束 终止            |
 | 45. therapy        |                  |
 | 46. synthetic      |                  |
 | 47. continual      |                  |
