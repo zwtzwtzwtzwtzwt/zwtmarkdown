@@ -22,7 +22,7 @@
 | 18. conspicuous    | 易见的 明显的          |
 | 19. specialize     | 专门 专攻            |
 | 20. spiritual      | 精神的 心灵的          |
-| 21. spontaneous    |                  |
+| 21. spontaneous    | 自然的 自发的          |
 | 22. correspondent  |                  |
 | 23. correspondence |                  |
 | 24. stern          |                  |
