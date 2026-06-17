@@ -24,7 +24,7 @@
 | 20. spiritual      | 精神的 心灵的          |
 | 21. spontaneous    | 自然的 自发的          |
 | 22. correspondent  | 记者  通信者          |
-| 23. correspondence |                  |
+| 23. correspondence | 通信 通信联系          |
 | 24. stern          |                  |
 | 25. destination    |                  |
 | 26. stationary     |                  |
