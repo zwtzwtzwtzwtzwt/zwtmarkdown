@@ -21,7 +21,7 @@
 | 17. spectrum       | 范围               |
 | 18. conspicuous    | 易见的 明显的          |
 | 19. specialize     | 专门 专攻            |
-| 20. spiritual      |                  |
+| 20. spiritual      | 精神的              |
 | 21. spontaneous    |                  |
 | 22. correspondent  |                  |
 | 23. correspondence |                  |
