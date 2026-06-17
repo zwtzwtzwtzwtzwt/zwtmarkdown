@@ -43,8 +43,8 @@
 | 39. contemplate    | 考虑 深思            |
 | 40. intensive      | 密集的 集约的 集中的      |
 | 41. tense          | 时态 紧绷的 紧张的       |
-| 42. pretend        | 假装               |
-| 43. tentative      |                  |
+| 42. pretend        | 假装 装扮            |
+| 43. tentative      | 暂定的 犹豫的          |
 | 44. terminate      |                  |
 | 45. therapy        |                  |
 | 46. synthetic      |                  |
