@@ -19,7 +19,7 @@
 | 15. sole           | 唯一的 仅有的          |
 | 16. resolution     | 决定 解决 决心         |
 | 17. spectrum       | 范围               |
-| 18. conspicuous    |                  |
+| 18. conspicuous    | 易                |
 | 19. specialize     |                  |
 | 20. spiritual      |                  |
 | 21. spontaneous    |                  |
