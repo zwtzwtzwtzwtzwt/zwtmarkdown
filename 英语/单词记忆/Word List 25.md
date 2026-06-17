@@ -36,7 +36,7 @@
 | 32. résumé         | 简历 概述            |
 | 33. superiority    | 优越 优越感           |
 | 34. insure         | 保证 确保 投保         |
-| 35. assurance      | 把握               |
+| 35. assurance      | 把握 保证 承诺         |
 | 36. detach         |                  |
 | 37. detector       |                  |
 | 38. tedious        |                  |
