@@ -35,8 +35,8 @@
 | 31. persuasion     | 说服 劝说                                                  | 劝说 说服 信仰         |
 | 32. résumé         | 简历 概述                                                  | 简历 概述            |
 | 33. superiority    |                                                        | 优越 优越感           |
-| 34. insure         |                                                        | 保证 确保 投保         |
-| 35. assurance      |                                                        | 把握 保证 承诺         |
+| 34. insure         | 确保 投保                                                  | 保证 确保 投保         |
+| 35. assurance      | 确保 保证                                                  | 把握 保证 承诺         |
 | 36. detach         |                                                        | 脱离 拆卸            |
 | 37. detector       |                                                        | 探测器  检测器         |
 | 38. tedious        |                                                        | 单调的 令人厌烦的        |
