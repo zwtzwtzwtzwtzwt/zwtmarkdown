@@ -19,7 +19,7 @@
 | 15. sole           |     | 唯一的 仅有的          |
 | 16. resolution     |     | 决定 解决 决心         |
 | 17. spectrum       |     | 范围               |
-| 18. conspicuous    |     | 易见的 明显的 显著的      |
+| 18. conspicuous    |     | 易见的 明显的 限制       |
 | 19. specialize     |     | 专门 专攻            |
 | 20. spiritual      |     | 精神的 心灵的          |
 | 21. spontaneous    |     | 自然的 自发的          |
