@@ -48,8 +48,8 @@
 | 44. terminate      | 终止 结束                     | 结束 终止            |
 | 45. therapy        | 治疗 疗法                     | 治疗 疗法            |
 | 46. synthetic      |                           | 合成的 人造的          |
-| 47. continual      |                           | 持续的  反复的         |
-| 48. toxic          |                           | 有毒的              |
+| 47. continual      | （持续的 反复的）                 | 持续的  反复的         |
+| 48. toxic          | （有毒的 ）                    | 有毒的              |
 | 49. tractor        |                           | 拖拉机              |
 | 50. intricate      |                           | 复杂的              |
 | 51. tune           |                           | 调台 曲调            |
