@@ -59,8 +59,8 @@
 | 55. vacuum         | 速度                        | 空虚 真空            |
 | 56. prevail        | （普遍存在 盛行 战胜）              | 普遍存在  战胜  盛行     |
 | 57. invalid        | 无效的  （病人）                 | 无效的   病人         |
-| 58. prevalent      |                           | 流行的 普遍存在         |
-| 59. revelation     |                           | 真相 揭露            |
+| 58. prevalent      | 留下的 普遍存在                  | 流行的 普遍存在         |
+| 59. revelation     | 揭露 真相                     | 真相 揭露            |
 | 60. velocity       |                           | 速度               |
 | 61. avenue         | 方法 途径 大道                  | 途径 方法 大道         |
 | 62. intervene      | 干涉  干预                    | 干预 干涉 介入         |
