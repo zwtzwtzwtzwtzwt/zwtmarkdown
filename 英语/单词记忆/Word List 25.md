@@ -43,9 +43,9 @@
 | 39. contemplate    |                           | 考虑 深思            |
 | 40. intensive      |                           | 密集的 集约的 集中的      |
 | 41. tense          |                           | 时态 紧绷的 紧张的       |
-| 42. pretend        |                           | 假装 装扮            |
-| 43. tentative      |                           | 暂定的 犹豫的          |
-| 44. terminate      |                           | 结束 终止            |
+| 42. pretend        | 假装 装扮                     | 假装 装扮            |
+| 43. tentative      | （暂定的 犹豫的）                 | 暂定的 犹豫的          |
+| 44. terminate      | 终止 结束                     | 结束 终止            |
 | 45. therapy        | 治疗 疗法                     | 治疗 疗法            |
 | 46. synthetic      |                           | 合成的 人造的          |
 | 47. continual      |                           | 持续的  反复的         |
