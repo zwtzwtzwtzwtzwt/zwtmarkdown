@@ -26,9 +26,9 @@
 | 22. correspondent  |                                                        | 记者  通信者          |
 | 23. correspondence |                                                        | 通信 通信联系          |
 | 24. stern          | 严厉的 严格的 猛烈的                                            | 严格的 严厉的 激烈的      |
-| 25. destination    |                                                        | 目的地 终点           |
+| 25. destination    | 重点 目的地                                                 | 目的地 终点           |
 | 26. stationary     |                                                        | 不懂的 静止的 固定的      |
-| 27. distinct       |                                                        | 不同的 明显的          |
+| 27. distinct       | 不同的 1                                                  | 不同的 明显的          |
 | 28. constituent    |                                                        | 选民 成分 组成的        |
 | 29. destruction    |                                                        | 破坏 摧毁 毁灭         |
 | 30. studio         |                                                        | 工作室 录音棚          |
