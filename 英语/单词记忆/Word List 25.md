@@ -30,8 +30,8 @@
 | 26. stationary     |                                                        | 不懂的 静止的 固定的      |
 | 27. distinct       | 不同的 1                                                  | 不同的 明显的          |
 | 28. constituent    |                                                        | 选民 成分 组成的        |
-| 29. destruction    |                                                        | 破坏 摧毁 毁灭         |
-| 30. studio         |                                                        | 工作室 录音棚          |
+| 29. destruction    | 毁灭 摧毁                                                  | 破坏 摧毁 毁灭         |
+| 30. studio         | 录音棚                                                    | 工作室 录音棚          |
 | 31. persuasion     |                                                        | 劝说 说服 信仰         |
 | 32. résumé         | 简历 概述                                                  | 简历 概述            |
 | 33. superiority    |                                                        | 优越 优越感           |
