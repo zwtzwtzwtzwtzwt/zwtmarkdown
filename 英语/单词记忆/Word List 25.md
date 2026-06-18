@@ -9,9 +9,9 @@
 | 5. presently       | 当前 目前 马上                                               | 目前 现在 马上         |
 | 6. resent          | 怨恨 憎恨                                                  | 憎恶 怨恨            |
 | 7. reservation     | 预定 保留                                                  | 预定 保留            |
-| 8. considerate     |                                                        | 体贴的              |
-| 9. preside         |                                                        | 负责 主持            |
-| 10. designate      |                                                        | 指定 选定 标明         |
+| 8. considerate     | 体贴的                                                    | 体贴的              |
+| 9. preside         | 主持 负责                                                  | 负责 主持            |
+| 10. designate      | 指定 标明 2                                                | 指定 选定 标明         |
 | 11. silicon        |                                                        | 硅                |
 | 12. singular       |                                                        | 显著的 单数的 奇特的 单数形式 |
 | 13. consistent     |                                                        | 一致的 持续的 连贯的      |
