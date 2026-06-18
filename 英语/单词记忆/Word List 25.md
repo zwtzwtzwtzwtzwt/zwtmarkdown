@@ -7,8 +7,8 @@
 | 3. assembly        | 装配 组装 集会                                               | 装配 组装 集会         |
 | 4. assimilate      | 11                                                     | 融入 彻底理解          |
 | 5. presently       | 当前 目前 马上                                               | 目前 现在 马上         |
-| 6. resent          |                                                        | 憎恶 怨恨            |
-| 7. reservation     |                                                        | 预定 保留            |
+| 6. resent          | 怨恨 憎恨                                                  | 憎恶 怨恨            |
+| 7. reservation     | 预定 保留                                                  | 预定 保留            |
 | 8. considerate     |                                                        | 体贴的              |
 | 9. preside         |                                                        | 负责 主持            |
 | 10. designate      |                                                        | 指定 选定 标明         |
