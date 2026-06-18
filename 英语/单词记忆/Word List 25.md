@@ -33,7 +33,7 @@
 | 29. destruction    |                                                        | 破坏 摧毁 毁灭         |
 | 30. studio         |                                                        | 工作室 录音棚          |
 | 31. persuasion     |                                                        | 劝说 说服 信仰         |
-| 32. résumé         |                                                        | 简历 概述            |
+| 32. résumé         | 简历 概述                                                  | 简历 概述            |
 | 33. superiority    |                                                        | 优越 优越感           |
 | 34. insure         |                                                        | 保证 确保 投保         |
 | 35. assurance      |                                                        | 把握 保证 承诺         |
