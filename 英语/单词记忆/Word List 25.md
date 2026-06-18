@@ -29,7 +29,7 @@
 | 25. destination    | 重点 目的地                    | 目的地 终点           |
 | 26. stationary     | 不懂的 固定的 稳定的               | 不懂的 静止的 固定的      |
 | 27. distinct       | 不同的 1                     | 不同的 明显的          |
-| 28. constituent    |                           | 选民 成分 组成的        |
+| 28. constituent    | 选民 乘法                     | 选民 成分 组成的        |
 | 29. destruction    | 毁灭 摧毁                     | 破坏 摧毁 毁灭         |
 | 30. studio         | 录音棚                       | 工作室 录音棚          |
 | 31. persuasion     | 说服 劝说                     | 劝说 说服 信仰         |
