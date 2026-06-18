@@ -64,9 +64,9 @@
 | 60. velocity       |                           | 速度               |
 | 61. avenue         | 方法 途径 大道                  | 途径 方法 大道         |
 | 62. intervene      | 干涉  干预                    | 干预 干涉 介入         |
-| 63. converge       |                           | 趋同 聚集            |
-| 64. invert         |                           | 颠倒  倒置           |
-| 65. divert         |                           | 转移 分散            |
+| 63. converge       | （趋同 聚集）                   | 趋同 聚集            |
+| 64. invert         | （翻转 颠倒）                   | 颠倒  倒置           |
+| 65. divert         | （转移 分散）                   | 转移 分散            |
 | 66. diversion      |                           | 转移 转向 消遣         |
 | 67. conversely     |                           | 相反的              |
 | 68. conviction     |                           | 定罪 坚定的看法         |
