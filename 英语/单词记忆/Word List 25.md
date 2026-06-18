@@ -23,7 +23,7 @@
 | 19. specialize     | 专门 专攻                                                        | 专门 1                      | 专门 专攻            |
 | 20. spiritual      | 精神的 心灵的                                                      | 精神的  1                    | 精神的 心灵的          |
 | 21. spontaneous    |                                                              | 自然的 自发的                   | 自然的 自发的          |
-| 22. correspondent  |                                                              | 记者 通信者                    | 记者  通信者          |
+| 22. correspondent  | 记者 通信者                                                       | 记者 通信者                    | 记者  通信者          |
 | 23. correspondence |                                                              | 联系  通信 通信联系               | 通信 通信联系          |
 | 24. stern          |                                                              | 严厉的 严格的 猛烈的               | 严格的 严厉的 激烈的      |
 | 25. destination    |                                                              | 重点 目的地                    | 目的地 终点           |
