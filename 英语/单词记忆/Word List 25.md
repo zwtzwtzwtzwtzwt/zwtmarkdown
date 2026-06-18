@@ -46,7 +46,7 @@
 | 42. pretend        |                                                        | 假装 装扮            |
 | 43. tentative      |                                                        | 暂定的 犹豫的          |
 | 44. terminate      |                                                        | 结束 终止            |
-| 45. therapy        |                                                        | 治疗 疗法            |
+| 45. therapy        | 治疗 疗法                                                  | 治疗 疗法            |
 | 46. synthetic      |                                                        | 合成的 人造的          |
 | 47. continual      |                                                        | 持续的  反复的         |
 | 48. toxic          |                                                        | 有毒的              |
