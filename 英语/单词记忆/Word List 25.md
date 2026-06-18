@@ -57,7 +57,7 @@
 | 53. abound         |                           | 大量存在 有许多         |
 | 54. vacant         |                           | 空的 呆滞的           |
 | 55. vacuum         |                           | 空虚 真空            |
-| 56. prevail        |                           | 普遍存在  战胜         |
+| 56. prevail        |                           | 普遍存在  战胜  盛行     |
 | 57. invalid        |                           | 无效的   病人         |
 | 58. prevalent      |                           | 流行的 普遍存在         |
 | 59. revelation     |                           | 真相 揭露            |
