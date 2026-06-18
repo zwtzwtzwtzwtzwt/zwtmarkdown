@@ -19,8 +19,8 @@
 | 15. sole           | 独有的 仅有的 2                                                    | 唯一的 仅有的                   | 唯一的 仅有的          |
 | 16. resolution     | 决绝 决心 决定 2                                                   | 解决  决心                    | 决定 解决 决心         |
 | 17. spectrum       | 方位 2                                                         | 范围                        | 范围               |
-| 18. conspicuous    |                                                              | 显著的 明显的                   | 易见的 明显的          |
-| 19. specialize     |                                                              | 专门 1                      | 专门 专攻            |
+| 18. conspicuous    | 显著的 明显的                                                      | 显著的 明显的                   | 易见的 明显的          |
+| 19. specialize     | 专门 专攻                                                        | 专门 1                      | 专门 专攻            |
 | 20. spiritual      |                                                              | 精神的  1                    | 精神的 心灵的          |
 | 21. spontaneous    |                                                              | 自然的 自发的                   | 自然的 自发的          |
 | 22. correspondent  |                                                              | 记者 通信者                    | 记者  通信者          |
