@@ -17,8 +17,8 @@
 | 13. consistent     | 持续的 连贯的                                                | 一致的 持续的 连贯的      |
 | 14. skim           | 浏览 略读 掠过                                               | 浏览 略读 掠过         |
 | 15. sole           | 唯一的 仅有的                                                | 唯一的 仅有的          |
-| 16. resolution     | 解决                                                     | 决定 解决 决心         |
-| 17. spectrum       |                                                        | 范围               |
+| 16. resolution     | 解决  决心                                                 | 决定 解决 决心         |
+| 17. spectrum       | 范围                                                     | 范围               |
 | 18. conspicuous    |                                                        | 易见的 明显的 限制       |
 | 19. specialize     |                                                        | 专门 专攻            |
 | 20. spiritual      |                                                        | 精神的 心灵的          |
