@@ -5,14 +5,14 @@
 | 1. secondary       | 中学的 次要的 继发性的                                           | 中学的  次要的 继发性的    |
 | 2. prosecute       | 起诉 控告 继续做                                              | 起诉 控告  继续做       |
 | 3. assembly        | 装配 组装 集会                                               | 装配 组装 集会         |
-| 4. assimilate      | 11                                                     | 融入 彻底理解          |
+| 4. assimilate      | 1                                                      | 融入 彻底理解          |
 | 5. presently       | 当前 目前 马上                                               | 目前 现在 马上         |
 | 6. resent          | 怨恨 憎恨                                                  | 憎恶 怨恨            |
 | 7. reservation     | 预定 保留                                                  | 预定 保留            |
 | 8. considerate     | 体贴的                                                    | 体贴的              |
 | 9. preside         | 主持 负责                                                  | 负责 主持            |
-| 10. designate      | 指定 标明 2                                                | 指定 选定 标明         |
-| 11. silicon        |                                                        | 硅                |
+| 10. designate      | 指定 标明 1                                                | 指定 选定 标明         |
+| 11. silicon        | 硅                                                      | 硅                |
 | 12. singular       |                                                        | 显著的 单数的 奇特的 单数形式 |
 | 13. consistent     |                                                        | 一致的 持续的 连贯的      |
 | 14. skim           |                                                        | 浏览 略读 掠过         |
