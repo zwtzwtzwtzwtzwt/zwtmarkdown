@@ -5,7 +5,7 @@
 | 1. secondary       | 中学的 次要的 继发性的              | 中学的  次要的 继发性的    |
 | 2. prosecute       | 起诉 控告 继续做                 | 起诉 控告  继续做       |
 | 3. assembly        | 装配 组装 集会                  | 装配 组装 集会         |
-| 4. assimilate      | 1（融入 ）                    | 融入 彻底理解          |
+| 4. assimilate      | 1（融入 彻底理解）                | 融入 彻底理解          |
 | 5. presently       | 当前 目前 马上                  | 目前 现在 马上         |
 | 6. resent          | 怨恨 憎恨                     | 憎恶 怨恨            |
 | 7. reservation     | 预定 保留                     | 预定 保留            |
