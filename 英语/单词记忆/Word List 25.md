@@ -22,10 +22,10 @@
 | 18. conspicuous    | 显著的 明显的                                                | 易见的 明显的 限制       |
 | 19. specialize     | 专门 1                                                   | 专门 专攻            |
 | 20. spiritual      | 精神的  1                                                 | 精神的 心灵的          |
-| 21. spontaneous    | 自然的                                                    | 自然的 自发的          |
+| 21. spontaneous    | 自然的 自发的                                                | 自然的 自发的          |
 | 22. correspondent  |                                                        | 记者  通信者          |
 | 23. correspondence |                                                        | 通信 通信联系          |
-| 24. stern          |                                                        | 严格的 严厉的 激烈的      |
+| 24. stern          | 严厉的 严格的 猛烈的                                            | 严格的 严厉的 激烈的      |
 | 25. destination    |                                                        | 目的地 终点           |
 | 26. stationary     |                                                        | 不懂的 静止的 固定的      |
 | 27. distinct       |                                                        | 不同的 明显的          |
