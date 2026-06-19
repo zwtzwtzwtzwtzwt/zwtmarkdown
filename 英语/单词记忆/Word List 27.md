@@ -19,7 +19,7 @@
 | 15. attorney   | 律师          |     |
 | 16. await      | 等待          |     |
 | 17. bare       |             |     |
-| 18. barn       |             |     |
+| 18. barn       | 谷仓 1        |     |
 | 19. barrel     |             |     |
 | 20. beard      |             |     |
 | 21. bend       |             |     |
