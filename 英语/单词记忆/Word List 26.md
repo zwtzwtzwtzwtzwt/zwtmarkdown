@@ -26,7 +26,7 @@
 | 22. shorthand   | 速记法         |
 | 23. sometime    | 某时  从前的     |
 | 24. spacecraft  | 航天飞船        |
-| 25. upright     |             |
-| 26. upstairs    |             |
-| 27. viewpoint   |             |
-| 28. warehouse   |             |
+| 25. upright     | 直立的         |
+| 26. upstairs    | 上楼 在楼上      |
+| 27. viewpoint   | 观点          |
+| 28. warehouse   | 仓库 0        |
