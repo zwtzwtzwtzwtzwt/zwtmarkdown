@@ -69,7 +69,7 @@
 | 65. copper     | 铜 警察          |     |
 | 66. counsel    | 咨询 辅导 建议 法律顾问 |     |
 | 67. county     | 郡 县           |     |
-| 68. coward     |               |     |
+| 68. coward     | （胆小鬼 懦夫）      |     |
 | 69. crawl      | 爬行            |     |
 | 70. cricket    | 板球  蟋蟀        |     |
 | 71. cripple    | 残疾人 使残疾       |     |
