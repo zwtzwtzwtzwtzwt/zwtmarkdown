@@ -15,7 +15,7 @@
 | 11. lifetime    | 一生           |
 | 12. masterpiece | 佳作 著作        |
 | 13. meantime    | 与此同时         |
-| 14. nearby      | 附近 0         |
+| 14. nearby      | 附近 0（在附近）    |
 | 15. nightmare   | 噩梦 棘手的       |
 | 16. outbreak    | 爆发 突然爆发      |
 | 17. outrage     | 0            |
