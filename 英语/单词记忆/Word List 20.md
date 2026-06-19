@@ -8,7 +8,7 @@
 | 6. fetch         | 卖得  拿来 0     |
 | 7. flash         | 闪光 闪现 0      |
 | 8. flaw          | 缺陷 缺点 瑕疵     |
-| 9. float         |              |
+| 9. float         | 漂浮 0         |
 | 10. foresee      |              |
 | 11. frank        |              |
 | 12. furnace      |              |
