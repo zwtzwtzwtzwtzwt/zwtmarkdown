@@ -4,7 +4,7 @@
 | -------------- | ------ | --- |
 | 1. abide       | 容忍 停留  |     |
 | 2. aboard      | 在船上  上 |     |
-| 3. acclaim     |        |     |
+| 3. acclaim     | 称誉     |     |
 | 4. accommodate |        |     |
 | 5. accuse      |        |     |
 | 6. additional  |        |     |
