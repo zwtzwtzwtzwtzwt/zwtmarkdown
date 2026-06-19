@@ -18,8 +18,8 @@
 | 16. glance       | 一瞥  浏览 略看    |
 | 17. grasp        | 抓住  理解 掌握 领会 |
 | 18. harsh        | 严厉的 刺耳的      |
-| 19. harvest      | 收获           |
-| 20. heaven       |              |
+| 19. harvest      | 收获 0         |
+| 20. heaven       | 天堂  天空       |
 | 21. helmet       |              |
 | 22. hinder       |              |
 | 23. holder       |              |
