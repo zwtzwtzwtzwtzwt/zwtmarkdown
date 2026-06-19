@@ -16,8 +16,8 @@
 | 12. apparatus  |             |     |
 | 13. appendix   |             |     |
 | 14. assault    |             |     |
-| 15. attorney   |             |     |
-| 16. await      |             |     |
+| 15. attorney   | 律师          |     |
+| 16. await      | 等待          |     |
 | 17. bare       |             |     |
 | 18. barn       |             |     |
 | 19. barrel     |             |     |
