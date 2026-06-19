@@ -37,7 +37,7 @@
 | 35. lawn         | 草坪 草地        |
 | 36. layer        | 层 层级  阶级     |
 | 37. lest         | 唯恐           |
-| 38. limb         | 职必           |
+| 38. limb         |              |
 | 39. loan         |              |
 | 40. loom         |              |
 | 41. loyal        |              |
