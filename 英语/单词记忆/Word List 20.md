@@ -61,7 +61,7 @@
 | 59. outer        |              |
 | 60. oxygen       |              |
 | 61. panic        |              |
-| 62. pause        |              |
-| 63. pave         |              |
+| 62. pause        | 暂停 （）        |
+| 63. pave         | 铺            |
 | 64. pearl        | 珍珠           |
-| 65. pilgrim      | 朝圣者 香客    
+| 65. pilgrim      | 朝圣者 香客       |
