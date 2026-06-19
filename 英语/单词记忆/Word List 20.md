@@ -52,9 +52,9 @@
 | 50. mineral      |                   |
 | 51. minor        |                   |
 | 52. mislead      |                   |
-| 53. mock         |                   |
-| 54. monetary     |                   |
-| 55. myth         |                   |
+| 53. mock         | 嘲讽                |
+| 54. monetary     | 货币的 钱的            |
+| 55. myth         | 神话 错误的观点          |
 | 56. nasty        | 严重的 不好的 恶意的       |
 | 57. noble        | 高尚的 崇高的  雄伟的（高贵的） |
 | 58. nonetheless  | 尽管但是              |
