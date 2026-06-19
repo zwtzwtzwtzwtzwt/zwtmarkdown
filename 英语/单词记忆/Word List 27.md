@@ -73,7 +73,7 @@
 | 69. crawl      | 爬行            |     |
 | 70. cricket    | 板球  蟋蟀        |     |
 | 71. cripple    | 残疾人 使残疾       |     |
-| 72. crisp      |               |     |
+| 72. crisp      | 变脆            |     |
 | 73. crown      |               |     |
 | 74. cruel      |               |     |
 | 75. cunning    |               |     |
