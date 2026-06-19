@@ -13,8 +13,8 @@
 | 9. anchor      | 主持人  抛瞄 1（固定） |     |
 | 10. annoy      | 使恼怒 1（打扰 骚扰）  |     |
 | 11. antique    | 古董  古董的       |     |
-| 12. apparatus  | 装置            |     |
-| 13. appendix   | 附录 1          |     |
+| 12. apparatus  | 装置  机构组织      |     |
+| 13. appendix   | 附录 1（）        |     |
 | 14. assault    | 攻击 1          |     |
 | 15. attorney   | 律师            |     |
 | 16. await      | 等待            |     |
