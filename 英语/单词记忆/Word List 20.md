@@ -11,8 +11,8 @@
 | 9. float         | 漂浮 0         |
 | 10. foresee      | 预知 预见        |
 | 11. frank        | 坦率的 0        |
-| 12. furnace      |              |
-| 13. furnish      |              |
+| 12. furnace      | 火炉 （熔炉）      |
+| 13. furnish      | 装家具          |
 | 14. gaze         |              |
 | 15. genuine      |              |
 | 16. glance       |              |
