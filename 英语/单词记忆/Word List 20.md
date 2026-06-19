@@ -25,7 +25,7 @@
 | 23. holder       | 拥有者               |
 | 24. horizon      | 视野 见识  地平线        |
 | 25. hormone      | 激素  荷尔蒙           |
-| 26. illness      | 生病 0              |
+| 26. illness      | （疾病 ）             |
 | 27. index        | 指标 0              |
 | 28. initiate     | 开始 0              |
 | 29. injury       | 伤害 0              |
