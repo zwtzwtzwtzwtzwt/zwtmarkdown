@@ -57,8 +57,8 @@
 | 55. myth         |              |
 | 56. nasty        |              |
 | 57. noble        |              |
-| 58. nonetheless  |              |
-| 59. outer        | 外部的          |
+| 58. nonetheless  | 尽管但是         |
+| 59. outer        | 外部的 （外围的）    |
 | 60. oxygen       | 氧气           |
 | 61. panic        | 恐慌 惊慌        |
 | 62. pause        | 暂停 （暂停键）     |
