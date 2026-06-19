@@ -38,8 +38,8 @@
 | 36. layer        | 层 层级  阶级          |
 | 37. lest         | 唯恐 免得 避免          |
 | 38. limb         | 臂 腿 边缘  边缘树枝      |
-| 39. loan         |                   |
-| 40. loom         |                   |
+| 39. loan         | 借款                |
+| 40. loom         | 纺织机               |
 | 41. loyal        |                   |
 | 42. lure         |                   |
 | 43. mathematics  |                   |
