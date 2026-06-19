@@ -15,7 +15,7 @@
 | 11. antique    | 古董  古董的     |     |
 | 12. apparatus  |             |     |
 | 13. appendix   | 附录 1        |     |
-| 14. assault    |             |     |
+| 14. assault    | 攻击 1        |     |
 | 15. attorney   | 律师          |     |
 | 16. await      | 等待          |     |
 | 17. bare       |             |     |
