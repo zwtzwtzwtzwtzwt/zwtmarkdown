@@ -50,7 +50,7 @@
 | 48. metal        |                   |
 | 49. mild         | 轻微的               |
 | 50. mineral      | 矿物的 矿物质的          |
-| 51. minor        | 小的 未成年的           |
+| 51. minor        | 小的 未成年的 轻微的       |
 | 52. mislead      | 误导                |
 | 53. mock         | 嘲讽                |
 | 54. monetary     | 货币的 钱的            |
