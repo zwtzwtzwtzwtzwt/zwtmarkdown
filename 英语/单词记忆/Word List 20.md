@@ -6,7 +6,7 @@
 | 4. fantastic     | 奇幻的  极好的          |
 | 5. fellow        | 同伴的 同伴            |
 | 6. fetch         | 卖得  拿来            |
-| 7. flash         | 闪光 闪现 0（）         |
+| 7. flash         | 闪光 闪现 0（奢华的）      |
 | 8. flaw          | 缺陷 缺点 瑕疵          |
 | 9. float         | 漂浮 0              |
 | 10. foresee      | 预知 预见             |
