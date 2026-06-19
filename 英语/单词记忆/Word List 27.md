@@ -14,7 +14,7 @@
 | 10. annoy      | 使恼怒 1       |     |
 | 11. antique    | 古董  古董的     |     |
 | 12. apparatus  |             |     |
-| 13. appendix   |             |     |
+| 13. appendix   | 附录 1        |     |
 | 14. assault    |             |     |
 | 15. attorney   | 律师          |     |
 | 16. await      | 等待          |     |
