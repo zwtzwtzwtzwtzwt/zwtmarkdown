@@ -55,7 +55,7 @@
 | 51. chaos      | 混乱                |     |
 | 52. chapter    | 篇章                |     |
 | 53. charity    | 0慈善  慈善机构 1（救济）   |     |
-| 54. chase      | 追逐                |     |
+| 54. chase      | 追逐   1（争取得到）      |     |
 | 55. cheer      | 鼓舞                |     |
 | 56. chimney    |                   |     |
 | 57. chip       | 芯片                |     |
