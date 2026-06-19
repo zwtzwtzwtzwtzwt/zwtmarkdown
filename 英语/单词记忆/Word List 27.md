@@ -8,8 +8,8 @@
 | 4. accommodate | 适应 提供住宿  容纳 |     |
 | 5. accuse      | 指控 1        |     |
 | 6. additional  | 额外的 附加的     |     |
-| 7. administer  |             |     |
-| 8. amid        |             |     |
+| 7. administer  | 管理 治理 1     |     |
+| 8. amid        | 在什么期间       |     |
 | 9. anchor      |             |     |
 | 10. annoy      |             |     |
 | 11. antique    |             |     |
