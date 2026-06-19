@@ -79,7 +79,7 @@
 | 75. cunning    | 精巧的 狡猾的       |     |
 | 76. dash       | 猛冲            |     |
 | 77. dawn       | 黎明            |     |
-| 78. deadly     |               |     |
+| 78. deadly     | 致命的 1         |     |
 | 79. dealer     |               |     |
 | 80. defer      |               |     |
 | 81. despair    |               |     |
