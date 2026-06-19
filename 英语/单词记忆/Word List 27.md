@@ -54,8 +54,8 @@
 | 50. cement     | 加固 巩固 水泥    |     |
 | 51. chaos      | 混乱          |     |
 | 52. chapter    | 篇章          |     |
-| 53. charity    |             |     |
-| 54. chase      |             |     |
+| 53. charity    | 慈善  慈善机构    |     |
+| 54. chase      | 追逐          |     |
 | 55. cheer      |             |     |
 | 56. chimney    |             |     |
 | 57. chip       |             |     |
