@@ -13,7 +13,7 @@
 | 9. headquarters | 总部 司令部  |
 | 10. housework   | 家务      |
 | 11. lifetime    | 一生      |
-| 12. masterpiece |         |
+| 12. masterpiece | 佳作 著作   |
 | 13. meantime    |         |
 | 14. nearby      |         |
 | 15. nightmare   |         |
