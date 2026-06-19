@@ -41,7 +41,7 @@
 | 39. loan         | 借款                |
 | 40. loom         | 纺织机               |
 | 41. loyal        | 忠诚的 忠实的           |
-| 42. lure         |                   |
+| 42. lure         | 引诱  有货            |
 | 43. mathematics  |                   |
 | 44. mathematical |                   |
 | 45. medal        |                   |
