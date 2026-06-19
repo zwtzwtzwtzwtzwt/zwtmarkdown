@@ -12,8 +12,8 @@
 | 10. foresee      | 预知 预见        |
 | 11. frank        | 坦率的 0        |
 | 12. furnace      | 火炉 （熔炉）      |
-| 13. furnish      | 装家具          |
-| 14. gaze         |              |
+| 13. furnish      | 装家具 0        |
+| 14. gaze         | 盯着           |
 | 15. genuine      |              |
 | 16. glance       |              |
 | 17. grasp        |              |
