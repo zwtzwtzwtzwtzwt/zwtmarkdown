@@ -77,8 +77,8 @@
 | 73. crown      | 王国 王位         |     |
 | 74. cruel      | 残忍的           |     |
 | 75. cunning    | 精巧的 狡猾的       |     |
-| 76. dash       |               |     |
-| 77. dawn       |               |     |
+| 76. dash       | 猛冲            |     |
+| 77. dawn       | 黎明            |     |
 | 78. deadly     |               |     |
 | 79. dealer     |               |     |
 | 80. defer      |               |     |
