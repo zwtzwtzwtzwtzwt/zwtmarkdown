@@ -45,11 +45,11 @@
 | 41. burst      | 爆发 裂口 1     |     |
 | 42. bury       | 埋葬 1        |     |
 | 43. butcher    | 屠夫 肉铺 1     |     |
-| 44. cabin      | 小屋          |     |
-| 45. calorie    |             |     |
-| 46. canteen    |             |     |
-| 47. carpet     |             |     |
-| 48. carve      |             |     |
+| 44. cabin      | 小屋  飞机舱 1   |     |
+| 45. calorie    | 卡路里         |     |
+| 46. canteen    | 餐厅          |     |
+| 47. carpet     | 地毯          |     |
+| 48. carve      | 雕刻          |     |
 | 49. castle     |             |     |
 | 50. cement     |             |     |
 | 51. chaos      |             |     |
