@@ -5,8 +5,8 @@
 | 3. faithful      | 忠诚的 如实的  可靠的 |
 | 4. fantastic     | 奇幻的  极好的     |
 | 5. fellow        | 同伴的 同伴       |
-| 6. fetch         | 卖得           |
-| 7. flash         |              |
+| 6. fetch         | 卖得  拿来       |
+| 7. flash         | 闪光 闪现        |
 | 8. flaw          |              |
 | 9. float         |              |
 | 10. foresee      |              |
