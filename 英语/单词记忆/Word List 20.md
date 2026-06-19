@@ -50,8 +50,8 @@
 | 48. metal        |                   |
 | 49. mild         |                   |
 | 50. mineral      |                   |
-| 51. minor        |                   |
-| 52. mislead      |                   |
+| 51. minor        | 小的 未成年的           |
+| 52. mislead      | 误导                |
 | 53. mock         | 嘲讽                |
 | 54. monetary     | 货币的 钱的            |
 | 55. myth         | 神话 错误的观点          |
