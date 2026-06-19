@@ -55,7 +55,7 @@
 | 53. mock         |                   |
 | 54. monetary     |                   |
 | 55. myth         |                   |
-| 56. nasty        |                   |
+| 56. nasty        | 严重的 不好的 恶意的       |
 | 57. noble        | 高尚的 崇高的  雄伟的（高贵的） |
 | 58. nonetheless  | 尽管但是              |
 | 59. outer        | 外部的 （外围的）         |
