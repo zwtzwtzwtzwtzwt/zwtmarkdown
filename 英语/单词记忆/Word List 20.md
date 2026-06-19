@@ -46,7 +46,7 @@
 | 44. mathematical | 数学的               |
 | 45. medal        | 奖牌                |
 | 46. medium       |                   |
-| 47. melt         | 荣                 |
+| 47. melt         | 融化 使心软            |
 | 48. metal        |                   |
 | 49. mild         | 轻微的               |
 | 50. mineral      | 矿物的 矿物质的          |
