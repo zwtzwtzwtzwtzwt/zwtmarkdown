@@ -48,8 +48,8 @@
 | 46. medium       |                   |
 | 47. melt         |                   |
 | 48. metal        |                   |
-| 49. mild         |                   |
-| 50. mineral      |                   |
+| 49. mild         | 轻微的               |
+| 50. mineral      | 矿物的 矿物质的          |
 | 51. minor        | 小的 未成年的           |
 | 52. mislead      | 误导                |
 | 53. mock         | 嘲讽                |
