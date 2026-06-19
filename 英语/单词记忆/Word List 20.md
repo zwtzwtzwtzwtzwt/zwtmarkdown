@@ -20,10 +20,10 @@
 | 18. harsh        | 严厉的 刺耳的      |
 | 19. harvest      | 收获 0         |
 | 20. heaven       | 天堂  天空       |
-| 21. helmet       |              |
-| 22. hinder       |              |
-| 23. holder       |              |
-| 24. horizon      |              |
+| 21. helmet       | 头盔           |
+| 22. hinder       | 阻碍           |
+| 23. holder       | 拥有者          |
+| 24. horizon      | 视野           |
 | 25. hormone      |              |
 | 26. illness      |              |
 | 27. index        |              |
