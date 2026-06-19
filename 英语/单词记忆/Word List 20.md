@@ -45,7 +45,7 @@
 | 43. mathematics  | 数学                |
 | 44. mathematical | 数学的               |
 | 45. medal        | 奖牌                |
-| 46. medium       | 媒介                |
+| 46. medium       | 媒介   中等的  媒体      |
 | 47. melt         | 融化 使心软            |
 | 48. metal        | 金属的               |
 | 49. mild         | 轻微的               |
