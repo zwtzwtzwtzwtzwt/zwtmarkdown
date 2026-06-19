@@ -49,7 +49,7 @@
 | 45. calorie    | 卡路里               |     |
 | 46. canteen    | 餐厅                |     |
 | 47. carpet     | 地毯   1（覆盖）        |     |
-| 48. carve      | 雕刻                |     |
+| 48. carve      | 雕刻    （切成  开创 赢得） |     |
 | 49. castle     | 碉堡                |     |
 | 50. cement     | 加固 巩固 水泥          |     |
 | 51. chaos      | 混乱                |     |
