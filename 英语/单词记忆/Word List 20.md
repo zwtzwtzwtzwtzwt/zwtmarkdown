@@ -16,7 +16,7 @@
 | 14. gaze         | 盯着 凝视        |
 | 15. genuine      | 真诚的 真正的      |
 | 16. glance       | 一瞥  浏览 略看    |
-| 17. grasp        | 抓住  理解       |
+| 17. grasp        | 抓住  理解 掌握 领会 |
 | 18. harsh        |              |
 | 19. harvest      |              |
 | 20. heaven       |              |
@@ -64,4 +64,4 @@
 | 62. pause        |              |
 | 63. pave         |              |
 | 64. pearl        |              |
-| 65. pilgrim      |       
+| 65. pilgrim      |              |
