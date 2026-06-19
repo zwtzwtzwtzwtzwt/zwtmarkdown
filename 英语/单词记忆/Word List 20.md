@@ -56,7 +56,7 @@
 | 54. monetary     |              |
 | 55. myth         |              |
 | 56. nasty        |              |
-| 57. noble        | 高尚的 崇高的      |
+| 57. noble        | 高尚的 崇高的  雄伟的 |
 | 58. nonetheless  | 尽管但是         |
 | 59. outer        | 外部的 （外围的）    |
 | 60. oxygen       | 氧气           |
