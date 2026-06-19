@@ -10,7 +10,7 @@
 | 8. flaw          | 缺陷 缺点 瑕疵     |
 | 9. float         | 漂浮 0         |
 | 10. foresee      | 预知 预见        |
-| 11. frank        | 坦率的          |
+| 11. frank        | 坦率的 0        |
 | 12. furnace      |              |
 | 13. furnish      |              |
 | 14. gaze         |              |
