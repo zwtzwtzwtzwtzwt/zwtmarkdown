@@ -42,10 +42,10 @@
 | 38. bulk       | 大的 大体积的 1   |     |
 | 39. bunch      |             |     |
 | 40. bureau     |             |     |
-| 41. burst      |             |     |
-| 42. bury       |             |     |
-| 43. butcher    |             |     |
-| 44. cabin      |             |     |
+| 41. burst      | 爆发 裂口 1     |     |
+| 42. bury       | 埋葬 1        |     |
+| 43. butcher    | 屠夫 肉铺 1     |     |
+| 44. cabin      | 小屋          |     |
 | 45. calorie    |             |     |
 | 46. canteen    |             |     |
 | 47. carpet     |             |     |
