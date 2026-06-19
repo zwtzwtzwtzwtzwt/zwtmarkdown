@@ -14,8 +14,8 @@
 | 12. furnace      | 火炉 （熔炉）      |
 | 13. furnish      | 装家具 0        |
 | 14. gaze         | 盯着 凝视        |
-| 15. genuine      | 真诚的 真正       |
-| 16. glance       |              |
+| 15. genuine      | 真诚的 真正的      |
+| 16. glance       | 一瞥  浏览       |
 | 17. grasp        |              |
 | 18. harsh        |              |
 | 19. harvest      |              |
