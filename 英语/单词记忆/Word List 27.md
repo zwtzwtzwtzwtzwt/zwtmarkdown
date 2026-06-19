@@ -14,9 +14,9 @@
 | 10. annoy      | 使恼怒 1（打扰 骚扰）  |     |
 | 11. antique    | 古董  古董的       |     |
 | 12. apparatus  | 装置  机构组织      |     |
-| 13. appendix   | 附录 1（）        |     |
-| 14. assault    | 攻击 1          |     |
-| 15. attorney   | 律师            |     |
+| 13. appendix   | 附录 1（阑尾）      |     |
+| 14. assault    | 攻击 1（抨击）      |     |
+| 15. attorney   | 律师（代理人）       |     |
 | 16. await      | 等待            |     |
 | 17. bare       | 光秃秃的          |     |
 | 18. barn       | 谷仓 1          |     |
