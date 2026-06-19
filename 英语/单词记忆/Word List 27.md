@@ -76,7 +76,7 @@
 | 72. crisp      | 变脆 使变脆        |     |
 | 73. crown      | 王国 王位         |     |
 | 74. cruel      | 残忍的           |     |
-| 75. cunning    | 精巧的           |     |
+| 75. cunning    | 精巧的 狡猾的       |     |
 | 76. dash       |               |     |
 | 77. dawn       |               |     |
 | 78. deadly     |               |     |
