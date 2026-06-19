@@ -24,9 +24,9 @@
 | 22. hinder       | 阻碍           |
 | 23. holder       | 拥有者          |
 | 24. horizon      | 视野 见识  地平线   |
-| 25. hormone      | 激素           |
-| 26. illness      |              |
-| 27. index        |              |
+| 25. hormone      | 激素  荷尔蒙      |
+| 26. illness      | 生病 0         |
+| 27. index        | 指标 0         |
 | 28. initiate     |              |
 | 29. injury       |              |
 | 30. inner        |              |
