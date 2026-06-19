@@ -32,8 +32,8 @@
 | 30. inner        | 内部的 内心的      |
 | 31. keen         | 热衷于  0       |
 | 32. ladder       | 阶梯  梯子       |
-| 33. lane         |              |
-| 34. laser        |              |
+| 33. lane         | 道 0          |
+| 34. laser        | 激光  激光器      |
 | 35. lawn         |              |
 | 36. layer        |              |
 | 37. lest         |              |
