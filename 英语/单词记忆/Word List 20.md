@@ -40,7 +40,7 @@
 | 38. limb         | 臂 腿 边缘  边缘树枝      |
 | 39. loan         | 借款                |
 | 40. loom         | 纺织机               |
-| 41. loyal        |                   |
+| 41. loyal        | 忠诚的 忠实的           |
 | 42. lure         |                   |
 | 43. mathematics  |                   |
 | 44. mathematical |                   |
