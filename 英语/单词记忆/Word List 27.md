@@ -68,8 +68,8 @@
 | 64. coil       | 圈 缠绕          |     |
 | 65. copper     | 铜 警察          |     |
 | 66. counsel    | 咨询 辅导 建议 法律顾问 |     |
-| 67. county     | 郡             |     |
-| 68. coward     |               |     |
+| 67. county     | 郡 县           |     |
+| 68. coward     | 王国            |     |
 | 69. crawl      |               |     |
 | 70. cricket    |               |     |
 | 71. cripple    |               |     |
@@ -83,4 +83,4 @@
 | 79. dealer     |               |     |
 | 80. defer      |               |     |
 | 81. despair    |               |     |
-| 82. despise    |               |    
+| 82. despise    |               |     |
