@@ -44,9 +44,9 @@
 | 42. lure         | 引诱  诱惑  诱惑力       |
 | 43. mathematics  | 数学                |
 | 44. mathematical | 数学的               |
-| 45. medal        |                   |
+| 45. medal        | 奖牌                |
 | 46. medium       |                   |
-| 47. melt         |                   |
+| 47. melt         | 荣                 |
 | 48. metal        |                   |
 | 49. mild         | 轻微的               |
 | 50. mineral      | 矿物的 矿物质的          |
