@@ -61,7 +61,7 @@
 | 57. chip       | 芯片          |     |
 | 58. chop       | 砍  猪排排      |     |
 | 59. Christmas  | 圣诞节         |     |
-| 60. clerk      | 文职          |     |
+| 60. clerk      | 文职 职员 招待员   |     |
 | 61. cliff      |             |     |
 | 62. cling      |             |     |
 | 63. cocaine    |             |     |
