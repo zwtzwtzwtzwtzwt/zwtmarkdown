@@ -60,8 +60,8 @@
 | 58. nonetheless  |              |
 | 59. outer        |              |
 | 60. oxygen       |              |
-| 61. panic        |              |
-| 62. pause        | 暂停 （）        |
+| 61. panic        | 恐慌           |
+| 62. pause        | 暂停 （暂停键）     |
 | 63. pave         | 铺            |
 | 64. pearl        | 珍珠           |
 | 65. pilgrim      | 朝圣者 香客       |
