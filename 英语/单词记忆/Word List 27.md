@@ -24,11 +24,11 @@
 | 20. beard      | 胡子          |     |
 | 21. bend       | 拐弯 弯道 弯曲    |     |
 | 22. bind       | 联系 捆绑 困境    |     |
-| 23. bitter     | 苦涩的         |     |
-| 24. bizarre    |             |     |
-| 25. bleak      |             |     |
-| 26. blunder    |             |     |
-| 27. blur       |             |     |
+| 23. bitter     | 苦涩的 1       |     |
+| 24. bizarre    | 奇特的         |     |
+| 25. bleak      | 1           |     |
+| 26. blunder    | 1 错误        |     |
+| 27. blur       | 模糊 1        |     |
 | 28. boast      |             |     |
 | 29. bolster    |             |     |
 | 30. bore       |             |     |
