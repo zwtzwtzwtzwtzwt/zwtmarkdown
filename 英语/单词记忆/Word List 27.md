@@ -23,7 +23,7 @@
 | 19. barrel     | 桶           |     |
 | 20. beard      | 胡子          |     |
 | 21. bend       | 拐弯 弯道 弯曲    |     |
-| 22. bind       |             |     |
+| 22. bind       | 联系 捆绑 困境    |     |
 | 23. bitter     |             |     |
 | 24. bizarre    |             |     |
 | 25. bleak      |             |     |
