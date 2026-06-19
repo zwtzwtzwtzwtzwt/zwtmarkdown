@@ -71,7 +71,7 @@
 | 67. county     | 郡 县           |     |
 | 68. coward     |               |     |
 | 69. crawl      | 爬行            |     |
-| 70. cricket    |               |     |
+| 70. cricket    | 板球            |     |
 | 71. cripple    |               |     |
 | 72. crisp      |               |     |
 | 73. crown      |               |     |
