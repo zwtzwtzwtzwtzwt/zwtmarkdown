@@ -64,7 +64,7 @@
 | 60. clerk      | 文职 职员 招待员   |     |
 | 61. cliff      | 悬崖 峭壁       |     |
 | 62. cling      | 抓住 坚持       |     |
-| 63. cocaine    |             |     |
+| 63. cocaine    | 卡洛英         |     |
 | 64. coil       |             |     |
 | 65. copper     |             |     |
 | 66. counsel    |             |     |
