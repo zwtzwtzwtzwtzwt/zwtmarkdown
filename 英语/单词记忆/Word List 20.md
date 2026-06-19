@@ -63,5 +63,5 @@
 | 61. panic        |              |
 | 62. pause        |              |
 | 63. pave         |              |
-| 64. pearl        |              |
-| 65. pilgrim      |              |
+| 64. pearl        | 珍珠           |
+| 65. pilgrim      | 朝圣者 香客    
