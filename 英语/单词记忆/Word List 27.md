@@ -11,7 +11,7 @@
 | 7. administer  | 管理 治理 1（执行）   |     |
 | 8. amid        | 在什么期间         |     |
 | 9. anchor      | 主持人  抛瞄 1（固定） |     |
-| 10. annoy      | 使恼怒 1         |     |
+| 10. annoy      | 使恼怒 1（打扰 骚扰）  |     |
 | 11. antique    | 古董  古董的       |     |
 | 12. apparatus  |               |     |
 | 13. appendix   | 附录 1          |     |
