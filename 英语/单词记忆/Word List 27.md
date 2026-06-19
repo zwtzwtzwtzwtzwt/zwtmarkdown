@@ -83,4 +83,4 @@
 | 79. dealer     | 商人 1          |     |
 | 80. defer      | 拖延 推延         |     |
 | 81. despair    | 绝望的           |     |
-| 82. despise    | 蔑视            |     |
+| 82. despise    | 蔑视（鄙视 看不起）    |     |
