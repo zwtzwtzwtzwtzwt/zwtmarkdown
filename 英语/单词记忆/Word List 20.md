@@ -13,8 +13,8 @@
 | 11. frank        | 坦率的 0        |
 | 12. furnace      | 火炉 （熔炉）      |
 | 13. furnish      | 装家具 0        |
-| 14. gaze         | 盯着           |
-| 15. genuine      |              |
+| 14. gaze         | 盯着 凝视        |
+| 15. genuine      | 真诚的 真正       |
 | 16. glance       |              |
 | 17. grasp        |              |
 | 18. harsh        |              |
