@@ -33,8 +33,8 @@
 | 29. bolster    | 增强 改善       |     |
 | 30. bore       |             |     |
 | 31. boycott    | 拒绝接受 抵制 1   |     |
-| 32. brake      |             |     |
-| 33. breast     |             |     |
+| 32. brake      | 刹车 1        |     |
+| 33. breast     | 胸部 1        |     |
 | 34. bridge     |             |     |
 | 35. bronze     |             |     |
 | 36. bubble     |             |     |
