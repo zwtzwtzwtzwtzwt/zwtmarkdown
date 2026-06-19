@@ -1,32 +1,32 @@
 [英语单词1到30, p.84](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%2026))
 
-| 英文单词            | 0       |
-| --------------- | ------- |
-| 1. breakdown    | 崩溃 破裂   |
-| 2. bypass       | 路过 0    |
-| 3. countryside  | 乡村      |
-| 4. cyberspace   | 网络空间    |
-| 5. drawback     | 缺点 不理条件 |
-| 6. eyebrow      | 眉毛      |
-| 7. foremost     | 最重要的 0  |
-| 8. forthcoming  | 0       |
-| 9. headquarters | 总部 司令部  |
-| 10. housework   | 家务      |
-| 11. lifetime    | 一生      |
-| 12. masterpiece | 佳作 著作   |
-| 13. meantime    | 与此同时    |
-| 14. nearby      | 附近 0    |
-| 15. nightmare   |         |
-| 16. outbreak    |         |
-| 17. outrage     |         |
-| 18. outset      |         |
-| 19. overhead    |         |
-| 20. roundabout  |         |
-| 21. shortcoming |         |
-| 22. shorthand   |         |
-| 23. sometime    |         |
-| 24. spacecraft  |         |
-| 25. upright     |         |
-| 26. upstairs    |         |
-| 27. viewpoint   |         |
-| 28. warehouse   |         |
+| 英文单词            | 0           |
+| --------------- | ----------- |
+| 1. breakdown    | 崩溃 破裂       |
+| 2. bypass       | 路过 0        |
+| 3. countryside  | 乡村          |
+| 4. cyberspace   | 网络空间        |
+| 5. drawback     | 缺点 不理条件     |
+| 6. eyebrow      | 眉毛          |
+| 7. foremost     | 最重要的 0      |
+| 8. forthcoming  | 0           |
+| 9. headquarters | 总部 司令部      |
+| 10. housework   | 家务          |
+| 11. lifetime    | 一生          |
+| 12. masterpiece | 佳作 著作       |
+| 13. meantime    | 与此同时        |
+| 14. nearby      | 附近 0        |
+| 15. nightmare   | 噩梦 棘手的      |
+| 16. outbreak    | 爆发 突然爆发     |
+| 17. outrage     | 0           |
+| 18. outset      | 开始 0        |
+| 19. overhead    | 运营费用 高架 头顶的 |
+| 20. roundabout  | 0           |
+| 21. shortcoming | 缺点          |
+| 22. shorthand   | 速记法         |
+| 23. sometime    | 某时  从前的     |
+| 24. spacecraft  | 航天飞船        |
+| 25. upright     |             |
+| 26. upstairs    |             |
+| 27. viewpoint   |             |
+| 28. warehouse   |             |
