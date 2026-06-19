@@ -22,7 +22,7 @@
 | 18. barn       | 谷仓 1        |     |
 | 19. barrel     | 桶           |     |
 | 20. beard      | 胡子          |     |
-| 21. bend       | 拐弯          |     |
+| 21. bend       | 拐弯 弯道 弯曲    |     |
 | 22. bind       |             |     |
 | 23. bitter     |             |     |
 | 24. bizarre    |             |     |
