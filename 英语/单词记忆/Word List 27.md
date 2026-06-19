@@ -36,8 +36,8 @@
 | 32. brake      | 刹车 1        |     |
 | 33. breast     | 胸部 1        |     |
 | 34. bridge     | 桥 1         |     |
-| 35. bronze     |             |     |
-| 36. bubble     |             |     |
+| 35. bronze     | 荒凉的 阴冷的 1   |     |
+| 36. bubble     | 气泡 1        |     |
 | 37. bulb       |             |     |
 | 38. bulk       |             |     |
 | 39. bunch      |             |     |
