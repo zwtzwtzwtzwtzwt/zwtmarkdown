@@ -6,8 +6,8 @@
 | 2. aboard      | 在船上  上      |     |
 | 3. acclaim     | 称誉 1        |     |
 | 4. accommodate | 适应 提供住宿  容纳 |     |
-| 5. accuse      |             |     |
-| 6. additional  |             |     |
+| 5. accuse      | 指控 1        |     |
+| 6. additional  | 额外的 附加的     |     |
 | 7. administer  |             |     |
 | 8. amid        |             |     |
 | 9. anchor      |             |     |
