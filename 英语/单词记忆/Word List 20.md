@@ -35,7 +35,7 @@
 | 33. lane         | 道 0          |
 | 34. laser        | 激光  激光器      |
 | 35. lawn         | 草坪 草地        |
-| 36. layer        |              |
+| 36. layer        | 层 层级  阶级     |
 | 37. lest         |              |
 | 38. limb         |              |
 | 39. loan         |              |
