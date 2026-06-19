@@ -34,7 +34,7 @@
 | 32. ladder       | 阶梯  梯子       |
 | 33. lane         | 道 0          |
 | 34. laser        | 激光  激光器      |
-| 35. lawn         |              |
+| 35. lawn         | 草坪 草地        |
 | 36. layer        |              |
 | 37. lest         |              |
 | 38. limb         |              |
