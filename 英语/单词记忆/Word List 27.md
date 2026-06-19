@@ -51,7 +51,7 @@
 | 47. carpet     | 地毯          |     |
 | 48. carve      | 雕刻          |     |
 | 49. castle     | 碉堡          |     |
-| 50. cement     |             |     |
+| 50. cement     | 加固 巩固 水泥    |     |
 | 51. chaos      |             |     |
 | 52. chapter    |             |     |
 | 53. charity    |             |     |
