@@ -8,7 +8,7 @@
 | 4. cyberspace   | 网络空间        |
 | 5. drawback     | 缺点 不理条件     |
 | 6. eyebrow      | 眉毛          |
-| 7. foremost     | 最重要的 0      |
+| 7. foremost     | 最重要的 0（）    |
 | 8. forthcoming  | 0（即将发生的）    |
 | 9. headquarters | 总部 司令部      |
 | 10. housework   | 家务          |
