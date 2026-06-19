@@ -50,7 +50,7 @@
 | 46. canteen    | 餐厅          |     |
 | 47. carpet     | 地毯          |     |
 | 48. carve      | 雕刻          |     |
-| 49. castle     |             |     |
+| 49. castle     | 碉堡          |     |
 | 50. cement     |             |     |
 | 51. chaos      |             |     |
 | 52. chapter    |             |     |
