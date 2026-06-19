@@ -11,7 +11,7 @@
 | 7. administer  | 管理 治理 1     |     |
 | 8. amid        | 在什么期间       |     |
 | 9. anchor      | 主持人  抛瞄 1   |     |
-| 10. annoy      |             |     |
+| 10. annoy      | 使           |     |
 | 11. antique    |             |     |
 | 12. apparatus  |             |     |
 | 13. appendix   |             |     |
