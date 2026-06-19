@@ -9,10 +9,10 @@
 | 5. drawback     | 缺点 不理条件 |
 | 6. eyebrow      | 眉毛      |
 | 7. foremost     | 最重要的 0  |
-| 8. forthcoming  |         |
-| 9. headquarters |         |
-| 10. housework   |         |
-| 11. lifetime    |         |
+| 8. forthcoming  | 0       |
+| 9. headquarters | 总部 司令部  |
+| 10. housework   | 家务      |
+| 11. lifetime    | 一生      |
 | 12. masterpiece |         |
 | 13. meantime    |         |
 | 14. nearby      |         |
