@@ -26,7 +26,7 @@
 | 24. horizon      | 视野 见识  地平线        |
 | 25. hormone      | 激素  荷尔蒙           |
 | 26. illness      | （疾病 犯病期）          |
-| 27. index        | 指标 0              |
+| 27. index        | 指标 0（指数）          |
 | 28. initiate     | 开始 0              |
 | 29. injury       | 伤害 0              |
 | 30. inner        | 内部的 内心的           |
