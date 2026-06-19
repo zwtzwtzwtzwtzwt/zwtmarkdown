@@ -65,8 +65,8 @@
 | 61. cliff      | 悬崖 峭壁       |     |
 | 62. cling      | 抓住 坚持       |     |
 | 63. cocaine    | 卡洛英         |     |
-| 64. coil       |             |     |
-| 65. copper     |             |     |
+| 64. coil       | 圈 缠绕        |     |
+| 65. copper     | 铜 警察        |     |
 | 66. counsel    |             |     |
 | 67. county     |             |     |
 | 68. coward     |             |     |
