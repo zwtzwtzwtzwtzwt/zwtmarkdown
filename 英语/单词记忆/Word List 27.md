@@ -59,7 +59,7 @@
 | 55. cheer      | 鼓舞          |     |
 | 56. chimney    |             |     |
 | 57. chip       | 芯片          |     |
-| 58. chop       | 砍           |     |
+| 58. chop       | 砍  猪排排      |     |
 | 59. Christmas  |             |     |
 | 60. clerk      |             |     |
 | 61. cliff      |             |     |
