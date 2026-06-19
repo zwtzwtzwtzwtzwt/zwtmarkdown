@@ -56,10 +56,10 @@
 | 52. chapter    | 篇章          |     |
 | 53. charity    | 慈善  慈善机构    |     |
 | 54. chase      | 追逐          |     |
-| 55. cheer      |             |     |
+| 55. cheer      | 鼓舞          |     |
 | 56. chimney    |             |     |
-| 57. chip       |             |     |
-| 58. chop       |             |     |
+| 57. chip       | 芯片          |     |
+| 58. chop       | 砍           |     |
 | 59. Christmas  |             |     |
 | 60. clerk      |             |     |
 | 61. cliff      |             |     |
