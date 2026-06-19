@@ -14,8 +14,8 @@
 | 10. housework   | 家务      |
 | 11. lifetime    | 一生      |
 | 12. masterpiece | 佳作 著作   |
-| 13. meantime    |         |
-| 14. nearby      |         |
+| 13. meantime    | 与此同时    |
+| 14. nearby      | 附近 0    |
 | 15. nightmare   |         |
 | 16. outbreak    |         |
 | 17. outrage     |         |
