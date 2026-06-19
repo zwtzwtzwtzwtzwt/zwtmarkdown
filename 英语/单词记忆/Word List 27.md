@@ -20,8 +20,8 @@
 | 16. await      | 等待          |     |
 | 17. bare       | 光秃秃的        |     |
 | 18. barn       | 谷仓 1        |     |
-| 19. barrel     |             |     |
-| 20. beard      |             |     |
+| 19. barrel     | 桶           |     |
+| 20. beard      | 胡子          |     |
 | 21. bend       |             |     |
 | 22. bind       |             |     |
 | 23. bitter     |             |     |
