@@ -58,9 +58,9 @@
 | 56. nasty        |              |
 | 57. noble        |              |
 | 58. nonetheless  |              |
-| 59. outer        |              |
-| 60. oxygen       |              |
-| 61. panic        | 恐慌           |
+| 59. outer        | 外部的          |
+| 60. oxygen       | 氧气           |
+| 61. panic        | 恐慌 惊慌        |
 | 62. pause        | 暂停 （暂停键）     |
 | 63. pave         | 铺            |
 | 64. pearl        | 珍珠           |
