@@ -74,9 +74,9 @@
 | 70. cricket    | 板球  蟋蟀        |     |
 | 71. cripple    | 残疾人 使残疾       |     |
 | 72. crisp      | 变脆 使变脆        |     |
-| 73. crown      |               |     |
-| 74. cruel      |               |     |
-| 75. cunning    |               |     |
+| 73. crown      | 王国 王位         |     |
+| 74. cruel      | 残忍的           |     |
+| 75. cunning    | 精巧的           |     |
 | 76. dash       |               |     |
 | 77. dawn       |               |     |
 | 78. deadly     |               |     |
