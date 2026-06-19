@@ -18,8 +18,8 @@
 | 14. nearby      | 附近 0（在附近）    |
 | 15. nightmare   | 噩梦 棘手的       |
 | 16. outbreak    | 爆发 突然爆发      |
-| 17. outrage     | 0            |
-| 18. outset      | 开始 0         |
+| 17. outrage     | 0（愤怒 使愤怒）    |
+| 18. outset      | 开始           |
 | 19. overhead    | 运营费用 高架 头顶的  |
 | 20. roundabout  | 0            |
 | 21. shortcoming | 缺点           |
