@@ -30,7 +30,7 @@
 | 26. blunder    | 1 错误        |     |
 | 27. blur       | 模糊 1        |     |
 | 28. boast      | 吹嘘 拥有       |     |
-| 29. bolster    |             |     |
+| 29. bolster    | 增强 改善       |     |
 | 30. bore       |             |     |
 | 31. boycott    |             |     |
 | 32. brake      |             |     |
