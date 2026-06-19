@@ -35,7 +35,7 @@
 | 31. boycott    | 拒绝接受 抵制 1   |     |
 | 32. brake      | 刹车 1        |     |
 | 33. breast     | 胸部 1        |     |
-| 34. bridge     |             |     |
+| 34. bridge     | 桥 1         |     |
 | 35. bronze     |             |     |
 | 36. bubble     |             |     |
 | 37. bulb       |             |     |
