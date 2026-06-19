@@ -32,7 +32,7 @@
 | 28. boast      | 吹嘘 拥有       |     |
 | 29. bolster    | 增强 改善       |     |
 | 30. bore       |             |     |
-| 31. boycott    |             |     |
+| 31. boycott    | 拒绝接受 抵制 1   |     |
 | 32. brake      |             |     |
 | 33. breast     |             |     |
 | 34. bridge     |             |     |
