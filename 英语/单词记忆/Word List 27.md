@@ -80,7 +80,7 @@
 | 76. dash       | 猛冲            |     |
 | 77. dawn       | 黎明            |     |
 | 78. deadly     | 致命的 1         |     |
-| 79. dealer     |               |     |
-| 80. defer      |               |     |
-| 81. despair    |               |     |
+| 79. dealer     | 商人 1          |     |
+| 80. defer      | 拖延 推延         |     |
+| 81. despair    | 绝望的           |     |
 | 82. despise    |               |     |
