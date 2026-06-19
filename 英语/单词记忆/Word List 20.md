@@ -1,6 +1,6 @@
 | 英文单词             | 1   |
 | ---------------- | --- |
-| 1. exert         |     |
+| 1. exert         | 采用  |
 | 2. expedition    |     |
 | 3. faithful      |     |
 | 4. fantastic     |     |
