@@ -23,8 +23,8 @@
 | 21. helmet       | 头盔           |
 | 22. hinder       | 阻碍           |
 | 23. holder       | 拥有者          |
-| 24. horizon      | 视野           |
-| 25. hormone      |              |
+| 24. horizon      | 视野 见识  地平线   |
+| 25. hormone      | 激素           |
 | 26. illness      |              |
 | 27. index        |              |
 | 28. initiate     |              |
