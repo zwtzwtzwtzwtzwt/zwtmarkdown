@@ -3,13 +3,13 @@
 | 英文单词            | 0           |
 | --------------- | ----------- |
 | 1. breakdown    | 崩溃 破裂       |
-| 2. bypass       | 路过 0        |
+| 2. bypass       | 0（绕开 避开）    |
 | 3. countryside  | 乡村          |
 | 4. cyberspace   | 网络空间        |
 | 5. drawback     | 缺点 不理条件     |
 | 6. eyebrow      | 眉毛          |
 | 7. foremost     | 最重要的 0      |
-| 8. forthcoming  | 0           |
+| 8. forthcoming  | 0（即将发生的）    |
 | 9. headquarters | 总部 司令部      |
 | 10. housework   | 家务          |
 | 11. lifetime    | 一生          |
