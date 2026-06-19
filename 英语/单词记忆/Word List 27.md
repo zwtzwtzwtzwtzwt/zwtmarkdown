@@ -62,8 +62,8 @@
 | 58. chop       | 砍  猪排排      |     |
 | 59. Christmas  | 圣诞节         |     |
 | 60. clerk      | 文职 职员 招待员   |     |
-| 61. cliff      |             |     |
-| 62. cling      |             |     |
+| 61. cliff      | 悬崖 峭壁       |     |
+| 62. cling      | 抓住 坚持       |     |
 | 63. cocaine    |             |     |
 | 64. coil       |             |     |
 | 65. copper     |             |     |
