@@ -52,8 +52,8 @@
 | 48. carve      | 雕刻          |     |
 | 49. castle     | 碉堡          |     |
 | 50. cement     | 加固 巩固 水泥    |     |
-| 51. chaos      |             |     |
-| 52. chapter    |             |     |
+| 51. chaos      | 混乱          |     |
+| 52. chapter    | 篇章          |     |
 | 53. charity    |             |     |
 | 54. chase      |             |     |
 | 55. cheer      |             |     |
