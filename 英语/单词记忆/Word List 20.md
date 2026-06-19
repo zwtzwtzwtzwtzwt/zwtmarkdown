@@ -28,8 +28,8 @@
 | 26. illness      | 生病 0         |
 | 27. index        | 指标 0         |
 | 28. initiate     | 开始 0         |
-| 29. injury       |              |
-| 30. inner        |              |
+| 29. injury       | 伤害 0         |
+| 30. inner        | 内部的 内心的      |
 | 31. keen         |              |
 | 32. ladder       |              |
 | 33. lane         |              |
