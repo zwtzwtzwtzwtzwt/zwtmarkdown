@@ -39,7 +39,7 @@
 | 35. bronze     | 荒凉的 阴冷的 1   |     |
 | 36. bubble     | 气泡 1        |     |
 | 37. bulb       |             |     |
-| 38. bulk       |             |     |
+| 38. bulk       | 大的 大体积的 1   |     |
 | 39. bunch      |             |     |
 | 40. bureau     |             |     |
 | 41. burst      |             |     |
