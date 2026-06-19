@@ -27,7 +27,7 @@
 | 25. hormone      | 激素  荷尔蒙      |
 | 26. illness      | 生病 0         |
 | 27. index        | 指标 0         |
-| 28. initiate     |              |
+| 28. initiate     | 开始 0         |
 | 29. injury       |              |
 | 30. inner        |              |
 | 31. keen         |              |
