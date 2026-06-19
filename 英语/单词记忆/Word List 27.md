@@ -29,7 +29,7 @@
 | 25. bleak      | 1           |     |
 | 26. blunder    | 1 错误        |     |
 | 27. blur       | 模糊 1        |     |
-| 28. boast      |             |     |
+| 28. boast      | 吹嘘 拥有       |     |
 | 29. bolster    |             |     |
 | 30. bore       |             |     |
 | 31. boycott    |             |     |
