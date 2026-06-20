@@ -5,7 +5,7 @@
 | 1. abide       |                                                               | 容忍 停留             |
 | 2. aboard      | 在船上 上                                                         | 在船上  上            |
 | 3. acclaim     | 称赞  赞誉                                                        | 称誉 1              |
-| 4. accommodate |                                                               | 适应 提供住宿  容纳       |
+| 4. accommodate | 提供住宿  容纳 2                                                    | 适应 提供住宿  容纳       |
 | 5. accuse      |                                                               | 指控 1              |
 | 6. additional  |                                                               | 额外的 附加的           |
 | 7. administer  |                                                               | 管理 治理 1（执行）       |
