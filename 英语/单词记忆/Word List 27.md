@@ -6,10 +6,10 @@
 | 2. aboard      | 在船上 上                                                         | 在船上  上            |
 | 3. acclaim     | 称赞  赞誉                                                        | 称誉 1              |
 | 4. accommodate | 提供住宿  容纳 2                                                    | 适应 提供住宿  容纳       |
-| 5. accuse      |                                                               | 指控 1              |
-| 6. additional  |                                                               | 额外的 附加的           |
-| 7. administer  |                                                               | 管理 治理 1（执行）       |
-| 8. amid        |                                                               | 在什么期间             |
+| 5. accuse      | 指控 控诉                                                         | 指控 1              |
+| 6. additional  | 额外的 附加的                                                       | 额外的 附加的           |
+| 7. administer  | 管理 执行  2                                                      | 管理 治理 1（执行）       |
+| 8. amid        | 在什么期间                                                         | 在什么期间             |
 | 9. anchor      |                                                               | 主持人  抛瞄 1（固定）     |
 | 10. annoy      |                                                               | 使恼怒 1（打扰 骚扰）      |
 | 11. antique    |                                                               | 古董  古董的           |
