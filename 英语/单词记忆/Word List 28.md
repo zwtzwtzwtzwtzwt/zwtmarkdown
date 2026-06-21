@@ -15,8 +15,8 @@
 | 11. earnest      | 认真的 真诚的      |
 | 12. editorial    | 评论  编辑的      |
 | 13. empire       | 帝国 企业        |
-| 14. entail       |              |
-| 15. entertain    |              |
+| 14. entail       | 使必需  势必造成    |
+| 15. entertain    | 招待           |
 | 16. entrance     |              |
 | 17. epic         |              |
 | 18. episode      |              |
