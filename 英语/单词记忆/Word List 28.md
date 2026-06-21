@@ -38,7 +38,7 @@
 | 34. frighten     |                    |
 | 35. frown        |                    |
 | 36. fruitful     |                    |
-| 37. gamble       |                    |
+| 37. gamble       | 赌博 打赌 碰运气          |
 | 38. gear         |                    |
 | 39. gesture      |                    |
 | 40. glimpse      |                    |
