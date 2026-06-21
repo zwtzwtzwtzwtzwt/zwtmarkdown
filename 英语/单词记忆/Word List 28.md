@@ -65,7 +65,7 @@
 | 61. hint         |                    |
 | 62. hip          | 暗示  迹象             |
 | 63. hitherto     |                    |
-| 64. holy         |                    |
+| 64. holy         | 神圣的 虔诚的            |
 | 65. hook         |                    |
 | 66. humorous     |                    |
 | 67. impair       |                    |
