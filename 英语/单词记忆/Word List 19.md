@@ -15,7 +15,7 @@
 | 11. automobile   | 汽车         |
 | 12. awkward      | 尴尬的        |
 | 13. bachelor     | 学士  单身汉    |
-| 14. backward     |            |
+| 14. backward     | 向后的 迟钝的    |
 | 15. bargain      |            |
 | 16. battery      |            |
 | 17. beam         |            |
