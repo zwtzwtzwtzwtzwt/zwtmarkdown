@@ -49,7 +49,7 @@
 | 45. grip         | 控制  （产生强有力的影响）     |
 | 46. gut          | 本能 直觉  感性          |
 | 47. hail         |                    |
-| 48. hamper       |                    |
+| 48. hamper       | 阻碍 妨碍              |
 | 49. handful      |                    |
 | 50. harbour      |                    |
 | 51. haste        | 仓促 匆忙              |
