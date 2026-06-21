@@ -28,9 +28,9 @@
 | 24. faint        | 敷衍的 微弱的  昏厥        |
 | 25. fancy        | 想象力 奢华的  复杂花哨的  想做 |
 | 26. fashionable  |                    |
-| 27. faulty       |                    |
-| 28. feeble       |                    |
-| 29. filter       |                    |
+| 27. faulty       | 有故障的 有错误的          |
+| 28. feeble       | 无效的  虚弱的           |
+| 29. filter       | 过滤 过滤器  慢慢传开       |
 | 30. foam         |                    |
 | 31. forge        |                    |
 | 32. formula      |                    |
