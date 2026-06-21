@@ -6,8 +6,8 @@
 | 2. devise        | 设计           |
 | 3. diamond       | 钻石  方块       |
 | 4. disable       | 使残疾  使瘫痪 使无效 |
-| 5. discharge     | 解雇           |
-| 6. dome          |              |
+| 5. discharge     | 解雇 履行  排除    |
+| 6. dome          | 穹顶           |
 | 7. drag          |              |
 | 8. drain         |              |
 | 9. drift         |              |
