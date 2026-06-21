@@ -35,8 +35,8 @@
 | 31. forge        |                    |
 | 32. formula      |                    |
 | 33. forum        | 论坛                 |
-| 34. frighten     |                    |
-| 35. frown        |                    |
+| 34. frighten     | 是害怕 使惊吓            |
+| 35. frown        | 皱眉                 |
 | 36. fruitful     |                    |
 | 37. gamble       | 赌博 打赌 碰运气          |
 | 38. gear         | 使适合   挡            |
