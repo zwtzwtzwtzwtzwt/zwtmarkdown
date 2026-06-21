@@ -14,7 +14,7 @@
 | 10. dwelling     | 住宅  居所       |
 | 11. earnest      | 认真的 真诚的      |
 | 12. editorial    | 评论  编辑的      |
-| 13. empire       |              |
+| 13. empire       | 帝国 企业        |
 | 14. entail       |              |
 | 15. entertain    |              |
 | 16. entrance     |              |
