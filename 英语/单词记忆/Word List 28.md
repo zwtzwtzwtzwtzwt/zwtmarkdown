@@ -39,8 +39,8 @@
 | 35. frown        |                    |
 | 36. fruitful     |                    |
 | 37. gamble       | 赌博 打赌 碰运气          |
-| 38. gear         | 使适合                |
-| 39. gesture      |                    |
+| 38. gear         | 使适合   挡            |
+| 39. gesture      | 姿势  收拾 用动作         |
 | 40. glimpse      |                    |
 | 41. gloomy       |                    |
 | 42. grab         |                    |
