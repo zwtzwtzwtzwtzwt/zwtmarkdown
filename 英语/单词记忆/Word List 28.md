@@ -8,7 +8,7 @@
 | 4. disable       | 使残疾  使瘫痪 使无效 |
 | 5. discharge     | 解雇 履行  排除    |
 | 6. dome          | 穹顶 圆顶状物      |
-| 7. drag          |              |
+| 7. drag          | 空气阻力  累赘 拖拽  |
 | 8. drain         |              |
 | 9. drift         |              |
 | 10. dwelling     |              |
