@@ -57,7 +57,7 @@
 | 53. hatred       |                    |
 | 54. hazard       |                    |
 | 55. heal         |                    |
-| 56. heighten     |                    |
+| 56. heighten     | 提高 增加              |
 | 57. herd         |                    |
 | 58. heroic       |                    |
 | 59. heroin       |                    |
