@@ -62,12 +62,12 @@
 | 58. heroic       |                    |
 | 59. heroin       |                    |
 | 60. hijack       |                    |
-| 61. hint         | 暗示  迹象             |
+| 61. hint hint    | 暗示  迹象             |
 | 62. hip          |                    |
 | 63. hitherto     |                    |
 | 64. holy         | 神圣的 虔诚的            |
 | 65. hook         | 钩子                 |
-| 66. humorous     |                    |
+| 66. humorous     | 幽默的                |
 | 67. impair       |                    |
 | 68. impetus      |                    |
 | 69. incidence    |                    |
