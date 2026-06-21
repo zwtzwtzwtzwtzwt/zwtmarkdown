@@ -52,7 +52,7 @@
 | 48. hamper       |                    |
 | 49. handful      |                    |
 | 50. harbour      |                    |
-| 51. haste        |                    |
+| 51. haste        | 仓促 匆忙              |
 | 52. hasty        |                    |
 | 53. hatred       |                    |
 | 54. hazard       |                    |
