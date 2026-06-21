@@ -53,7 +53,7 @@
 | 49. handful      |                    |
 | 50. harbour      |                    |
 | 51. haste        | 仓促 匆忙              |
-| 52. hasty        |                    |
+| 52. hasty        | 仓促的 匆忙的            |
 | 53. hatred       |                    |
 | 54. hazard       |                    |
 | 55. heal         |                    |
