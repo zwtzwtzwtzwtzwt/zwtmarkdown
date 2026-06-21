@@ -37,7 +37,7 @@
 | 33. forum        | 论坛                 |
 | 34. frighten     | 是害怕 使惊吓            |
 | 35. frown        | 皱眉                 |
-| 36. fruitful     | 硕果累累的              |
+| 36. fruitful     | 硕果累累的 剖有成效的        |
 | 37. gamble       | 赌博 打赌 碰运气          |
 | 38. gear         | 使适合   挡            |
 | 39. gesture      | 姿势  收拾 用动作示意       |
