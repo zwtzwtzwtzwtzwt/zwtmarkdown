@@ -31,9 +31,9 @@
 | 27. faulty       | 有故障的 有错误的          |
 | 28. feeble       | 无效的  虚弱的           |
 | 29. filter       | 过滤 过滤器  慢慢传开       |
-| 30. foam         |                    |
-| 31. forge        |                    |
-| 32. formula      |                    |
+| 30. foam         | （橡胶 泡沫）            |
+| 31. forge        | 艰苦干成               |
+| 32. formula      | 方案   公式            |
 | 33. forum        | 论坛                 |
 | 34. frighten     | 是害怕 使惊吓            |
 | 35. frown        | 皱眉                 |
