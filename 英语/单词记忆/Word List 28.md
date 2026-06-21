@@ -12,7 +12,7 @@
 | 8. drain         | 流走  流失       |
 | 9. drift         | 漂流  不知不觉     |
 | 10. dwelling     | 住宅  居所       |
-| 11. earnest      |              |
+| 11. earnest      | 认真的 真诚的      |
 | 12. editorial    |              |
 | 13. empire       |              |
 | 14. entail       |              |
