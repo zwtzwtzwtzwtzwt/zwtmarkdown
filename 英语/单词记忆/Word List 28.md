@@ -21,8 +21,8 @@
 | 17. epic         | 史诗般的  艰难     |
 | 18. episode      | 时期 事件  一集    |
 | 19. epoch        | 时代 纪元        |
-| 20. esteem       |              |
-| 21. explicit     |              |
+| 20. esteem       | 尊敬  尊重 认为    |
+| 21. explicit     | 清除的          |
 | 22. extinguish   |              |
 | 23. fabric       |              |
 | 24. faint        |              |
