@@ -5,7 +5,6 @@
   "editing-toolbar",
   "folder-notes",
   "obsidian-latex-suite",
-  "surfing",
   "waypoint",
   "pdf-plus",
   "templater-obsidian",
@@ -19,5 +18,6 @@
   "calendar",
   "recent-files-obsidian",
   "vscode-editor",
-  "current-pane-media-gallery-viewer"
+  "current-pane-media-gallery-viewer",
+  "obsidian-advanced-slides"
 ]
