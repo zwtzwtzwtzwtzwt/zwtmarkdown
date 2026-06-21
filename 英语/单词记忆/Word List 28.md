@@ -45,9 +45,9 @@
 | 41. gloomy       | 暗淡的 阴暗的  沮丧的       |
 | 42. grab         | 抓住  吸引             |
 | 43. grace        | 优美  优雅             |
-| 44. grin         |                    |
+| 44. grin         | 露齿笑                |
 | 45. grip         |                    |
-| 46. gut          |                    |
+| 46. gut          | 直觉                 |
 | 47. hail         |                    |
 | 48. hamper       |                    |
 | 49. handful      |                    |
