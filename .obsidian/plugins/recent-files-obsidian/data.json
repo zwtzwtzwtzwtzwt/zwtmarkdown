@@ -1,5 +1,10 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "顺序查找",
+      "path": "2数据结构/9查找/顺序查找.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
