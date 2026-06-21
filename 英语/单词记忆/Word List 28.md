@@ -85,6 +85,6 @@
 | 81. latitude     |                    |
 | 82. laundry      |                    |
 | 83. leap         |                    |
-| 84. levy         |                    |
-| 85. likelihood   |                    |
+| 84. levy         | 税款  征收             |
+| 85. likelihood   | 可能 可能性             |
 | 86. linger       |                    |
