@@ -48,7 +48,7 @@
 | 44. plot          |       |
 | 45. plug          |       |
 | 46. plunge        |       |
-| 47. poison        |       |
+| 47. poison        | 有毒    |
 | 48. portrait      |       |
 | 49. pottery       |       |
 | 50. preach        |       |
