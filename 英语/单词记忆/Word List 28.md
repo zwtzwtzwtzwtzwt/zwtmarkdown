@@ -74,7 +74,7 @@
 | 70. incidentally |                    |
 | 71. indulge      |                    |
 | 72. inertia      |                    |
-| 73. input        |                    |
+| 73. input        | 投入  输入             |
 | 74. instalment   |                    |
 | 75. intimate     |                    |
 | 76. intrinsic    |                    |
