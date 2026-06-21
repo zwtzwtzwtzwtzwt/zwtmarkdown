@@ -20,7 +20,7 @@
 | 16. entrance     | 进入权  入口  出场  |
 | 17. epic         | 史诗般的  艰难     |
 | 18. episode      | 时期 事件  一集    |
-| 19. epoch        | 时代           |
+| 19. epoch        | 时代 纪元        |
 | 20. esteem       |              |
 | 21. explicit     |              |
 | 22. extinguish   |              |
