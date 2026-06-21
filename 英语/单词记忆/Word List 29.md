@@ -23,9 +23,9 @@
 | 19. monster       |       |
 | 20. mould         |       |
 | 21. municipal     |       |
-| 22. murder        |       |
+| 22. murder        | 谋杀    |
 | 23. necklace      |       |
-| 24. nickname      |       |
+| 24. nickname      | 昵称    |
 | 25. nursery       |       |
 | 26. obedient      |       |
 | 27. obey          |       |
