@@ -14,7 +14,7 @@
 | 10. array        | 大量  排列     |
 | 11. automobile   | 汽车         |
 | 12. awkward      | 尴尬的        |
-| 13. bachelor     |            |
+| 13. bachelor     | 学士         |
 | 14. backward     |            |
 | 15. bargain      |            |
 | 16. battery      |            |
