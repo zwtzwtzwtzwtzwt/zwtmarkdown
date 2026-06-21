@@ -26,7 +26,7 @@
 | 22. extinguish   | 毁灭 扑灭        |
 | 23. fabric       | 结构  织物 布料    |
 | 24. faint        | 敷衍的 微弱的  昏厥  |
-| 25. fancy        |              |
+| 25. fancy        | 想象力          |
 | 26. fashionable  |              |
 | 27. faulty       |              |
 | 28. feeble       |              |
