@@ -9,7 +9,7 @@
 | 5. discharge     | 解雇 履行  排除    |
 | 6. dome          | 穹顶 圆顶状物      |
 | 7. drag          | 空气阻力  累赘 拖拽  |
-| 8. drain         |              |
+| 8. drain         | 流走           |
 | 9. drift         |              |
 | 10. dwelling     |              |
 | 11. earnest      |              |
