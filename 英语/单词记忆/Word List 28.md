@@ -11,7 +11,7 @@
 | 7. drag          | 空气阻力  累赘 拖拽  |
 | 8. drain         | 流走  流失       |
 | 9. drift         | 漂流  不知不觉     |
-| 10. dwelling     |              |
+| 10. dwelling     | 住宅  居所       |
 | 11. earnest      |              |
 | 12. editorial    |              |
 | 13. empire       |              |
