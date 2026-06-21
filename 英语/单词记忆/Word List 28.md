@@ -43,7 +43,7 @@
 | 39. gesture      | 姿势  收拾 用动作示意       |
 | 40. glimpse      | 一瞥                 |
 | 41. gloomy       | 暗淡的 阴暗的  沮丧的       |
-| 42. grab         |                    |
+| 42. grab         | 抓住  吸引             |
 | 43. grace        |                    |
 | 44. grin         |                    |
 | 45. grip         |                    |
