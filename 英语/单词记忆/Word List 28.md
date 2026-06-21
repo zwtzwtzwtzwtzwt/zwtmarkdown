@@ -34,7 +34,7 @@
 | 30. foam         |                    |
 | 31. forge        |                    |
 | 32. formula      |                    |
-| 33. forum        |                    |
+| 33. forum        | 论坛                 |
 | 34. frighten     |                    |
 | 35. frown        |                    |
 | 36. fruitful     |                    |
