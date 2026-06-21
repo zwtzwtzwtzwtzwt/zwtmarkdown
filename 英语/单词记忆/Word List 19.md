@@ -8,8 +8,8 @@
 | 4. afterwards    | 后来         |
 | 5. algorithm     | 算法         |
 | 6. alive         | 活着 在世 激动   |
-| 7. allowance     | 津贴 补贴      |
-| 8. alphabet      |            |
+| 7. allowance     | 津贴 补贴  限额  |
+| 8. alphabet      | 字母表  全部字母  |
 | 9. altogether    |            |
 | 10. array        |            |
 | 11. automobile   |            |
