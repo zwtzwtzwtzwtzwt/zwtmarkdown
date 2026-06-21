@@ -16,8 +16,8 @@
 | 12. editorial    | 评论  编辑的      |
 | 13. empire       | 帝国 企业        |
 | 14. entail       | 使必需  势必造成    |
-| 15. entertain    | 招待           |
-| 16. entrance     |              |
+| 15. entertain    | 招待  娱乐  心存   |
+| 16. entrance     | 进入权  入口      |
 | 17. epic         |              |
 | 18. episode      |              |
 | 19. epoch        |              |
