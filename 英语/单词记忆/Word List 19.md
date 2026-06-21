@@ -7,8 +7,8 @@
 | 3. acre          | 英亩         |
 | 4. afterwards    | 后来         |
 | 5. algorithm     | 算法         |
-| 6. alive         | 活着 在世      |
-| 7. allowance     |            |
+| 6. alive         | 活着 在世 激动   |
+| 7. allowance     | 津贴 补贴      |
 | 8. alphabet      |            |
 | 9. altogether    |            |
 | 10. array        |            |
