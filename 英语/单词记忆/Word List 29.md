@@ -11,7 +11,7 @@
 | 7. lumber         |       |
 | 8. lump           |       |
 | 9. march          | 匹配    |
-| 10. mask          |       |
+| 10. mask          | 口罩    |
 | 11. mayor         |       |
 | 12. medieval      |       |
 | 13. menace        |       |
