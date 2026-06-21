@@ -23,7 +23,7 @@
 | 19. epoch        | 时代 纪元        |
 | 20. esteem       | 尊敬  尊重 认为    |
 | 21. explicit     | 清除明确的        |
-| 22. extinguish   |              |
+| 22. extinguish   | 毁灭           |
 | 23. fabric       |              |
 | 24. faint        |              |
 | 25. fancy        |              |
