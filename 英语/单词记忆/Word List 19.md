@@ -5,9 +5,9 @@
 | 1. academy       | 学院 研究院  学会 |
 | 2. acceptance    | 接受 赞成 认可   |
 | 3. acre          | 英亩         |
-| 4. afterwards    |            |
-| 5. algorithm     |            |
-| 6. alive         |            |
+| 4. afterwards    | 后来         |
+| 5. algorithm     | 算法         |
+| 6. alive         | 或者         |
 | 7. allowance     |            |
 | 8. alphabet      |            |
 | 9. altogether    |            |
