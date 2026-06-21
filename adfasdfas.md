@@ -1,0 +1,2 @@
+
+To break the inertia that led him to indulge in bad habits and impair his health, an intimate friend gave him the impetus to change. Incidentally, realizing the high incidence of failure without effort, he increased his learning input and paid for a course by instalment.
