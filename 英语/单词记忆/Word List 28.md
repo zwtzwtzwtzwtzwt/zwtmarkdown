@@ -13,7 +13,7 @@
 | 9. drift         | 漂流  不知不觉     |
 | 10. dwelling     | 住宅  居所       |
 | 11. earnest      | 认真的 真诚的      |
-| 12. editorial    | 评论           |
+| 12. editorial    | 评论  编辑的      |
 | 13. empire       |              |
 | 14. entail       |              |
 | 15. entertain    |              |
