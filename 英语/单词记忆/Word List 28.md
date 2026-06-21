@@ -44,7 +44,7 @@
 | 40. glimpse      | 一瞥                 |
 | 41. gloomy       | 暗淡的 阴暗的  沮丧的       |
 | 42. grab         | 抓住  吸引             |
-| 43. grace        |                    |
+| 43. grace        | 优美  优雅             |
 | 44. grin         |                    |
 | 45. grip         |                    |
 | 46. gut          |                    |
