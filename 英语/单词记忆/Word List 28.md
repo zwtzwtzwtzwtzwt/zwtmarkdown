@@ -27,7 +27,7 @@
 | 23. fabric       | 结构  织物 布料          |
 | 24. faint        | 敷衍的 微弱的  昏厥        |
 | 25. fancy        | 想象力 奢华的  复杂花哨的  想做 |
-| 26. fashionable  |                    |
+| 26. fashionable  | 流行的 时髦的            |
 | 27. faulty       | 有故障的 有错误的          |
 | 28. feeble       | 无效的  虚弱的           |
 | 29. filter       | 过滤 过滤器  慢慢传开       |
