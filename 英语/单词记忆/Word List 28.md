@@ -67,7 +67,7 @@
 | 63. hitherto     |                    |
 | 64. holy         | 神圣的 虔诚的            |
 | 65. hook         | 钩子  勾住             |
-| 66. humorous     | 幽默的                |
+| 66. humorous     |                    |
 | 67. impair       |                    |
 | 68. impetus      |                    |
 | 69. incidence    |                    |
