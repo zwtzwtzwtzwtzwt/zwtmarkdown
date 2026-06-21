@@ -2,15 +2,15 @@
 
 | **英文单词**          | **1** |
 | ----------------- | ----- |
-| 1. load           |       |
-| 2. log            |       |
+| 1. load           | 加载    |
+| 2. log            | 日志    |
 | 3. loosen         |       |
 | 4. lounge         |       |
-| 5. loyalty        |       |
+| 5. loyalty        | 忠诚    |
 | 6. luggage        |       |
 | 7. lumber         |       |
 | 8. lump           |       |
-| 9. march          |       |
+| 9. march          | 匹配    |
 | 10. mask          |       |
 | 11. mayor         |       |
 | 12. medieval      |       |
