@@ -3,7 +3,7 @@
 | 英文单词             | 0          |
 | ---------------- | ---------- |
 | 1. academy       | 学院 研究院  学会 |
-| 2. acceptance    | 接受         |
+| 2. acceptance    | 接受 赞成 认可   |
 | 3. acre          |            |
 | 4. afterwards    |            |
 | 5. algorithm     |            |
