@@ -7,7 +7,7 @@
 | 3. acre          | 英亩         |
 | 4. afterwards    | 后来         |
 | 5. algorithm     | 算法         |
-| 6. alive         | 或者         |
+| 6. alive         | 活着 在世      |
 | 7. allowance     |            |
 | 8. alphabet      |            |
 | 9. altogether    |            |
