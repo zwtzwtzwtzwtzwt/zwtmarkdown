@@ -51,7 +51,7 @@
 | 47. hail         |                    |
 | 48. hamper       | 阻碍 妨碍              |
 | 49. handful      | 少数人  一小把           |
-| 50. harbour      |                    |
+| 50. harbour      | 心怀  怀有  港口 港湾      |
 | 51. haste        | 仓促 匆忙              |
 | 52. hasty        | 仓促的 匆忙的            |
 | 53. hatred       |                    |
