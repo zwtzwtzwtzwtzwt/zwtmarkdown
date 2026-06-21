@@ -5,7 +5,7 @@
 | 1. destiny       | 命运 天命  |
 | 2. devise        | 设计     |
 | 3. diamond       | 钻石  方块 |
-| 4. disable       |        |
+| 4. disable       | 使残疾    |
 | 5. discharge     |        |
 | 6. dome          |        |
 | 7. drag          |        |
