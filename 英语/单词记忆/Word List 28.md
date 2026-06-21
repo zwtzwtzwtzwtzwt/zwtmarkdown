@@ -63,7 +63,7 @@
 | 59. heroin       |                    |
 | 60. hijack       |                    |
 | 61. hint         |                    |
-| 62. hip          |                    |
+| 62. hip          | 暗示  迹象             |
 | 63. hitherto     |                    |
 | 64. holy         |                    |
 | 65. hook         |                    |
