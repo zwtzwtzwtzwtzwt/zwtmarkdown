@@ -42,7 +42,7 @@
 | 38. gear         | 使适合   挡            |
 | 39. gesture      | 姿势  收拾 用动作示意       |
 | 40. glimpse      | 一瞥                 |
-| 41. gloomy       | 暗淡的 阴暗的            |
+| 41. gloomy       | 暗淡的 阴暗的  沮丧的       |
 | 42. grab         |                    |
 | 43. grace        |                    |
 | 44. grin         |                    |
