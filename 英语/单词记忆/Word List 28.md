@@ -10,7 +10,7 @@
 | 6. dome          | 穹顶 圆顶状物      |
 | 7. drag          | 空气阻力  累赘 拖拽  |
 | 8. drain         | 流走  流失       |
-| 9. drift         | 漂流           |
+| 9. drift         | 漂流  不知不觉     |
 | 10. dwelling     |              |
 | 11. earnest      |              |
 | 12. editorial    |              |
