@@ -78,7 +78,7 @@
 | 74. instalment   |                    |
 | 75. intimate     |                    |
 | 76. intrinsic    |                    |
-| 77. junior       |                    |
+| 77. junior       | 初级的  职位低           |
 | 78. kindness     |                    |
 | 79. kit          |                    |
 | 80. knot         |                    |
