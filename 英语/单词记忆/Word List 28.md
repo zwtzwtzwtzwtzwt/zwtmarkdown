@@ -3,8 +3,8 @@
 | 英文单词             | 0     |
 | ---------------- | ----- |
 | 1. destiny       | 命运 天命 |
-| 2. devise        |       |
-| 3. diamond       |       |
+| 2. devise        | 设计    |
+| 3. diamond       | 钻石    |
 | 4. disable       |       |
 | 5. discharge     |       |
 | 6. dome          |       |
