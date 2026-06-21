@@ -80,7 +80,7 @@
 | 76. intrinsic    |                    |
 | 77. junior       | 初级的  职位低  三年级学生    |
 | 78. kindness     | 好意 体贴              |
-| 79. kit          |                    |
+| 79. kit          | 成套工具 设备原件          |
 | 80. knot         |                    |
 | 81. latitude     |                    |
 | 82. laundry      |                    |
