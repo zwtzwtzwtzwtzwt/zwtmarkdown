@@ -47,7 +47,7 @@
 | 43. grace        | 优美  优雅             |
 | 44. grin         | 露齿笑                |
 | 45. grip         |                    |
-| 46. gut          | 直觉                 |
+| 46. gut          | 本能 直觉  感性          |
 | 47. hail         |                    |
 | 48. hamper       |                    |
 | 49. handful      |                    |
