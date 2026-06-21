@@ -17,7 +17,7 @@
 | 13. empire       | 帝国 企业        |
 | 14. entail       | 使必需  势必造成    |
 | 15. entertain    | 招待  娱乐  心存   |
-| 16. entrance     | 进入权  入口      |
+| 16. entrance     | 进入权  入口  出场  |
 | 17. epic         |              |
 | 18. episode      |              |
 | 19. epoch        |              |
