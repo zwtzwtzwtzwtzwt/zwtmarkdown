@@ -92,7 +92,9 @@
 
 
 # 67-76
-这是为您精简的密集版短文，仅用两句话串接了这 9 个单词，方便快速朗读和背诵：
+这是为您精简的密集版短文，仅用两句话串接了这 9 个单词，方便快速朗读和背诵：  
+
+To break the inertia that led him to indulge in bad habits and impair his health, an intimate friend gave him the impetus to change. Incidentally, realizing the high incidence of failure without effort, he increased his learning input and paid for a course by instalment.
 
 To break the **inertia** (惰性) that led him to **indulge** (沉溺) in bad habits and **impair** (损害) his health, an **intimate** (亲密的) friend gave him the **impetus** (动力) to change. **Incidentally** (顺便提一下), realizing the high **incidence** (发生率) of failure without effort, he increased his learning **input** (投入) and paid for a course by **instalment** (分期付款).
 
