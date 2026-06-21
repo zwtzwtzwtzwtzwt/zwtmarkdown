@@ -5,6 +5,10 @@
       "path": "2数据结构/8排序/最佳归并树.md"
     },
     {
+      "basename": "外部排序",
+      "path": "2数据结构/8排序/外部排序.md"
+    },
+    {
       "basename": "置换选择排序",
       "path": "2数据结构/8排序/置换选择排序.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Word List 12",
       "path": "英语/单词记忆/Word List 12.md"
-    },
-    {
-      "basename": "外部排序",
-      "path": "2数据结构/8排序/外部排序.md"
     },
     {
       "basename": "Word List 28",
