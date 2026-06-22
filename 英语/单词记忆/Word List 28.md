@@ -83,7 +83,7 @@
 | 79. kit          | 成套工具 设备原件          |
 | 80. knot         |                    |
 | 81. latitude     |                    |
-| 82. laundry      | 洗衣房                |
+| 82. laundry      | 洗衣房 带洗的衣服          |
 | 83. leap         |                    |
 | 84. levy         | 税款  征收             |
 | 85. likelihood   | 可能 可能性             |
