@@ -92,12 +92,8 @@
 
 
 # 67-76
-这是为您精简的密集版短文，仅用两句话串接了这 9 个单词，方便快速朗读和背诵：  
+Bad habits will impair (损害) your focus, but a clear goal provides the impetus (动力) to reduce the incidence (发生率) of mistakes.
 
-To break the inertia that led him to indulge in bad habits and impair his health, an intimate friend gave him the impetus to change. Incidentally, realizing the high incidence of failure without effort, he increased his learning input and paid for a course by instalment.
+Incidentally (顺便提一下), if you indulge (纵容) your natural inertia (惰性), no amount of input (投入) will yield results.
 
-
-
-**中文句意：**
-
-为了打破导致他**沉溺**于坏习惯并**损害**健康的**惰性**，一位**亲密**的朋友给了他改变的**动力**。**顺便提一下**，意识到不努力会导致失败的高**发生率**后，他增加了学习的**投入**，并**分期付款**购买了一门课程。
+After paying the first instalment (一期付款) for a course, an intimate (亲密的) conversation revealed my intrinsic (固有的) potential.
