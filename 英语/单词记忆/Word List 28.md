@@ -92,12 +92,11 @@
 
 
 ---
-# 67-76
-Bad habits will impair (损害) your focus, but a clear goal provides the impetus (动力) to reduce the incidence (发生率) of mistakes.
 
-Incidentally (顺便提一下), if you indulge (纵容) your natural inertia (惰性), no amount of input (投入) will yield results.
+**英文记忆短文：**
 
-After paying the first instalment (一期付款) for a course, an intimate (亲密的) conversation revealed my intrinsic (固有的) potential.  
+To avoid factors that **impair** (损害) our progress, we need a strong **impetus** (动力) to lower the **incidence** (发生率) of failure. **Incidentally** (顺便提一下), if we **indulge** (沉溺) in bad habits, mental **inertia** (惰性) will take over. Therefore, we must consistently **input** (投入) effort into every **instalment** (一期) of our training. Only an **intimate** (亲密的) mentor can help us realize our **intrinsic** (固有的) potential.
 
+**整体中文翻译：**
 
-坏习惯会 **损害 (impair)** 你的注意力，但是一个清晰的目标能提供 **动力 (impetus)** 来降低错误的 **发生率 (incidence)**。**顺便提一下 (Incidentally)**，如果你 **纵容 (indulge)** 天生的 **惰性 (inertia)**，再多的 **投入 (input)** 也不会有结果。在支付了课程的第一期 **分期付款 (instalment)** 后，一次 **亲密的 (intimate)** 交谈展现了我 **固有的 (intrinsic)** 潜力。
+为了避免那些**损害**我们进度的因素，我们需要强大的**动力**来降低失败的**发生率**。**顺便提一下**，如果我们**沉溺**于坏习惯，精神上的**惰性**就会占据上风。因此，我们必须在训练的每**一期**中持续地**投入**努力。只有**亲密的**导师才能帮助我们实现我们**固有的**潜能。
