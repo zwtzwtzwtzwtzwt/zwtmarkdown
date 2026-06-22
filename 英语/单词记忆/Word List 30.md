@@ -7,8 +7,8 @@
 | 3. shallow       |       |
 | 4. shed          |       |
 | 5. sheer         |       |
-| 6. shield        |       |
-| 7. shove         |       |
+| 6. shield        | 1     |
+| 7. shove         | 1     |
 | 8. simplicity    |       |
 | 9. sink          |       |
 | 10. skilful      |       |
