@@ -97,7 +97,7 @@
 To break the inertia that led him to indulge in bad habits and impair his health, an intimate friend gave him the impetus to change. Incidentally, realizing the high incidence of failure without effort, he increased his learning input and paid for a course by instalment.
 
 
-To break the inertia (惰性) that led him to indulge (沉溺) in bad habits and impair (损害) his health, an intimate (亲密的) friend gave him the impetus (动力) to change. Incidentally (顺便提一下), realizing the high incidence (发生率) of failure without effort, he increased his learning input (投入) and paid for a course by instalment (分期付款).  转为不同文本便于 edge 浏览器朗读
+
 **中文句意：**
 
 为了打破导致他**沉溺**于坏习惯并**损害**健康的**惰性**，一位**亲密**的朋友给了他改变的**动力**。**顺便提一下**，意识到不努力会导致失败的高**发生率**后，他增加了学习的**投入**，并**分期付款**购买了一门课程。
