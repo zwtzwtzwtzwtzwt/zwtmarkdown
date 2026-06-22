@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "2数据结构/9查找/B树/未命名.md"
+      "basename": "sdfsfd",
+      "path": "2数据结构/9查找/B树/sdfsfd.md"
     },
     {
       "basename": "B树",
       "path": "2数据结构/9查找/B树/B树.md"
+    },
+    {
+      "basename": "顺序查找",
+      "path": "2数据结构/9查找/顺序查找.md"
     },
     {
       "basename": "查找的基本概念",
@@ -163,10 +167,6 @@
     {
       "basename": "折半查找(二分查找)",
       "path": "2数据结构/9查找/折半查找(二分查找).md"
-    },
-    {
-      "basename": "顺序查找",
-      "path": "2数据结构/9查找/顺序查找.md"
     },
     {
       "basename": "c语言中的取整操作",
