@@ -91,13 +91,3 @@
 
 
 
----
-# 67-76
-Bad habits will impair (损害) your focus, but a clear goal provides the impetus (动力) to reduce the incidence (发生率) of mistakes.
-
-Incidentally (顺便提一下), if you indulge (纵容) your natural inertia (惰性), no amount of input (投入) will yield results.
-
-After paying the first instalment (一期付款) for a course, an intimate (亲密的) conversation revealed my intrinsic (固有的) potential.  
-
-
-坏习惯会 **损害 (impair)** 你的注意力，但是一个清晰的目标能提供 **动力 (impetus)** 来降低错误的 **发生率 (incidence)**。**顺便提一下 (Incidentally)**，如果你 **纵容 (indulge)** 天生的 **惰性 (inertia)**，再多的 **投入 (input)** 也不会有结果。在支付了课程的第一期 **分期付款 (instalment)** 后，一次 **亲密的 (intimate)** 交谈展现了我 **固有的 (intrinsic)** 潜力。
