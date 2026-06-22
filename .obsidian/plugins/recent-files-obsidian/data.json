@@ -5,6 +5,10 @@
       "path": "adfasdfas.md"
     },
     {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
       "basename": "Word List 28",
       "path": "英语/单词记忆/Word List 28.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "编译时确定和运行时确定",
       "path": "2数据结构/补充事项/编译时确定和运行时确定.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
     },
     {
       "basename": "Word List 26",
