@@ -96,7 +96,6 @@
 **英文记忆短文：**
 
 To avoid factors that **impair** (损害) our progress, we need a strong **impetus** (动力) to lower the **incidence** (发生率) of failure. **Incidentally** (顺便提一下), if we **indulge** (沉溺) in bad habits, mental **inertia** (惰性) will take over. Therefore, we must consistently **input** (投入) effort into every **instalment** (一期) of our training. Only an **intimate** (亲密的) mentor can help us realize our **intrinsic** (固有的) potential.
-
 ---
 
 **整体中文翻译：**
