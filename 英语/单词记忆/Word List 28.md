@@ -91,6 +91,7 @@
 
 
 
+---
 # 67-76
 Bad habits will impair (损害) your focus, but a clear goal provides the impetus (动力) to reduce the incidence (发生率) of mistakes.
 
