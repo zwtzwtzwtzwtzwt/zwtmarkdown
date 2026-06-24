@@ -84,7 +84,7 @@
 | 80. wonderful                          | 精彩的              |     |
 | 81. workout                            | 锻炼               |     |
 | 82. worm                               | 蠕虫               |     |
-| 83. worship                            |                  |     |
+| 83. worship                            | 崇拜 礼拜            |     |
 | 84. wound                              | 创伤  伤口           |     |
 | 85. youngster                          | 孩童  年轻人          |     |
 |                                        |                  |     |
