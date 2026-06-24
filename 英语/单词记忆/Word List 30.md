@@ -30,8 +30,8 @@
 | 26. steep                              | 陡峭的  剧烈的         |     |
 | 27. stereotype                         | 成见  刻板印象         |     |
 | 28. steward                            | 负责人  保护者   管家    |     |
-| 29. stiff                              |                  |     |
-| 30. stir                               |                  |     |
+| 29. stiff                              | 酸痛的  僵硬的         |     |
+| 30. stir                               | 搅拌               |     |
 | 31. stove                              |                  |     |
 | 32. straw                              |                  |     |
 | 33. stride                             |                  |     |
