@@ -21,8 +21,8 @@
 | 17. sow          | 播种               |     |
 | 18. spin         |                  |     |
 | 19. splash       |                  |     |
-| 20. spray        |                  |     |
-| 21. spur         |                  |     |
+| 20. spray        | 喷洒 喷剂            |     |
+| 21. spur         | 推动               |     |
 | 22. stadium      |                  |     |
 | 23. stall        |                  |     |
 | 24. stare        |                  |     |
