@@ -25,9 +25,9 @@
 | 21. spur         | 推动  促进           |     |
 | 22. stadium      |                  |     |
 | 23. stall        |                  |     |
-| 24. stare        | 盯着  凝视           |     |
+| 24. stare        | 盯着看  凝视          |     |
 | 25. steam        |                  |     |
-| 26. steep        |                  |     |
+| 26. steep        | 陡峭的  剧烈          |     |
 | 27. stereotype   |                  |     |
 | 28. steward      |                  |     |
 | 29. stiff        |                  |     |
