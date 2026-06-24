@@ -76,7 +76,7 @@
 | 72. utmost                             |                  |     |
 | 73. verge                              |                  |     |
 | 74. versus                             |                  |     |
-| 75. vertical                           | 垂直的              |     |
+| 75. vertical                           | 垂直的  竖直的         |     |
 | 76. virus                              | 病毒               |     |
 | 77. weird                              | 奇怪的 古怪的          |     |
 | 78. wheat                              | 小麦               |     |
