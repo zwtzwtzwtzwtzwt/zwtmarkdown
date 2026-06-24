@@ -49,7 +49,7 @@
 | 45. temptation                          | 引诱 诱惑            |     |
 | 46. terrific                            | 极好的              |     |
 | 47. theoretical                         | 理论的              |     |
-| 48. thick                               |                  |     |
+| 48. thick                               | 厚的 粗的            |     |
 | 49. thoughtful                          |                  |     |
 | 50. thrift                              |                  |     |
 | 51. throat                              |                  |     |
