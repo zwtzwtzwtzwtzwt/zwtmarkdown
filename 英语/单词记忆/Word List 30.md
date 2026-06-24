@@ -75,7 +75,7 @@
 | 71. unfold                              |                  |     |
 | 72. utmost                              |                  |     |
 | 73. verge                               |                  |     |
-| 74. versus                              |                  |     |
+| 74. versus                              | vs               |     |
 | 75. vertical                            | 垂直的  竖直的         |     |
 | 76. virus                               | 病毒               |     |
 | 77. weird                               | 奇怪的 古怪的          |     |
