@@ -36,9 +36,9 @@
 | 32. straw                                 |                                                              | 吸管 秸秆             |     |
 | 33. <font color="#ff0000">stride</font>   |                                                              | 进展  步伐  大步走       |     |
 | 34. striking                              |                                                              | 惊人的               |     |
-| 35. strip                                 |                                                              | 狭长区域  拆开          |     |
-| 36. stripe                                |                                                              | 种类 条纹             |     |
-| 37. strive                                |                                                              | 努力                |     |
+| 35. strip                                 | 条状区域                                                         | 狭长区域  拆开          |     |
+| 36. stripe                                | 条纹                                                           | 种类 条纹             |     |
+| 37. strive                                | 努力                                                           | 努力                |     |
 | 38. subsidy                               | 补助                                                           | 补贴                |     |
 | 39. successive                            | 连续的                                                          | 连续的               |     |
 | 40. surgeon                               | 外科手术                                                         | 外科手术              |     |
