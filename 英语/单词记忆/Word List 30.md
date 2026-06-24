@@ -52,10 +52,10 @@
 | 48. thick                               | 厚的 粗的            |     |
 | 49. thoughtful                          |                  |     |
 | 50. thrift                              |                  |     |
-| 51. throat                              |                  |     |
+| 51. throat                              | 喉咙               |     |
 | 52. throne                              |                  |     |
-| 53. timely                              |                  |     |
-| 54. tissue                              |                  |     |
+| 53. timely                              | 及时的              |     |
+| 54. tissue                              | 组织               |     |
 | 55. token                               |                  |     |
 | 56. toll                                |                  |     |
 | 57. tomb                                |                  |     |
