@@ -81,7 +81,7 @@
 | 77. weird                              |                  |     |
 | 78. wheat                              |                  |     |
 | 79. wit                                |                  |     |
-| 80. wonderful                          |                  |     |
+| 80. wonderful                          | 精彩的              |     |
 | 81. workout                            | 锻炼               |     |
 | 82. worm                               | 蠕虫               |     |
 | 83. worship                            |                  |     |
