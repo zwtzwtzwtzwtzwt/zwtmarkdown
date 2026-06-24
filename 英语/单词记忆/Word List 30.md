@@ -50,7 +50,7 @@
 | 46. terrific                              | 极好的               |     |
 | 47. theoretical                           | 理论的               |     |
 | 48. thick                                 | 厚的 粗的             |     |
-| 49. thoughtful                            |                   |     |
+| 49. thoughtful                            | 深思的 体贴的           |     |
 | 50. thrift                                | 节约                |     |
 | 51. throat                                | 喉咙                |     |
 | 52. throne                                | 王权 王位             |     |
@@ -64,7 +64,7 @@
 | 60. tram                                  | 有轨电车              |     |
 | 61. transient                             | 暂时的 流动性的          |     |
 | 62. tray                                  | 托盘   盘子           |     |
-| 63. tribe                                 |                   |     |
+| 63. tribe                                 | 部落 族              |     |
 | 64. trivial                               | 琐碎的 微不足道的         |     |
 | 65. troop                                 | 军队 部队  一群 一对      |     |
 | 66. tropical                              | 热带的               |     |
