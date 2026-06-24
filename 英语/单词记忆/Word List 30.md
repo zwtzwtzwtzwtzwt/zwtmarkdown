@@ -47,9 +47,9 @@
 | 43. tease                                 |                                                              | 梳理  取笑 戏弄         |     |
 | 44. telegraph                             | 电报 发电报                                                       | 电报 发电报            |     |
 | 45. temptation                            | 诱惑  引诱                                                       | 引诱 诱惑             |     |
-| 46. terrific                              |                                                              | 极好的               |     |
-| 47. theoretical                           |                                                              | 理论的               |     |
-| 48. thick                                 |                                                              | 厚的 粗的             |     |
+| 46. terrific                              | 极好的                                                          | 极好的               |     |
+| 47. theoretical                           | 理论的                                                          | 理论的               |     |
+| 48. thick                                 | 粗的  后                                                        | 厚的 粗的             |     |
 | 49. thoughtful                            |                                                              | 深思的 体贴的 周密的       |     |
 | 50. thrift                                |                                                              | 节约                |     |
 | 51. throat                                |                                                              | 喉咙                |     |
