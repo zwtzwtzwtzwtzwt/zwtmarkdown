@@ -15,7 +15,7 @@
 | 11. slack        | 懒散的  懈怠  懈怠的     |     |
 | 12. slot         |                  |     |
 | 13. slum         | 贫困区              |     |
-| 14. soak         |                  |     |
+| 14. soak         | 浸泡               |     |
 | 15. soar         | 猛增 翱翔            |     |
 | 16. sociology    | 社会学              |     |
 | 17. sow          | 播种               |     |
@@ -23,10 +23,10 @@
 | 19. splash       |                  |     |
 | 20. spray        | 喷洒 喷剂            |     |
 | 21. spur         | 推动  促进           |     |
-| 22. stadium      |                  |     |
+| 22. stadium      | 体育馆 运动场          |     |
 | 23. stall        |                  |     |
 | 24. stare        | 盯着看  凝视          |     |
-| 25. steam        |                  |     |
+| 25. steam        | 蒸汽   蒸           |     |
 | 26. steep        | 陡峭的  剧烈的         |     |
 | 27. stereotype   | 成见  刻板印象         |     |
 | 28. steward      | 负责人  保护者   管家    |     |
