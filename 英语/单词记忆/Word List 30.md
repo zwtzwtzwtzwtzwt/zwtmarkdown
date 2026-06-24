@@ -87,3 +87,14 @@
 | 83. worship                            |                  |     |
 | 84. wound                              |                  |     |
 | 85. youngster                          |                  |     |
+
+
+### 单词记忆短文
+
+Waking up with **stiff (酸痛的，僵硬的)** muscles, he began to **stir (搅拌)** his morning coffee on the rusty **stove (厨灶)**. Biting a plastic **straw (吸管)**, he pondered how to make a significant **stride (进展)** in his current project. He had recently made a **striking (惊人的)** discovery regarding a narrow **strip (狭长区域)** of biological tissue that exhibited a very unique cellular **stripe (条纹)**. To continue his work, he knew he must **strive (努力)** to secure a government **subsidy (补贴)**. After several **successive (连续的)** days of intense experiments, the dedicated **surgeon (外科医生)** finally confirmed his theory, completely oblivious to the strict **surveillance (监视)** placed upon his laboratory.
+
+---
+
+### 中文翻译
+
+带着酸痛僵硬的肌肉醒来，他开始在生锈的厨灶上搅拌他的晨间咖啡。他咬着一根塑料吸管，思考着如何在他当前的项目中取得重大的进展。他最近在一个表现出非常独特细胞条纹的狭长生物组织区域上取得了惊人的发现。为了继续他的工作，他知道自己必须努力去争取一份政府补贴。经过连续几天的高强度实验，这位敬业的外科医生终于证实了他的理论，但他对实验室受到的严密监视却浑然不知。
