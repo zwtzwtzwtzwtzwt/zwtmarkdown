@@ -53,7 +53,7 @@
 | 49. thoughtful                          |                  |     |
 | 50. thrift                              |                  |     |
 | 51. throat                              | 喉咙               |     |
-| 52. throne                              |                  |     |
+| 52. throne                              | 王权               |     |
 | 53. timely                              | 及时的              |     |
 | 54. tissue                              | 组织  纸巾           |     |
 | 55. token                               |                  |     |
