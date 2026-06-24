@@ -86,7 +86,7 @@
 | 82. worm                               |                  |     |
 | 83. worship                            |                  |     |
 | 84. wound                              |                  |     |
-| 85. youngster                          |                  |     |
+| 85. youngster                          | 孩童  年轻人          |     |
 |                                        |                  |     |
 
 
