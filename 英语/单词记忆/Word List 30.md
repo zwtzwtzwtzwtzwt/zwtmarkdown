@@ -28,7 +28,7 @@
 | 24. stare        | 盯着看  凝视          |     |
 | 25. steam        |                  |     |
 | 26. steep        | 陡峭的  剧烈的         |     |
-| 27. stereotype   |                  |     |
+| 27. stereotype   | 成见  刻板印象         |     |
 | 28. steward      |                  |     |
 | 29. stiff        |                  |     |
 | 30. stir         |                  |     |
