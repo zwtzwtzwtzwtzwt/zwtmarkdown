@@ -78,8 +78,8 @@
 | 74. versus                             |                  |     |
 | 75. vertical                           |                  |     |
 | 76. virus                              |                  |     |
-| 77. weird                              |                  |     |
-| 78. wheat                              |                  |     |
+| 77. weird                              | 奇怪的 古怪的          |     |
+| 78. wheat                              | 小麦               |     |
 | 79. wit                                | 风趣  才思 机智幽默      |     |
 | 80. wonderful                          | 精彩的              |     |
 | 81. workout                            | 锻炼               |     |
