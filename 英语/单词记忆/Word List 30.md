@@ -42,7 +42,7 @@
 | 38. subsidy                             | 补贴               |     |
 | 39. successive                          | 连续的              |     |
 | 40. surgeon                             | 外科手术             |     |
-| 41. surveillance                        |                  |     |
+| 41. surveillance                        | 监视  看守           |     |
 | 42. tank                                |                  |     |
 | 43. tease                               |                  |     |
 | 44. telegraph                           |                  |     |
