@@ -24,7 +24,7 @@
 | 20. spray                               | 喷洒 喷剂            |     |
 | 21. spur                                | 推动  促进           |     |
 | 22. stadium                             | 体育馆 运动场          |     |
-| 23. <font color="#ff0000">stall</font>  |                  |     |
+| 23. <font color="#ff0000">stall</font>  | 摊位 搁置 拖延         |     |
 | 24. stare                               | 盯着看  凝视          |     |
 | 25. steam                               | 蒸汽   蒸           |     |
 | 26. steep                               | 陡峭的  剧烈的         |     |
