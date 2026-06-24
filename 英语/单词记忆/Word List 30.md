@@ -4,7 +4,7 @@
 | ---------------- | -------- | --- |
 | 1. semiconductor | 半导体      |     |
 | 2. shake         | 摇晃 奶昔 发抖 |     |
-| 3. shallow       | 肤浅的      |     |
+| 3. shallow       | 肤浅的 浅的   |     |
 | 4. shed          |          |     |
 | 5. sheer         |          |     |
 | 6. shield        |          |     |
