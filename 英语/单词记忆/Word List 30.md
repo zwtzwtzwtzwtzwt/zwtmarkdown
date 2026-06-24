@@ -56,7 +56,7 @@
 | 52. throne                              | 王权 王位             |     |
 | 53. timely                              | 及时的               |     |
 | 54. tissue                              | 组织  纸巾            |     |
-| 55. token                               |                   |     |
+| 55. token                               | 代币  表示   象征性的     |     |
 | 56.<font color="#ff0000"> toll</font>   | 极大的不良影响 通行费  伤亡人数 |     |
 | 57. tomb                                | 坟墓                |     |
 | 58. tow                                 | 拖拉 牵引             |     |
