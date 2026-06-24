@@ -42,8 +42,8 @@
 | 38. subsidy                               | 补助                                                           | 补贴                |     |
 | 39. successive                            | 连续的                                                          | 连续的               |     |
 | 40. surgeon                               | 外科手术                                                         | 外科手术              |     |
-| 41. surveillance                          |                                                              | 监视  看守            |     |
-| 42. tank                                  |                                                              | 缸 箱               |     |
+| 41. surveillance                          | 监视  监管                                                       | 监视  看守            |     |
+| 42. tank                                  | 缸                                                            | 缸 箱               |     |
 | 43. tease                                 |                                                              | 梳理  取笑 戏弄         |     |
 | 44. telegraph                             |                                                              | 电报 发电报            |     |
 | 45. temptation                            |                                                              | 引诱 诱惑             |     |
