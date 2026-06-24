@@ -73,7 +73,7 @@
 | 69. <font color="#ff0000">turnover</font> | 变动率  营业额                                                     | 流动率 营业额           |     |
 | 70. uneasy                                | 焦虑的   不确定的                                                   | 焦虑的 不安的 不稳定的      |     |
 | 71. <font color="#ff0000">unfold</font>   | 打开  展现                                                       | 展现  透露 展开         |     |
-| 72. <font color="#ff0000">utmost</font>   |                                                              | 最大可能 极度  极限       |     |
+| 72. <font color="#ff0000">utmost</font>   | 最大可能  极限  极度的                                                | 最大可能 极度  极限       |     |
 | 73. verge                                 | 路边   趋向                                                      | 路边  趋向            |     |
 | 74. versus                                | 对 诉   和什么相比                                                  | vs  对 诉 相比        |     |
 | 75. vertical                              | 垂直的                                                          | 垂直的  竖直的          |     |
