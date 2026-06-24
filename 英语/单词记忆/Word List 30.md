@@ -32,7 +32,7 @@
 | 28. <font color="#ff0000">steward</font>  | 保护者  负责人 管家                                                  | 负责人  保护者   管家     |     |
 | 29. <font color="#ff0000">stiff</font>    | 激烈的 艰难的  酸痛的 僵硬的                                             | 酸痛的  僵硬的          |     |
 | 30. <font color="#ff0000">stir</font>     | 搅拌（激发 震动）                                                    | 搅拌  激发  震动        |     |
-| 31. stove                                 | 厨灶                                                           | 厨灶                |     |
+| 31. stove                                 | 厨灶  （炉子）                                                     | 厨灶                |     |
 | 32. straw                                 | 吸管  秸秆                                                       | 吸管 秸秆             |     |
 | 33. <font color="#ff0000">stride</font>   |                                                              | 进展  步伐  大步走       |     |
 | 34. striking                              | 震惊的                                                          | 惊人的               |     |
