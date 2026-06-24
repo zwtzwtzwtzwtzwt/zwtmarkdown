@@ -49,8 +49,8 @@
 | 45. temptation                            | 诱惑  引诱                                                       | 引诱 诱惑             |     |
 | 46. terrific                              | 极好的                                                          | 极好的               |     |
 | 47. theoretical                           | 理论的                                                          | 理论的               |     |
-| 48. thick                                 | 粗的  后                                                        | 厚的 粗的             |     |
-| 49. thoughtful                            |                                                              | 深思的 体贴的 周密的       |     |
+| 48. thick                                 | 粗的  厚的                                                       | 厚的 粗的             |     |
+| 49. thoughtful                            | 沉思的  体贴的                                                     | 深思的 体贴的 周密的       |     |
 | 50. thrift                                |                                                              | 节约                |     |
 | 51. throat                                |                                                              | 喉咙                |     |
 | 52. throne                                |                                                              | 王权 王位             |     |
