@@ -67,12 +67,12 @@
 | 63. tribe                                 |                                                              | 部落 族              |     |
 | 64. trivial                               |                                                              | 琐碎的 微不足道的         |     |
 | 65. troop                                 | 军队  部队   一队  一群                                              | 军队 部队  一群 一对      |     |
-| 66. tropical                              | 韧带                                                           | 热带的               |     |
+| 66. tropical                              | 热带的                                                          | 热带的               |     |
 | 67. <font color="#ff0000">trumpet</font>  |                                                              | 吹嘘  宣扬 小号         |     |
 | 68. turbine                               |                                                              | 涡轮机               |     |
 | 69. <font color="#ff0000">turnover</font> |                                                              | 流动率 营业额           |     |
 | 70. uneasy                                |                                                              | 焦虑的 不安的 不稳定的      |     |
-| 71. unfold                                |                                                              | 展现  透露 展开         |     |
+| 71. unfold                                | 打开                                                           | 展现  透露 展开         |     |
 | 72. utmost                                |                                                              | 最大可能 极度  极限       |     |
 | 73. verge                                 |                                                              | 路边  趋向            |     |
 | 74. versus                                |                                                              | vs  对 诉 相比        |     |
