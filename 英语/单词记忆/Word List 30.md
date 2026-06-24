@@ -38,9 +38,9 @@
 | 34. striking                           | 惊人的              |     |
 | 35. strip                              |                  |     |
 | 36. stripe                             |                  |     |
-| 37. strive                             |                  |     |
-| 38. subsidy                            |                  |     |
-| 39. successive                         |                  |     |
+| 37. strive                             | 努力               |     |
+| 38. subsidy                            | 补贴               |     |
+| 39. successive                         | 连续的              |     |
 | 40. surgeon                            |                  |     |
 | 41. surveillance                       |                  |     |
 | 42. tank                               |                  |     |
