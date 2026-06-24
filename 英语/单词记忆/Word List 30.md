@@ -57,7 +57,7 @@
 | 53. timely                              | 及时的              |     |
 | 54. tissue                              | 组织  纸巾           |     |
 | 55. token                               |                  |     |
-| 56.<font color="#ff0000"> toll</font>   |                  |     |
+| 56.<font color="#ff0000"> toll</font>   | 极大的不良            |     |
 | 57. tomb                                | 坟墓               |     |
 | 58. tow                                 | 拖拉 牵引            |     |
 | 59. tragic                              | 悲惨的  悲剧的         |     |
@@ -65,7 +65,7 @@
 | 61. transient                           | 暂时的 流动性的         |     |
 | 62. tray                                | 托盘   盘子          |     |
 | 63. tribe                               |                  |     |
-| 64. trivial                             | 琐碎的              |     |
+| 64. trivial                             | 琐碎的 微不足道的        |     |
 | 65. troop                               | 军队 部队  一群 一对     |     |
 | 66. tropical                            | 热带的              |     |
 | 67. trumpet                             |                  |     |
