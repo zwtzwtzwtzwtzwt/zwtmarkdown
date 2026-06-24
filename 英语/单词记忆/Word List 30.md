@@ -99,4 +99,13 @@ Waking up with **stiff (酸痛的，僵硬的)** muscles, he began to **stir (�
 
 ### 中文翻译
 
-带着酸痛僵硬的肌肉醒来，他开始在生锈的厨灶上搅拌他的晨间咖啡。他咬着一根塑料吸管，思考着如何在他当前的项目中取得重大的进展。他最近在一个表现出非常独特细胞条纹的狭长生物组织区域上取得了惊人的发现。为了继续他的工作，他知道自己必须努力去争取一份政府补贴。经过连续几天的高强度实验，这位敬业的外科医生终于证实了他的理论，但他对实验室受到的严密监视却浑然不知。
+带着酸痛僵硬的肌肉醒来，他开始在生锈的厨灶上搅拌他的晨间咖啡。他咬着一根塑料吸管，思考着如何在他当前的项目中取得重大的进展。他最近在一个表现出非常独特细胞条纹的狭长生物组织区域上取得了惊人的发现。为了继续他的工作，他知道自己必须努力去争取一份政府补贴。经过连续几天的高强度实验，这位敬业的外科医生终于证实了他的理论，但他对实验室受到的严密监视却浑然不知。  
+
+---  
+### 单词记忆短文
+
+The accident took a heavy **toll (严重的不良影响)** on the historic site near the ancient **tomb (坟墓)**, requiring a heavy-duty truck to **tow (拖，拉)** away the debris. Following this **tragic (悲惨的)** event, the city's main **tram (有轨电车)** service experienced only a **transient (短暂的)** disruption. Soon after, in a nearby cafe, a waiter carrying a **tray (托盘)** of drinks served a visiting leader of a remote **tribe (部落)**, who dismissed the city's minor chaos as **trivial (微不足道的)** compared to his own struggles. He had come to negotiate with a peacekeeping **troop (军队)** stationed in his **tropical (热带的)** homeland, aiming to **trumpet (宣扬)** their recent joint success in installing a powerful new wind **turbine (涡轮机)**, a project that had already stabilized the region's power supply and significantly increased the local market's annual business **turnover (营业额)**.
+
+### 中文翻译
+
+这场事故对古老**坟墓**附近的这处历史遗迹造成了**严重的不良影响**，需要一辆重型卡车来**拖走**废墟。在这起**悲惨的**事件之后，城市主要的**有轨电车**服务只经历了**短暂的**中断。不久之后，在附近的一家咖啡馆里，一位端着饮料**托盘**的服务员接待了一位来访的偏远**部落**首领，与他自己的挣扎相比，这位首领认为城市里这种小混乱是**微不足道的**。他此行是为了与驻扎在他**热带**家乡的一支维和**部队**进行谈判，目的是**宣扬**他们最近在安装新型大功率风力**涡轮机**方面取得的共同成功，该项目已经稳定了该地区的电力供应，并显着增加了当地市场的年度商业**营业额**。
