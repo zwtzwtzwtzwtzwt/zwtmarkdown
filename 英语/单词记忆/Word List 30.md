@@ -14,7 +14,7 @@
 | 10. skilful      |              |     |
 | 11. slack        | 懒散的  懈怠  懈怠的 |     |
 | 12. slot         |              |     |
-| 13. slum         |              |     |
+| 13. slum         | 贫困区          |     |
 | 14. soak         |              |     |
 | 15. soar         |              |     |
 | 16. sociology    |              |     |
