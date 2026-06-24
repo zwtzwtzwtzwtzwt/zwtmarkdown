@@ -20,7 +20,7 @@
 | 16. sociology                           | 社会学              |     |
 | 17. sow                                 | 播种               |     |
 | 18. spin                                | 旋转 纺织            |     |
-| 19. splash                              |                  |     |
+| 19. splash                              | 泼溅  半点           |     |
 | 20. spray                               | 喷洒 喷剂            |     |
 | 21. spur                                | 推动  促进           |     |
 | 22. stadium                             | 体育馆 运动场          |     |
