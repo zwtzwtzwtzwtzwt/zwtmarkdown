@@ -65,7 +65,7 @@
 | 61. transient                           | 暂时的 流动性的         |     |
 | 62. tray                                | 托盘   盘子          |     |
 | 63. tribe                               |                  |     |
-| 64. trivial                             |                  |     |
+| 64. trivial                             | 琐碎的              |     |
 | 65. troop                               | 军队 部队  一群 一对     |     |
 | 66. tropical                            | 热带的              |     |
 | 67. trumpet                             |                  |     |
