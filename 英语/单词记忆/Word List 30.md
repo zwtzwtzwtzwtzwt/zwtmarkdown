@@ -68,7 +68,7 @@
 | 64. trivial                             | 琐碎的 微不足道的         |     |
 | 65. troop                               | 军队 部队  一群 一对      |     |
 | 66. tropical                            | 热带的               |     |
-| 67. trumpet                             |                   |     |
+| 67. trumpet                             | 吹嘘                |     |
 | 68. turbine                             | 涡轮机               |     |
 | 69. turnover                            |                   |     |
 | 70. uneasy                              | 焦虑的 不安的 不稳定的      |     |
