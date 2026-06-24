@@ -58,12 +58,12 @@
 | 54. tissue                              | 组织  纸巾           |     |
 | 55. token                               |                  |     |
 | 56. toll                                |                  |     |
-| 57. tomb                                |                  |     |
-| 58. tow                                 |                  |     |
-| 59. tragic                              |                  |     |
-| 60. tram                                |                  |     |
-| 61. transient                           |                  |     |
-| 62. tray                                |                  |     |
+| 57. tomb                                | 坟墓               |     |
+| 58. tow                                 | 拖拉 牵引            |     |
+| 59. tragic                              | 悲惨的  悲剧的         |     |
+| 60. tram                                | 有轨电车             |     |
+| 61. transient                           | 暂时的 流动性的         |     |
+| 62. tray                                | 托盘               |     |
 | 63. tribe                               |                  |     |
 | 64. trivial                             |                  |     |
 | 65. troop                               |                  |     |
