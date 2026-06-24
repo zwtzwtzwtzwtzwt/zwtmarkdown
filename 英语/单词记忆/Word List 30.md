@@ -31,7 +31,7 @@
 | 27. stereotype                         | 成见  刻板印象         |     |
 | 28. steward                            | 负责人  保护者   管家    |     |
 | 29. stiff                              | 酸痛的  僵硬的         |     |
-| 30. stir                               | 搅拌               |     |
+| 30. stir                               | 搅拌  激发           |     |
 | 31. stove                              | 厨灶               |     |
 | 32. straw                              | 吸管               |     |
 | 33. stride                             |                  |     |
