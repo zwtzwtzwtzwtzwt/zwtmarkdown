@@ -66,8 +66,8 @@
 | 62. tray                                  | 盘子 托盘                                                        | 托盘   盘子           |     |
 | 63. tribe                                 |                                                              | 部落 族              |     |
 | 64. trivial                               |                                                              | 琐碎的 微不足道的         |     |
-| 65. troop                                 | 军队                                                           | 军队 部队  一群 一对      |     |
-| 66. tropical                              |                                                              | 热带的               |     |
+| 65. troop                                 | 军队  部队   一队  一群                                              | 军队 部队  一群 一对      |     |
+| 66. tropical                              | 韧带                                                           | 热带的               |     |
 | 67. <font color="#ff0000">trumpet</font>  |                                                              | 吹嘘  宣扬 小号         |     |
 | 68. turbine                               |                                                              | 涡轮机               |     |
 | 69. <font color="#ff0000">turnover</font> |                                                              | 流动率 营业额           |     |
