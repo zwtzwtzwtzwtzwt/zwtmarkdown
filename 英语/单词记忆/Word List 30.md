@@ -16,7 +16,7 @@
 | 12. <font color="#ff0000">slot</font>     | 窄口  投放 1（时段 位置）                                              | 窄口 投放             |     |
 | 13. slum                                  | 贫困区                                                          | 贫困区               |     |
 | 14. soak                                  | 浸泡                                                           | 浸泡                |     |
-| 15. soar                                  | 1                                                            | 猛增 翱翔             |     |
+| 15. <font color="#ff0000">soar</font>     | 1（猛增 高飞）                                                     | 猛增 翱翔             |     |
 | 16. sociology                             | 社会学                                                          | 社会学               |     |
 | 17. sow                                   | 播种                                                           | 播种                |     |
 | 18. <font color="#ff0000">spin</font>     | 1                                                            | 旋转 纺织             |     |
