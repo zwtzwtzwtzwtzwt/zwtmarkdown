@@ -29,7 +29,7 @@
 | 25. steam        |                  |     |
 | 26. steep        | 陡峭的  剧烈的         |     |
 | 27. stereotype   | 成见  刻板印象         |     |
-| 28. steward      |                  |     |
+| 28. steward      | 负责人  管家          |     |
 | 29. stiff        |                  |     |
 | 30. stir         |                  |     |
 | 31. stove        |                  |     |
