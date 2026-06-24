@@ -73,7 +73,7 @@
 | 69. turnover                            |                  |     |
 | 70. uneasy                              |                  |     |
 | 71. unfold                              | 展现  透露 展开        |     |
-| 72. utmost                              |                  |     |
+| 72. utmost                              | 最大可能             |     |
 | 73. verge                               | 路边  趋向           |     |
 | 74. versus                              | vs  对 诉 相比       |     |
 | 75. vertical                            | 垂直的  竖直的         |     |
