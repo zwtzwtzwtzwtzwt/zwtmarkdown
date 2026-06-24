@@ -29,7 +29,7 @@
 | 25. steam                                 | 蒸汽  蒸                                                        | 蒸汽   蒸            |     |
 | 26. steep                                 | 陡峭的 剧烈的                                                      | 陡峭的  剧烈的          |     |
 | 27. stereotype                            | 成见  刻板映像                                                     | 成见  刻板印象          |     |
-| 28. steward                               |                                                              | 负责人  保护者   管家     |     |
+| 28. <font color="#ff0000">steward</font>  |                                                              | 负责人  保护者   管家     |     |
 | 29. stiff                                 |                                                              | 酸痛的  僵硬的          |     |
 | 30. stir                                  | 搅拌                                                           | 搅拌  激发  震动        |     |
 | 31. stove                                 | 厨灶                                                           | 厨灶                |     |
@@ -51,7 +51,7 @@
 | 47. theoretical                           | 理论的                                                          | 理论的               |     |
 | 48. thick                                 | 粗的  厚的                                                       | 厚的 粗的             |     |
 | 49. thoughtful                            | 沉思的  体贴的  1                                                  | 深思的 体贴的 周密的       |     |
-| 50. thrift                                |                                                              | 节约                |     |
+| 50. <font color="#ff0000">thrift</font>   |                                                              | 节约                |     |
 | 51. throat                                | 喉咙                                                           | 喉咙                |     |
 | 52. throne                                | 王位  王权                                                       | 王权 王位             |     |
 | 53. timely                                | 及时的                                                          | 及时的               |     |
