@@ -63,10 +63,10 @@
 | 59. tragic                              | 悲惨的  悲剧的         |     |
 | 60. tram                                | 有轨电车             |     |
 | 61. transient                           | 暂时的 流动性的         |     |
-| 62. tray                                | 托盘               |     |
+| 62. tray                                | 托盘   盘子          |     |
 | 63. tribe                               |                  |     |
 | 64. trivial                             |                  |     |
-| 65. troop                               |                  |     |
+| 65. troop                               | 军队 部队  一群 一对     |     |
 | 66. tropical                            |                  |     |
 | 67. trumpet                             |                  |     |
 | 68. turbine                             |                  |     |
