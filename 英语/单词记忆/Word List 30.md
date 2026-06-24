@@ -82,8 +82,8 @@
 | 78. wheat                              |                  |     |
 | 79. wit                                |                  |     |
 | 80. wonderful                          |                  |     |
-| 81. workout                            |                  |     |
-| 82. worm                               |                  |     |
+| 81. workout                            | 锻炼               |     |
+| 82. worm                               | 蠕虫               |     |
 | 83. worship                            |                  |     |
 | 84. wound                              | 创伤  伤口           |     |
 | 85. youngster                          | 孩童  年轻人          |     |
