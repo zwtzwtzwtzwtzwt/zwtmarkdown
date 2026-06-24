@@ -44,7 +44,7 @@
 | 40. surgeon                               | 外科手术                                                         | 外科手术              |     |
 | 41. surveillance                          | 监视  监管                                                       | 监视  看守            |     |
 | 42. tank                                  | 缸 箱                                                          | 缸 箱               |     |
-| 43. tease                                 | 取消 1                                                         | 梳理  取笑 戏弄         |     |
+| 43. <font color="#ff0000">tease</font>    |                                                              | 梳理  取笑 戏弄         |     |
 | 44. telegraph                             | 电报 发电报                                                       | 电报 发电报            |     |
 | 45. temptation                            | 诱惑  引诱                                                       | 引诱 诱惑             |     |
 | 46. terrific                              | 极好的                                                          | 极好的               |     |
