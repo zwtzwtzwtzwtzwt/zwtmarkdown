@@ -64,7 +64,7 @@
 | 60. tram                                  | 有轨电车                                                         | 有轨电车              |     |
 | 61. transient                             | 暂时的   流动性的                                                   | 暂时的 流动性的          |     |
 | 62. tray                                  | 盘子 托盘                                                        | 托盘   盘子           |     |
-| 63. <font color="#ff0000">tribe</font>    |                                                              | 部落 族              |     |
+| 63. <font color="#ff0000">tribe</font>    | 部落                                                           | 部落 族              |     |
 | 64. <font color="#ff0000">trivial</font>  |                                                              | 琐碎的 微不足道的         |     |
 | 65. troop                                 | 军队  部队   一队  一群                                              | 军队 部队  一群 一对      |     |
 | 66. tropical                              | 热带的                                                          | 热带的               |     |
