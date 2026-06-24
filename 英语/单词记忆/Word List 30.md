@@ -51,7 +51,7 @@
 | 47. theoretical                         | 理论的              |     |
 | 48. thick                               | 厚的 粗的            |     |
 | 49. thoughtful                          |                  |     |
-| 50. thrift                              |                  |     |
+| 50. thrift                              | 节约               |     |
 | 51. throat                              | 喉咙               |     |
 | 52. throne                              | 王权 王位            |     |
 | 53. timely                              | 及时的              |     |
