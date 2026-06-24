@@ -68,9 +68,9 @@
 | 64. <font color="#ff0000">trivial</font>  | 不重要的 琐碎的 微不足道的                                               | 琐碎的 微不足道的         |     |
 | 65. troop                                 | 军队  部队   一队  一群                                              | 军队 部队  一群 一对      |     |
 | 66. tropical                              | 热带的                                                          | 热带的               |     |
-| 67. <font color="#ff0000">trumpet</font>  | 吹嘘                                                           | 吹嘘  宣扬 小号         |     |
-| 68. <font color="#ff0000">turbine</font>  |                                                              | 涡轮机               |     |
-| 69. <font color="#ff0000">turnover</font> |                                                              | 流动率 营业额           |     |
+| 67. <font color="#ff0000">trumpet</font>  | 吹嘘  宣扬 小号                                                    | 吹嘘  宣扬 小号         |     |
+| 68. <font color="#ff0000">turbine</font>  | 涡轮机                                                          | 涡轮机               |     |
+| 69. <font color="#ff0000">turnover</font> | 变动率                                                          | 流动率 营业额           |     |
 | 70. uneasy                                | 焦虑的   不确定的                                                   | 焦虑的 不安的 不稳定的      |     |
 | 71. <font color="#ff0000">unfold</font>   | 打开                                                           | 展现  透露 展开         |     |
 | 72. <font color="#ff0000">utmost</font>   |                                                              | 最大可能 极度  极限       |     |
