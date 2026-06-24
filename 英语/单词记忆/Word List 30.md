@@ -29,7 +29,7 @@
 | 25. steam                                 | 蒸汽  蒸                                                        | 蒸汽   蒸            |     |
 | 26. steep                                 | 陡峭的 剧烈的                                                      | 陡峭的  剧烈的          |     |
 | 27. stereotype                            | 成见  刻板映像                                                     | 成见  刻板印象          |     |
-| 28. <font color="#ff0000">steward</font>  |                                                              | 负责人  保护者   管家     |     |
+| 28. <font color="#ff0000">steward</font>  | 保护者  负责人 管家                                                  | 负责人  保护者   管家     |     |
 | 29. <font color="#ff0000">stiff</font>    |                                                              | 酸痛的  僵硬的          |     |
 | 30. stir                                  | 搅拌                                                           | 搅拌  激发  震动        |     |
 | 31. stove                                 | 厨灶                                                           | 厨灶                |     |
