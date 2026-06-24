@@ -32,10 +32,10 @@
 | 28. steward                            | 负责人  保护者   管家    |     |
 | 29. stiff                              | 酸痛的  僵硬的         |     |
 | 30. stir                               | 搅拌               |     |
-| 31. stove                              |                  |     |
-| 32. straw                              |                  |     |
+| 31. stove                              | 厨灶               |     |
+| 32. straw                              | 吸管               |     |
 | 33. stride                             |                  |     |
-| 34. striking                           |                  |     |
+| 34. striking                           | 惊人的              |     |
 | 35. strip                              |                  |     |
 | 36. stripe                             |                  |     |
 | 37. strive                             |                  |     |
