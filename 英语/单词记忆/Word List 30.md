@@ -37,7 +37,7 @@
 | 33. <font color="#ff0000">stride</font> | 进展  步伐  大步走      |     |
 | 34. striking                            | 惊人的              |     |
 | 35. strip                               | 狭长区域  拆开         |     |
-| 36. stripe                              |                  |     |
+| 36. stripe                              | 种类 条纹            |     |
 | 37. strive                              | 努力               |     |
 | 38. subsidy                             | 补贴               |     |
 | 39. successive                          | 连续的              |     |
