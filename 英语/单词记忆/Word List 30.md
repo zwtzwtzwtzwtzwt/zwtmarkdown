@@ -85,7 +85,7 @@
 | 81. workout                            |                  |     |
 | 82. worm                               |                  |     |
 | 83. worship                            |                  |     |
-| 84. wound                              |                  |     |
+| 84. wound                              | 创伤  伤口           |     |
 | 85. youngster                          | 孩童  年轻人          |     |
 |                                        |                  |     |
 
