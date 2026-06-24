@@ -80,7 +80,7 @@
 | 76. virus                              |                  |     |
 | 77. weird                              |                  |     |
 | 78. wheat                              |                  |     |
-| 79. wit                                | 风趣               |     |
+| 79. wit                                | 风趣  才思 机智幽默      |     |
 | 80. wonderful                          | 精彩的              |     |
 | 81. workout                            | 锻炼               |     |
 | 82. worm                               | 蠕虫               |     |
