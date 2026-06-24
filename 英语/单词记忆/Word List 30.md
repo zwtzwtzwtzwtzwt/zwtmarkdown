@@ -25,7 +25,7 @@
 | 21. spur         | 推动  促进           |     |
 | 22. stadium      |                  |     |
 | 23. stall        |                  |     |
-| 24. stare        |                  |     |
+| 24. stare        | 盯着  凝视           |     |
 | 25. steam        |                  |     |
 | 26. steep        |                  |     |
 | 27. stereotype   |                  |     |
