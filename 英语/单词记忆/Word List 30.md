@@ -64,16 +64,16 @@
 | 60. tram                                  | 有轨电车                                                         | 有轨电车              |     |
 | 61. transient                             | 暂时的   流动性的                                                   | 暂时的 流动性的          |     |
 | 62. tray                                  | 盘子 托盘                                                        | 托盘   盘子           |     |
-| 63. tribe                                 |                                                              | 部落 族              |     |
-| 64. trivial                               |                                                              | 琐碎的 微不足道的         |     |
+| 63. <font color="#ff0000">tribe</font>    |                                                              | 部落 族              |     |
+| 64. <font color="#ff0000">trivial</font>  |                                                              | 琐碎的 微不足道的         |     |
 | 65. troop                                 | 军队  部队   一队  一群                                              | 军队 部队  一群 一对      |     |
 | 66. tropical                              | 热带的                                                          | 热带的               |     |
 | 67. <font color="#ff0000">trumpet</font>  |                                                              | 吹嘘  宣扬 小号         |     |
-| 68. turbine                               |                                                              | 涡轮机               |     |
+| 68. <font color="#ff0000">turbine</font>  |                                                              | 涡轮机               |     |
 | 69. <font color="#ff0000">turnover</font> |                                                              | 流动率 营业额           |     |
 | 70. uneasy                                | 焦虑的   不确定的                                                   | 焦虑的 不安的 不稳定的      |     |
-| 71. unfold                                | 打开                                                           | 展现  透露 展开         |     |
-| 72. utmost                                |                                                              | 最大可能 极度  极限       |     |
+| 71. <font color="#ff0000">unfold</font>   | 打开                                                           | 展现  透露 展开         |     |
+| 72. <font color="#ff0000">utmost</font>   |                                                              | 最大可能 极度  极限       |     |
 | 73. verge                                 | 路边   趋向                                                      | 路边  趋向            |     |
 | 74. versus                                | 对 诉   和什么相比                                                  | vs  对 诉 相比        |     |
 | 75. vertical                              | 垂直的                                                          | 垂直的  竖直的          |     |
