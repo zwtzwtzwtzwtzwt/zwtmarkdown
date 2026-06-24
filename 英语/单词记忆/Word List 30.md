@@ -72,7 +72,7 @@
 | 68. turbine                             |                  |     |
 | 69. turnover                            |                  |     |
 | 70. uneasy                              |                  |     |
-| 71. unfold                              |                  |     |
+| 71. unfold                              | 展现  透露 展开        |     |
 | 72. utmost                              |                  |     |
 | 73. verge                               | 路边  趋向           |     |
 | 74. versus                              | vs  对 诉 相比       |     |
