@@ -70,8 +70,8 @@
 | 66. tropical                            |                  |     |
 | 67. trumpet                             |                  |     |
 | 68. turbine                             |                  |     |
-| 69. turnover                            |                  |     |
-| 70. uneasy                              |                  |     |
+| 69. turnover                            | 涡轮机              |     |
+| 70. uneasy                              | 焦虑的 不安的 不稳定的     |     |
 | 71. unfold                              | 展现  透露 展开        |     |
 | 72. utmost                              | 最大可能 极度  极限      |     |
 | 73. verge                               | 路边  趋向           |     |
