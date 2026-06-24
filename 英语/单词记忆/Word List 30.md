@@ -5,7 +5,7 @@
 | 1. semiconductor | 半导体         |     |
 | 2. shake         | 摇晃 奶昔 发抖    |     |
 | 3. shallow       | 肤浅的 浅的      |     |
-| 4. shed          |             |     |
+| 4. shed          | 去除 拜托  流    |     |
 | 5. sheer         | 陡峭的 纯粹的 完全的 |     |
 | 6. shield        | 保护 保护物 保护人  |     |
 | 7. shove         | 推挤  乱丢      |     |
