@@ -67,7 +67,7 @@
 | 63. tribe                               |                  |     |
 | 64. trivial                             |                  |     |
 | 65. troop                               | 军队 部队  一群 一对     |     |
-| 66. tropical                            |                  |     |
+| 66. tropical                            | 热带的              |     |
 | 67. trumpet                             |                  |     |
 | 68. turbine                             |                  |     |
 | 69. turnover                            | 涡轮机              |     |
