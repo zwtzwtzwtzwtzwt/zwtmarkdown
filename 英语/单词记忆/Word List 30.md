@@ -13,7 +13,7 @@
 | 9. sink                                | 下沉               |     |
 | 10. skilful                            | 熟练的  技术好的  技艺精湛的 |     |
 | 11. slack                              | 懒散的  懈怠  懈怠的     |     |
-| 12. <font color="#ff0000">slot</font>  |                  |     |
+| 12. <font color="#ff0000">slot</font>  | 窄口 投放            |     |
 | 13. slum                               | 贫困区              |     |
 | 14. soak                               | 浸泡               |     |
 | 15. soar                               | 猛增 翱翔            |     |
