@@ -113,13 +113,12 @@ The accident took a heavy **toll (严重的不良影响)** on the historic site 
 
 
 
-
-这是一段为你量身定制的高密度记忆短文，严格按照你提供的单词顺序和释义编写，逻辑紧密且没有废话，通过“工厂与集市的商业故事”将这些词串联起来。
-
+---
 ### 英文记忆短文
 
 Anxious workers **shove(推挤)** materials into the machine's **slot(窄口)**, watching the gears **spin(旋转)**. Next to them at a makeshift **stall(摊位)**, the project **steward(负责人)** faces a **stiff(艰难的)** negotiation. To **stir(激发)** the investors' enthusiasm, he takes a confident **stride(步伐)** forward, ensuring he doesn't **tease(招惹)** his powerful rivals. His habit of extreme **thrift(节俭)** prevents a devastating financial **toll(严重的不良影响)** on his native **tribe(部落)**. By ignoring **trivial(微不足道的)** complaints, they proudly **trumpet(宣扬)** the efficiency of the new **turbine(涡轮机)**, watching a massive financial **turnover(营业额)** quietly **unfold(展现)** to its **utmost(极度的)** glory.
 
+---
 ### 整体中文翻译
 
 焦急的工人们将材料**推挤**进机器的**窄口**，看着齿轮开始**旋转**。在他们旁边的一个临时**摊位**上，项目**负责人**正面临着一场**艰难的**谈判。为了**激发**投资者的热情，他自信地向前迈出**步伐**，同时确保自己不会**招惹**强大的竞争对手。他极端**节俭**的习惯，防止了对他的家乡**部落**造成毁灭性的财务**严重不良影响**。通过无视**微不足道的**抱怨，他们自豪地**宣扬**新型**涡轮机**的效率，并看着庞大的财务**营业额**悄然**展现**出其**极度的**辉煌。
