@@ -17,8 +17,8 @@
 | 13. slum         | 贫困区          |     |
 | 14. soak         |              |     |
 | 15. soar         |              |     |
-| 16. sociology    |              |     |
-| 17. sow          |              |     |
+| 16. sociology    | 社会学          |     |
+| 17. sow          | 播种           |     |
 | 18. spin         |              |     |
 | 19. splash       |              |     |
 | 20. spray        |              |     |
