@@ -12,7 +12,7 @@
 | 8. simplicity    | 简明  淳朴       |     |
 | 9. sink          | 下沉           |     |
 | 10. skilful      |              |     |
-| 11. slack        |              |     |
+| 11. slack        | 懒散的          |     |
 | 12. slot         |              |     |
 | 13. slum         |              |     |
 | 14. soak         |              |     |
