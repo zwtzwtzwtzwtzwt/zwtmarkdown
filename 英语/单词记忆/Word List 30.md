@@ -45,8 +45,8 @@
 | 41. surveillance                          | 监视  监管                                                       | 监视  看守            |     |
 | 42. tank                                  | 缸 箱                                                          | 缸 箱               |     |
 | 43. tease                                 |                                                              | 梳理  取笑 戏弄         |     |
-| 44. telegraph                             |                                                              | 电报 发电报            |     |
-| 45. temptation                            |                                                              | 引诱 诱惑             |     |
+| 44. telegraph                             | 电报 发电报                                                       | 电报 发电报            |     |
+| 45. temptation                            | 诱惑  引诱                                                       | 引诱 诱惑             |     |
 | 46. terrific                              |                                                              | 极好的               |     |
 | 47. theoretical                           |                                                              | 理论的               |     |
 | 48. thick                                 |                                                              | 厚的 粗的             |     |
