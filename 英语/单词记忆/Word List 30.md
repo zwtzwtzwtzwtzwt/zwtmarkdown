@@ -8,7 +8,7 @@
 | 4. shed          |          |     |
 | 5. sheer         |          |     |
 | 6. shield        |          |     |
-| 7. shove         |          |     |
+| 7. shove         | 推挤  乱放   |     |
 | 8. simplicity    |          |     |
 | 9. sink          |          |     |
 | 10. skilful      |          |     |
