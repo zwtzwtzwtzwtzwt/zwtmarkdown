@@ -55,7 +55,7 @@
 | 51. throat                              | 喉咙               |     |
 | 52. throne                              |                  |     |
 | 53. timely                              | 及时的              |     |
-| 54. tissue                              | 组织               |     |
+| 54. tissue                              | 组织  纸巾           |     |
 | 55. token                               |                  |     |
 | 56. toll                                |                  |     |
 | 57. tomb                                |                  |     |
