@@ -19,7 +19,7 @@
 | 15. <font color="#ff0000">soar</font>     | 1（猛增 高飞）                                                     | 猛增 翱翔             |     |
 | 16. sociology                             | 社会学                                                          | 社会学               |     |
 | 17. sow                                   | 播种                                                           | 播种                |     |
-| 18. <font color="#ff0000">spin</font>     | 1                                                            | 旋转 纺织             |     |
+| 18. <font color="#ff0000">spin</font>     | 1（旋转  纺织）                                                    | 旋转 纺织             |     |
 | 19. splash                                | 泼溅  点                                                        | 泼溅  斑点            |     |
 | 20. spray                                 | 喷洒  喷雾剂                                                      | 喷洒 喷剂             |     |
 | 21. spur                                  | 激发 促进                                                        | 推动  促进            |     |
