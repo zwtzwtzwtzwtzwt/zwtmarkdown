@@ -11,7 +11,7 @@
 | 7. shove         | 推挤  乱丢       |     |
 | 8. simplicity    | 简明  淳朴       |     |
 | 9. sink          | 下沉           |     |
-| 10. skilful      |              |     |
+| 10. skilful      | 熟练的  技术好的    |     |
 | 11. slack        | 懒散的  懈怠  懈怠的 |     |
 | 12. slot         |              |     |
 | 13. slum         | 贫困区          |     |
