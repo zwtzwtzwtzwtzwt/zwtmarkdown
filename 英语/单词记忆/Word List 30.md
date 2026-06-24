@@ -39,9 +39,9 @@
 | 35. strip                                 |                                                              | 狭长区域  拆开          |     |
 | 36. stripe                                |                                                              | 种类 条纹             |     |
 | 37. strive                                |                                                              | 努力                |     |
-| 38. subsidy                               |                                                              | 补贴                |     |
-| 39. successive                            |                                                              | 连续的               |     |
-| 40. surgeon                               |                                                              | 外科手术              |     |
+| 38. subsidy                               | 补助                                                           | 补贴                |     |
+| 39. successive                            | 连续的                                                          | 连续的               |     |
+| 40. surgeon                               | 外科手术                                                         | 外科手术              |     |
 | 41. surveillance                          |                                                              | 监视  看守            |     |
 | 42. tank                                  |                                                              | 缸 箱               |     |
 | 43. tease                                 |                                                              | 梳理  取笑 戏弄         |     |
