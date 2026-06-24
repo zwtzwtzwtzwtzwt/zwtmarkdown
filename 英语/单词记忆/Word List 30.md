@@ -50,7 +50,7 @@
 | 46. terrific                              | 极好的               |     |
 | 47. theoretical                           | 理论的               |     |
 | 48. thick                                 | 厚的 粗的             |     |
-| 49. thoughtful                            | 深思的 体贴的           |     |
+| 49. thoughtful                            | 深思的 体贴的 周密的       |     |
 | 50. thrift                                | 节约                |     |
 | 51. throat                                | 喉咙                |     |
 | 52. throne                                | 王权 王位             |     |
