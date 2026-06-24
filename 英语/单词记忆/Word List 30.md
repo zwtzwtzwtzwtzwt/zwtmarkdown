@@ -34,7 +34,7 @@
 | 30. stir                                | 搅拌  激发  震动       |     |
 | 31. stove                               | 厨灶               |     |
 | 32. straw                               | 吸管 秸秆            |     |
-| 33. <font color="#ff0000">stride</font> |                  |     |
+| 33. <font color="#ff0000">stride</font> | 进展  步伐  大步走      |     |
 | 34. striking                            | 惊人的              |     |
 | 35. strip                               |                  |     |
 | 36. stripe                              |                  |     |
