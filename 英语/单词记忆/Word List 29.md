@@ -22,7 +22,7 @@
 | 18. momentum      | 势头         |
 | 19. monster       | 怪物 巨大的     |
 | 20. mould         | 形成  霉菌  类型 |
-| 21. municipal     | 是真的        |
+| 21. municipal     | 地方政府的      |
 | 22. murder        | 谋杀         |
 | 23. necklace      |            |
 | 24. nickname      | 昵称         |
