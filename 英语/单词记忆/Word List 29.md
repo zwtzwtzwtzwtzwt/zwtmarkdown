@@ -83,7 +83,7 @@
 | 79. scholarship   |                 |
 | 80. scorn         |                 |
 | 81. scrap         |                 |
-| 82. scream        |                 |
-| 83. seemingly     |                 |
+| 82. scream        | 尖叫              |
+| 83. seemingly     | 貌似 似乎           |
 | 84. semester      |                 |
 |                   |                 |
