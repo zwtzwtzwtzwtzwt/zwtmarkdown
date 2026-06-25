@@ -48,7 +48,7 @@
 | 44. plot          | 故事情节  阴谋 密谋     |
 | 45. plug          | 插头 插座 塞住        |
 | 46. plunge        |                 |
-| 47. poison        | 有毒              |
+| 47. poison        | 毒药 毒害           |
 | 48. portrait      |                 |
 | 49. pottery       |                 |
 | 50. preach        |                 |
