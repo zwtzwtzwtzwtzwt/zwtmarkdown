@@ -33,8 +33,8 @@
 | 29. offspring     | 孩子 后代 幼崽        |
 | 30. organism      | 微生物 有机体         |
 | 31. overlap       | 重叠   重叠部分  交叉数量 |
-| 32. overwhelm     |                 |
-| 33. palace        |                 |
+| 32. overwhelm     | 压垮  击败 征服       |
+| 33. palace        | 王宫              |
 | 34. parachute     |                 |
 | 35. paradise      |                 |
 | 36. parcel        |                 |
