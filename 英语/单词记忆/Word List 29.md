@@ -58,7 +58,7 @@
 | 54. protein       |                 |
 | 55. prudent       |                 |
 | 56. pyramid       |                 |
-| 57. queue         |                 |
+| 57. queue         | 队列 排队           |
 | 58. radar         |                 |
 | 59. radius        |                 |
 | 60. rank          |                 |
