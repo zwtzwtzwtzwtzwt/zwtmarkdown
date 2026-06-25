@@ -29,7 +29,7 @@
 | 25. nursery       | 托儿所  幼儿教育的 |
 | 26. obedient      | 顺从的        |
 | 27. obey          | 遵从 服从      |
-| 28. odds          | 概率         |
+| 28. odds          | 概率  不利条件   |
 | 29. offspring     |            |
 | 30. organism      |            |
 | 31. overlap       |            |
