@@ -62,9 +62,9 @@
 | 58. radar                                 |                 |
 | 59. radius                                |                 |
 | 60. rank                                  |                 |
-| 61. realm                                 |                 |
-| 62. reckon                                |                 |
-| 63. refrain                               |                 |
+| 61. <font color="#ff0000">realm</font>    |                 |
+| 62. <font color="#ff0000">reckon</font>   |                 |
+| 63. <font color="#ff0000">refrain</font>  |                 |
 | 64. refresh                               |                 |
 | 65. reign                                 |                 |
 | 66. remains                               |                 |
