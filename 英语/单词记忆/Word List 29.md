@@ -17,9 +17,9 @@
 | 13. menace        | 威胁         |
 | 14. mercury       | 水银         |
 | 15. mercy         | 仁慈  宽恕     |
-| 16. mill          | 工厂         |
-| 17. molecule      |            |
-| 18. momentum      |            |
+| 16. mill          | 工厂  碾碎     |
+| 17. molecule      | 分子         |
+| 18. momentum      | 实例         |
 | 19. monster       |            |
 | 20. mould         |            |
 | 21. municipal     |            |
