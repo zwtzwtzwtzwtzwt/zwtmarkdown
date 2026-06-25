@@ -38,7 +38,7 @@
 | 34. parachute     | 跳伞              |
 | 35. paradise      |                 |
 | 36. parcel        |                 |
-| 37. pastime       |                 |
+| 37. pastime       | 消遣  休闲活动        |
 | 38. patch         |                 |
 | 39. patrol        |                 |
 | 40. petition      |                 |
