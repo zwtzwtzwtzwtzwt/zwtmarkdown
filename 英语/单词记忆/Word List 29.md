@@ -24,8 +24,8 @@
 | 20. mould         | 形成  霉菌  类型 |
 | 21. municipal     | 地方政府的      |
 | 22. murder        | 谋杀         |
-| 23. necklace      |            |
-| 24. nickname      | 昵称         |
+| 23. necklace      | 项链         |
+| 24. nickname      |            |
 | 25. nursery       |            |
 | 26. obedient      |            |
 | 27. obey          |            |
