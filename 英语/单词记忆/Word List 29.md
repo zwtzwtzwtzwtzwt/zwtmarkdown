@@ -35,7 +35,7 @@
 | 31. overlap       | 重叠   重叠部分  交叉数量 |
 | 32. overwhelm     | 压垮  击败 征服       |
 | 33. palace        | 王宫  王室          |
-| 34. parachute     |                 |
+| 34. parachute     | 跳伞              |
 | 35. paradise      |                 |
 | 36. parcel        |                 |
 | 37. pastime       |                 |
