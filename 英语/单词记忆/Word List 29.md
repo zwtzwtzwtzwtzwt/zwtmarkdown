@@ -46,7 +46,7 @@
 | 42. plateau       |                 |
 | 43. plead         |                 |
 | 44. plot          | 故事情节  阴谋 密谋     |
-| 45. plug          |                 |
+| 45. plug          | 插头 插座 塞住        |
 | 46. plunge        |                 |
 | 47. poison        | 有毒              |
 | 48. portrait      |                 |
