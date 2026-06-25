@@ -12,8 +12,8 @@
 | 8. lump           | 归并  块  肿块  |
 | 9. march          | 游行  进行曲 进军 |
 | 10. mask          | 掩盖  面罩 口罩  |
-| 11. mayor         |            |
-| 12. medieval      |            |
+| 11. mayor         | 市长         |
+| 12. medieval      | 中世纪的       |
 | 13. menace        |            |
 | 14. mercury       |            |
 | 15. mercy         |            |
