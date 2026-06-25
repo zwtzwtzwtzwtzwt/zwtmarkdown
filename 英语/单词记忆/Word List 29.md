@@ -36,8 +36,8 @@
 | 32. overwhelm                               | 压垮  击败 征服       |
 | 33. palace                                  | 王宫  王室          |
 | 34. parachute                               | 跳伞              |
-| 35. paradise                                |                 |
-| 36. parcel                                  |                 |
+| 35. <font color="#ff0000">paradise</font>   |                 |
+| 36. <font color="#ff0000">parcel</font>     |                 |
 | 37. pastime                                 | 消遣  休闲活动        |
 | 38. <font color="#ff0000">patch</font>      |                 |
 | 39. patrol                                  |                 |
