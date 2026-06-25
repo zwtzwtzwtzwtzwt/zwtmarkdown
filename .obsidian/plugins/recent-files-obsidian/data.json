@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "英语单词1到30",
+      "path": "英语/英语单词1到30.pdf"
+    },
+    {
+      "basename": "Word List 29",
+      "path": "英语/单词记忆/Word List 29.md"
+    },
+    {
       "basename": "微服务中间件配置",
       "path": "9微服务作业/微服务中间件配置.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "compose 操作",
       "path": "9微服务作业/compose 操作.md"
-    },
-    {
-      "basename": "Word List 29",
-      "path": "英语/单词记忆/Word List 29.md"
-    },
-    {
-      "basename": "英语单词1到30",
-      "path": "英语/英语单词1到30.pdf"
     },
     {
       "basename": "Word List 30",
