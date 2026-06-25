@@ -76,7 +76,7 @@
 | 72. rigorous      |                 |
 | 73. rip           |                 |
 | 74. roast         |                 |
-| 75. rob           | 抢劫              |
+| 75. rob           | 抢劫  掠夺          |
 | 76. rumour        |                 |
 | 77. savage        |                 |
 | 78. scatter       |                 |
