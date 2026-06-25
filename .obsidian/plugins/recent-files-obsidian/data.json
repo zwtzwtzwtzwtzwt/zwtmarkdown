@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "测试",
+      "path": "测试.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
+      "basename": "adfasdfas",
+      "path": "adfasdfas.md"
+    },
+    {
+      "basename": "compose 操作",
+      "path": "9微服务作业/compose 操作.md"
+    },
+    {
+      "basename": "微服务中间件配置",
+      "path": "9微服务作业/微服务中间件配置.md"
+    },
+    {
       "basename": "Word List 29",
       "path": "英语/单词记忆/Word List 29.md"
     },
@@ -291,18 +315,6 @@
     {
       "basename": "散列表基本概念",
       "path": "2数据结构/9查找/散列查找/散列表基本概念.md"
-    },
-    {
-      "basename": "adfasdfas",
-      "path": "adfasdfas.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
-      "basename": "测试",
-      "path": "测试.md"
     },
     {
       "basename": "编译时确定和运行时确定",
