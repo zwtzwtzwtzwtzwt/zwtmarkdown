@@ -7,8 +7,8 @@
 | 3. loosen         |       |
 | 4. lounge         |       |
 | 5. loyalty        | 忠诚    |
-| 6. luggage        |       |
-| 7. lumber         |       |
+| 6. luggage        | 行李    |
+| 7. lumber         | 木材    |
 | 8. lump           |       |
 | 9. march          | 匹配 比赛 |
 | 10. mask          | 口罩    |
