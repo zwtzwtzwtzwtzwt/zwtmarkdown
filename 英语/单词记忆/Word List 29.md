@@ -26,10 +26,10 @@
 | 22. murder        | 谋杀         |
 | 23. necklace      | 项链         |
 | 24. nickname      | 绰号  外号     |
-| 25. nursery       |            |
-| 26. obedient      |            |
-| 27. obey          |            |
-| 28. odds          |            |
+| 25. nursery       | 托儿所  幼儿教育的 |
+| 26. obedient      | 顺从的        |
+| 27. obey          | 遵从 服从      |
+| 28. odds          | 概率         |
 | 29. offspring     |            |
 | 30. organism      |            |
 | 31. overlap       |            |
