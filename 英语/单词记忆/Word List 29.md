@@ -72,7 +72,7 @@
 | 68. republic      |                 |
 | 69. residence     |                 |
 | 70. revolutionary |                 |
-| 71. rid           |                 |
+| 71. rid           | 消除  摆脱          |
 | 72. rigorous      |                 |
 | 73. rip           |                 |
 | 74. roast         |                 |
