@@ -45,7 +45,7 @@
 | 41. pirate        |                 |
 | 42. plateau       |                 |
 | 43. plead         |                 |
-| 44. plot          |                 |
+| 44. plot          | 故事情节            |
 | 45. plug          |                 |
 | 46. plunge        |                 |
 | 47. poison        | 有毒              |
