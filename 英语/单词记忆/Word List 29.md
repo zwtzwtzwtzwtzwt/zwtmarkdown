@@ -32,7 +32,7 @@
 | 28. odds          | 概率  不利条件   |
 | 29. offspring     | 孩子 后代 幼崽   |
 | 30. organism      | 微生物 有机体    |
-| 31. overlap       |            |
+| 31. overlap       | 重叠         |
 | 32. overwhelm     |            |
 | 33. palace        |            |
 | 34. parachute     |            |
