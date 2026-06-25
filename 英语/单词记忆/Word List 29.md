@@ -39,12 +39,12 @@
 | 35. paradise                                |                 |
 | 36. parcel                                  |                 |
 | 37. pastime                                 | 消遣  休闲活动        |
-| 38. patch                                   |                 |
+| 38. <font color="#ff0000">patch</font>      |                 |
 | 39. patrol                                  |                 |
 | 40. petition                                |                 |
 | 41. <font color="#ff0000">pirate</font>     |                 |
-| 42. plateau                                 |                 |
-| 43. plead                                   |                 |
+| 42. <font color="#ff0000">plateau</font>    |                 |
+| 43. <font color="#ff0000">plead</font>      |                 |
 | 44. plot                                    | 故事情节  阴谋 密谋     |
 | 45. plug                                    | 插头 插座 塞住        |
 | 46. plunge                                  |                 |
