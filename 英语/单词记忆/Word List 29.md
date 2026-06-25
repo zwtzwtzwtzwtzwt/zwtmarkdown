@@ -16,8 +16,8 @@
 | 12. medieval      | 中世纪的       |
 | 13. menace        | 威胁         |
 | 14. mercury       | 水银         |
-| 15. mercy         | 仁慈         |
-| 16. mill          |            |
+| 15. mercy         | 仁慈  宽恕     |
+| 16. mill          | 工厂         |
 | 17. molecule      |            |
 | 18. momentum      |            |
 | 19. monster       |            |
