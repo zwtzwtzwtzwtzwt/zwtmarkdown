@@ -8,7 +8,7 @@
 | 4. lounge         |       |
 | 5. loyalty        | 忠诚    |
 | 6. luggage        | 行李    |
-| 7. lumber         | 木材    |
+| 7. lumber         | 木材 杂物 |
 | 8. lump           |       |
 | 9. march          | 匹配 比赛 |
 | 10. mask          | 口罩    |
