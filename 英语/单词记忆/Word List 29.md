@@ -5,7 +5,7 @@
 | 1. load           | 加载              |
 | 2. log            | 日志              |
 | 3. loosen         | 放松 松开           |
-| 4. lounge         | 公共休息室           |
+| 4. lounge         | 公共休息室  坐        |
 | 5. loyalty        | 忠诚              |
 | 6. luggage        | 行李              |
 | 7. lumber         | 木材 杂物           |
