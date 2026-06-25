@@ -20,7 +20,7 @@
 | 16. mill          | 工厂  碾碎     |
 | 17. molecule      | 分子         |
 | 18. momentum      | 势头         |
-| 19. monster       |            |
+| 19. monster       | 怪物 巨大的     |
 | 20. mould         |            |
 | 21. municipal     |            |
 | 22. murder        | 谋杀         |
