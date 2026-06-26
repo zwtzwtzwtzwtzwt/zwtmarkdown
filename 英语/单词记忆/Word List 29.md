@@ -71,7 +71,7 @@
 | 67. repeatedly                              | 重复的             |
 | 68. republic                                | 共和 共和国          |
 | 69. residence                               | 居住地  社区         |
-| 70. revolutionary                           |                 |
+| 70. revolutionary                           | 革命性的  突破性的      |
 | 71. rid                                     | 消除  摆脱          |
 | 72. <font color="#ff0000">rigorous</font>   |                 |
 | 73. <font color="#ff0000">rip</font>        |                 |
