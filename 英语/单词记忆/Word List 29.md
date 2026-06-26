@@ -41,7 +41,7 @@
 | 37. pastime                                 | 消遣  休闲活动        |
 | 38. <font color="#ff0000">patch</font>      |                 |
 | 39. patrol                                  | 打包 包裹           |
-| 40. petition                                |                 |
+| 40. petition                                | 请愿书             |
 | 41. <font color="#ff0000">pirate</font>     |                 |
 | 42. <font color="#ff0000">plateau</font>    |                 |
 | 43. <font color="#ff0000">plead</font>      |                 |
