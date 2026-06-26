@@ -47,10 +47,10 @@
 | 43. <font color="#ff0000">plead</font>      |                 |
 | 44. plot                                    | 故事情节  阴谋 密谋     |
 | 45. plug                                    | 插头 插座 塞住        |
-| 46. plunge                                  |                 |
+| 46. <font color="#ff0000">plunge</font>     |                 |
 | 47. poison                                  | 毒药 毒害           |
 | 48. portrait                                | 肖像              |
-| 49. <font color="#ff0000">pottery</font>    |                 |
+| 49. <font color="#ff0000">pottery</font>    | 陶瓷              |
 | 50. <font color="#ff0000">preach</font>     |                 |
 | 51. <font color="#ff0000">presumably</font> |                 |
 | 52. <font color="#ff0000">prey</font>       |                 |
