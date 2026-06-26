@@ -81,7 +81,7 @@
 | 77. savage                                  |                 |
 | 78. scatter                                 |                 |
 | 79. scholarship                             | 奖学金 学术研究        |
-| 80. scorn                                   |                 |
+| 80. scorn                                   | 蔑视 不屑于          |
 | 81. scrap                                   |                 |
 | 82. scream                                  | 尖叫              |
 | 83. seemingly                               | 貌似 似乎           |
