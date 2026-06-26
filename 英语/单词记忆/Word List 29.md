@@ -67,7 +67,7 @@
 | 63. <font color="#ff0000">refrain</font>    |                 |
 | 64. refresh                                 |                 |
 | 65. reign                                   |                 |
-| 66. remains                                 |                 |
+| 66. remains                                 | 遗迹  0           |
 | 67. repeatedly                              |                 |
 | 68. republic                                |                 |
 | 69. residence                               |                 |
