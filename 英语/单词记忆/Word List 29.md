@@ -75,7 +75,7 @@
 | 71. rid                                     | 消除  摆脱          |
 | 72. <font color="#ff0000">rigorous</font>   |                 |
 | 73. <font color="#ff0000">rip</font>        |                 |
-| 74. roast                                   |                 |
+| 74. roast                                   | 烘烤              |
 | 75. rob                                     | 抢劫  掠夺          |
 | 76. rumour                                  | 谣言              |
 | 77. <font color="#ff0000">savage</font>     |                 |
