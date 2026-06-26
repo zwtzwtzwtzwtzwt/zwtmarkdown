@@ -87,3 +87,22 @@
 | 83. seemingly                               | 貌似 似乎           |     |
 | 84. semester                                | 学期              |     |
 |                                             |                 |     |
+
+
+我已为你挑出列表中所有没有写出中文释义的单词，共 22 个。为了方便你进行高强度记忆，我将它们**严格按照原数字顺序**编织成了一篇情节紧凑的冒险小短文。
+
+### 英文记忆短文
+
+In search of a hidden **paradise** (天堂), an explorer set up camp on a barren **patch** (小块土地) of wilderness. He had to constantly **patrol** (巡逻) the area because a notorious **pirate** (海盗) was rumored to hide on the nearby **plateau** (高原). If caught, the criminal would rather **plead** (恳求) for his life than **plunge** (纵身投入/跳下) into the deadly canyon. A local wise man used to **preach** (布道/说教) that, **presumably** (大概/据推测), greedy men easily become the **prey** (猎物) of their own desires.
+
+The explorer recorded this philosophy in beautiful **prose** (散文). Being highly **prudent** (谨慎的), he continued his journey toward an ancient **pyramid** (金字塔). Since there was no modern **radar** (雷达) to guide him in this unknown **realm** (王国/领域), he could only **reckon** (估计/认为) the correct direction by observing the stars.
+
+During the trek, he had to **refrain** (克制/忍住) from drinking all his water at once in order to **refresh** (使恢复精力) himself later. After enduring a **rigorous** (严酷的/严格的) sandstorm that threatened to **rip** (撕裂) his tent apart, he suddenly encountered a **savage** (凶猛的/野蛮的) beast. He fought bravely until only a **scrap** (碎片/废弃物) of his jacket remained, but he finally survived.
+
+### 整体中文翻译
+
+为了寻找一个隐藏的**天堂**，一名探险家在一**小块**荒芜的土地上扎了营。他必须不断地在营地周围**巡逻**，因为传言有个臭名昭著的**海盗**藏在附近的**高原**上。一旦被抓住，这个罪犯宁愿**恳求**留他一命，也不愿**纵身跳入**那致命的峡谷中。当地的一位智者过去常常**说教**道：**大概**，贪婪的人很容易成为他们自身欲望的**猎物**。
+
+探险家用优美的**散文**记录下了这个哲理。作为一个极其**谨慎的**人，他继续朝着一座古老的**金字塔**进发。在这个未知的**王国（领域）**里，由于没有现代**雷达**来指引，他只能靠观察星空来**估计**正确的方向。
+
+在跋涉过程中，他不得不**克制**自己一次性喝光所有的水，以便稍后能**使自己恢复精力**。在熬过了一场险些**撕裂**他帐篷的**严酷**沙尘暴后，他突然遭遇了一头**凶猛的**野兽。他勇敢地搏斗，直到夹克只剩下一块**碎片**，但他最终还是活了下来。
