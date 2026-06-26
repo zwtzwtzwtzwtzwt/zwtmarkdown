@@ -66,10 +66,10 @@
 | 62. <font color="#ff0000">reckon</font>     |                 |
 | 63. <font color="#ff0000">refrain</font>    |                 |
 | 64. refresh                                 |                 |
-| 65. reign                                   |                 |
+| 65. reign                                   | 领域 区域           |
 | 66. remains                                 | 遗迹  0           |
-| 67. repeatedly                              |                 |
-| 68. republic                                |                 |
+| 67. repeatedly                              | 重复的             |
+| 68. republic                                | 共和 共和国          |
 | 69. residence                               |                 |
 | 70. revolutionary                           |                 |
 | 71. rid                                     | 消除  摆脱          |
