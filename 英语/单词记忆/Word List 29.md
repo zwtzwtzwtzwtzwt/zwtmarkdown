@@ -77,9 +77,9 @@
 | 73. <font color="#ff0000">rip</font>        |                 |
 | 74. roast                                   |                 |
 | 75. rob                                     | 抢劫  掠夺          |
-| 76. rumour                                  |                 |
-| 77. savage                                  |                 |
-| 78. scatter                                 |                 |
+| 76. rumour                                  | 谣言              |
+| 77. <font color="#ff0000">savage</font>     |                 |
+| 78. scatter                                 | 散 摊             |
 | 79. scholarship                             | 奖学金 学术研究        |
 | 80. scorn                                   | 蔑视 不屑于          |
 | 81. scrap                                   |                 |
