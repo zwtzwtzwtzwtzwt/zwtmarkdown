@@ -61,7 +61,7 @@
 | 57. queue                                   | 队列 排队           |
 | 58. <font color="#ff0000">radar</font>      |                 |
 | 59. radius                                  | 半径 范围           |
-| 60. rank                                    |                 |
+| 60. rank                                    | 排名   职位         |
 | 61. <font color="#ff0000">realm</font>      |                 |
 | 62. <font color="#ff0000">reckon</font>     |                 |
 | 63. <font color="#ff0000">refrain</font>    |                 |
@@ -70,7 +70,7 @@
 | 66. remains                                 | 遗迹  0           |
 | 67. repeatedly                              | 重复的             |
 | 68. republic                                | 共和 共和国          |
-| 69. residence                               |                 |
+| 69. residence                               | 居住地  社区         |
 | 70. revolutionary                           |                 |
 | 71. rid                                     | 消除  摆脱          |
 | 72. <font color="#ff0000">rigorous</font>   |                 |
