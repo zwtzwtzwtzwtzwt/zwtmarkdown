@@ -54,7 +54,7 @@
 | 50. <font color="#ff0000">preach</font>     |                 |
 | 51. <font color="#ff0000">presumably</font> |                 |
 | 52. <font color="#ff0000">prey</font>       |                 |
-| 53. prose                                   |                 |
+| 53. <font color="#ff0000">prose</font>      |                 |
 | 54. protein                                 | 蛋白质             |
 | 55. <font color="#ff0000">prudent</font>    |                 |
 | 56. <font color="#ff0000">pyramid</font>    |                 |
