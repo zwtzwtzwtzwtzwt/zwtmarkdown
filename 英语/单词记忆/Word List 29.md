@@ -55,12 +55,12 @@
 | 51. <font color="#ff0000">presumably</font> |                 |
 | 52. <font color="#ff0000">prey</font>       |                 |
 | 53. prose                                   |                 |
-| 54. protein                                 |                 |
+| 54. protein                                 | 蛋白质             |
 | 55. <font color="#ff0000">prudent</font>    |                 |
 | 56. <font color="#ff0000">pyramid</font>    |                 |
 | 57. queue                                   | 队列 排队           |
 | 58. <font color="#ff0000">radar</font>      |                 |
-| 59. radius                                  |                 |
+| 59. radius                                  | 半径 范围           |
 | 60. rank                                    |                 |
 | 61. <font color="#ff0000">realm</font>      |                 |
 | 62. <font color="#ff0000">reckon</font>     |                 |
