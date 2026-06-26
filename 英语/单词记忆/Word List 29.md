@@ -40,7 +40,7 @@
 | 36. <font color="#ff0000">parcel</font>     |                 |
 | 37. pastime                                 | 消遣  休闲活动        |
 | 38. <font color="#ff0000">patch</font>      |                 |
-| 39. patrol                                  |                 |
+| 39. patrol                                  | 打包 包裹           |
 | 40. petition                                |                 |
 | 41. <font color="#ff0000">pirate</font>     |                 |
 | 42. <font color="#ff0000">plateau</font>    |                 |
@@ -49,7 +49,7 @@
 | 45. plug                                    | 插头 插座 塞住        |
 | 46. plunge                                  |                 |
 | 47. poison                                  | 毒药 毒害           |
-| 48. portrait                                |                 |
+| 48. portrait                                | 肖像              |
 | 49. <font color="#ff0000">pottery</font>    |                 |
 | 50. <font color="#ff0000">preach</font>     |                 |
 | 51. <font color="#ff0000">presumably</font> |                 |
