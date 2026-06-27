@@ -67,7 +67,7 @@
 | 63. <font color="#ff0000">refrain</font>    |                 |     |
 | 64. refresh                                 |                 |     |
 | 65. reign                                   |                 |     |
-| 66. remains                                 | 遗迹  0           |     |
+| 66. remains                                 | 遗迹  0（）         |     |
 | 67. repeatedly                              | 重复的             |     |
 | 68. republic                                | 共和 共和国          |     |
 | 69. residence                               | 居住地  社区         |     |
