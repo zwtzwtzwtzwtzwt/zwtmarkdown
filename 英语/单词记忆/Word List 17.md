@@ -13,9 +13,9 @@
 | 8. <font color="#00b050">restraint</font>                              | 限制  抑制  约束      |     |
 | 9. <font color="#00b050">constrain</font>                              | 限制              |     |
 | 10. string                                                             | 一系列  线          |     |
-| 11. instrument                                                         |                 |     |
-| 12. construct                                                          |                 |     |
-| 13. instruct                                                           |                 |     |
+| 11. instrument                                                         | 一起 装置           |     |
+| 12. construct                                                          | 建造              |     |
+| 13. instruct                                                           | 指导              |     |
 | 14. instruction                                                        |                 |     |
 | 15. destructive                                                        | 破坏性的  毁灭性的      |     |
 | 16. resume                                                             | 重新开始            |     |
