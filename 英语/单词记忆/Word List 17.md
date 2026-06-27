@@ -71,8 +71,8 @@
 | 66. advertise                                                        | 打广告           |     |
 | 67. investigate                                                      | 调查            |     |
 | 68. evident                                                          | 证据            |     |
-| 69. violate                                                          | 违反            |     |
-| 70. violence                                                         |               |     |
+| 69. violate                                                          | 违反  侵犯        |     |
+| 70. violence                                                         | 暴力            |     |
 | 71. visa                                                             | 签证            |     |
 | 72. supervise                                                        | 监督            |     |
 | 73. revise                                                           | 修订            |     |
