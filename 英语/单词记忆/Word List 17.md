@@ -51,7 +51,7 @@
 | 46. <font color="#00b050">intuition</font>                             |               |     |
 | 47. <font color="#00b050">tuition</font>                               |               |     |
 | 48. disturb                                                            | 打扰            |     |
-| 49. ultimate                                                           | 最后的           |     |
+| 49. ultimate                                                           | 最后的  （最终的 ）   |     |
 | 50. abundant                                                           | 丰富的           |     |
 | 51. suburb                                                             | 郊区            |     |
 | 52. <font color="#00b050">utilize</font>                               |               |     |
