@@ -82,7 +82,7 @@
 | 78. scatter                                 | 散 摊 撒           |     |
 | 79. scholarship                             | 奖学金 学术研究        |     |
 | 80. scorn                                   | 蔑视 不屑于          |     |
-| 81. <font color="#ff0000">scrap</font>      | 取消  废弃          |     |
+| 81. <font color="#ff0000">scrap</font>      | 取消  废弃 打架 碎片    |     |
 | 82. scream                                  | 尖叫              |     |
 | 83. seemingly                               | 貌似 似乎           |     |
 | 84. semester                                | 学期              |     |
