@@ -63,7 +63,7 @@
 | 58. <font color="#00b050">evaluate</font>                            |               |     |
 | 59. vanish                                                           | 消失            |     |
 | 60. variable                                                         | 可变的           |     |
-| 61. variation                                                        | 变量            |     |
+| 61. <font color="#00b050">variation</font>                           | 变量            |     |
 | 62. convenience                                                      | 方便            |     |
 | 63. <font color="#00b050">venture</font>                             |               |     |
 | 64. <font color="#00b050">verify</font>                              |               |     |
