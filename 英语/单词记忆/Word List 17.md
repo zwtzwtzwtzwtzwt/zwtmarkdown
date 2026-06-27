@@ -49,18 +49,18 @@
 | 44. tragedy                                  |     |
 | 45. distribute                               |     |
 | 46. <font color="#00b050">intuition</font>   |     |
-| 47. tuition                                  |     |
+| 47. <font color="#00b050">tuition</font>     |     |
 | 48. disturb                                  |     |
 | 49. ultimate                                 |     |
 | 50. abundant                                 |     |
 | 51. suburb                                   |     |
 | 52. <font color="#00b050">utilize</font>     |     |
 | 53. vaccine                                  |     |
-| 54. evade                                    |     |
+| 54. <font color="#00b050">evade</font>       |     |
 | 55. vague                                    |     |
 | 56. vain                                     |     |
-| 57. equivalent                               |     |
-| 58. evaluate                                 |     |
+| 57. <font color="#00b050">equivalent</font>  |     |
+| 58. <font color="#00b050">evaluate</font>    |     |
 | 59. vanish                                   |     |
 | 60. variable                                 |     |
 | 61. variation                                |     |
