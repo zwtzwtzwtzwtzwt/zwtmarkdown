@@ -44,10 +44,10 @@
 | 39. portray                                                          |               |     |
 | 40. retreat                                                          |               |     |
 | 41. extract                                                          | 提取            |     |
-| 42. distract                                                         |               |     |
-| 43. abstract                                                         |               |     |
-| 44. tragedy                                                          |               |     |
-| 45. distribute                                                       |               |     |
+| 42. distract                                                         | 分心            |     |
+| 43. abstract                                                         | 抽象的           |     |
+| 44. tragedy                                                          | 悲剧            |     |
+| 45. distribute                                                       | 造成            |     |
 | 46. <font color="#00b050">intuition</font>                           |               |     |
 | 47. <font color="#00b050">tuition</font>                             |               |     |
 | 48. disturb                                                          |               |     |
