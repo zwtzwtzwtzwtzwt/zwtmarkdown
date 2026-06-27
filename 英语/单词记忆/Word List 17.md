@@ -83,5 +83,5 @@
 | 78. vivid                                    |     |
 | 79. <font color="#00b050">provoke</font>     |     |
 | 80. volunteer                                |     |
-| 81. revolve                                  |     |
+| 81. <font color="#00b050">revolve</font>     |     |
 | 82. devote                                   |     |
