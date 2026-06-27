@@ -7,7 +7,7 @@
 | 2. suspicion                                 | 怀疑            |     |
 | 3. suspicious                                | 怀疑的  （可疑的）    |     |
 | 4. <font color="#ff0000">speculate</font>    |               |     |
-| 5. inspect                                   | 检查            |     |
+| 5. inspect                                   | 检查 （视察）       |     |
 | 6. specify                                   | 明确            |     |
 | 7. statute                                   | 地位            |     |
 | 8. <font color="#00b050">restraint</font>    | 限制  抑制  约束    |     |
