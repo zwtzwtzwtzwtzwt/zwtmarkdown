@@ -31,16 +31,16 @@
 | 26. contemporary                             |     |
 | 27. <font color="#00b050">tempt</font>       |     |
 | 28. <font color="#00b050">contempt</font>    |     |
-| 29. contend                                  |     |
+| 29. <font color="#00b050">contend</font>     |     |
 | 30. extensive                                |     |
 | 31. tension                                  |     |
 | 32. intensity                                |     |
 | 33. territory                                |     |
-| 34. protest                                  |     |
+| 34. <font color="#00b050">protest</font>     |     |
 | 35. textile                                  |     |
 | 36. thesis                                   |     |
 | 37. tone                                     |     |
-| 38. distort                                  |     |
+| 38. <font color="#00b050">distort</font>     |     |
 | 39. portray                                  |     |
 | 40. retreat                                  |     |
 | 41. extract                                  |     |
