@@ -66,8 +66,8 @@
 | 61. <font color="#00b050">variation</font>                             | （差异  变化）        |     |
 | 62. convenience                                                        | 方便   便利         |     |
 | 63. <font color="#00b050">venture</font>                               | （冒风险  风险投资）     |     |
-| 64. <font color="#00b050">verify</font>                                |                 |     |
-| 65. <font color="#00b050">convert</font>                               |                 |     |
+| 64. <font color="#00b050">verify</font>                                | （证实）            |     |
+| 65. <font color="#00b050">convert</font>                               | （转变  转化）        |     |
 | 66. advertise                                                          | 打广告             |     |
 | 67. investigate                                                        | 调查              |     |
 | 68. evident                                                            | 证据              |     |
