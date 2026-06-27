@@ -32,4 +32,4 @@
 | 28. undertake                                    | 承担（从事 负责）           |
 | 29. update                                       | 更新 （最新消息）           |
 | 30. <font color="#ff0000">upset</font>           | （打乱 使生气   失望的  肠胃病） |
-| 31. <font color="#ff0000">withdraw</font>        | 撤回                  |
+| 31. <font color="#ff0000">withdraw</font>        | （提取款    ）           |
