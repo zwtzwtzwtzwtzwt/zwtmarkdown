@@ -28,7 +28,7 @@
 | 24. <font color="#ff0000">straightforward</font> | （简单的  坦率的）         |
 | 25. undergo                                      | 经历 （经受）            |
 | 26. underground                                  | 地下的                |
-| 27. underlie                                     |                    |
+| 27. <font color="#ff0000">underlie</font>        | （构成  作为）           |
 | 28. undertake                                    | 承担                 |
 | 29. update                                       | 更新                 |
 | 30. upset                                        | 不好的                |
