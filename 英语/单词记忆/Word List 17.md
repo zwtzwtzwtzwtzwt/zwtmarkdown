@@ -55,7 +55,7 @@
 | 50. abundant                                                           | 丰富的           |     |
 | 51. suburb                                                             | 郊外的           |     |
 | 52. <font color="#00b050">utilize</font>                               |               |     |
-| 53. vaccine                                                            |               |     |
+| 53. <font color="#00b050">vaccine</font>                               |               |     |
 | 54. <font color="#00b050">evade</font>                                 |               |     |
 | 55. vague                                                              | 模糊的 含糊的       |     |
 | 56. vain                                                               | 徒劳的（虚荣的）      |     |
