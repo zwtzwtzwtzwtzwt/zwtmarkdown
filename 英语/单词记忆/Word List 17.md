@@ -10,8 +10,8 @@
 | 5. inspect                                   | 检查  |     |
 | 6. specify                                   | 明确  |     |
 | 7. statute                                   | 地位  |     |
-| 8. <font color="#00b050">restraint</font>    |     |     |
-| 9. <font color="#00b050">constrain</font>    |     |     |
+| 8. <font color="#00b050">restraint</font>    | 限制  |     |
+| 9. <font color="#00b050">constrain</font>    | 限制  |     |
 | 10. string                                   |     |     |
 | 11. instrument                               |     |     |
 | 12. construct                                |     |     |
