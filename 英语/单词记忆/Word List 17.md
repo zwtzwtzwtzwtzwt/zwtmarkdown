@@ -43,7 +43,7 @@
 | 38. <font color="#00b050">distort</font>                             |               |     |
 | 39. portray                                                          |               |     |
 | 40. retreat                                                          |               |     |
-| 41. extract                                                          |               |     |
+| 41. extract                                                          | 提取            |     |
 | 42. distract                                                         |               |     |
 | 43. abstract                                                         |               |     |
 | 44. tragedy                                                          |               |     |
