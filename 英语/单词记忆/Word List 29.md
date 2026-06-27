@@ -51,9 +51,9 @@
 | 47. poison                                  | 毒药 毒害           |     |
 | 48. portrait                                | 肖像              |     |
 | 49. <font color="#ff0000">pottery</font>    | 陶瓷              |     |
-| 50. <font color="#ff0000">preach</font>     |                 |     |
+| 50. <font color="#ff0000">preach</font>     | 讲道   宣传  说教     |     |
 | 51. <font color="#ff0000">presumably</font> | 大概率 可能          |     |
-| 52. <font color="#ff0000">prey</font>       |                 |     |
+| 52. <font color="#ff0000">prey</font>       | 猎物  受骗者         |     |
 | 53. <font color="#ff0000">prose</font>      | 散文              |     |
 | 54. protein                                 | 蛋白质             |     |
 | 55. <font color="#ff0000">prudent</font>    |                 |     |
