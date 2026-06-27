@@ -37,7 +37,7 @@
 | 32. <font color="#00b050">intensity</font>                             | 剧烈 强度           |     |
 | 33. territory                                                          | 领域              |     |
 | 34. <font color="#00b050">protest</font>                               | 反抗 抗议           |     |
-| 35. textile                                                            |                 |     |
+| 35. <font color="#00b050">textile</font>                               |                 |     |
 | 36. thesis                                                             | 论题 论文           |     |
 | 37. tone                                                               | 强调（语气）          |     |
 | 38. <font color="#00b050">distort</font>                               |                 |     |
