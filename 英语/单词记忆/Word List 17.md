@@ -61,7 +61,7 @@
 | 56. vain                                                             | 徒劳的           |     |
 | 57. <font color="#00b050">equivalent</font>                          |               |     |
 | 58. <font color="#00b050">evaluate</font>                            |               |     |
-| 59. vanish                                                           | 快速消失          |     |
+| 59. vanish                                                           | 消失            |     |
 | 60. variable                                                         | 可变的           |     |
 | 61. variation                                                        | 变量            |     |
 | 62. convenience                                                      | 方便            |     |
