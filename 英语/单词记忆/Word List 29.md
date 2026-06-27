@@ -47,19 +47,19 @@
 | 43. <font color="#ff0000">plead</font>      |                 |     |
 | 44. plot                                    | 故事情节  阴谋 密谋     |     |
 | 45. plug                                    | 插头 插座 塞住        |     |
-| 46. <font color="#ff0000">plunge</font>     |                 |     |
+| 46. <font color="#ff0000">plunge</font>     | 下坠              |     |
 | 47. poison                                  | 毒药 毒害           |     |
 | 48. portrait                                | 肖像              |     |
 | 49. <font color="#ff0000">pottery</font>    | 陶瓷              |     |
 | 50. <font color="#ff0000">preach</font>     |                 |     |
-| 51. <font color="#ff0000">presumably</font> |                 |     |
+| 51. <font color="#ff0000">presumably</font> | 大概率 可能          |     |
 | 52. <font color="#ff0000">prey</font>       |                 |     |
-| 53. <font color="#ff0000">prose</font>      |                 |     |
+| 53. <font color="#ff0000">prose</font>      | 散文              |     |
 | 54. protein                                 | 蛋白质             |     |
 | 55. <font color="#ff0000">prudent</font>    |                 |     |
 | 56. <font color="#ff0000">pyramid</font>    |                 |     |
 | 57. queue                                   | 队列 排队           |     |
-| 58. <font color="#ff0000">radar</font>      |                 |     |
+| 58. <font color="#ff0000">radar</font>      | 雷达              |     |
 | 59. radius                                  | 半径 范围           |     |
 | 60. rank                                    | 排名   职位         |     |
 | 61. <font color="#ff0000">realm</font>      |                 |     |
