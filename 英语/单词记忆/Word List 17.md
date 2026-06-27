@@ -26,7 +26,7 @@
 | 21. continuous                               | 持续性的  （连续的） |     |
 | 22. attain                                   | 获得 （达到）     |     |
 | 23. architect                                | 建筑师 （发起者）   |     |
-| 24. architecture                             |             |     |
+| 24. architecture                             | 建筑学 （建筑风格 ） |     |
 | 25. temper                                   |             |     |
 | 26. contemporary                             |             |     |
 | 27. <font color="#00b050">tempt</font>       |             |     |
