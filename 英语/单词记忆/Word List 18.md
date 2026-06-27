@@ -22,11 +22,11 @@
 | 18. overseas        |         |
 | 19. overturn        |         |
 | 20. safeguard       |         |
-| 21. setback         |         |
+| 21. setback         | 回馈      |
 | 22. somehow         |         |
 | 23. somewhere       |         |
 | 24. straightforward |         |
-| 25. undergo         |         |
+| 25. undergo         | 经历      |
 | 26. underground     |         |
 | 27. underlie        |         |
 | 28. undertake       |         |
