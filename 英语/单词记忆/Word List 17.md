@@ -34,7 +34,7 @@
 | 29. <font color="#00b050">contend</font>                               | （声称 主张  争夺）     |     |
 | 30. extensive                                                          | 广泛的 大量的 广阔的     |     |
 | 31. tension                                                            | 紧张              |     |
-| 32. <font color="#00b050">intensity</font>                             |                 |     |
+| 32. <font color="#00b050">intensity</font>                             | 剧烈 强度           |     |
 | 33. territory                                                          | 领域              |     |
 | 34. <font color="#00b050">protest</font>                               | 反抗 抗议           |     |
 | 35. textile                                                            |                 |     |
