@@ -42,7 +42,7 @@
 | 37. tone                                                               |                 |     |
 | 38. <font color="#00b050">distort</font>                               |                 |     |
 | 39. portray                                                            |                 |     |
-| 40. retreat                                                            |                 |     |
+| 40. <font color="#00b050">retreat</font>                               |                 |     |
 | 41. extract                                                            | 提取  提取物         |     |
 | 42. distract                                                           | 分心              |     |
 | 43. abstract                                                           | 抽象的             |     |
