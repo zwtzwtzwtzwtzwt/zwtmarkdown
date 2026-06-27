@@ -27,9 +27,9 @@
 | 23. somewhere       |         |
 | 24. straightforward | 正直的     |
 | 25. undergo         | 经历      |
-| 26. underground     |         |
+| 26. underground     | 地下的     |
 | 27. underlie        |         |
 | 28. undertake       | 承担      |
-| 29. update          |         |
+| 29. update          | 更新      |
 | 30. upset           |         |
 | 31. withdraw        |         |
