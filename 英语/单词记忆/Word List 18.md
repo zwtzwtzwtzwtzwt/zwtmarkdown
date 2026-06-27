@@ -16,7 +16,7 @@
 | 12. membership                             | 会员            |
 | 13. <font color="#ff0000">nowhere</font>   | 无处            |
 | 14. outdoor                                | 户外的           |
-| 15. <font color="#ff0000">outlet</font>    | 店             |
+| 15. <font color="#ff0000">outlet</font>    | 店  发泄途径       |
 | 16. outlook                                |               |
 | 17. overcome                               | 战胜 克服         |
 | 18. overseas                               |               |
