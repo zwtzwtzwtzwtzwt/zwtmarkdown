@@ -30,6 +30,6 @@
 | 26. underground                                  | 地下的                |
 | 27. <font color="#ff0000">underlie</font>        | （构成  作为）           |
 | 28. undertake                                    | 承担（从事 负责）          |
-| 29. update                                       | 更新 （）              |
-| 30. upset                                        | 不好的                |
-| 31. withdraw                                     | 撤回                 |
+| 29. update                                       | 更新 （最新消息）          |
+| 30. upset                                        |                    |
+| 31. <font color="#ff0000">withdraw</font>        | 撤回                 |
