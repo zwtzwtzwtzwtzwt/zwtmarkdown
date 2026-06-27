@@ -58,7 +58,7 @@
 | 53. vaccine                                                            |               |     |
 | 54. <font color="#00b050">evade</font>                                 |               |     |
 | 55. vague                                                              | 模糊的 含糊的       |     |
-| 56. vain                                                               | 徒劳的           |     |
+| 56. vain                                                               | 徒劳的（虚荣的）      |     |
 | 57. <font color="#00b050">equivalent</font>                            |               |     |
 | 58. <font color="#00b050">evaluate</font>                              |               |     |
 | 59. vanish                                                             | 消失            |     |
