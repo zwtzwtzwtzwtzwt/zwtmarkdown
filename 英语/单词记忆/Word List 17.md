@@ -50,9 +50,9 @@
 | 45. distribute                                                       | 造成            |     |
 | 46. <font color="#00b050">intuition</font>                           |               |     |
 | 47. <font color="#00b050">tuition</font>                             |               |     |
-| 48. disturb                                                          |               |     |
-| 49. ultimate                                                         |               |     |
-| 50. abundant                                                         |               |     |
+| 48. disturb                                                          | 打扰            |     |
+| 49. ultimate                                                         | 最后的           |     |
+| 50. abundant                                                         | 丰富的           |     |
 | 51. suburb                                                           |               |     |
 | 52. <font color="#00b050">utilize</font>                             |               |     |
 | 53. vaccine                                                          |               |     |
