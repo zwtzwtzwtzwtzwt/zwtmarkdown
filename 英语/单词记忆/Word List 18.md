@@ -11,12 +11,12 @@
 | 7. guideline                               | 指导      |
 | 8. hardship                                |         |
 | 9. headline                                | 大字      |
-| 10. lawsuit                                |         |
+| 10. <font color="#ff0000">lawsuit</font>   |         |
 | 11. mankind                                | 和蔼的 和善的 |
 | 12. membership                             | 会员      |
 | 13. nowhere                                |         |
 | 14. outdoor                                | 户外的     |
-| 15. outlet                                 |         |
+| 15. <font color="#ff0000">outlet</font>    |         |
 | 16. outlook                                |         |
 | 17. overcome                               | 战胜 克服   |
 | 18. overseas                               |         |
