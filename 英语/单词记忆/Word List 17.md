@@ -17,10 +17,10 @@
 | 12. construct                                |            |     |
 | 13. instruct                                 |            |     |
 | 14. instruction                              |            |     |
-| 15. destructive                              | 破坏性的       |     |
+| 15. destructive                              | 破坏性的  毁灭性的 |     |
 | 16. resume                                   |            |     |
 | 17. superior                                 |            |     |
-| 18. absurd                                   |            |     |
+| 18. absurd                                   | 荒唐的        |     |
 | 19. tangible                                 |            |     |
 | 20. <font color="#00b050">maintenance</font> |            |     |
 | 21. continuous                               |            |     |
