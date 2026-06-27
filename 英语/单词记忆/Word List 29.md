@@ -36,14 +36,14 @@
 | 32. overwhelm                               | 压垮  击败 征服       |     |
 | 33. palace                                  | 王宫  王室          |     |
 | 34. parachute                               | 跳伞              |     |
-| 35. <font color="#ff0000">paradise</font>   |                 |     |
+| 35. <font color="#ff0000">paradise</font>   | 天堂              |     |
 | 36. <font color="#ff0000">parcel</font>     | 打包 包裹           |     |
 | 37. pastime                                 | 消遣  休闲活动        |     |
-| 38. <font color="#ff0000">patch</font>      |                 |     |
-| 39. <font color="#ff0000">patrol</font>     |                 |     |
+| 38. <font color="#ff0000">patch</font>      | 小块              |     |
+| 39. <font color="#ff0000">patrol</font>     | 巡逻              |     |
 | 40. petition                                | 请愿书 请愿          |     |
 | 41. <font color="#ff0000">pirate</font>     |                 |     |
-| 42. <font color="#ff0000">plateau</font>    |                 |     |
+| 42. <font color="#ff0000">plateau</font>    | 高原   稳定         |     |
 | 43. <font color="#ff0000">plead</font>      |                 |     |
 | 44. plot                                    | 故事情节  阴谋 密谋     |     |
 | 45. plug                                    | 插头 插座 塞住        |     |
