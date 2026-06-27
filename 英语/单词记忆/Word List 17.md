@@ -35,7 +35,7 @@
 | 30. extensive                                                        |               |     |
 | 31. tension                                                          |               |     |
 | 32. intensity                                                        |               |     |
-| 33. territory                                                        |               |     |
+| 33. territory                                                        | 领域            |     |
 | 34. <font color="#00b050">protest</font>                             |               |     |
 | 35. textile                                                          |               |     |
 | 36. thesis                                                           |               |     |
