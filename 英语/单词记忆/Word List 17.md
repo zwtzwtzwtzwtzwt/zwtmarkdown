@@ -16,7 +16,7 @@
 | 11. instrument                                                         | 一起 装置           |     |
 | 12. construct                                                          | 建造              |     |
 | 13. instruct                                                           | 指导              |     |
-| 14. instruction                                                        |                 |     |
+| 14. instruction                                                        | 指导 说明           |     |
 | 15. destructive                                                        | 破坏性的  毁灭性的      |     |
 | 16. resume                                                             | 重新开始            |     |
 | 17. <font color="#00b050">superior</font>                              |                 |     |
