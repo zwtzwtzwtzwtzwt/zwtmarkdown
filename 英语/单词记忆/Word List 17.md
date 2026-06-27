@@ -16,7 +16,7 @@
 | 11. instrument                                                         | （仪器  乐器）        |     |
 | 12. construct                                                          | 建造  观念          |     |
 | 13. instruct                                                           | 指导              |     |
-| 14. instruction                                                        | 指导 说明           |     |
+| 14. instruction                                                        | 指导 说明  教学       |     |
 | 15. destructive                                                        | 破坏性的  毁灭性的      |     |
 | 16. resume                                                             | 重新开始            |     |
 | 17. <font color="#00b050">superior</font>                              | （更好的 更高级别的）     |     |
