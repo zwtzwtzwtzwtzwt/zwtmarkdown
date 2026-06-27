@@ -67,7 +67,7 @@
 | 62. convenience                                                      | 方便            |     |
 | 63. <font color="#00b050">venture</font>                             |               |     |
 | 64. verify                                                           |               |     |
-| 65. convert                                                          |               |     |
+| 65. <font color="#00b050">convert</font>                             |               |     |
 | 66. advertise                                                        | 打广告           |     |
 | 67. investigate                                                      | 调查            |     |
 | 68. evident                                                          | 证据            |     |
