@@ -40,7 +40,7 @@
 | 35. <font color="#00b050">textile</font>                               | 纺织品             |     |
 | 36. thesis                                                             | 论题 论文           |     |
 | 37. tone                                                               | 强调（语气）          |     |
-| 38. <font color="#00b050">distort</font>                               |                 |     |
+| 38. <font color="#00b050">distort</font>                               | 歪曲   曲解         |     |
 | 39. portray                                                            |                 |     |
 | 40. <font color="#00b050">retreat</font>                               |                 |     |
 | 41. extract                                                            | 提取  提取物         |     |
