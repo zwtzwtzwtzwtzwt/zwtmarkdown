@@ -31,7 +31,7 @@
 | 26. contemporary                                                       | 当代的  同时代的       |     |
 | 27. <font color="#00b050">tempt</font>                                 | 诱惑 引诱           |     |
 | 28. <font color="#00b050">contempt</font>                              | 蔑视  不屑于         |     |
-| 29. <font color="#00b050">contend</font>                               |                 |     |
+| 29. <font color="#00b050">contend</font>                               | （声称 主张  争夺）     |     |
 | 30. extensive                                                          |                 |     |
 | 31. tension                                                            |                 |     |
 | 32. <font color="#00b050">intensity</font>                             |                 |     |
