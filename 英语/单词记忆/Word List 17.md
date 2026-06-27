@@ -36,7 +36,7 @@
 | 31. tension                                                          |               |     |
 | 32. intensity                                                        |               |     |
 | 33. territory                                                        | 领域            |     |
-| 34. <font color="#00b050">protest</font>                             |               |     |
+| 34. <font color="#00b050">protest</font>                             | 反抗 抗议         |     |
 | 35. textile                                                          |               |     |
 | 36. thesis                                                           |               |     |
 | 37. tone                                                             |               |     |
