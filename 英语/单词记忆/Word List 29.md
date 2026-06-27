@@ -74,11 +74,11 @@
 | 70. revolutionary                           | 革命性的  突破性的      |     |
 | 71. rid                                     | 消除  摆脱          |     |
 | 72. <font color="#ff0000">rigorous</font>   |                 |     |
-| 73. <font color="#ff0000">rip</font>        |                 |     |
+| 73. <font color="#ff0000">rip</font>        | 撕裂              |     |
 | 74. roast                                   | 烘烤              |     |
 | 75. rob                                     | 抢劫  掠夺          |     |
 | 76. rumour                                  | 谣言              |     |
-| 77. <font color="#ff0000">savage</font>     |                 |     |
+| 77. <font color="#ff0000">savage</font>     | 野蛮的 野蛮人         |     |
 | 78. scatter                                 | 散 摊 撒           |     |
 | 79. scholarship                             | 奖学金 学术研究        |     |
 | 80. scorn                                   | 蔑视 不屑于          |     |
