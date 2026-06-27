@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "六级作文模版",
+      "path": "英语/六级作文模版.md"
+    },
+    {
       "basename": "英语",
       "path": "英语/英语.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Word List 12",
       "path": "英语/单词记忆/Word List 12.md"
-    },
-    {
-      "basename": "记忆",
-      "path": "英语/记忆.md"
     },
     {
       "basename": "Word List 20",
@@ -275,10 +275,6 @@
     {
       "basename": "矩阵",
       "path": "线性代数/矩阵/矩阵.md"
-    },
-    {
-      "basename": "六级作文模版",
-      "path": "英语/六级作文模版.md"
     },
     {
       "basename": "极限 连续 可导 的关系",
