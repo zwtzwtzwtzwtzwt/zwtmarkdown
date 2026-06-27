@@ -28,7 +28,7 @@
 | 24. straightforward | 正直的     |
 | 25. undergo         | 经历      |
 | 26. underground     | 地下的     |
-| 27. underlie        |         |
+| 27. underlie        | 划线      |
 | 28. undertake       | 承担      |
 | 29. update          | 更新      |
 | 30. upset           |         |
