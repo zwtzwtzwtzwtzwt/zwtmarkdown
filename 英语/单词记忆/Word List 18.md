@@ -9,7 +9,7 @@
 | 5. framework                               | 体制 框架（准则 机制）  |
 | 6. greenhouse                              | 温室（温室的）       |
 | 7. guideline                               | 指导            |
-| 8. hardship                                |               |
+| 8. hardship                                | （艰难 困苦 ）      |
 | 9. headline                                | 大字            |
 | 10. <font color="#ff0000">lawsuit</font>   |               |
 | 11. mankind                                | 和蔼的 和善的       |
