@@ -12,7 +12,7 @@
 | <font color="#00b050">7</font>. <font color="#00b050">statute</font> | (法令 法规)       |     |
 | 8. <font color="#00b050">restraint</font>                            | 限制  抑制  约束    |     |
 | 9. <font color="#00b050">constrain</font>                            | 限制            |     |
-| 10. string                                                           |               |     |
+| 10. string                                                           | 一系列           |     |
 | 11. instrument                                                       |               |     |
 | 12. construct                                                        |               |     |
 | 13. instruct                                                         |               |     |
