@@ -64,7 +64,7 @@
 | 59. vanish                                                             | 消失            |     |
 | 60. <font color="#00b050">variable                             </font> |               |     |
 | 61. <font color="#00b050">variation</font>                             |               |     |
-| 62. convenience                                                        | 方便            |     |
+| 62. convenience                                                        | 方便   便利       |     |
 | 63. <font color="#00b050">venture</font>                               |               |     |
 | 64. <font color="#00b050">verify</font>                                |               |     |
 | 65. <font color="#00b050">convert</font>                               |               |     |
