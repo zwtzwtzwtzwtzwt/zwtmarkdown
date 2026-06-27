@@ -68,7 +68,7 @@
 | 64. refresh                                 |                 |     |
 | 65. reign                                   |                 |     |
 | 66. remains                                 | 遗迹  0（遗址 遗体）    |     |
-| 67. repeatedly                              | 重复的             |     |
+| 67. repeatedly                              | 多次              |     |
 | 68. republic                                | 共和 共和国          |     |
 | 69. residence                               | 居住地  社区         |     |
 | 70. revolutionary                           | 革命性的  突破性的      |     |
