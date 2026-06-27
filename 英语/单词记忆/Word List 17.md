@@ -19,7 +19,7 @@
 | 14. instruction                                                        | 指导 说明           |     |
 | 15. destructive                                                        | 破坏性的  毁灭性的      |     |
 | 16. resume                                                             | 重新开始            |     |
-| 17. <font color="#00b050">superior</font>                              |                 |     |
+| 17. <font color="#00b050">superior</font>                              | （更好的 更高级别的）     |     |
 | 18. absurd                                                             | 荒唐的             |     |
 | 19. tangible                                                           | 有形的             |     |
 | 20. <font color="#00b050">maintenance</font>                           | 维持 保养           |     |
