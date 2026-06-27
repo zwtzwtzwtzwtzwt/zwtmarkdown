@@ -60,7 +60,7 @@
 | 55. vague                                                              | 模糊的 含糊的         |     |
 | 56. vain                                                               | 徒劳的（虚荣的）        |     |
 | 57. <font color="#00b050">equivalent</font>                            | 等价物             |     |
-| 58. <font color="#00b050">evaluate</font>                              |                 |     |
+| 58. <font color="#00b050">evaluate</font>                              | 评估              |     |
 | 59. vanish                                                             | 消失              |     |
 | 60. <font color="#00b050">variable                             </font> | （变量 多变的）        |     |
 | 61. <font color="#00b050">variation</font>                             | （差异  变化）        |     |
