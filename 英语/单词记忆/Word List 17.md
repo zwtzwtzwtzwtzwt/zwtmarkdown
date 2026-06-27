@@ -27,7 +27,7 @@
 | 22. attain                                                             | 获得 （达到）         |     |
 | 23. architect                                                          | 建筑师 （发起者）       |     |
 | 24. architecture                                                       | 建筑学 （建筑风格 结构）   |     |
-| 25. temper                                                             |                 |     |
+| 25. <font color="#00b050">temper</font>                                | 脾气  缓和          |     |
 | 26. contemporary                                                       | 当代的  同时代的       |     |
 | 27. <font color="#00b050">tempt</font>                                 | 诱惑 引诱           |     |
 | 28. <font color="#00b050">contempt</font>                              | 蔑视  不屑于         |     |
