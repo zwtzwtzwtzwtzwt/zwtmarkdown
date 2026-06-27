@@ -18,7 +18,7 @@
 | 14. outdoor         |         |
 | 15. outlet          |         |
 | 16. outlook         |         |
-| 17. overcome        |         |
+| 17. overcome        | 战胜 克服   |
 | 18. overseas        |         |
 | 19. overturn        |         |
 | 20. safeguard       |         |
