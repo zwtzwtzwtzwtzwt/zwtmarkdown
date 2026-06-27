@@ -38,7 +38,7 @@
 | 33. territory                                                          | 领域              |     |
 | 34. <font color="#00b050">protest</font>                               | 反抗 抗议           |     |
 | 35. textile                                                            |                 |     |
-| 36. thesis                                                             |                 |     |
+| 36. thesis                                                             | 论题 论文           |     |
 | 37. tone                                                               | 强调（语气）          |     |
 | 38. <font color="#00b050">distort</font>                               |                 |     |
 | 39. portray                                                            |                 |     |
