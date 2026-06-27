@@ -73,7 +73,7 @@
 | 68. evident                                                          | 证据            |     |
 | 69. violate                                                          | 违反            |     |
 | 70. violence                                                         |               |     |
-| 71. visa                                                             |               |     |
+| 71. visa                                                             | 签证            |     |
 | 72. supervise                                                        |               |     |
 | 73. revise                                                           |               |     |
 | 74. visible                                                          |               |     |
