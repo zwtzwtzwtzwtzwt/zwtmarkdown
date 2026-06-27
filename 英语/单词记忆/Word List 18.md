@@ -24,12 +24,12 @@
 | 20. safeguard       |         |
 | 21. setback         | 回馈      |
 | 22. somehow         |         |
-| 23. somewhere       |         |
+| 23. somewhere       | 某地      |
 | 24. straightforward | 正直的     |
 | 25. undergo         | 经历      |
 | 26. underground     | 地下的     |
 | 27. underlie        | 划线      |
 | 28. undertake       | 承担      |
 | 29. update          | 更新      |
-| 30. upset           |         |
-| 31. withdraw        |         |
+| 30. upset           | 不好的     |
+| 31. withdraw        | 撤回      |
