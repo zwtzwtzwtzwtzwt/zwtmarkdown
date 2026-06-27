@@ -5,7 +5,7 @@
 | -------------------------------------------- | ------------- | --- |
 | 1. spy                                       |               |     |
 | 2. suspicion                                 | 怀疑            |     |
-| 3. suspicious                                | 怀疑的           |     |
+| 3. suspicious                                | 怀疑的  （可疑的）    |     |
 | 4. <font color="#ff0000">speculate</font>    |               |     |
 | 5. inspect                                   | 检查            |     |
 | 6. specify                                   | 明确            |     |
