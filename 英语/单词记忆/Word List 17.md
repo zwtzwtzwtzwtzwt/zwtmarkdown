@@ -84,4 +84,4 @@
 | 79. <font color="#00b050">provoke</font>                             |               |     |
 | 80. volunteer                                                        | 志愿者           |     |
 | 81. <font color="#00b050">revolve</font>                             |               |     |
-| 82. devote                                                           |               |     |
+| 82. devote                                                           | 贡献            |     |
