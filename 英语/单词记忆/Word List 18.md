@@ -29,7 +29,7 @@
 | 25. undergo         | 经历      |
 | 26. underground     |         |
 | 27. underlie        |         |
-| 28. undertake       |         |
+| 28. undertake       | 承担      |
 | 29. update          |         |
 | 30. upset           |         |
 | 31. withdraw        |         |
