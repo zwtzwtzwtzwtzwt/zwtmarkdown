@@ -48,7 +48,7 @@
 | 43. abstract                                 |     |
 | 44. tragedy                                  |     |
 | 45. distribute                               |     |
-| 46. intuition                                |     |
+| 46. <font color="#00b050">intuition</font>   |     |
 | 47. tuition                                  |     |
 | 48. disturb                                  |     |
 | 49. ultimate                                 |     |
