@@ -81,7 +81,7 @@
 | 76. advisable                                                        |               |     |
 | 77. revive                                                           | 恢复            |     |
 | 78. vivid                                                            | 生动的           |     |
-| 79. <font color="#00b050">provoke</font>                             | 引起 激发         |     |
+| 79. <font color="#00b050">provoke</font>                             | （引起  激发 ）     |     |
 | 80. volunteer                                                        | 志愿者  （自愿）     |     |
 | 81. <font color="#00b050">revolve</font>                             | （旋转）          |     |
 | 82. devote                                                           | 致力于           |     |
