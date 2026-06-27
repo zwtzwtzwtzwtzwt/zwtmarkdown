@@ -56,7 +56,7 @@
 | 51. suburb                                                             | 郊区              |     |
 | 52. <font color="#00b050">utilize</font>                               | 使用 运用           |     |
 | 53. <font color="#00b050">vaccine</font>                               | 疫苗              |     |
-| 54. <font color="#00b050">evade</font>                                 | 逃避              |     |
+| 54. <font color="#00b050">evade</font>                                 | 逃避  （难倒）        |     |
 | 55. vague                                                              | 模糊的 含糊的         |     |
 | 56. vain                                                               | 徒劳的（虚荣的）        |     |
 | 57. <font color="#00b050">equivalent</font>                            | 等价物             |     |
