@@ -23,7 +23,7 @@
 | 19. overturn        |         |
 | 20. safeguard       |         |
 | 21. setback         | 回馈      |
-| 22. somehow         |         |
+| 22. somehow         | 某种方式    |
 | 23. somewhere       | 某地      |
 | 24. straightforward | 正直的     |
 | 25. undergo         | 经历      |
