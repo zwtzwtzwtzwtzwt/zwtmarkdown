@@ -42,9 +42,9 @@
 | 38. <font color="#ff0000">patch</font>      | 小块              |     |
 | 39. <font color="#ff0000">patrol</font>     | 巡逻              |     |
 | 40. petition                                | 请愿书 请愿          |     |
-| 41. <font color="#ff0000">pirate</font>     |                 |     |
+| 41. <font color="#ff0000">pirate</font>     | （盗版者 盗用窃用）      |     |
 | 42. <font color="#ff0000">plateau</font>    | 高原   稳定         |     |
-| 43. <font color="#ff0000">plead</font>      |                 |     |
+| 43. <font color="#ff0000">plead</font>      | （恳求 祈求 央求）      |     |
 | 44. plot                                    | 故事情节  阴谋 密谋     |     |
 | 45. plug                                    | 插头 插座 塞住        |     |
 | 46. <font color="#ff0000">plunge</font>     | 下坠              |     |
