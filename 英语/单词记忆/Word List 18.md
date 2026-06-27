@@ -12,7 +12,7 @@
 | 8. hardship                                | （艰难 困苦 ）      |
 | 9. headline                                | 大字标题  （头条新闻）  |
 | 10. <font color="#ff0000">lawsuit</font>   | （诉讼 官司）       |
-| 11. mankind                                | 和蔼的 和善的       |
+| 11. <font color="#ff0000">mankind</font>   | 人类            |
 | 12. membership                             | 会员            |
 | 13. nowhere                                |               |
 | 14. outdoor                                | 户外的           |
