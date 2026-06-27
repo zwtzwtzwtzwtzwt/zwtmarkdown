@@ -74,8 +74,8 @@
 | 69. violate                                                          | 违反            |     |
 | 70. violence                                                         |               |     |
 | 71. visa                                                             | 签证            |     |
-| 72. supervise                                                        |               |     |
-| 73. revise                                                           |               |     |
+| 72. supervise                                                        | 监督            |     |
+| 73. revise                                                           | 修订            |     |
 | 74. visible                                                          |               |     |
 | 75. invisible                                                        |               |     |
 | 76. advisable                                                        |               |     |
