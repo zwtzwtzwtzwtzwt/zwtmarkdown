@@ -23,7 +23,7 @@
 | 19. overturn                               | （推翻  撤销  倾倒）       |
 | 20. safeguard                              | （保护 保护措施）          |
 | 21. <font color="#ff0000">setback</font>   | （倒退 挫折）            |
-| 22. somehow                                | 某种方式               |
+| 22. somehow                                | 某种方式 （布置为何）        |
 | 23. somewhere                              | 某地                 |
 | 24. straightforward                        | 正直的                |
 | 25. undergo                                | 经历                 |
