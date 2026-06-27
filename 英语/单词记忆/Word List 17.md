@@ -17,7 +17,7 @@
 | 12. construct                                |            |     |
 | 13. instruct                                 |            |     |
 | 14. instruction                              |            |     |
-| 15. destructive                              |            |     |
+| 15. destructive                              | 破坏性的       |     |
 | 16. resume                                   |            |     |
 | 17. superior                                 |            |     |
 | 18. absurd                                   |            |     |
