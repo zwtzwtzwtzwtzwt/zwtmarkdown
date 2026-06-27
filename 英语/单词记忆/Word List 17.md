@@ -76,7 +76,7 @@
 | 71. visa                                                             | 签证            |     |
 | 72. supervise                                                        | 监督            |     |
 | 73. revise                                                           | 修订            |     |
-| 74. <font color="#00b050">visible</font>                             |               |     |
+| 74. visible                                                          | 可视的           |     |
 | 75. invisible                                                        |               |     |
 | 76. <font color="#00b050">advisable</font>                           |               |     |
 | 77. revive                                                           | 恢复            |     |
