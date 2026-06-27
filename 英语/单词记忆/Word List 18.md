@@ -4,7 +4,7 @@
 | ------------------- | ----- |
 | 1. blueprint        |       |
 | 2. censorship       |       |
-| 3. copyright        |       |
+| 3. copyright        | 著作权   |
 | 4. deadline         |       |
 | 5. framework        |       |
 | 6. greenhouse       |       |
