@@ -8,8 +8,8 @@
 | 3. suspicious    | 怀疑的    |
 | 4. speculate     |        |
 | 5. inspect       | 检查     |
-| 6. specify       |        |
-| 7. statute       |        |
+| 6. specify       | 明确     |
+| 7. statute       | 地位     |
 | 8. restraint     |        |
 | 9. constrain     |        |
 | 10. string       |        |
