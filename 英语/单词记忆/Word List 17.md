@@ -47,7 +47,7 @@
 | 42. distract                                                           | 分心              |     |
 | 43. abstract                                                           | 抽象的             |     |
 | 44. tragedy                                                            | 悲剧              |     |
-| 45. distribute                                                         | 造成              |     |
+| 45. <font color="#00b050">distribute</font>                            | 分配              |     |
 | 46. <font color="#00b050">intuition</font>                             |                 |     |
 | 47. <font color="#00b050">tuition</font>                               |                 |     |
 | 48. disturb                                                            | 打扰              |     |
