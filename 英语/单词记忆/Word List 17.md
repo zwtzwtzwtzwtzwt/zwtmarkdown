@@ -76,11 +76,11 @@
 | 71. visa                                                             | 签证            |     |
 | 72. supervise                                                        | 监督            |     |
 | 73. revise                                                           | 修订            |     |
-| 74. visible                                                          |               |     |
+| 74. visible                                                          | 可视的           |     |
 | 75. invisible                                                        |               |     |
 | 76. advisable                                                        |               |     |
 | 77. revive                                                           |               |     |
-| 78. vivid                                                            |               |     |
+| 78. vivid                                                            | 生动的           |     |
 | 79. <font color="#00b050">provoke</font>                             |               |     |
 | 80. volunteer                                                        |               |     |
 | 81. <font color="#00b050">revolve</font>                             |               |     |
