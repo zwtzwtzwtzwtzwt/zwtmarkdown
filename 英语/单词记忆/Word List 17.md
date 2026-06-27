@@ -53,7 +53,7 @@
 | 48. disturb                                                          | 打扰            |     |
 | 49. ultimate                                                         | 最后的           |     |
 | 50. abundant                                                         | 丰富的           |     |
-| 51. suburb                                                           |               |     |
+| 51. suburb                                                           | 郊外的           |     |
 | 52. <font color="#00b050">utilize</font>                             |               |     |
 | 53. vaccine                                                          |               |     |
 | 54. <font color="#00b050">evade</font>                               |               |     |
