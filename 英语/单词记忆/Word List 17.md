@@ -79,9 +79,9 @@
 | 74. visible                                                          | 可视的           |     |
 | 75. invisible                                                        |               |     |
 | 76. advisable                                                        |               |     |
-| 77. revive                                                           |               |     |
+| 77. revive                                                           | 恢复            |     |
 | 78. vivid                                                            | 生动的           |     |
 | 79. <font color="#00b050">provoke</font>                             |               |     |
-| 80. volunteer                                                        |               |     |
+| 80. volunteer                                                        | 志愿者           |     |
 | 81. <font color="#00b050">revolve</font>                             |               |     |
 | 82. devote                                                           |               |     |
