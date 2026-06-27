@@ -13,7 +13,7 @@
 | 9. headline         | 大字      |
 | 10. lawsuit         |         |
 | 11. mankind         | 和蔼的 和善的 |
-| 12. membership      |         |
+| 12. membership      | 会员      |
 | 13. nowhere         |         |
 | 14. outdoor         |         |
 | 15. outlet          |         |
