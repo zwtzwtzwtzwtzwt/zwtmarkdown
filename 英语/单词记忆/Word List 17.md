@@ -62,8 +62,8 @@
 | 57. <font color="#00b050">equivalent</font>                            |                 |     |
 | 58. <font color="#00b050">evaluate</font>                              |                 |     |
 | 59. vanish                                                             | 消失              |     |
-| 60. <font color="#00b050">variable                             </font> |                 |     |
-| 61. <font color="#00b050">variation</font>                             |                 |     |
+| 60. <font color="#00b050">variable                             </font> | （变量 多变的）        |     |
+| 61. <font color="#00b050">variation</font>                             | （差异  ）          |     |
 | 62. convenience                                                        | 方便   便利         |     |
 | 63. <font color="#00b050">venture</font>                               |                 |     |
 | 64. <font color="#00b050">verify</font>                                |                 |     |
