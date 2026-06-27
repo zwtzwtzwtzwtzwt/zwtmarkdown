@@ -78,7 +78,7 @@
 | 74. roast                                   | 烘烤              |     |
 | 75. rob                                     | 抢劫  掠夺          |     |
 | 76. rumour                                  | 谣言              |     |
-| 77. <font color="#ff0000">savage</font>     | 野蛮的 野蛮人         |     |
+| 77. <font color="#ff0000">savage</font>     | 野蛮的 野蛮人  凶恶的    |     |
 | 78. scatter                                 | 散 摊 撒           |     |
 | 79. scholarship                             | 奖学金 学术研究        |     |
 | 80. scorn                                   | 蔑视 不屑于          |     |
