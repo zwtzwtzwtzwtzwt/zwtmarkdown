@@ -15,7 +15,7 @@
 | 11. mankind         | 和蔼的 和善的 |
 | 12. membership      | 会员      |
 | 13. nowhere         |         |
-| 14. outdoor         |         |
+| 14. outdoor         | 户外的     |
 | 15. outlet          |         |
 | 16. outlook         |         |
 | 17. overcome        | 战胜 克服   |
