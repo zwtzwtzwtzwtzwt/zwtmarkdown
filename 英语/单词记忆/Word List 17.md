@@ -68,10 +68,10 @@
 | 63. <font color="#00b050">venture</font>                             |               |     |
 | 64. verify                                                           |               |     |
 | 65. convert                                                          |               |     |
-| 66. advertise                                                        |               |     |
-| 67. investigate                                                      |               |     |
-| 68. evident                                                          |               |     |
-| 69. violate                                                          |               |     |
+| 66. advertise                                                        | 打广告           |     |
+| 67. investigate                                                      | 调查            |     |
+| 68. evident                                                          | 证据            |     |
+| 69. violate                                                          | 违反            |     |
 | 70. violence                                                         |               |     |
 | 71. visa                                                             |               |     |
 | 72. supervise                                                        |               |     |
