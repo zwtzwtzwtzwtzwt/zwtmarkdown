@@ -13,7 +13,7 @@
 | 8. <font color="#00b050">restraint</font>                              | 限制  抑制  约束      |     |
 | 9. <font color="#00b050">constrain</font>                              | 限制              |     |
 | 10. string                                                             | 一系列  线          |     |
-| 11. instrument                                                         | 一起 装置           |     |
+| 11. instrument                                                         | （仪器  乐器）        |     |
 | 12. construct                                                          | 建造              |     |
 | 13. instruct                                                           | 指导              |     |
 | 14. instruction                                                        | 指导 说明           |     |
