@@ -34,7 +34,7 @@
 | 29. <font color="#00b050">contend</font>                               |                 |     |
 | 30. extensive                                                          |                 |     |
 | 31. tension                                                            |                 |     |
-| 32. intensity                                                          |                 |     |
+| 32. <font color="#00b050">intensity</font>                             |                 |     |
 | 33. territory                                                          | 领域              |     |
 | 34. <font color="#00b050">protest</font>                               | 反抗 抗议           |     |
 | 35. textile                                                            |                 |     |
