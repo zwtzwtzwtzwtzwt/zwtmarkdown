@@ -20,8 +20,8 @@
 | 16. outlook                                | （看法 景色 前景）         |
 | 17. overcome                               | 战胜 克服 （解决  收到极大影响） |
 | 18. overseas                               | （外国的 海外的）          |
-| 19. overturn                               | （推翻  撤销  ）         |
-| 20. safeguard                              |                    |
+| 19. overturn                               | （推翻  撤销  倾倒）       |
+| 20. safeguard                              | （保护 ）              |
 | 21. setback                                | 回馈                 |
 | 22. somehow                                | 某种方式               |
 | 23. somewhere                              | 某地                 |
