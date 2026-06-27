@@ -49,7 +49,7 @@
 | 44. tragedy                                                            | 悲剧              |     |
 | 45. <font color="#00b050">distribute</font>                            | 分配  分发          |     |
 | 46. <font color="#00b050">intuition</font>                             | （直觉）            |     |
-| 47. <font color="#00b050">tuition</font>                               | （学费）            |     |
+| 47. <font color="#00b050">tuition</font>                               | （）              |     |
 | 48. disturb                                                            | 打扰              |     |
 | 49. ultimate                                                           | 最后的  （最终的 最根本的） |     |
 | 50. abundant                                                           | 丰富的             |     |
