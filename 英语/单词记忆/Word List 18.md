@@ -21,8 +21,8 @@
 | 17. overcome                               | 战胜 克服 （解决  收到极大影响） |
 | 18. overseas                               | （外国的 海外的）          |
 | 19. overturn                               | （推翻  撤销  倾倒）       |
-| 20. safeguard                              | （保护 ）              |
-| 21. setback                                | 回馈                 |
+| 20. safeguard                              | （保护 保护措施）          |
+| 21. setback                                |                    |
 | 22. somehow                                | 某种方式               |
 | 23. somewhere                              | 某地                 |
 | 24. straightforward                        | 正直的                |
