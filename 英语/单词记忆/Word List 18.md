@@ -6,7 +6,7 @@
 | 2. <font color="#ff0000">censorship</font> | （审查  审查制度）    |
 | 3. copyright                               | 著作权 （版权 获得版权） |
 | 4. deadline                                | 截止日期          |
-| 5. framework                               | 体制 框架         |
+| 5. framework                               | 体制 框架（准则 机构）  |
 | 6. greenhouse                              | 温室            |
 | 7. guideline                               | 指导            |
 | 8. hardship                                |               |
