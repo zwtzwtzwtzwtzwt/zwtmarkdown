@@ -21,8 +21,8 @@
 | 16. resume                                   |            |     |
 | 17. superior                                 |            |     |
 | 18. absurd                                   | 荒唐的        |     |
-| 19. tangible                                 |            |     |
-| 20. <font color="#00b050">maintenance</font> |            |     |
+| 19. tangible                                 | 有形的        |     |
+| 20. <font color="#00b050">maintenance</font> | 维持 保养      |     |
 | 21. continuous                               |            |     |
 | 22. attain                                   |            |     |
 | 23. architect                                |            |     |
