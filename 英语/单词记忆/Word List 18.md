@@ -25,8 +25,8 @@
 | 21. <font color="#ff0000">setback</font>         | （倒退 挫折）            |
 | 22. somehow                                      | 某种方式 （不知为何）        |
 | 23. somewhere                                    | 某地                 |
-| 24. <font color="#ff0000">straightforward</font> | （）                 |
-| 25. undergo                                      | 经历                 |
+| 24. <font color="#ff0000">straightforward</font> | （简单的  坦率的）         |
+| 25. undergo                                      | 经历 （）              |
 | 26. underground                                  | 地下的                |
 | 27. underlie                                     | 划线                 |
 | 28. undertake                                    | 承担                 |
