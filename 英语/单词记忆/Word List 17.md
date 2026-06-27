@@ -54,7 +54,7 @@
 | 49. ultimate                                 |     |
 | 50. abundant                                 |     |
 | 51. suburb                                   |     |
-| 52. utilize                                  |     |
+| 52. <font color="#00b050">utilize</font>     |     |
 | 53. vaccine                                  |     |
 | 54. evade                                    |     |
 | 55. vague                                    |     |
