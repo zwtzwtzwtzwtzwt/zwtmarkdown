@@ -65,7 +65,7 @@
 | 60. variable                                 |     |
 | 61. variation                                |     |
 | 62. convenience                              |     |
-| 63. venture                                  |     |
+| 63. <font color="#00b050">venture</font>     |     |
 | 64. verify                                   |     |
 | 65. convert                                  |     |
 | 66. advertise                                |     |
@@ -81,7 +81,7 @@
 | 76. advisable                                |     |
 | 77. revive                                   |     |
 | 78. vivid                                    |     |
-| 79. provoke                                  |     |
+| 79. <font color="#00b050">provoke</font>     |     |
 | 80. volunteer                                |     |
 | 81. revolve                                  |     |
 | 82. devote                                   |     |
