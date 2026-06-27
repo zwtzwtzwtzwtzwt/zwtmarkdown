@@ -78,7 +78,7 @@
 | 73. revise                                                           | 修订            |     |
 | 74. visible                                                          | 可视的   （明显的）   |     |
 | 75. invisible                                                        | 看不见的 无形的      |     |
-| 76. <font color="#00b050">advisable</font>                           |               |     |
+| 76. <font color="#00b050">advisable</font>                           | 明智的           |     |
 | 77. revive                                                           | 恢复  （复苏）      |     |
 | 78. vivid                                                            | 生动的           |     |
 | 79. <font color="#00b050">provoke</font>                             | （引起  激发 激怒）   |     |
