@@ -25,7 +25,7 @@
 | 21. setback         | 回馈      |
 | 22. somehow         |         |
 | 23. somewhere       |         |
-| 24. straightforward |         |
+| 24. straightforward | 正直的     |
 | 25. undergo         | 经历      |
 | 26. underground     |         |
 | 27. underlie        |         |
