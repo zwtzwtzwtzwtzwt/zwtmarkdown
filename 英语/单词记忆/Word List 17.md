@@ -14,7 +14,7 @@
 | 9. <font color="#00b050">constrain</font>                              | 限制              |     |
 | 10. string                                                             | 一系列  线          |     |
 | 11. instrument                                                         | （仪器  乐器）        |     |
-| 12. construct                                                          | 建造              |     |
+| 12. construct                                                          | 建造  观念          |     |
 | 13. instruct                                                           | 指导              |     |
 | 14. instruction                                                        | 指导 说明           |     |
 | 15. destructive                                                        | 破坏性的  毁灭性的      |     |
