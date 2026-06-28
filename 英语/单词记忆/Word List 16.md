@@ -77,8 +77,8 @@
 | 73. substitute                                | 替代（代替物）          |
 | 74. <font color="#00b050">sociable</font>     | （好交际的）           |
 | 75. solid                                     | 固体的（僵硬的  确凿的）    |
-| 76. <font color="#00b050">consolidate</font>  | 巩固 加强            |
-| 77. <font color="#00b050">dissolve</font>     |                  |
+| 76. <font color="#00b050">consolidate</font>  | （巩固 加强）          |
+| 77. <font color="#00b050">dissolve</font>     | （）               |
 | 78. absolute                                  | 绝对的              |
 | 79. sophisticated                             | 复杂的 精致的          |
 | 80. resort                                    | 景点  采用           |
