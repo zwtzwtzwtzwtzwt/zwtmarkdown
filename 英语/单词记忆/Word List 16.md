@@ -63,9 +63,9 @@
 | 59. <font color="#00b050">assert</font>       | 断言          |
 | 60. servant                                   | 仆人          |
 | 61. session                                   |             |
-| 62. obsession                                 |             |
+| 62. obsession                                 | 痴迷          |
 | 63. <font color="#00b050">insight</font>      |             |
-| 64. assignment                                |             |
+| 64. assignment                                | 指派 分配 工作    |
 | 65. <font color="#00b050">signature</font>    | 签名          |
 | 66. stability                                 | 稳定性         |
 | 67. instant                                   | 立刻 马上       |
