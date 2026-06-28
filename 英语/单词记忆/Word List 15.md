@@ -61,8 +61,8 @@
 | 55. <font color="#00b050">opt</font>           | 选择       |     |
 | 56. orbit                                      | 轨道       |     |
 | 57. coordinate                                 |          |     |
-| 58. organic                                    |          |     |
-| 59. negotiate                                  |          |     |
+| 58. organic                                    | 有机的      |     |
+| 59. negotiate                                  | 协商       |     |
 | 60. accompany                                  |          |     |
 | 61. companion                                  |          |     |
 | 62. expansion                                  |          |     |
