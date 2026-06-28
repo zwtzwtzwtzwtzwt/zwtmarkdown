@@ -10,7 +10,7 @@
 | 4. <font color="#ff0000">legacy                             </font> | （遗留问题 遗产 ） |     |
 | 5. elegant                                                          | 优雅的        |     |
 | 6. dilemma                                                          | 困境         |     |
-| 7. <font color="#00b050">lever</font>                               |            |     |
+| 7. <font color="#00b050">lever</font>                               | （控制）       |     |
 | 8. <font color="#00b050">liability</font>                           |            |     |
 | 9. <font color="#00b050">liable</font>                              |            |     |
 | 10. reliance                                                        | 依赖         |     |
