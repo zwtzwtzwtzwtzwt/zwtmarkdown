@@ -63,10 +63,10 @@
 | 57. coordinate                                 |          |     |
 | 58. organic                                    | 有机的      |     |
 | 59. negotiate                                  | 协商       |     |
-| 60. accompany                                  |          |     |
-| 61. companion                                  |          |     |
-| 62. expansion                                  |          |     |
-| 63. comparable                                 |          |     |
+| 60. accompany                                  | 陪伴       |     |
+| 61. companion                                  | 公司       |     |
+| 62. expansion                                  | 扩张       |     |
+| 63. comparable                                 | 竞争的      |     |
 | 64. comparative                                |          |     |
 | 65. preparation                                |          |     |
 | 66. <font color="#00b050">parliament</font>    |          |     |
