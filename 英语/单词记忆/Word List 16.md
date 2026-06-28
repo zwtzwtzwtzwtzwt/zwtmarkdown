@@ -14,11 +14,11 @@
 | 10. surplus                               |            |
 | 11. appointment                           |            |
 | 12. metropolitan                          |            |
-| 13. component                             |            |
+| 13. component                             | 组成部分       |
 | 14. compose                               |            |
 | 15. compound                              |            |
 | 16. comprise                              |            |
-| 17. comprehend                            |            |
+| 17. comprehend                            | 理解 懂       |
 | 18. premier                               |            |
 | 19. principal                             |            |
 | 20. prime                                 |            |
