@@ -24,14 +24,14 @@
 | 18. apology                                 |       |
 | 19. apologize                               |       |
 | 20. <font color="#00b050">prolong</font>    |       |
-| 21. illusion                                |       |
+| 21. <font color="#00b050">illusion</font>   |       |
 | 22. luxury                                  |       |
 | 23. margin                                  |       |
 | 24. marginal                                |       |
 | 25. mechanic                                |       |
 | 26. dimension                               |       |
 | 27. commerce                                |       |
-| 28. merit                                   |       |
+| 28. <font color="#00b050">merit</font>      |       |
 | 29. prominent                               |       |
 | 30. minimize                                |       |
 | 31. misery                                  |       |
