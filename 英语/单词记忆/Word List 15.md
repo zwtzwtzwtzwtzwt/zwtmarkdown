@@ -43,10 +43,10 @@
 | 37. <font color="#00b050">moderate</font>      |          |     |
 | 38. <font color="#00b050">modify</font>        |          |     |
 | 39. motive                                     | 动机       |     |
-| 40. remote                                     |          |     |
-| 41. mount                                      |          |     |
+| 40. remote                                     | 遥远的      |     |
+| 41. mount                                      | 钩子       |     |
 | 42. <font color="#00b050">multitude</font>     |          |     |
-| 43. commute                                    |          |     |
+| 43. commute                                    | 往返路线     |     |
 | 44. mutual                                     |          |     |
 | 45. mystery                                    |          |     |
 | 46. <font color="#00b050">renaissance</font>   |          |     |
