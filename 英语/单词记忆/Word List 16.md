@@ -48,8 +48,8 @@
 | 44. sanction                                  | 制裁          |
 | 45. <font color="#00b050">scenery</font>      |             |
 | 46. sceptical                                 | 怀疑的         |
-| 47. conscience                                |             |
-| 48. scope                                     |             |
+| 47. conscience                                | 良知          |
+| 48. scope                                     | 范围          |
 | 49. <font color="#00b050">scrutiny</font>     | 审查 检查       |
 | 50. <font color="#00b050">resemble</font>     |             |
 | 51. <font color="#00b050">senate</font>       |             |
