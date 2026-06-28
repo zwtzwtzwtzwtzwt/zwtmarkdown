@@ -12,8 +12,8 @@
 | 8. <font color="#00b050">implicit</font>  | 含蓄的 绝对的    |
 | 9. <font color="#00b050">implement</font> | 实施  工具     |
 | 10. surplus                               | 过剩 多余的     |
-| 11. appointment                           |            |
-| 12. metropolitan                          |            |
+| 11. appointment                           | 任命 预约 职位   |
+| 12. metropolitan                          | 大城市的       |
 | 13. component                             | 组成部分       |
 | 14. compose                               |            |
 | 15. compound                              |            |
