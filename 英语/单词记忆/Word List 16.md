@@ -56,10 +56,10 @@
 | 52. <font color="#00b050">senator</font>      |             |
 | 53. <font color="#00b050">nonsense</font>     |             |
 | 54. consensus                                 | 良知          |
-| 55. sensible                                  |             |
+| 55. sensible                                  | 理智的 合理的     |
 | 56. <font color="#00b050">sentiment</font>    |             |
-| 57. consent                                   |             |
-| 58. subsequent                                |             |
+| 57. consent                                   | 同意          |
+| 58. subsequent                                | 随后的         |
 | 59. <font color="#00b050">assert</font>       |             |
 | 60. servant                                   |             |
 | 61. session                                   |             |
