@@ -46,7 +46,7 @@
 | 42. <font color="#00b050">corrupt</font>      | 使腐化 （腐败的）        |
 | 43. interrupt                                 | 打断               |
 | 44. sanction                                  | 制裁               |
-| 45. <font color="#00b050">scenery</font>      |                  |
+| 45. <font color="#00b050">scenery</font>      | （景色 舞台布景）        |
 | 46. sceptical                                 | 怀疑的              |
 | 47. conscience                                | 良知               |
 | 48. scope                                     | 范围               |
