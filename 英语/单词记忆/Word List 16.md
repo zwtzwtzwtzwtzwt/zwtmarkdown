@@ -11,7 +11,7 @@
 | 7. simplify                               | 简化         |
 | 8. <font color="#00b050">implicit</font>  | 含蓄的 绝对的    |
 | 9. <font color="#00b050">implement</font> |            |
-| 10. surplus                               |            |
+| 10. surplus                               | 过剩 多余的     |
 | 11. appointment                           |            |
 | 12. metropolitan                          |            |
 | 13. component                             | 组成部分       |
