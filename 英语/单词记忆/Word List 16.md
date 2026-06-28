@@ -43,11 +43,11 @@
 | 39. thrive                                    | 发展          |
 | 40. enrol                                     | 注册          |
 | 41. romantic                                  | 浪漫的         |
-| 42. <font color="#00b050">corrupt</font>      | 使           |
+| 42. <font color="#00b050">corrupt</font>      | 使腐化         |
 | 43. interrupt                                 | 打断          |
 | 44. sanction                                  | 制裁          |
 | 45. <font color="#00b050">scenery</font>      |             |
-| 46. sceptical                                 |             |
+| 46. sceptical                                 | 怀疑的         |
 | 47. conscience                                |             |
 | 48. scope                                     |             |
 | 49. <font color="#00b050">scrutiny</font>     | 审查 检查       |
