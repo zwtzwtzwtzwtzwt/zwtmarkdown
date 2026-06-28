@@ -43,9 +43,9 @@
 | 39. thrive                                    | 发展          |
 | 40. enrol                                     | 注册          |
 | 41. romantic                                  | 浪漫的         |
-| 42. corrupt                                   |             |
-| 43. interrupt                                 |             |
-| 44. sanction                                  |             |
+| 42. <font color="#00b050">corrupt</font>      |             |
+| 43. interrupt                                 | 打断          |
+| 44. sanction                                  | 制裁          |
 | 45. <font color="#00b050">scenery</font>      |             |
 | 46. sceptical                                 |             |
 | 47. conscience                                |             |
