@@ -73,7 +73,7 @@
 | 67. apartment                                  | 公寓       |     |
 | 68. depart                                     | 离开       |     |
 | 69. <font color="#00b050">portion</font>       | 部分       |     |
-| 70. passive                                    |          |     |
+| 70. passive                                    | 被动的      |     |
 | 71. sympathetic                                |          |     |
 | 72. <font color="#00b050">compel</font>        |          |     |
 | 73. <font color="#00b050">propel</font>        |          |     |
