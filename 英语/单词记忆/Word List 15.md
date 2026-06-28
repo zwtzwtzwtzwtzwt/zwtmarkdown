@@ -68,8 +68,8 @@
 | 62. expansion                                  | 扩张       |     |
 | 63. comparable                                 | 竞争的      |     |
 | 64. comparative                                |          |     |
-| 65. preparation                                |          |     |
-| 66. <font color="#00b050">parliament</font>    |          |     |
+| 65. preparation                                | 准备       |     |
+| 66. <font color="#00b050">parliament</font>    | 惩罚       |     |
 | 67. apartment                                  |          |     |
 | 68. depart                                     |          |     |
 | 69. <font color="#00b050">portion</font>       |          |     |
