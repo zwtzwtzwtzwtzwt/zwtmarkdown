@@ -83,7 +83,7 @@
 | 79. sophisticated                             | 复杂的 精致的 （先进的  老练的） |
 | 80. resort                                    | （旅游胜地  采取）         |
 | 81. <font color="#00b050">spacious</font>     | （宽敞的）              |
-| 82. <font color="#00b050">span</font>         |                    |
+| 82. <font color="#00b050">span</font>         | （持所时间   跨越）        |
 | 83. hemisphere                                | 半球                 |
 | 84. inspiration                               | 灵感 鼓励              |
 | 85. correspond                                | 一致                 |
