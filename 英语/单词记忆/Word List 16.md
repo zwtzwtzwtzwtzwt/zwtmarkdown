@@ -68,7 +68,7 @@
 | 64. assignment                                | 指派 分配 工作         |
 | 65. <font color="#00b050">signature</font>    | 签名               |
 | 66. stability                                 | 稳定性              |
-| 67. instant                                   | 立刻 马上（瞬间 立即的）    |
+| 67. instant                                   | （瞬间 立即的 ）        |
 | 68. obstacle                                  | 障碍               |
 | 69. resist                                    | 抵制               |
 | 70. resistant                                 | 抵制               |
@@ -86,4 +86,4 @@
 | 82. <font color="#00b050">span</font>         |                  |
 | 83. hemisphere                                | 半球               |
 | 84. inspiration                               | 灵感 鼓励            |
-| 85. correspond                                | 一致       
+| 85. correspond                                | 一致               |
