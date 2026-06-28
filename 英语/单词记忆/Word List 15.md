@@ -69,7 +69,7 @@
 | 63. comparable                                                           | 竞争的              |     |
 | 64. comparative                                                          |                  |     |
 | 65. preparation                                                          | 准备               |     |
-| 66. <font color="#ff0000">parliament</font>                              | （）               |     |
+| 66. <font color="#ff0000">parliament</font>                              | （国会）             |     |
 | 67. apartment                                                            | 公寓               |     |
 | 68. depart                                                               | 离开（离职 出发 偏离）     |     |
 | 69. <font color="#00b050">portion</font>                                 | 部分               |     |
