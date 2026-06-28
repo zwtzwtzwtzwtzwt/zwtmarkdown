@@ -85,5 +85,5 @@
 | 81. <font color="#00b050">spacious</font>     |             |
 | 82. <font color="#00b050">span</font>         |             |
 | 83. hemisphere                                |             |
-| 84. inspiration                               |             |
-| 85. correspond                                |             |
+| 84. inspiration                               | 灵感 鼓励       |
+| 85. correspond                                | 一致          |
