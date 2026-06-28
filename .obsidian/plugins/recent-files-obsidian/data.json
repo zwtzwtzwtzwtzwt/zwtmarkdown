@@ -5,6 +5,10 @@
       "path": "英语/英语单词1到30.pdf"
     },
     {
+      "basename": "Word List 1",
+      "path": "英语/单词记忆/Word List 1.md"
+    },
+    {
       "basename": "Word List 2",
       "path": "英语/单词记忆/Word List 2.md"
     },
@@ -207,10 +211,6 @@
     {
       "basename": "1高数基础",
       "path": "1高数基础/1高数基础.md"
-    },
-    {
-      "basename": "Word List 1",
-      "path": "英语/单词记忆/Word List 1.md"
     },
     {
       "basename": "计算方法",
