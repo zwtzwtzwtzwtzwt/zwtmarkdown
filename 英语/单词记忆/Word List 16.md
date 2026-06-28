@@ -9,7 +9,7 @@
 | 5. paint                                  | 油漆  画      |
 | 6. pile                                   |            |
 | 7. simplify                               | 简化         |
-| 8. <font color="#00b050">implicit</font>  |            |
+| 8. <font color="#00b050">implicit</font>  | 含蓄的 绝对的    |
 | 9. <font color="#00b050">implement</font> |            |
 | 10. surplus                               |            |
 | 11. appointment                           |            |
