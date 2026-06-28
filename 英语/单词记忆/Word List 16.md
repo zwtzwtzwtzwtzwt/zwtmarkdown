@@ -80,7 +80,7 @@
 | 76. <font color="#00b050">consolidate</font>  |             |
 | 77. <font color="#00b050">dissolve</font>     |             |
 | 78. absolute                                  |             |
-| 79. sophisticated                             |             |
+| 79. sophisticated                             | 复杂的 精致的     |
 | 80. resort                                    | 景点  采用      |
 | 81. <font color="#00b050">spacious</font>     |             |
 | 82. <font color="#00b050">span</font>         |             |
