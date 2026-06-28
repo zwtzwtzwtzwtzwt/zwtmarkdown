@@ -5,7 +5,7 @@
 | 1. personnel      | 全体员工       |
 | 2. competent      | 有能力的 足以胜任的 |
 | 3. phase          | 时期 阶段      |
-| 4. depict         | 描绘         |
+| 4. depict         | 描绘  描写 描述  |
 | 5. paint          |            |
 | 6. pile           | 叠          |
 | 7. simplify       | 简化         |
