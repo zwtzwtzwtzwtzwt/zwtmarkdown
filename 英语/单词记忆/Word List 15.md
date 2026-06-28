@@ -53,10 +53,10 @@
 | 47. narrative                                |       |
 | 48. navy                                     |       |
 | 49. innocent                                 |       |
-| 50. nurture                                  |       |
+| 50. <font color="#00b050">nurture</font>     |       |
 | 51. nutrition                                |       |
 | 52. <font color="#00b050">petrol</font>      |       |
-| 53. adolescent                               |       |
+| 53. <font color="#00b050">adolescent</font>  |       |
 | 54. cooperate                                |       |
 | 55. <font color="#00b050">opt</font>         |       |
 | 56. orbit                                    |       |
