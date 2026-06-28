@@ -27,7 +27,7 @@
 | 23. impressive                            |            |
 | 24. suppress                              | 抑制 克制      |
 | 25. approve                               |            |
-| 26. proof                                 |            |
+| 26. proof                                 | 证据 证明      |
 | 27. symptom                               |            |
 | 28. republican                            |            |
 | 29. pure                                  |            |
