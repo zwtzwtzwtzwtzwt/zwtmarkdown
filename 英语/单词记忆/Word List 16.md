@@ -76,10 +76,10 @@
 | 72. persist                                   |             |
 | 73. substitute                                |             |
 | 74. <font color="#00b050">sociable</font>     |             |
-| 75. solid                                     |             |
+| 75. solid                                     | 固体的         |
 | 76. <font color="#00b050">consolidate</font>  |             |
 | 77. <font color="#00b050">dissolve</font>     |             |
-| 78. absolute                                  |             |
+| 78. absolute                                  | 绝对的         |
 | 79. sophisticated                             | 复杂的 精致的     |
 | 80. resort                                    | 景点  采用      |
 | 81. <font color="#00b050">spacious</font>     |             |
