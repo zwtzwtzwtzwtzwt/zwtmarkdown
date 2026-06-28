@@ -81,5 +81,5 @@
 | 75. compensate                                                      |                  |     |
 | 76. <font color="#00b050">indispensable</font>                      |                  |     |
 | 77. <font color="#00b050">pension</font>                            |                  |     |
-| 78. suspend                                                         | 停止  悬挂           |     |
+| 78. suspend                                                         | 停止  悬挂  （延迟）     |     |
 
