@@ -57,9 +57,9 @@
 | 51. nutrition                                  | 营养       |     |
 | 52. <font color="#00b050">petrol</font>        | 石油       |     |
 | 53. <font color="#00b050">adolescent</font>    |          |     |
-| 54. cooperate                                  |          |     |
-| 55. <font color="#00b050">opt</font>           |          |     |
-| 56. orbit                                      |          |     |
+| 54. cooperate                                  | 合作       |     |
+| 55. <font color="#00b050">opt</font>           | 选择       |     |
+| 56. orbit                                      | 轨道       |     |
 | 57. coordinate                                 |          |     |
 | 58. organic                                    |          |     |
 | 59. negotiate                                  |          |     |
