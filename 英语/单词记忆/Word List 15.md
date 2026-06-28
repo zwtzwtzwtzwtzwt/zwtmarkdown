@@ -53,9 +53,9 @@
 | 47. narrative                                  | 狭窄的      |     |
 | 48. navy                                       | 海军       |     |
 | 49. innocent                                   | 无辜的      |     |
-| 50. <font color="#00b050">nurture</font>       |          |     |
-| 51. nutrition                                  |          |     |
-| 52. <font color="#00b050">petrol</font>        |          |     |
+| 50. <font color="#00b050">nurture</font>       | 天赋       |     |
+| 51. nutrition                                  | 营养       |     |
+| 52. <font color="#00b050">petrol</font>        | 石油       |     |
 | 53. <font color="#00b050">adolescent</font>    |          |     |
 | 54. cooperate                                  |          |     |
 | 55. <font color="#00b050">opt</font>           |          |     |
