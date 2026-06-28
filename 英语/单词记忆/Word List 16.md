@@ -24,9 +24,9 @@
 | 20. <font color="#00b050">prime</font>       | 首要的 鼎盛时期   |
 | 21. primitive                                | 原始的 落后的    |
 | 22. impress                                  | 使某人影响深刻    |
-| 23. impressive                               |            |
+| 23. impressive                               | 使某人影响深刻的   |
 | 24. suppress                                 | 抑制 克制      |
-| 25. approve                                  |            |
+| 25. approve                                  | 统一         |
 | 26. proof                                    | 证据 证明      |
 | 27. symptom                                  |            |
 | 28. republican                               |            |
