@@ -6,7 +6,7 @@
 | 2. competent                              | 有能力的 足以胜任的 |
 | 3. phase                                  | 时期 阶段      |
 | 4. depict                                 | 描绘  描写 描述  |
-| 5. paint                                  |            |
+| 5. paint                                  | 油漆  画      |
 | 6. pile                                   |            |
 | 7. simplify                               | 简化         |
 | 8. <font color="#00b050">implicit</font>  |            |
