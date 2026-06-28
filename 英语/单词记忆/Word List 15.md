@@ -74,8 +74,8 @@
 | 68. depart                                     | 离开       |     |
 | 69. <font color="#00b050">portion</font>       | 部分       |     |
 | 70. passive                                    | 被动的      |     |
-| 71. sympathetic                                |          |     |
-| 72. <font color="#00b050">compel</font>        |          |     |
+| 71. sympathetic                                | 同情的      |     |
+| 72. <font color="#00b050">compel</font>        | 强迫       |     |
 | 73. <font color="#00b050">propel</font>        |          |     |
 | 74. penalty                                    |          |     |
 | 75. compensate                                 |          |     |
