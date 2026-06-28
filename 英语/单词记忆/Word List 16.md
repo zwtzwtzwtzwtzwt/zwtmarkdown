@@ -26,7 +26,7 @@
 | 22. impress                                  | 使某人影响深刻    |
 | 23. impressive                               | 使某人影响深刻的   |
 | 24. suppress                                 | 抑制 克制      |
-| 25. approve                                  | 统一         |
+| 25. approve                                  | 同意  批准     |
 | 26. proof                                    | 证据 证明      |
 | 27. symptom                                  |            |
 | 28. republican                               |            |
