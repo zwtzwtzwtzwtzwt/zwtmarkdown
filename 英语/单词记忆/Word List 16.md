@@ -70,7 +70,7 @@
 | 66. stability                                 | 稳定性              |
 | 67. instant                                   | （瞬间 立即的 ）        |
 | 68. obstacle                                  | 障碍               |
-| 69. resist                                    | 抵制               |
+| 69. resist                                    | 抵制 （）            |
 | 70. resistant                                 | 抵制               |
 | 71. assistance                                | 帮助               |
 | 72. persist                                   | 坚持               |
