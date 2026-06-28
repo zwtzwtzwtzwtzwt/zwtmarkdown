@@ -7,10 +7,10 @@
 | 1. elaborate                                   | 精确的   |
 | 2. collaborate                                 | 合作 公司 |
 | 3. enlarge                                     | 扩大    |
-| 4. legacy                                      |       |
-| 5. elegant                                     |       |
-| 6. dilemma                                     |       |
-| 7. lever                                       |       |
+| 4. legacy                                      | 法律的   |
+| 5. elegant                                     | 优雅的   |
+| 6. dilemma                                     | 困境    |
+| 7. <font color="#00b050">lever</font>          |       |
 | 8. liability                                   |       |
 | 9. liable                                      |       |
 | 10. reliance                                   |       |
