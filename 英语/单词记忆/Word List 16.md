@@ -81,7 +81,7 @@
 | 77. <font color="#00b050">dissolve</font>     | （溶解  解散）           |
 | 78. absolute                                  | 绝对的                |
 | 79. sophisticated                             | 复杂的 精致的 （先进的  老练的） |
-| 80. resort                                    | 景点  采用             |
+| 80. resort                                    | （）                 |
 | 81. <font color="#00b050">spacious</font>     |                    |
 | 82. <font color="#00b050">span</font>         |                    |
 | 83. hemisphere                                | 半球                 |
