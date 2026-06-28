@@ -22,8 +22,8 @@
 | 18. <font color="#00b050">premier</font>     | 总理  最好的    |
 | 19. principal                                | 主要的 校长     |
 | 20. <font color="#00b050">prime</font>       | 首要的 鼎盛时期   |
-| 21. primitive                                |            |
-| 22. impress                                  |            |
+| 21. primitive                                | 原始的 落后的    |
+| 22. impress                                  | 使某人        |
 | 23. impressive                               |            |
 | 24. suppress                                 | 抑制 克制      |
 | 25. approve                                  |            |
