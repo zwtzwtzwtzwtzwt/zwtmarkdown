@@ -20,7 +20,7 @@
 | 14. <font color="#ff0000">oblige</font>                             | （迫使  帮忙）      |     |
 | 15. limitation                                                      | 限制（局限）        |     |
 | 16. literally                                                       | 字面上的 （确实的）    |     |
-| 17. literacy                                                        | 读写能力          |     |
+| 17. literacy                                                        | 读写能力（有文化 识字）  |     |
 | 18. apology                                                         | 道歉            |     |
 | 19. apologize                                                       | 道歉            |     |
 | 20. <font color="#00b050">prolong</font>                            | 延长            |     |
