@@ -24,7 +24,7 @@
 | 18. apology                                                         | 道歉            |     |
 | 19. apologize                                                       | 道歉            |     |
 | 20. <font color="#00b050">prolong</font>                            | 延长（拉长 拖长）     |     |
-| 21. <font color="#00b050">illusion</font>                           | （错觉 ）         |     |
+| 21. <font color="#00b050">illusion</font>                           | （错觉 假象 幻觉）    |     |
 | 22. luxury                                                          | 奢侈的           |     |
 | 23. margin                                                          | 留白            |     |
 | 24. <font color="#00b050">marginal</font>                           |               |     |
