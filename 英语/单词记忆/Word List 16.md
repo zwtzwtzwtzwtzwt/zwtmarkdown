@@ -28,8 +28,8 @@
 | 24. suppress                                 | 抑制 克制      |
 | 25. approve                                  | 同意  批准     |
 | 26. proof                                    | 证据 证明      |
-| 27. symptom                                  |            |
-| 28. republican                               |            |
+| 27. symptom                                  | 症状         |
+| 28. republican                               | 共和党员       |
 | 29. pure                                     |            |
 | 30. acquaintance                             |            |
 | 31. qualify                                  |            |
