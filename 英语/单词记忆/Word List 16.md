@@ -70,9 +70,9 @@
 | 66. stability                                 |             |
 | 67. instant                                   |             |
 | 68. obstacle                                  |             |
-| 69. resist                                    |             |
-| 70. resistant                                 |             |
-| 71. assistance                                |             |
+| 69. resist                                    | 抵制          |
+| 70. resistant                                 | 抵制          |
+| 71. assistance                                | 帮助          |
 | 72. persist                                   | 坚持          |
 | 73. substitute                                | 替代          |
 | 74. <font color="#00b050">sociable</font>     |             |
