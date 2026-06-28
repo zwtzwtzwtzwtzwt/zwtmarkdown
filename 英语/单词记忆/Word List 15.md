@@ -47,8 +47,8 @@
 | 41. mount                                      | 钩子       |     |
 | 42. <font color="#00b050">multitude</font>     |          |     |
 | 43. commute                                    | 往返路线     |     |
-| 44. mutual                                     |          |     |
-| 45. mystery                                    |          |     |
+| 44. mutual                                     | 人工的      |     |
+| 45. mystery                                    | 谜        |     |
 | 46. <font color="#00b050">renaissance</font>   |          |     |
 | 47. narrative                                  |          |     |
 | 48. navy                                       |          |     |
