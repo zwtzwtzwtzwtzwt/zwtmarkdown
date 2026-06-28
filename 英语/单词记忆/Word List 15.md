@@ -28,7 +28,7 @@
 | 22. luxury                                                          | 奢侈的              |     |
 | 23. margin                                                          | 留白 （边缘 利润）       |     |
 | 24. <font color="#00b050">marginal</font>                           | （边缘的  非主流的 不重要的） |     |
-| 25. mechanic                                                        |                  |     |
+| 25. <font color="#ff0000">mechanic</font>                           | （技工 修理工 方法）      |     |
 | 26. dimension                                                       | 维度范围             |     |
 | 27. commerce                                                        | 贸易               |     |
 | 28. <font color="#00b050">merit</font>                              |                  |     |
