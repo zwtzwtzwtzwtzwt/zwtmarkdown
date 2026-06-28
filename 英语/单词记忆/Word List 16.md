@@ -41,7 +41,7 @@
 | 37. rigid                                     | 僵硬的 死板的（坚硬的 严格的） |
 | 38. ritual                                    | 惯例  （仪式性的）       |
 | 39. thrive                                    | 发展               |
-| 40. enrol                                     | 注册               |
+| 40. enrol                                     | 注册（）             |
 | 41. romantic                                  | 浪漫的              |
 | 42. <font color="#00b050">corrupt</font>      | 使腐化              |
 | 43. interrupt                                 | 打断               |
