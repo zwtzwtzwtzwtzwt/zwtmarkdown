@@ -39,7 +39,7 @@
 | 35. realistic                                 | 务实的 实事求是的 （真实的）  |
 | 36. rhythm                                    | 韵律  （规律）         |
 | 37. rigid                                     | 僵硬的 死板的（坚硬的 严格的） |
-| 38. ritual                                    | 惯例  （）           |
+| 38. ritual                                    | 惯例  （仪式性的）       |
 | 39. thrive                                    | 发展               |
 | 40. enrol                                     | 注册               |
 | 41. romantic                                  | 浪漫的              |
