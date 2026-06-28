@@ -75,7 +75,7 @@
 | 71. assistance                               |            |
 | 72. persist                                  |            |
 | 73. substitute                               |            |
-| 74. sociable                                 |            |
+| 74. <font color="#00b050">sociable</font>    |            |
 | 75. solid                                    |            |
 | 76. <font color="#00b050">consolidate</font> |            |
 | 77. <font color="#00b050">dissolve</font>    |            |
