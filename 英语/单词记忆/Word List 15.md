@@ -12,9 +12,9 @@
 | 6. dilemma                                                          | 困境            |     |
 | 7. <font color="#00b050">lever</font>                               | （控制杆  方法  撬动） |     |
 | 8. <font color="#00b050">liability</font>                           | （责任 义务 债务）    |     |
-| 9. <font color="#00b050">liable</font>                              | （有责任的 ）       |     |
+| 9. <font color="#00b050">liable</font>                              | （有责任的 受影响）    |     |
 | 10. reliance                                                        | 依赖            |     |
-| 11. <font color="#00b050">alliance</font>                           |               |     |
+| 11. <font color="#00b050">alliance</font>                           | （结盟 联盟）       |     |
 | 12. liberate                                                        | 解放 自由         |     |
 | 13. delicate                                                        | 故意的           |     |
 | 14. oblige                                                          | 义务            |     |
