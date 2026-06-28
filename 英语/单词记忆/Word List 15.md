@@ -64,7 +64,7 @@
 | 58. organic                                                              | 有机的              |     |
 | 59. negotiate                                                            | 协商               |     |
 | 60. accompany                                                            | 陪伴               |     |
-| 61. companion                                                            | 公司               |     |
+| 61. <font color="#00b050">companion</font>                               | （）               |     |
 | 62. expansion                                                            | 扩张               |     |
 | 63. <font color="#00b050">comparable                             </font> |                  |     |
 | 64. <font color="#00b050">comparative</font>                             |                  |     |
