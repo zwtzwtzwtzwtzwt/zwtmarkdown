@@ -40,9 +40,9 @@
 | 36. rhythm                                    | 韵律          |
 | 37. rigid                                     | 僵硬的 死板的     |
 | 38. ritual                                    | 惯例          |
-| 39. thrive                                    |             |
-| 40. enrol                                     |             |
-| 41. romantic                                  |             |
+| 39. thrive                                    | 发展          |
+| 40. enrol                                     | 注册          |
+| 41. romantic                                  | 浪漫的         |
 | 42. corrupt                                   |             |
 | 43. interrupt                                 |             |
 | 44. sanction                                  |             |
