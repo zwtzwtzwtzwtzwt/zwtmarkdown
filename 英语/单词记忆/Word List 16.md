@@ -7,7 +7,7 @@
 | 3. phase                                  | 时期 阶段      |
 | 4. depict                                 | 描绘  描写 描述  |
 | 5. paint                                  |            |
-| 6. pile                                   | 叠          |
+| 6. pile                                   |            |
 | 7. simplify                               | 简化         |
 | 8. <font color="#00b050">implicit</font>  |            |
 | 9. <font color="#00b050">implement</font> |            |
