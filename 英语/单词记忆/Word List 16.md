@@ -31,7 +31,7 @@
 | 27. symptom                                   | 症状          |
 | 28. republican                                | 共和党员  共和主义者 |
 | 29. pure                                      | 纯粹的  完全的    |
-| 30. <font color="#00b050">acquaintance</font> |             |
+| 30. <font color="#00b050">acquaintance</font> | 熟人          |
 | 31. qualify                                   |             |
 | 32. quest                                     |             |
 | 33. rage                                      |             |
