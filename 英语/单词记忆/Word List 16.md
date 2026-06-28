@@ -74,7 +74,7 @@
 | 70. resistant                                 | 抵制 （抗）           |
 | 71. assistance                                | 帮助  （援助）         |
 | 72. persist                                   | 坚持               |
-| 73. substitute                                | 替代               |
+| 73. substitute                                | 替代（代替物）          |
 | 74. <font color="#00b050">sociable</font>     |                  |
 | 75. solid                                     | 固体的              |
 | 76. <font color="#00b050">consolidate</font>  |                  |
