@@ -60,7 +60,7 @@
 | 56. <font color="#00b050">sentiment</font>   |            |
 | 57. consent                                  |            |
 | 58. subsequent                               |            |
-| 59. assert                                   |            |
+| 59. <font color="#00b050">assert</font>      |            |
 | 60. servant                                  |            |
 | 61. session                                  |            |
 | 62. obsession                                |            |
@@ -83,7 +83,7 @@
 | 79. sophisticated                            |            |
 | 80. resort                                   |            |
 | 81. <font color="#00b050">spacious</font>    |            |
-| 82. span                                     |            |
+| 82. <font color="#00b050">span</font>        |            |
 | 83. hemisphere                               |            |
 | 84. inspiration                              |            |
 | 85. correspond                               |            |
