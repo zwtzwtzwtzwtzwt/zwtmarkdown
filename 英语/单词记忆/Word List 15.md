@@ -14,7 +14,7 @@
 | 8. liability                                |       |
 | 9. liable                                   |       |
 | 10. reliance                                |       |
-| 11. alliance                                |       |
+| 11. <font color="#00b050">alliance</font>   |       |
 | 12. liberate                                |       |
 | 13. delicate                                |       |
 | 14. oblige                                  |       |
