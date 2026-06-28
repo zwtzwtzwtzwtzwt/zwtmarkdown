@@ -18,8 +18,8 @@
 | 12. liberate                                                        | 解放 (使自由)      |     |
 | 13. <font color="#ff0000">delicate</font>                           | 精致的           |     |
 | 14. <font color="#ff0000">oblige</font>                             | （迫使  帮忙）      |     |
-| 15. limitation                                                      | 限制            |     |
-| 16. literally                                                       | 字面上的          |     |
+| 15. limitation                                                      | 限制（局限）        |     |
+| 16. literally                                                       | 字面上的 （确实的）    |     |
 | 17. literacy                                                        | 读写能力          |     |
 | 18. apology                                                         | 道歉            |     |
 | 19. apologize                                                       | 道歉            |     |
