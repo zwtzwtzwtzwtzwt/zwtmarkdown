@@ -17,9 +17,9 @@
 | 11. <font color="#00b050">alliance</font>      |       |
 | 12. liberate                                   | 解放 自由 |
 | 13. delicate                                   | 故意的   |
-| 14. oblige                                     |       |
-| 15. limitation                                 |       |
-| 16. literally                                  |       |
+| 14. oblige                                     | 义务    |
+| 15. limitation                                 | 限制    |
+| 16. literally                                  | 字面上的  |
 | 17. literacy                                   |       |
 | 18. apology                                    |       |
 | 19. apologize                                  |       |
