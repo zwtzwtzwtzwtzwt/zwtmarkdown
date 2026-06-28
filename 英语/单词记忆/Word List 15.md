@@ -42,7 +42,7 @@
 | 36. mixture                                    | 混合物      |     |
 | 37. <font color="#00b050">moderate</font>      |          |     |
 | 38. <font color="#00b050">modify</font>        |          |     |
-| 39. motive                                     |          |     |
+| 39. motive                                     | 动机       |     |
 | 40. remote                                     |          |     |
 | 41. mount                                      |          |     |
 | 42. <font color="#00b050">multitude</font>     |          |     |
