@@ -72,10 +72,10 @@
 | 66. <font color="#00b050">parliament</font>  |       |
 | 67. apartment                                |       |
 | 68. depart                                   |       |
-| 69. portion                                  |       |
+| 69. <font color="#00b050">portion</font>     |       |
 | 70. passive                                  |       |
 | 71. sympathetic                              |       |
-| 72. compel                                   |       |
+| 72. <font color="#00b050">compel</font>      |       |
 | 73. <font color="#00b050">propel</font>      |       |
 | 74. penalty                                  |       |
 | 75. compensate                               |       |
