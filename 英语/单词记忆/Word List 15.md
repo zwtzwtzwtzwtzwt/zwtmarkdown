@@ -2,84 +2,84 @@
 
 
 
-| 英文单词                                           | 1     |
-| ---------------------------------------------- | ----- |
-| 1. elaborate                                   | 精确的   |
-| 2. collaborate                                 | 合作 公司 |
-| 3. enlarge                                     | 扩大    |
-| 4. legacy                                      | 法律的   |
-| 5. elegant                                     | 优雅的   |
-| 6. dilemma                                     | 困境    |
-| 7. <font color="#00b050">lever</font>          |       |
-| 8. <font color="#00b050">liability</font>      |       |
-| 9. <font color="#00b050">liable</font>         |       |
-| 10. reliance                                   | 依赖    |
-| 11. <font color="#00b050">alliance</font>      |       |
-| 12. liberate                                   | 解放 自由 |
-| 13. delicate                                   | 故意的   |
-| 14. oblige                                     | 义务    |
-| 15. limitation                                 | 限制    |
-| 16. literally                                  | 字面上的  |
-| 17. literacy                                   | 读写能力  |
-| 18. apology                                    | 道歉    |
-| 19. apologize                                  | 道歉    |
-| 20. <font color="#00b050">prolong</font>       | 延长    |
-| 21. <font color="#00b050">illusion</font>      | 虚幻    |
-| 22. luxury                                     | 奢侈的   |
-| 23. margin                                     | 留白    |
-| 24. <font color="#00b050">marginal</font>      |       |
-| 25. mechanic                                   | 机器的   |
-| 26. dimension                                  | 维度范围  |
-| 27. commerce                                   | 贸易    |
-| 28. <font color="#00b050">merit</font>         |       |
-| 29. <font color="#00b050">prominent</font>     |       |
-| 30. minimize                                   | 最小化   |
-| 31. misery                                     | 同情怜悯  |
-| 32. <font color="#00b050">miserable</font>     |       |
-| 33. promising                                  |       |
-| 34. transmit                                   |       |
-| 35. submit                                     |       |
-| 36. mixture                                    |       |
-| 37. moderate                                   |       |
-| 38. modify                                     |       |
-| 39. motive                                     |       |
-| 40. remote                                     |       |
-| 41. mount                                      |       |
-| 42. <font color="#00b050">multitude</font>     |       |
-| 43. commute                                    |       |
-| 44. mutual                                     |       |
-| 45. mystery                                    |       |
-| 46. <font color="#00b050">renaissance</font>   |       |
-| 47. narrative                                  |       |
-| 48. navy                                       |       |
-| 49. innocent                                   |       |
-| 50. <font color="#00b050">nurture</font>       |       |
-| 51. nutrition                                  |       |
-| 52. <font color="#00b050">petrol</font>        |       |
-| 53. <font color="#00b050">adolescent</font>    |       |
-| 54. cooperate                                  |       |
-| 55. <font color="#00b050">opt</font>           |       |
-| 56. orbit                                      |       |
-| 57. coordinate                                 |       |
-| 58. organic                                    |       |
-| 59. negotiate                                  |       |
-| 60. accompany                                  |       |
-| 61. companion                                  |       |
-| 62. expansion                                  |       |
-| 63. comparable                                 |       |
-| 64. comparative                                |       |
-| 65. preparation                                |       |
-| 66. <font color="#00b050">parliament</font>    |       |
-| 67. apartment                                  |       |
-| 68. depart                                     |       |
-| 69. <font color="#00b050">portion</font>       |       |
-| 70. passive                                    |       |
-| 71. sympathetic                                |       |
-| 72. <font color="#00b050">compel</font>        |       |
-| 73. <font color="#00b050">propel</font>        |       |
-| 74. penalty                                    |       |
-| 75. compensate                                 |       |
-| 76. <font color="#00b050">indispensable</font> |       |
-| 77. <font color="#00b050">pension</font>       |       |
-| 78. suspend                                    |       |
+| 英文单词                                           | 1        |
+| ---------------------------------------------- | -------- |
+| 1. elaborate                                   | 精确的      |
+| 2. collaborate                                 | 合作 公司    |
+| 3. enlarge                                     | 扩大       |
+| 4. legacy                                      | 法律的      |
+| 5. elegant                                     | 优雅的      |
+| 6. dilemma                                     | 困境       |
+| 7. <font color="#00b050">lever</font>          |          |
+| 8. <font color="#00b050">liability</font>      |          |
+| 9. <font color="#00b050">liable</font>         |          |
+| 10. reliance                                   | 依赖       |
+| 11. <font color="#00b050">alliance</font>      |          |
+| 12. liberate                                   | 解放 自由    |
+| 13. delicate                                   | 故意的      |
+| 14. oblige                                     | 义务       |
+| 15. limitation                                 | 限制       |
+| 16. literally                                  | 字面上的     |
+| 17. literacy                                   | 读写能力     |
+| 18. apology                                    | 道歉       |
+| 19. apologize                                  | 道歉       |
+| 20. <font color="#00b050">prolong</font>       | 延长       |
+| 21. <font color="#00b050">illusion</font>      | 虚幻       |
+| 22. luxury                                     | 奢侈的      |
+| 23. margin                                     | 留白       |
+| 24. <font color="#00b050">marginal</font>      |          |
+| 25. mechanic                                   | 机器的      |
+| 26. dimension                                  | 维度范围     |
+| 27. commerce                                   | 贸易       |
+| 28. <font color="#00b050">merit</font>         |          |
+| 29. <font color="#00b050">prominent</font>     |          |
+| 30. minimize                                   | 最小化      |
+| 31. misery                                     | 同情怜悯     |
+| 32. <font color="#00b050">miserable</font>     |          |
+| 33. promising                                  | 光明的 有前景的 |
+| 34. <font color="#00b050">transmit</font>      |          |
+| 35. submit                                     |          |
+| 36. mixture                                    |          |
+| 37. moderate                                   |          |
+| 38. modify                                     |          |
+| 39. motive                                     |          |
+| 40. remote                                     |          |
+| 41. mount                                      |          |
+| 42. <font color="#00b050">multitude</font>     |          |
+| 43. commute                                    |          |
+| 44. mutual                                     |          |
+| 45. mystery                                    |          |
+| 46. <font color="#00b050">renaissance</font>   |          |
+| 47. narrative                                  |          |
+| 48. navy                                       |          |
+| 49. innocent                                   |          |
+| 50. <font color="#00b050">nurture</font>       |          |
+| 51. nutrition                                  |          |
+| 52. <font color="#00b050">petrol</font>        |          |
+| 53. <font color="#00b050">adolescent</font>    |          |
+| 54. cooperate                                  |          |
+| 55. <font color="#00b050">opt</font>           |          |
+| 56. orbit                                      |          |
+| 57. coordinate                                 |          |
+| 58. organic                                    |          |
+| 59. negotiate                                  |          |
+| 60. accompany                                  |          |
+| 61. companion                                  |          |
+| 62. expansion                                  |          |
+| 63. comparable                                 |          |
+| 64. comparative                                |          |
+| 65. preparation                                |          |
+| 66. <font color="#00b050">parliament</font>    |          |
+| 67. apartment                                  |          |
+| 68. depart                                     |          |
+| 69. <font color="#00b050">portion</font>       |          |
+| 70. passive                                    |          |
+| 71. sympathetic                                |          |
+| 72. <font color="#00b050">compel</font>        |          |
+| 73. <font color="#00b050">propel</font>        |          |
+| 74. penalty                                    |          |
+| 75. compensate                                 |          |
+| 76. <font color="#00b050">indispensable</font> |          |
+| 77. <font color="#00b050">pension</font>       |          |
+| 78. suspend                                    |          |
 
