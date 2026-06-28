@@ -32,7 +32,7 @@
 | 26. dimension                                  | 维度范围  |
 | 27. commerce                                   | 贸易    |
 | 28. <font color="#00b050">merit</font>         |       |
-| 29. prominent                                  |       |
+| 29. <font color="#00b050">prominent</font>     |       |
 | 30. minimize                                   |       |
 | 31. misery                                     |       |
 | 32. miserable                                  |       |
