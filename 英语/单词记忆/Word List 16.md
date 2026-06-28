@@ -23,7 +23,7 @@
 | 19. principal                                | 主要的 校长     |
 | 20. <font color="#00b050">prime</font>       | 首要的 鼎盛时期   |
 | 21. primitive                                | 原始的 落后的    |
-| 22. impress                                  | 使某人        |
+| 22. impress                                  | 使某人影响深刻    |
 | 23. impressive                               |            |
 | 24. suppress                                 | 抑制 克制      |
 | 25. approve                                  |            |
