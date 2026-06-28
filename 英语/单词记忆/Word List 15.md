@@ -29,7 +29,7 @@
 | 23. margin                                                          | 留白 （边缘 利润）       |     |
 | 24. <font color="#00b050">marginal</font>                           | （边缘的  非主流的 不重要的） |     |
 | 25. <font color="#ff0000">mechanic</font>                           | （技工 修理工 方法）      |     |
-| 26. dimension                                                       | 维度（）             |     |
+| 26. dimension                                                       | 维度（层面  大小 部分）    |     |
 | 27. commerce                                                        | 贸易               |     |
 | 28. <font color="#00b050">merit</font>                              |                  |     |
 | 29. <font color="#00b050">prominent</font>                          |                  |     |
