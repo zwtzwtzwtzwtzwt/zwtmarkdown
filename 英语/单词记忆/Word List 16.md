@@ -64,7 +64,7 @@
 | 60. servant                                   | 仆人               |
 | 61. session                                   | 一节               |
 | 62. obsession                                 | 痴迷               |
-| 63. <font color="#00b050">insight</font>      |                  |
+| 63. <font color="#00b050">insight</font>      | （深入了解）           |
 | 64. assignment                                | 指派 分配 工作         |
 | 65. <font color="#00b050">signature</font>    | 签名               |
 | 66. stability                                 | 稳定性              |
