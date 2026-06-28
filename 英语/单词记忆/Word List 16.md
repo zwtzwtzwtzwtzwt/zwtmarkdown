@@ -15,7 +15,7 @@
 | 11. appointment                              | 任命 预约 职位   |
 | 12. metropolitan                             | 大城市的       |
 | 13. component                                | 组成部分       |
-| 14. <font color="#00b050">compose</font>     |            |
+| 14. <font color="#00b050">compose</font>     | 组成         |
 | 15. compound                                 |            |
 | 16. <font color="#00b050">comprise</font>    |            |
 | 17. comprehend                               | 理解 懂       |
