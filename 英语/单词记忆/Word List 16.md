@@ -51,7 +51,7 @@
 | 47. conscience                                |             |
 | 48. scope                                     |             |
 | 49. <font color="#00b050">scrutiny</font>     |             |
-| 50. resemble                                  |             |
+| 50. <font color="#00b050">resemble</font>     |             |
 | 51. <font color="#00b050">senate</font>       |             |
 | 52. <font color="#00b050">senator</font>      |             |
 | 53. <font color="#00b050">nonsense</font>     |             |
