@@ -50,9 +50,9 @@
 | 44. mutual                                     | 人工的      |     |
 | 45. mystery                                    | 谜        |     |
 | 46. <font color="#00b050">renaissance</font>   |          |     |
-| 47. narrative                                  |          |     |
-| 48. navy                                       |          |     |
-| 49. innocent                                   |          |     |
+| 47. narrative                                  | 狭窄的      |     |
+| 48. navy                                       | 海军       |     |
+| 49. innocent                                   | 无辜的      |     |
 | 50. <font color="#00b050">nurture</font>       |          |     |
 | 51. nutrition                                  |          |     |
 | 52. <font color="#00b050">petrol</font>        |          |     |
