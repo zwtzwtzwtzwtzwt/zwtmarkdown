@@ -7,8 +7,8 @@
 | 3. phase          | 时期 阶段 |
 | 4. depict         | 描绘    |
 | 5. paint          |       |
-| 6. pile           |       |
-| 7. simplify       |       |
+| 6. pile           | 叠     |
+| 7. simplify       | 简化    |
 | 8. implicit       |       |
 | 9. implement      |       |
 | 10. surplus       |       |
