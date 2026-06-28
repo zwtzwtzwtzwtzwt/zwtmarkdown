@@ -33,7 +33,7 @@
 | 27. commerce                                   | 贸易    |
 | 28. <font color="#00b050">merit</font>         |       |
 | 29. <font color="#00b050">prominent</font>     |       |
-| 30. minimize                                   |       |
+| 30. minimize                                   | 最小化   |
 | 31. misery                                     |       |
 | 32. miserable                                  |       |
 | 33. promising                                  |       |
