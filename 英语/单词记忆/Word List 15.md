@@ -16,7 +16,7 @@
 | 10. reliance                                                        | 依赖            |     |
 | 11. <font color="#00b050">alliance</font>                           | （结盟 联盟）       |     |
 | 12. liberate                                                        | 解放 (使自由)      |     |
-| 13. delicate                                                        | 故意的           |     |
+| 13. <font color="#ff0000">delicate</font>                           |               |     |
 | 14. oblige                                                          | 义务            |     |
 | 15. limitation                                                      | 限制            |     |
 | 16. literally                                                       | 字面上的          |     |
