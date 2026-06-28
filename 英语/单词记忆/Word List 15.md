@@ -25,9 +25,9 @@
 | 19. apologize                                  | 道歉    |
 | 20. <font color="#00b050">prolong</font>       | 延长    |
 | 21. <font color="#00b050">illusion</font>      | 虚幻    |
-| 22. luxury                                     |       |
-| 23. margin                                     |       |
-| 24. marginal                                   |       |
+| 22. luxury                                     | 奢侈的   |
+| 23. margin                                     | 留白    |
+| 24. <font color="#00b050">marginal</font>      |       |
 | 25. mechanic                                   |       |
 | 26. dimension                                  |       |
 | 27. commerce                                   |       |
