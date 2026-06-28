@@ -54,7 +54,7 @@
 | 50. <font color="#00b050">resemble</font>     | （类似）             |
 | 51. <font color="#00b050">senate</font>       | （参议院）            |
 | 52. <font color="#00b050">senator</font>      | （参议员）            |
-| 53. <font color="#00b050">nonsense</font>     |                  |
+| 53. <font color="#00b050">nonsense</font>     | （）               |
 | 54. consensus                                 | 良知               |
 | 55. sensible                                  | 理智的 合理的          |
 | 56. <font color="#00b050">sentiment</font>    |                  |
