@@ -34,7 +34,7 @@
 | 28. <font color="#00b050">merit</font>                              |                  |     |
 | 29. <font color="#00b050">prominent</font>                          |                  |     |
 | 30. minimize                                                        | 最小化              |     |
-| 31. misery                                                          | 同情怜悯             |     |
+| 31. <font color="#ff0000">misery</font>                             |                  |     |
 | 32. <font color="#00b050">miserable</font>                          |                  |     |
 | 33. promising                                                       | 光明的 有前景的         |     |
 | 34. <font color="#00b050">transmit</font>                           |                  |     |
