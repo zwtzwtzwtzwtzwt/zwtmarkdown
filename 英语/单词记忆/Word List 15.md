@@ -28,8 +28,8 @@
 | 22. luxury                                     | 奢侈的   |
 | 23. margin                                     | 留白    |
 | 24. <font color="#00b050">marginal</font>      |       |
-| 25. mechanic                                   |       |
-| 26. dimension                                  |       |
+| 25. mechanic                                   | 机器的   |
+| 26. dimension                                  | 维度范围  |
 | 27. commerce                                   |       |
 | 28. <font color="#00b050">merit</font>         |       |
 | 29. prominent                                  |       |
