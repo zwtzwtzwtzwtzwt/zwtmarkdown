@@ -17,10 +17,10 @@
 | 13. component                                | 组成部分       |
 | 14. <font color="#00b050">compose</font>     | 组成 撰写      |
 | 15. compound                                 | 化合物 使加重    |
-| 16. <font color="#00b050">comprise</font>    |            |
+| 16. <font color="#00b050">comprise</font>    | 包含 包括      |
 | 17. comprehend                               | 理解 懂       |
 | 18. premier                                  |            |
-| 19. principal                                |            |
+| 19. principal                                | 主要的 校长     |
 | 20. prime                                    |            |
 | 21. primitive                                |            |
 | 22. impress                                  |            |
