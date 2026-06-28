@@ -55,10 +55,10 @@
 | 49. innocent                                |       |
 | 50. nurture                                 |       |
 | 51. nutrition                               |       |
-| 52. petrol                                  |       |
+| 52. <font color="#00b050">petrol</font>     |       |
 | 53. adolescent                              |       |
 | 54. cooperate                               |       |
-| 55. opt                                     |       |
+| 55. <font color="#00b050">opt</font>        |       |
 | 56. orbit                                   |       |
 | 57. coordinate                              |       |
 | 58. organic                                 |       |
