@@ -62,7 +62,7 @@
 | 58. subsequent                                | 随后的         |
 | 59. <font color="#00b050">assert</font>       | 断言          |
 | 60. servant                                   | 仆人          |
-| 61. session                                   |             |
+| 61. session                                   | 一节          |
 | 62. obsession                                 | 痴迷          |
 | 63. <font color="#00b050">insight</font>      |             |
 | 64. assignment                                | 指派 分配 工作    |
