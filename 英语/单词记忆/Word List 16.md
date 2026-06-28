@@ -66,10 +66,10 @@
 | 62. obsession                                 |             |
 | 63. <font color="#00b050">insight</font>      |             |
 | 64. assignment                                |             |
-| 65. <font color="#00b050">signature</font>    |             |
-| 66. stability                                 |             |
-| 67. instant                                   |             |
-| 68. obstacle                                  |             |
+| 65. <font color="#00b050">signature</font>    | 签名          |
+| 66. stability                                 | 稳定性         |
+| 67. instant                                   | 立刻 马上       |
+| 68. obstacle                                  | 障碍          |
 | 69. resist                                    | 抵制          |
 | 70. resistant                                 | 抵制          |
 | 71. assistance                                | 帮助          |
