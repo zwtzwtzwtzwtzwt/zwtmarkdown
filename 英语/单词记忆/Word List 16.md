@@ -50,7 +50,7 @@
 | 46. sceptical                                 |             |
 | 47. conscience                                |             |
 | 48. scope                                     |             |
-| 49. <font color="#00b050">scrutiny</font>     |             |
+| 49. <font color="#00b050">scrutiny</font>     | 审查 检查       |
 | 50. <font color="#00b050">resemble</font>     |             |
 | 51. <font color="#00b050">senate</font>       |             |
 | 52. <font color="#00b050">senator</font>      |             |
