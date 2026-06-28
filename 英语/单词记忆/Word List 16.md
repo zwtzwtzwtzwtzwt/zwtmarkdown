@@ -25,7 +25,7 @@
 | 21. primitive                             |            |
 | 22. impress                               |            |
 | 23. impressive                            |            |
-| 24. suppress                              |            |
+| 24. suppress                              | 抑制 克制      |
 | 25. approve                               |            |
 | 26. proof                                 |            |
 | 27. symptom                               |            |
