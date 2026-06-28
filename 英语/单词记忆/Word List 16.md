@@ -72,7 +72,7 @@
 | 68. obstacle                                  | 障碍               |
 | 69. resist                                    | 抵制 （抵挡）          |
 | 70. resistant                                 | 抵制 （抗）           |
-| 71. assistance                                | 帮助               |
+| 71. assistance                                | 帮助  （援助）         |
 | 72. persist                                   | 坚持               |
 | 73. substitute                                | 替代               |
 | 74. <font color="#00b050">sociable</font>     |                  |
