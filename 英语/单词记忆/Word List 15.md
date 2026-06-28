@@ -71,7 +71,7 @@
 | 65. preparation                                                          | 准备               |     |
 | 66. <font color="#00b050">parliament</font>                              | 惩罚               |     |
 | 67. apartment                                                            | 公寓               |     |
-| 68. depart                                                               | 离开（离职 ）          |     |
+| 68. depart                                                               | 离开（离职 出发 偏离）     |     |
 | 69. <font color="#00b050">portion</font>                                 | 部分               |     |
 | 70. passive                                                              | 被动的              |     |
 | 71. sympathetic                                                          | 同情的              |     |
