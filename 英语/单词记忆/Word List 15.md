@@ -17,7 +17,7 @@
 | 11. <font color="#00b050">alliance</font>                           | （结盟 联盟）       |     |
 | 12. liberate                                                        | 解放 (使自由)      |     |
 | 13. <font color="#ff0000">delicate</font>                           | 精致的           |     |
-| 14. <font color="#ff0000">oblige</font>                             | （）            |     |
+| 14. <font color="#ff0000">oblige</font>                             | （迫使  帮忙）      |     |
 | 15. limitation                                                      | 限制            |     |
 | 16. literally                                                       | 字面上的          |     |
 | 17. literacy                                                        | 读写能力          |     |
