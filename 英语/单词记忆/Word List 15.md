@@ -77,9 +77,9 @@
 | 71. sympathetic                                | 同情的      |     |
 | 72. <font color="#00b050">compel</font>        | 强迫       |     |
 | 73. <font color="#00b050">propel</font>        |          |     |
-| 74. penalty                                    |          |     |
+| 74. penalty                                    | 惩罚       |     |
 | 75. compensate                                 |          |     |
 | 76. <font color="#00b050">indispensable</font> |          |     |
 | 77. <font color="#00b050">pension</font>       |          |     |
-| 78. suspend                                    |          |     |
+| 78. suspend                                    | 停止  悬挂   |     |
 
