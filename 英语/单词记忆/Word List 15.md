@@ -66,8 +66,8 @@
 | 60. accompany                                                            | 陪伴               |     |
 | 61. companion                                                            | 公司               |     |
 | 62. expansion                                                            | 扩张               |     |
-| 63. comparable                                                           | 竞争的              |     |
-| 64. comparative                                                          |                  |     |
+| 63. <font color="#00b050">comparable                             </font> |                  |     |
+| 64. <font color="#00b050">comparative</font>                             |                  |     |
 | 65. preparation                                                          | 准备               |     |
 | 66. <font color="#ff0000">parliament</font>                              | （国会）             |     |
 | 67. apartment                                                            | 公寓               |     |
