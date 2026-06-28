@@ -70,9 +70,9 @@
 | 64. comparative                                |          |     |
 | 65. preparation                                | 准备       |     |
 | 66. <font color="#00b050">parliament</font>    | 惩罚       |     |
-| 67. apartment                                  |          |     |
-| 68. depart                                     |          |     |
-| 69. <font color="#00b050">portion</font>       |          |     |
+| 67. apartment                                  | 公寓       |     |
+| 68. depart                                     | 离开       |     |
+| 69. <font color="#00b050">portion</font>       | 部分       |     |
 | 70. passive                                    |          |     |
 | 71. sympathetic                                |          |     |
 | 72. <font color="#00b050">compel</font>        |          |     |
