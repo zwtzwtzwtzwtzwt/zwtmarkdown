@@ -55,7 +55,7 @@
 | 51. <font color="#00b050">senate</font>       |             |
 | 52. <font color="#00b050">senator</font>      |             |
 | 53. <font color="#00b050">nonsense</font>     |             |
-| 54. consensus                                 |             |
+| 54. consensus                                 | 良知          |
 | 55. sensible                                  |             |
 | 56. <font color="#00b050">sentiment</font>    |             |
 | 57. consent                                   |             |
