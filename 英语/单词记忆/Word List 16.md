@@ -19,9 +19,9 @@
 | 15. compound                                 | 化合物 使加重    |
 | 16. <font color="#00b050">comprise</font>    | 包含 包括      |
 | 17. comprehend                               | 理解 懂       |
-| 18. premier                                  |            |
+| 18. <font color="#00b050">premier</font>     | 总理  最好的    |
 | 19. principal                                | 主要的 校长     |
-| 20. prime                                    |            |
+| 20. <font color="#00b050">prime</font>       |            |
 | 21. primitive                                |            |
 | 22. impress                                  |            |
 | 23. impressive                               |            |
