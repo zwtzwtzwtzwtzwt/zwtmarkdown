@@ -21,9 +21,9 @@
 | 15. limitation                                 | 限制    |
 | 16. literally                                  | 字面上的  |
 | 17. literacy                                   |       |
-| 18. apology                                    |       |
-| 19. apologize                                  |       |
-| 20. <font color="#00b050">prolong</font>       |       |
+| 18. apology                                    | 道歉    |
+| 19. apologize                                  | 道歉    |
+| 20. <font color="#00b050">prolong</font>       | 延长    |
 | 21. <font color="#00b050">illusion</font>      |       |
 | 22. luxury                                     |       |
 | 23. margin                                     |       |
