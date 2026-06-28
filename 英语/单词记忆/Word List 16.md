@@ -64,7 +64,7 @@
 | 60. servant                                   |             |
 | 61. session                                   |             |
 | 62. obsession                                 |             |
-| 63. insight                                   |             |
+| 63. <font color="#00b050">insight</font>      |             |
 | 64. assignment                                |             |
 | 65. <font color="#00b050">signature</font>    |             |
 | 66. stability                                 |             |
