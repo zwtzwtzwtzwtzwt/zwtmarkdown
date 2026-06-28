@@ -36,7 +36,7 @@
 | 32. quest                                     | 追求 探求          |
 | 33. rage                                      | 怒火 怒气（暴怒 狂怒）   |
 | 34. ray                                       | 光线             |
-| 35. realistic                                 | 务实的 实事求是的      |
+| 35. realistic                                 | 务实的 实事求是的 （）   |
 | 36. rhythm                                    | 韵律             |
 | 37. rigid                                     | 僵硬的 死板的        |
 | 38. ritual                                    | 惯例             |
