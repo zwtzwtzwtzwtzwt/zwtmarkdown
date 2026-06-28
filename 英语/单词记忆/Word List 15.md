@@ -30,7 +30,7 @@
 | 24. <font color="#00b050">marginal</font>      |       |
 | 25. mechanic                                   | 机器的   |
 | 26. dimension                                  | 维度范围  |
-| 27. commerce                                   |       |
+| 27. commerce                                   | 贸易    |
 | 28. <font color="#00b050">merit</font>         |       |
 | 29. prominent                                  |       |
 | 30. minimize                                   |       |
