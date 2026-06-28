@@ -23,7 +23,7 @@
 | 17. literacy                                |       |
 | 18. apology                                 |       |
 | 19. apologize                               |       |
-| 20. prolong                                 |       |
+| 20. <font color="#00b050">prolong</font>    |       |
 | 21. illusion                                |       |
 | 22. luxury                                  |       |
 | 23. margin                                  |       |
