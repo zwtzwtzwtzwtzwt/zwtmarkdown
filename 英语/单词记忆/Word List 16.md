@@ -57,8 +57,8 @@
 | 53. <font color="#00b050">nonsense</font>     | （繆论 胡言乱语）        |
 | 54. consensus                                 | 良知               |
 | 55. sensible                                  | 理智的 合理的          |
-| 56. <font color="#00b050">sentiment</font>    |                  |
-| 57. consent                                   | 同意               |
+| 56. <font color="#00b050">sentiment</font>    | （观点 看法情绪）        |
+| 57. consent                                   | 同意 （赞同 准许）       |
 | 58. subsequent                                | 随后的              |
 | 59. <font color="#00b050">assert</font>       | 断言               |
 | 60. servant                                   | 仆人               |
