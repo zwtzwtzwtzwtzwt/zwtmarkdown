@@ -60,8 +60,8 @@
 | 56. <font color="#00b050">sentiment</font>    |             |
 | 57. consent                                   | 同意          |
 | 58. subsequent                                | 随后的         |
-| 59. <font color="#00b050">assert</font>       |             |
-| 60. servant                                   |             |
+| 59. <font color="#00b050">assert</font>       | 断言          |
+| 60. servant                                   | 仆人          |
 | 61. session                                   |             |
 | 62. obsession                                 |             |
 | 63. <font color="#00b050">insight</font>      |             |
