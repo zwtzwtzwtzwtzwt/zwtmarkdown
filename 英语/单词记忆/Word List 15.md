@@ -11,8 +11,8 @@
 | 5. elegant                                                          | 优雅的           |     |
 | 6. dilemma                                                          | 困境            |     |
 | 7. <font color="#00b050">lever</font>                               | （控制杆  方法  撬动） |     |
-| 8. <font color="#00b050">liability</font>                           | （责任 义务 ）      |     |
-| 9. <font color="#00b050">liable</font>                              |               |     |
+| 8. <font color="#00b050">liability</font>                           | （责任 义务 债务）    |     |
+| 9. <font color="#00b050">liable</font>                              | （有责任的 ）       |     |
 | 10. reliance                                                        | 依赖            |     |
 | 11. <font color="#00b050">alliance</font>                           |               |     |
 | 12. liberate                                                        | 解放 自由         |     |
