@@ -64,7 +64,7 @@
 | 58. adhere                                  |       |
 | 59. heritage                                | 遗产    |
 | 60. hesitate                                |       |
-| 61. hostile                                 |       |
+| 61. hostile                                 | 厌恶    |
 | 62. hospitality                             |       |
 | 63. humble                                  |       |
 | 64. ideology                                |       |
