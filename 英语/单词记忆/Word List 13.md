@@ -32,8 +32,8 @@
 | 28. <font color="#00b050">conceal</font>     | （隐瞒 掩盖  隐藏）       |
 | 29. proceed                                  | （前进  开展）          |
 | 30. <font color="#00b050">exceed</font>      | 超过                |
-| 31. <font color="#00b050">excess</font>      | （过量的   ）          |
-| 32. <font color="#00b050">predecessor</font> |                   |
+| 31. <font color="#00b050">excess</font>      | （过量的   过多的  超过）   |
+| 32. <font color="#00b050">predecessor</font> | （前辈 前任）           |
 | 33. <font color="#00b050">succession</font>  |                   |
 | 34. <font color="#00b050">precede</font>     |                   |
 | 35. cease                                    |                   |
