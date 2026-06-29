@@ -76,6 +76,6 @@
 | 70. objection                               |       |
 | 71. inject                                  | 注射    |
 | 72. jet                                     |       |
-| 73. joint                                   |       |
+| 73. joint                                   | 联合体   |
 | 74. jurisdiction                            |       |
 
