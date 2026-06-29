@@ -34,13 +34,13 @@
 | 28. definite                                | 明确的   |
 | 29. confirm                                 | 证实 确认 |
 | 30. reflection                              | 反应    |
-| 31. flourish                                |       |
+| 31. <font color="#00b050">flourish</font>   |       |
 | 32. fluid                                   | 流畅的   |
-| 33. fluctuate                               |       |
+| 33. <font color="#00b050">fluctuate</font>  |       |
 | 34. uniform                                 | 校服    |
-| 35. formulate                               |       |
+| 35. <font color="#00b050">formulate</font>  |       |
 | 36. format                                  |       |
-| 37. fossil                                  |       |
+| 37. <font color="#00b050">fossil</font>     |       |
 | 38. fragment                                | 碎片    |
 | 39. fraction                                |       |
 | 40. frequency                               |       |
