@@ -59,7 +59,7 @@
 | 53. progressive                                                          | （先进的  改革派）    |
 | 54. <font color="#00b050">inhabit</font>                                 | （居住）          |
 | 55. <font color="#00b050">inhabitant</font>                              | （居民）          |
-| 56. exhaust                                                              | （）            |
+| 56. exhaust                                                              | （耗尽  ）        |
 | 57. <font color="#00b050">coherent</font>                                |               |
 | 58. <font color="#00b050">adhere</font>                                  |               |
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
