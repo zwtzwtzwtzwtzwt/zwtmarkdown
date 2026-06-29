@@ -13,8 +13,8 @@
 | 7. welfare                                                             | 福利（幸福）     |
 | 8. <font color="#ff0000">fare</font>                                   | （车费 路费）    |
 | 9. fatal                                                               | 致命的        |
-| 10. default                                                            | 默认的        |
-| 11. favorable                                                          | 最好的        |
+| 10. default                                                            | 默认         |
+| 11. favorable                                                          |            |
 | 12. beneficial                                                         | 有利的        |
 | 13. magnificent                                                        | 重要的        |
 | 14. sacrifice                                                          | 牺牲         |
