@@ -64,7 +64,7 @@
 | 58. <font color="#00b050">adhere</font>                                  | （遵守 附着）       |
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
 | 60. <font color="#00b050">hesitate</font>                                | （犹豫的）         |
-| 61. <font color="#00b050">hostile</font>                                 | （敌对的）         |
+| 61. <font color="#00b050">hostile</font>                                 | （敌对的 ）        |
 | 62. <font color="#00b050">hospitality</font>                             |               |
 | 63. humble                                                               | 谦虚的           |
 | 64. <font color="#00b050">ideology</font>                                |               |
