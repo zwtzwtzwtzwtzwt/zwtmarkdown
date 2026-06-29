@@ -19,7 +19,7 @@
 | 13. <font color="#00b050">magnificent</font>                            | 壮丽的        |
 | 14. sacrifice                                                           | 牺牲         |
 | 15. satisfactory                                                        | 令人满意的      |
-| 16. <font color="#00b050">manufacture</font>                            | 制造         |
+| 16. <font color="#00b050">manufacture</font>                            | 制造（）       |
 | 17. defeat                                                              | 击败         |
 | 18. facilitate                                                          | 使便利        |
 | 19. <font color="#00b050">federation</font>                             |            |
