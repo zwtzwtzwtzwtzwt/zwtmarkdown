@@ -23,8 +23,8 @@
 | 19. camp                                     | （阵营 露营）           |
 | 20. <font color="#00b050">canal</font>       | （运河 管道）           |
 | 21. <font color="#00b050">captive</font>     | （垄断的  关起来的）       |
-| 22. conception                               | 概念  （）            |
-| 23. <font color="#00b050">conceive</font>    |                   |
+| 22. conception                               | 概念  （构想 怀孕）       |
+| 23. <font color="#00b050">conceive</font>    | （构想  ）            |
 | 24. recipient                                | 接待会               |
 | 25. <font color="#00b050">occasion</font>    |                   |
 | 26. <font color="#00b050">cast</font>        |                   |
