@@ -73,8 +73,8 @@
 | 67. <font color="#00b050">inferior</font>                                | （较差的  次的  级别低的） |
 | 68. <font color="#00b050">integrate</font>                               | （融合 合并）         |
 | 69. <font color="#00b050">integrity</font>                               | （诚实正直）          |
-| 70. <font color="#00b050">objection</font>                               | （反对 ）           |
-| 71. inject                                                               | 注射              |
+| 70. <font color="#00b050">objection</font>                               | （反对 异议）         |
+| 71. inject                                                               | 注射 （投入）         |
 | 72. <font color="#00b050">jet</font>                                     |                 |
 | 73. joint                                                                | 联合体             |
 | 74. <font color="#00b050">jurisdiction</font>                            |                 |
