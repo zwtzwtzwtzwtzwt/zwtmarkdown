@@ -26,7 +26,7 @@
 | 22. conception                               | 概念  （构想 怀孕）       |
 | 23. <font color="#00b050">conceive</font>    | （构想  设想  怀孕）      |
 | 24. <font color="#00b050">recipient</font>   | （接受者）             |
-| 25. <font color="#00b050">occasion</font>    | （场合  ）            |
+| 25. <font color="#00b050">occasion</font>    | （场合  时机  仪式）      |
 | 26. <font color="#00b050">cast</font>        |                   |
 | 27. caution                                  | 谨慎的               |
 | 28. <font color="#00b050">conceal</font>     |                   |
