@@ -50,7 +50,7 @@
 | 46. <font color="#00b050">coalition</font>   |                   |
 | 47. coast                                    |                   |
 | 48. <font color="#00b050">colony</font>      |                   |
-| 49. consultant                               |                   |
+| 49. consultant                               | 咨询者               |
 | 50. cosmic                                   |                   |
 | 51. discourage                               |                   |
 | 52. accordingly                              | 相应的               |
