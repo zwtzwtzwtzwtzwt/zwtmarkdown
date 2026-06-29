@@ -30,9 +30,9 @@
 | 26. <font color="#00b050">cast</font>      |      |
 | 27. caution                                | 谨慎的  |
 | 28. <font color="#00b050">conceal</font>   |      |
-| 29. proceed                                |      |
-| 30. exceed                                 |      |
-| 31. excess                                 |      |
+| 29. proceed                                | 超过   |
+| 30. <font color="#00b050">exceed</font>    |      |
+| 31. <font color="#00b050">excess</font>    |      |
 | 32. predecessor                            |      |
 | 33. succession                             |      |
 | 34. precede                                |      |
