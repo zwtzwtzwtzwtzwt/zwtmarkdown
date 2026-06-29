@@ -18,9 +18,9 @@
 | 12. beneficial                              | 有利的 |
 | 13. magnificent                             | 重要的 |
 | 14. sacrifice                               | 牺牲  |
-| 15. satisfactory                            |     |
-| 16. manufacture                             |     |
-| 17. defeat                                  |     |
+| 15. satisfactory                            | 满意的 |
+| 16. manufacture                             | 制造  |
+| 17. defeat                                  | 击败  |
 | 18. facilitate                              |     |
 | 19. <font color="#00b050">federation</font> |     |
 | 20. defend                                  |     |
