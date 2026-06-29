@@ -50,7 +50,7 @@
 | 44. mutual                                                               | （相互的  共同的）        |     |
 | 45. mystery                                                              | 谜 （奥秘）            |     |
 | 46. <font color="#00b050">renaissance</font>                             | （文艺复兴  复兴）        |     |
-| 47. <font color="#00b050">narrative</font>                               | 狭窄的               |     |
+| 47. <font color="#00b050">narrative</font>                               | （叙事体的  讲述  ）      |     |
 | 48. navy                                                                 | 海军                |     |
 | 49. innocent                                                             | 无辜的               |     |
 | 50. <font color="#00b050">nurture</font>                                 | 天赋                |     |
