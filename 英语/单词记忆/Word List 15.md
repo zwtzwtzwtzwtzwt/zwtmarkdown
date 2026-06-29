@@ -40,7 +40,7 @@
 | 34. <font color="#00b050">transmit</font>                                | (传送  传播  传染)     |     |
 | 35. <font color="#00b050">submit</font>                                  | （提交 屈服）          |     |
 | 36. mixture                                                              | 混合物              |     |
-| 37. <font color="#00b050">moderate</font>                                | （）               |     |
+| 37. <font color="#00b050">moderate</font>                                | （适中的 合理的  ）      |     |
 | 38. <font color="#00b050">modify</font>                                  |                  |     |
 | 39. motive                                                               | 动机               |     |
 | 40. remote                                                               | 遥远的              |     |
