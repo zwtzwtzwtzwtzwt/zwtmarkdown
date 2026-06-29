@@ -20,10 +20,10 @@
 | 16. symbol                                 | 象征   |
 | 17. bonus                                  | 红利   |
 | 18. calculate                              | 计算   |
-| 19. camp                                   |      |
+| 19. camp                                   | 搭帐篷  |
 | 20. canal                                  |      |
 | 21. captive                                |      |
-| 22. conception                             |      |
+| 22. conception                             | 概念   |
 | 23. conceive                               |      |
 | 24. recipient                              |      |
 | 25. occasion                               |      |
