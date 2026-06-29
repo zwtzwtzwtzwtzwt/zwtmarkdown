@@ -37,11 +37,11 @@
 | 31. flourish                                |       |
 | 32. fluid                                   | 流畅的   |
 | 33. fluctuate                               |       |
-| 34. uniform                                 |       |
+| 34. uniform                                 | 校服    |
 | 35. formulate                               |       |
 | 36. format                                  |       |
 | 37. fossil                                  |       |
-| 38. fragment                                |       |
+| 38. fragment                                | 碎片    |
 | 39. fraction                                |       |
 | 40. frequency                               |       |
 | 41. confuse                                 |       |
