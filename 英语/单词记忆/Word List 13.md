@@ -4,7 +4,7 @@
 | ------------------ | --- |
 | 1. abolish         | 废除  |
 | 2. activate        | 激活  |
-| 3. agenda          |     |
+| 3. agenda          | 日程  |
 | 4. alcohol         | 酒精  |
 | 5. alien           |     |
 | 6. ambitious       |     |
