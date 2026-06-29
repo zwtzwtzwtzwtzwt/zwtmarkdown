@@ -27,7 +27,7 @@
 | 21. <font color="#00b050">manifest</font>   |     |
 | 22. interference                            | 干涉  |
 | 23. inference                               | 干涉  |
-| 24. indifferent                             |     |
+| 24. indifferent                             | 冷漠的 |
 | 25. preferable                              |     |
 | 26. fibre                                   |     |
 | 27. confident                               |     |
