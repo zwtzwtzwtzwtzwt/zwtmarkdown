@@ -56,7 +56,7 @@
 | 50. <font color="#00b050">nurture</font>                                 | （培养  养育）          |     |
 | 51. nutrition                                                            | 营养                |     |
 | 52. <font color="#00b050">petrol</font>                                  | （汽油）              |     |
-| 53. <font color="#00b050">adolescent</font>                              | （青春期）             |     |
+| 53. <font color="#00b050">adolescent</font>                              | （青春期的  青少年）       |     |
 | 54. cooperate                                                            | 合作                |     |
 | 55. <font color="#00b050">opt</font>                                     | 选择                |     |
 | 56. orbit                                                                | 轨道                |     |
