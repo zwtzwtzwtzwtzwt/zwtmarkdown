@@ -21,7 +21,7 @@
 | 15. satisfactory                                                        | 令人满意的      |
 | 16. <font color="#00b050">manufacture</font>                            | 制造（捏造 编造）  |
 | 17. defeat                                                              | 击败         |
-| 18. facilitate                                                          | 使便利        |
+| 18. facilitate                                                          | 使便利（促进）    |
 | 19. <font color="#00b050">federation</font>                             |            |
 | 20. defend                                                              | 防御         |
 | 21. <font color="#00b050">manifest</font>                               |            |
