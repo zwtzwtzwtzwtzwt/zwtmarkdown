@@ -14,8 +14,8 @@
 | 10. astronomy      | 天文学家 |
 | 11. disaster       | 灾难   |
 | 12. auction        | 拍卖   |
-| 13. combat         |      |
-| 14. combination    |      |
+| 13. combat         | 抵制   |
+| 14. combination    | 关联   |
 | 15. embody         |      |
 | 16. symbol         |      |
 | 17. bonus          |      |
