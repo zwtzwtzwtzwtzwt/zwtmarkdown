@@ -21,9 +21,9 @@
 | 15. satisfactory                            | 满意的 |
 | 16. manufacture                             | 制造  |
 | 17. defeat                                  | 击败  |
-| 18. facilitate                              |     |
+| 18. facilitate                              | 使便利 |
 | 19. <font color="#00b050">federation</font> |     |
-| 20. defend                                  |     |
+| 20. defend                                  | 防御  |
 | 21. manifest                                |     |
 | 22. interference                            |     |
 | 23. inference                               |     |
