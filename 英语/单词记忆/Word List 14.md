@@ -11,7 +11,7 @@
 | 5. possession                                                          | 财产（拥有）     |
 | 6. fame                                                                | 荣誉         |
 | 7. welfare                                                             | 福利（幸福）     |
-| 8. fare                                                                | 公平的        |
+| 8. <font color="#ff0000">fare</font>                                   | 公平的        |
 | 9. fatal                                                               | 致命的        |
 | 10. default                                                            | 默认的        |
 | 11. favorable                                                          | 最好的        |
