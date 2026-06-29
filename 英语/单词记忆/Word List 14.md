@@ -43,8 +43,8 @@
 | 37. <font color="#00b050">fossil</font>     |       |
 | 38. fragment                                | 碎片    |
 | 39. fraction                                | 碎片    |
-| 40. frequency                               |       |
-| 41. confuse                                 |       |
+| 40. frequency                               | 频率    |
+| 41. confuse                                 | 使困惑   |
 | 42. confusion                               |       |
 | 43. garment                                 |       |
 | 44. generator                               |       |
