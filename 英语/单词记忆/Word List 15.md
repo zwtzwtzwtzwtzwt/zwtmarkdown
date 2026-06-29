@@ -64,9 +64,9 @@
 | 58. organic                                                              | 有机的  （器官的）        |     |
 | 59. negotiate                                                            | 协商                |     |
 | 60. <font color="#00b050">accompany</font>                               | 陪伴                |     |
-| 61. <font color="#00b050">companion</font>                               | （）                |     |
+| 61. <font color="#00b050">companion</font>                               | （同伴）              |     |
 | 62. expansion                                                            | 扩张                |     |
-| 63. <font color="#00b050">comparable                             </font> |                   |     |
+| 63. <font color="#00b050">comparable                             </font> | （类似的  ）           |     |
 | 64. <font color="#00b050">comparative</font>                             |                   |     |
 | 65. preparation                                                          | 准备                |     |
 | 66. <font color="#ff0000">parliament</font>                              | （国会）              |     |
