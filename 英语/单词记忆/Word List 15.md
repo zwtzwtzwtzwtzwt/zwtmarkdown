@@ -48,8 +48,8 @@
 | 42. <font color="#00b050">multitude</font>                               | （大量 群众）           |     |
 | 43. commute                                                              | 往返路线（上下班路程）       |     |
 | 44. mutual                                                               | （相互的  共同的）        |     |
-| 45. mystery                                                              | 谜                 |     |
-| 46. <font color="#00b050">renaissance</font>                             |                   |     |
+| 45. mystery                                                              | 谜 （奥秘）            |     |
+| 46. <font color="#00b050">renaissance</font>                             | （文艺复兴  复兴）        |     |
 | 47. narrative                                                            | 狭窄的               |     |
 | 48. navy                                                                 | 海军                |     |
 | 49. innocent                                                             | 无辜的               |     |
