@@ -68,7 +68,7 @@
 | 62. <font color="#00b050">hospitality</font>                             |               |
 | 63. humble                                                               | 谦虚的           |
 | 64. <font color="#00b050">ideology</font>                                |               |
-| 65. ambiguous                                                            | 有决心的          |
+| 65. <font color="#00b050">ambiguous</font>                               | 有决心的          |
 | 66. <font color="#00b050">imaginative</font>                             |               |
 | 67. <font color="#00b050">inferior</font>                                |               |
 | 68. <font color="#00b050">integrate</font>                               |               |
