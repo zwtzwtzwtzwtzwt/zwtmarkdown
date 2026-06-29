@@ -69,7 +69,7 @@
 | 63. humble                                                               | 谦虚的           |
 | 64. <font color="#00b050">ideology</font>                                | （意识形态）        |
 | 65. <font color="#00b050">ambiguous</font>                               | （模糊的）         |
-| 66. <font color="#00b050">imaginative</font>                             | （）            |
+| 66. <font color="#00b050">imaginative</font>                             | （有想象力的 ）      |
 | 67. <font color="#00b050">inferior</font>                                |               |
 | 68. <font color="#00b050">integrate</font>                               |               |
 | 69. integrity                                                            | 融合            |
