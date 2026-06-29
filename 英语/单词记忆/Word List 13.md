@@ -44,7 +44,7 @@
 | 40. chronic                                  | 慢性的 （长期的）         |
 | 41. <font color="#00b050">clarity</font>     | （清晰）              |
 | 42. classification                           | 分类  （类别）          |
-| 43. exclude                                  | 排除                |
+| 43. exclude                                  | 排除 （不准进入）         |
 | 44. exclusive                                |                   |
 | 45. disclose                                 |                   |
 | 46. coalition                                |                   |
