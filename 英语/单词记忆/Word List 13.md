@@ -19,8 +19,8 @@
 | 15. embody                                   | 体现  （包含 包括）       |
 | 16. symbol                                   | 象征  （符号）          |
 | 17. bonus                                    | 红利 （奖金）           |
-| 18. calculate                                | 计算                |
-| 19. camp                                     | 搭帐篷               |
+| 18. calculate                                | 计算 （预测 推测）        |
+| 19. camp                                     |                   |
 | 20. <font color="#00b050">canal</font>       |                   |
 | 21. <font color="#00b050">captive</font>     |                   |
 | 22. conception                               | 概念                |
