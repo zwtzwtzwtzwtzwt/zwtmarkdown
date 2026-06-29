@@ -14,7 +14,7 @@
 | 8. <font color="#ff0000">fare</font>                                    | （车费 路费）    |
 | 9. fatal                                                                | 致命的        |
 | 10. default                                                             | 默认         |
-| 11. <font color="#00b050">favorable                             </font> |            |
+| 11. <font color="#00b050">favorable                             </font> | 有利的  有助于   |
 | 12. beneficial                                                          | 有利的        |
 | 13. magnificent                                                         | 重要的        |
 | 14. sacrifice                                                           | 牺牲         |
