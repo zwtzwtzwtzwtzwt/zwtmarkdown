@@ -26,8 +26,8 @@
 | 22. conception                             | 概念   |
 | 23. conceive                               | 接受   |
 | 24. recipient                              |      |
-| 25. occasion                               |      |
-| 26. cast                                   |      |
+| 25. <font color="#00b050">occasion</font>  |      |
+| 26. <font color="#00b050">cast</font>      |      |
 | 27. caution                                | 谨慎的  |
 | 28. conceal                                |      |
 | 29. proceed                                |      |
