@@ -52,7 +52,7 @@
 | 48. <font color="#00b050">colony</font>      | 殖民地   （聚居人群）      |
 | 49. <font color="#00b050">consultant</font>  | （顾问）              |
 | 50. <font color="#00b050">cosmic</font>      | （宇宙的 特大的）         |
-| 51. discourage                               |                   |
+| 51. <font color="#00b050">discourage</font>  | （阻止  ）            |
 | 52. accordingly                              | 相应的               |
 | 53. recover                                  | 覆盖                |
 | 54. incredible                               |                   |
