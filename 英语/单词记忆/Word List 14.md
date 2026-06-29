@@ -15,7 +15,7 @@
 | 9. fatal                                    | 致命的 |
 | 10. default                                 | 默认的 |
 | 11. favorable                               | 最好的 |
-| 12. beneficial                              |     |
+| 12. beneficial                              | 有利的 |
 | 13. magnificent                             |     |
 | 14. sacrifice                               |     |
 | 15. satisfactory                            |     |
