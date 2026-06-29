@@ -55,7 +55,7 @@
 | 49. grain                                                                | （谷物）          |
 | 50. <font color="#00b050">grateful</font>                                | （感激的）         |
 | 51. gravity                                                              | 重力            |
-| 52. <font color="#00b050">ingredient</font>                              | （）            |
+| 52. <font color="#00b050">ingredient</font>                              | （因素   食材）     |
 | 53. progressive                                                          |               |
 | 54. <font color="#00b050">inhabit</font>                                 |               |
 | 55. <font color="#00b050">inhabitant</font>                              |               |
