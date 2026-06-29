@@ -16,8 +16,8 @@
 | 10. default                                 | 默认的 |
 | 11. favorable                               | 最好的 |
 | 12. beneficial                              | 有利的 |
-| 13. magnificent                             |     |
-| 14. sacrifice                               |     |
+| 13. magnificent                             | 重要的 |
+| 14. sacrifice                               | 牺牲  |
 | 15. satisfactory                            |     |
 | 16. manufacture                             |     |
 | 17. defeat                                  |     |
