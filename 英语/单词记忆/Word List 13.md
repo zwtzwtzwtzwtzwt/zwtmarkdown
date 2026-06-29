@@ -50,8 +50,8 @@
 | 46. <font color="#00b050">coalition</font>   | （联盟 联合）           |
 | 47. coast                                    | （海岸 ）             |
 | 48. <font color="#00b050">colony</font>      | 殖民地   （聚居人群）      |
-| 49. consultant                               | 咨询者               |
-| 50. cosmic                                   | 有趣的 喜剧演员          |
+| 49. <font color="#00b050">consultant</font>  | （顾问）              |
+| 50. <font color="#00b050">cosmic</font>      | 有趣的 喜剧演员          |
 | 51. discourage                               |                   |
 | 52. accordingly                              | 相应的               |
 | 53. recover                                  | 覆盖                |
