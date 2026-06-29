@@ -56,8 +56,8 @@
 | 52. accordingly                              | 相应的（因此）           |
 | 53. <font color="#00b050">recover</font>     | （复原 恢复）           |
 | 54. incredible                               | （极好的 极大的  难以置信的）  |
-| 55. concrete                                 | 具体的  （）           |
-| 56. agriculture                              | 农业的               |
+| 55. concrete                                 | 具体的  （混泥土）        |
+| 56. agriculture                              | 农业                |
 | 57. occupy                                   | 占用                |
 | 58. accurate                                 | 精确地               |
 | 59. curious                                  | 好奇的               |
