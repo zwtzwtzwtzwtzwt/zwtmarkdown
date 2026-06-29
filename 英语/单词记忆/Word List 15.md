@@ -61,7 +61,7 @@
 | 55. <font color="#00b050">opt</font>                                     | 选择                |     |
 | 56. orbit                                                                | 轨道  （环绕）          |     |
 | 57. <font color="#00b050">coordinate</font>                              | （协调  搭配）          |     |
-| 58. organic                                                              | 有机的               |     |
+| 58. organic                                                              | 有机的  （器官的）        |     |
 | 59. negotiate                                                            | 协商                |     |
 | 60. <font color="#00b050">accompany</font>                               | 陪伴                |     |
 | 61. <font color="#00b050">companion</font>                               | （）                |     |
