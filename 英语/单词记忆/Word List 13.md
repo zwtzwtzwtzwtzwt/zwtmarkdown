@@ -60,7 +60,7 @@
 | 56. agriculture                              |      |
 | 57. occupy                                   |      |
 | 58. accurate                                 |      |
-| 59. curious                                  |      |
+| 59. curious                                  | 好奇的  |
 | 60. curriculum                               |      |
 | 61. dense                                    |      |
 | 62. density                                  |      |
