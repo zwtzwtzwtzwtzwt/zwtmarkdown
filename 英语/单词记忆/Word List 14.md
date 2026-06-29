@@ -63,7 +63,7 @@
 | 57. <font color="#00b050">coherent</font>                                | （连贯的）         |
 | 58. <font color="#00b050">adhere</font>                                  | （遵守 附着）       |
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
-| 60. <font color="#00b050">hesitate</font>                                |               |
+| 60. <font color="#00b050">hesitate</font>                                | （犹豫的）         |
 | 61. hostile                                                              | 厌恶            |
 | 62. <font color="#00b050">hospitality</font>                             |               |
 | 63. humble                                                               | 谦虚的           |
