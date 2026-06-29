@@ -9,7 +9,7 @@
 | 5. <font color="#00b050">alien</font>        | （外国人  外侨  陌生的） |
 | 6. ambitious                                 | 有决心的           |
 | 7. <font color="#00b050">monarch</font>      | （君主 帝王）        |
-| 8. alarm                                     | 警告             |
+| 8. alarm                                     | 警告  （警报  报警器 ） |
 | 9. artistic                                  | 艺术的            |
 | 10. <font color="#00b050">astronomy</font>   | 天文学家           |
 | 11. disaster                                 | 灾难             |
