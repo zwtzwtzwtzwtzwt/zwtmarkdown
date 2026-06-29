@@ -57,13 +57,13 @@
 | 53. recover                                  | 覆盖                |
 | 54. incredible                               |                   |
 | 55. concrete                                 | 具体的               |
-| 56. agriculture                              |                   |
+| 56. agriculture                              | 农业的               |
 | 57. occupy                                   | 占用                |
 | 58. accurate                                 | 精确地               |
 | 59. curious                                  | 好奇的               |
 | 60. curriculum                               |                   |
 | 61. dense                                    | 密集的  稠密的          |
-| 62. density                                  |                   |
+| 62. density                                  | 密集                |
 | 63. contradict                               |                   |
 | 64. dictate                                  |                   |
 | 65. dose                                     |                   |
