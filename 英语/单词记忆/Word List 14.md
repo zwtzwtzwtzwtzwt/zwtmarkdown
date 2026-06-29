@@ -46,7 +46,7 @@
 | 40. frequency                               | 频率    |
 | 41. confuse                                 | 使困惑   |
 | 42. confusion                               | 困扰    |
-| 43. garment                                 |       |
+| 43. <font color="#00b050">garment</font>    |       |
 | 44. generator                               |       |
 | 45. exaggerate                              | 夸大    |
 | 46. gigantic                                |       |
