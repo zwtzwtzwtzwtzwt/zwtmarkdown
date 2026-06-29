@@ -28,7 +28,7 @@
 | 24. <font color="#00b050">recipient</font>   | （接受者）             |
 | 25. <font color="#00b050">occasion</font>    | （场合  时机  仪式）      |
 | 26. <font color="#00b050">cast</font>        | （加于  模型）          |
-| 27. caution                                  | 谨慎的               |
+| 27. caution                                  | （）                |
 | 28. <font color="#00b050">conceal</font>     |                   |
 | 29. proceed                                  | 超过                |
 | 30. <font color="#00b050">exceed</font>      |                   |
