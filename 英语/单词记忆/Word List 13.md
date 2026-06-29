@@ -6,9 +6,9 @@
 | 2. activate                                | 激活   |
 | 3. agenda                                  | 日程   |
 | 4. alcohol                                 | 酒精   |
-| 5. alien                                   |      |
+| 5. <font color="#00b050">alien</font>      |      |
 | 6. ambitious                               | 有决心的 |
-| 7. monarch                                 |      |
+| 7. <font color="#00b050">monarch</font>    |      |
 | 8. alarm                                   | 警告   |
 | 9. artistic                                | 艺术的  |
 | 10. <font color="#00b050">astronomy</font> | 天文学家 |
@@ -16,7 +16,7 @@
 | 12. auction                                | 拍卖   |
 | 13. <font color="#00b050">combat</font>    |      |
 | 14. combination                            | 关联   |
-| 15. embody                                 |      |
+| 15. embody                                 | 体现   |
 | 16. symbol                                 |      |
 | 17. bonus                                  |      |
 | 18. calculate                              |      |
