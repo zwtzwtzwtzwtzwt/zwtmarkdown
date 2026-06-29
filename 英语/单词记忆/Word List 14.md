@@ -34,7 +34,7 @@
 | 28. <font color="#00b050">definite                             </font>   | 明确的         |
 | 29. confirm                                                              | 证实 确认       |
 | 30. reflection                                                           | （反映  思考 反射） |
-| 31. <font color="#00b050">flourish</font>                                |             |
+| 31. <font color="#00b050">flourish</font>                                | （繁荣 兴旺）     |
 | 32. fluid                                                                | 流畅的         |
 | 33. <font color="#00b050">fluctuate</font>                               |             |
 | 34. uniform                                                              | 校服          |
