@@ -41,8 +41,8 @@
 | 35. <font color="#00b050">formulate</font>                               | （制定，表达）       |
 | 36. format                                                               | 形式            |
 | 37. <font color="#00b050">fossil</font>                                  | （花式）          |
-| 38. fragment                                                             | 碎片            |
-| 39. fraction                                                             | （小部分 少量）      |
+| 38. <font color="#00b050">fragment</font>                                | 碎片            |
+| 39. <font color="#00b050">fraction</font>                                | （小部分 少量）      |
 | 40. frequency                                                            | 频率            |
 | 41. confuse                                                              | 使困惑           |
 | 42. confusion                                                            | 困扰            |
