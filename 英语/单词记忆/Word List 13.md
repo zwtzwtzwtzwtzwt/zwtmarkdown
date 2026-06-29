@@ -41,9 +41,9 @@
 | 37. <font color="#00b050">census</font>      | 人口普查              |
 | 38. charter                                  | （宪章  章程  特许状  包租） |
 | 39. chemistry                                | 化学                |
-| 40. chronic                                  | 慢性的 （）            |
-| 41. clarity                                  |                   |
-| 42. classification                           |                   |
+| 40. chronic                                  | 慢性的 （长期的）         |
+| 41. clarity                                  | 慈善                |
+| 42. classification                           | 分类                |
 | 43. exclude                                  | 排除                |
 | 44. exclusive                                |                   |
 | 45. disclose                                 |                   |
