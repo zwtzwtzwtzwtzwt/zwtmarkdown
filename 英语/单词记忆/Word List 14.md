@@ -38,7 +38,7 @@
 | 32. <font color="#00b050">fluid</font>                                   | （流体的  流动的 液体） |
 | 33. <font color="#00b050">fluctuate</font>                               | （波动）          |
 | 34. uniform                                                              | 校服（统一的）       |
-| 35. <font color="#00b050">formulate</font>                               | （制定）          |
+| 35. <font color="#00b050">formulate</font>                               | （制定，表达）       |
 | 36. format                                                               | 形式            |
 | 37. <font color="#00b050">fossil</font>                                  |               |
 | 38. fragment                                                             | 碎片            |
