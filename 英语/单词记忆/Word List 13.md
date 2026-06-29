@@ -70,7 +70,7 @@
 | 66. <font color="#00b050">mandate</font>     | （指令  委托）           |
 | 67. edition                                  | （版本  版次）           |
 | 68. division                                 | 分开 （分配  分歧 差异）     |
-| 69. document                                 | 文件                 |
-| 70. <font color="#00b050">paradox</font>     |                    |
+| 69. document                                 | 文件（文献  记录）         |
+| 70. <font color="#00b050">paradox</font>     | （）                 |
 | 71. <font color="#00b050">drastic</font>     |                    |
 | 72. <font color="#00b050">deduce</font>      |                    |
