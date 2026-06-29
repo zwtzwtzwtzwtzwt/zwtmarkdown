@@ -33,7 +33,7 @@
 | 27. confident                               | 自信的   |
 | 28. definite                                |       |
 | 29. confirm                                 | 证实 确认 |
-| 30. reflection                              |       |
+| 30. reflection                              | 反应    |
 | 31. flourish                                |       |
 | 32. fluid                                   |       |
 | 33. fluctuate                               |       |
