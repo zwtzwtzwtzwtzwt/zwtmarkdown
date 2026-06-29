@@ -11,7 +11,7 @@
 | 7. monarch         |      |
 | 8. alarm           | 警告   |
 | 9. artistic        | 艺术的  |
-| 10. astronomy      |      |
+| 10. astronomy      | 天文学家 |
 | 11. disaster       | 灾难   |
 | 12. auction        | 拍卖   |
 | 13. combat         |      |
