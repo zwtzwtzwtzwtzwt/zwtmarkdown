@@ -52,8 +52,8 @@
 | 46. gigantic                                |       |
 | 47. cognitive                               |       |
 | 48. ignorant                                | 无知的   |
-| 49. grain                                   |       |
-| 50. grateful                                |       |
+| 49. grain                                   | 粮食    |
+| 50. grateful                                | 极好的   |
 | 51. gravity                                 |       |
 | 52. ingredient                              |       |
 | 53. progressive                             |       |
