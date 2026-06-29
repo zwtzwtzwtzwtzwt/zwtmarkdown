@@ -42,7 +42,7 @@
 | 36. format                                                               | 形式            |
 | 37. <font color="#00b050">fossil</font>                                  | （花式）          |
 | 38. fragment                                                             | 碎片            |
-| 39. fraction                                                             | （小部分 ）        |
+| 39. fraction                                                             | （小部分 少量）      |
 | 40. frequency                                                            | 频率            |
 | 41. confuse                                                              | 使困惑           |
 | 42. confusion                                                            | 困扰            |
