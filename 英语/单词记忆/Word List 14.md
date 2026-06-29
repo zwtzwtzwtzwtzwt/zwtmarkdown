@@ -45,7 +45,7 @@
 | 39. fraction                                | 碎片    |
 | 40. frequency                               | 频率    |
 | 41. confuse                                 | 使困惑   |
-| 42. confusion                               |       |
+| 42. confusion                               | 困扰    |
 | 43. garment                                 |       |
 | 44. generator                               |       |
 | 45. exaggerate                              | 夸大    |
