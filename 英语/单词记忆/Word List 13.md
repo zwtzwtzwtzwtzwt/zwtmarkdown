@@ -15,7 +15,7 @@
 | 11. disaster                                 | 灾难                |
 | 12. auction                                  | 拍卖                |
 | 13. <font color="#00b050">combat</font>      | （防止  战斗）          |
-| 14. combination                              | 关联                |
+| 14. combination                              | （联合 混合）           |
 | 15. embody                                   | 体现                |
 | 16. symbol                                   | 象征                |
 | 17. bonus                                    | 红利                |
