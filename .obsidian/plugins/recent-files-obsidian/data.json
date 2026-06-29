@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "向量的计算",
+      "path": "线性代数/补充知识/向量的计算.md"
+    },
+    {
+      "basename": "记忆内容",
+      "path": "线性代数/行列式/记忆内容.md"
+    },
+    {
+      "basename": "记忆内容",
+      "path": "线性代数/矩阵/记忆内容.md"
+    },
+    {
+      "basename": "积分上限函数转换（心一学长 没咋了）",
+      "path": "1高数基础/5定积分与反常积分/做题方法/积分上限函数转换（心一学长 没咋了）.md"
+    },
+    {
+      "basename": "极坐标交换积分次序",
+      "path": "1高数基础/9二重积分/做题方法/极坐标交换积分次序.md"
+    },
+    {
+      "basename": "数列极限方法",
+      "path": "1高数基础/1-2极限/做题方法/数列极限方法.md"
+    },
+    {
+      "basename": "在线索二叉树中找前驱后继",
+      "path": "2数据结构/6树/3二叉树的遍历和线索二叉树/在线索二叉树中找前驱后继.md"
+    },
+    {
+      "basename": "Word List 30",
+      "path": "英语/单词记忆/Word List 30.md"
+    },
+    {
+      "basename": "Word List 11",
+      "path": "英语/单词记忆/Word List 11.md"
+    },
+    {
+      "basename": "Word List 10",
+      "path": "英语/单词记忆/Word List 10.md"
+    },
+    {
       "basename": "Word List 13",
       "path": "英语/单词记忆/Word List 13.md"
+    },
+    {
+      "basename": "Word List 19",
+      "path": "英语/单词记忆/Word List 19.md"
+    },
+    {
+      "basename": "Word List 18",
+      "path": "英语/单词记忆/Word List 18.md"
+    },
+    {
+      "basename": "Word List 20",
+      "path": "英语/单词记忆/Word List 20.md"
+    },
+    {
+      "basename": "Word List 12",
+      "path": "英语/单词记忆/Word List 12.md"
     },
     {
       "basename": "Word List 16",
@@ -17,28 +73,8 @@
       "path": "英语/单词记忆/Word List 15.md"
     },
     {
-      "basename": "Word List 11",
-      "path": "英语/单词记忆/Word List 11.md"
-    },
-    {
-      "basename": "Word List 12",
-      "path": "英语/单词记忆/Word List 12.md"
-    },
-    {
-      "basename": "Word List 19",
-      "path": "英语/单词记忆/Word List 19.md"
-    },
-    {
       "basename": "Word List 29",
       "path": "英语/单词记忆/Word List 29.md"
-    },
-    {
-      "basename": "Word List 30",
-      "path": "英语/单词记忆/Word List 30.md"
-    },
-    {
-      "basename": "Word List 10",
-      "path": "英语/单词记忆/Word List 10.md"
     },
     {
       "basename": "Word List 9",
@@ -69,16 +105,8 @@
       "path": "英语/单词记忆/Word List 28.md"
     },
     {
-      "basename": "Word List 18",
-      "path": "英语/单词记忆/Word List 18.md"
-    },
-    {
       "basename": "Word List 21",
       "path": "英语/单词记忆/Word List 21.md"
-    },
-    {
-      "basename": "Word List 20",
-      "path": "英语/单词记忆/Word List 20.md"
     },
     {
       "basename": "计算方法",
@@ -277,16 +305,8 @@
       "path": "线性代数/矩阵/指数的随意交换.md"
     },
     {
-      "basename": "记忆内容",
-      "path": "线性代数/矩阵/记忆内容.md"
-    },
-    {
       "basename": "矩阵计算细节",
       "path": "线性代数/矩阵/矩阵计算细节.md"
-    },
-    {
-      "basename": "记忆内容",
-      "path": "线性代数/行列式/记忆内容.md"
     },
     {
       "basename": "0解和非0解",
