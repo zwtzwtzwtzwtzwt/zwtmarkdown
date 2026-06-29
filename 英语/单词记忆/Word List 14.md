@@ -16,7 +16,7 @@
 | 10. default                                                             | 默认         |
 | 11. <font color="#00b050">favorable                             </font> | （有利的 有助于）  |
 | 12. beneficial                                                          | 有利的        |
-| 13. <font color="#00b050">magnificent</font>                            |            |
+| 13. <font color="#00b050">magnificent</font>                            | 壮丽的        |
 | 14. sacrifice                                                           | 牺牲         |
 | 15. satisfactory                                                        | 满意的        |
 | 16. manufacture                                                         | 制造         |
