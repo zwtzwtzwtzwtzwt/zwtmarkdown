@@ -59,7 +59,7 @@
 | 55. concrete                                 |      |
 | 56. agriculture                              |      |
 | 57. occupy                                   |      |
-| 58. accurate                                 |      |
+| 58. accurate                                 | 精确地  |
 | 59. curious                                  | 好奇的  |
 | 60. curriculum                               |      |
 | 61. dense                                    |      |
