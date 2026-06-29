@@ -58,7 +58,7 @@
 | 54. incredible                               | （极好的 极大的  难以置信的）  |
 | 55. concrete                                 | 具体的  （混泥土）        |
 | 56. agriculture                              | 农业                |
-| 57. occupy                                   | 占用                |
+| 57. occupy                                   | 占用 （占领 任职）        |
 | 58. accurate                                 | 精确地               |
 | 59. curious                                  | 好奇的               |
 | 60. curriculum                               |                   |
