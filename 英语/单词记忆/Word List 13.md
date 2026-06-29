@@ -17,8 +17,8 @@
 | 13. <font color="#00b050">combat</font>      | （防止  战斗）          |
 | 14. combination                              | （联合 混合）           |
 | 15. embody                                   | 体现  （包含 包括）       |
-| 16. symbol                                   | 象征                |
-| 17. bonus                                    | 红利                |
+| 16. symbol                                   | 象征  （符号）          |
+| 17. bonus                                    | 红利 （奖金）           |
 | 18. calculate                                | 计算                |
 | 19. camp                                     | 搭帐篷               |
 | 20. <font color="#00b050">canal</font>       |                   |
