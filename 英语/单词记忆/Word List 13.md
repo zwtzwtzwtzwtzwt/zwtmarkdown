@@ -39,8 +39,8 @@
 | 35. cease                                    | （停止）              |
 | 36. excel                                    | （善于 突出）           |
 | 37. <font color="#00b050">census</font>      | 人口普查              |
-| 38. charter                                  |                   |
-| 39. chemistry                                |                   |
+| 38. charter                                  | 章节                |
+| 39. chemistry                                | 化学                |
 | 40. chronic                                  | 慢性的               |
 | 41. clarity                                  |                   |
 | 42. classification                           |                   |
