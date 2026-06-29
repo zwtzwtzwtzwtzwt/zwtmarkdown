@@ -42,7 +42,7 @@
 | 36. format                                  |       |
 | 37. <font color="#00b050">fossil</font>     |       |
 | 38. fragment                                | 碎片    |
-| 39. fraction                                |       |
+| 39. fraction                                | 碎片    |
 | 40. frequency                               |       |
 | 41. confuse                                 |       |
 | 42. confusion                               |       |
