@@ -40,7 +40,7 @@
 | 34. uniform                                                              | 校服（统一的）       |
 | 35. <font color="#00b050">formulate</font>                               | （制定，表达）       |
 | 36. format                                                               | 形式            |
-| 37. <font color="#00b050">fossil</font>                                  |               |
+| 37. <font color="#00b050">fossil</font>                                  | （花式）          |
 | 38. fragment                                                             | 碎片            |
 | 39. fraction                                                             | 碎片            |
 | 40. frequency                                                            | 频率            |
