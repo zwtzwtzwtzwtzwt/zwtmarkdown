@@ -66,7 +66,7 @@
 | 62. density                                  | 密度                 |
 | 63. <font color="#00b050">contradict</font>  | （相抵触  相矛盾  相反  反驳） |
 | 64. <font color="#00b050">dictate</font>     | （支配   影响 口述）       |
-| 65. dose                                     | （一）                |
+| 65. dose                                     | （一剂 ）              |
 | 66. <font color="#00b050">mandate</font>     | （指令  委托）           |
 | 67. edition                                  | （版本  版次）           |
 | 68. division                                 | 分开                 |
