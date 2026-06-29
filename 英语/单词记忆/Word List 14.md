@@ -48,10 +48,10 @@
 | 42. confusion                               |       |
 | 43. garment                                 |       |
 | 44. generator                               |       |
-| 45. exaggerate                              |       |
+| 45. exaggerate                              | 夸大    |
 | 46. gigantic                                |       |
 | 47. cognitive                               |       |
-| 48. ignorant                                |       |
+| 48. ignorant                                | 无知的   |
 | 49. grain                                   |       |
 | 50. grateful                                |       |
 | 51. gravity                                 |       |
