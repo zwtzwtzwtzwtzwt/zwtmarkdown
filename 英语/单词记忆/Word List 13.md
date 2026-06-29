@@ -12,8 +12,8 @@
 | 8. alarm           | 警告   |
 | 9. artistic        | 艺术的  |
 | 10. astronomy      |      |
-| 11. disaster       |      |
-| 12. auction        |      |
+| 11. disaster       | 灾难   |
+| 12. auction        | 拍卖   |
 | 13. combat         |      |
 | 14. combination    |      |
 | 15. embody         |      |
