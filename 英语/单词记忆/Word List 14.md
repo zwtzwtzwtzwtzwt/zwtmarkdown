@@ -62,7 +62,7 @@
 | 56. exhaust                                   | 疲惫的   |
 | 57. <font color="#00b050">coherent</font>     |       |
 | 58. <font color="#00b050">adhere</font>       |       |
-| 59. heritage                                  | 遗产    |
+| 59. <font color="#00b050">heritage</font>     | 遗产    |
 | 60. <font color="#00b050">hesitate</font>     |       |
 | 61. hostile                                   | 厌恶    |
 | 62. <font color="#00b050">hospitality</font>  |       |
