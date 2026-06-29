@@ -64,7 +64,7 @@
 | 60. <font color="#00b050">curriculum</font>  | （课程）              |
 | 61. dense                                    | 密集的  稠密的          |
 | 62. density                                  | 密度                |
-| 63. contradict                               |                   |
+| 63. contradict                               | （）                |
 | 64. dictate                                  |                   |
 | 65. dose                                     |                   |
 | 66. <font color="#00b050">mandate</font>     |                   |
