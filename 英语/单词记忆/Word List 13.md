@@ -14,7 +14,7 @@
 | 10. <font color="#00b050">astronomy</font>   | 天文学               |
 | 11. disaster                                 | 灾难                |
 | 12. auction                                  | 拍卖                |
-| 13. <font color="#00b050">combat</font>      |                   |
+| 13. <font color="#00b050">combat</font>      | （）                |
 | 14. combination                              | 关联                |
 | 15. embody                                   | 体现                |
 | 16. symbol                                   | 象征                |
