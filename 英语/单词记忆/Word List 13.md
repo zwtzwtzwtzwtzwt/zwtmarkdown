@@ -67,10 +67,10 @@
 | 63. contradict                               |      |
 | 64. dictate                                  |      |
 | 65. dose                                     |      |
-| 66. mandate                                  |      |
-| 67. edition                                  |      |
-| 68. division                                 |      |
-| 69. document                                 |      |
+| 66. <font color="#00b050">mandate</font>     |      |
+| 67. edition                                  | 编辑   |
+| 68. division                                 | 分开   |
+| 69. document                                 | 文件   |
 | 70. <font color="#00b050">paradox</font>     |      |
 | 71. <font color="#00b050">drastic</font>     |      |
 | 72. <font color="#00b050">deduce</font>      |      |
