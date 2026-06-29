@@ -34,7 +34,7 @@
 | 30. <font color="#00b050">exceed</font>      | 超过                |
 | 31. <font color="#00b050">excess</font>      | （过量的   过多的  超过）   |
 | 32. <font color="#00b050">predecessor</font> | （前辈 前任）           |
-| 33. <font color="#00b050">succession</font>  |                   |
+| 33. <font color="#00b050">succession</font>  | （一系列   ）          |
 | 34. <font color="#00b050">precede</font>     |                   |
 | 35. cease                                    |                   |
 | 36. excel                                    | 表格 精通             |
