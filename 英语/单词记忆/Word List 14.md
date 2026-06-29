@@ -61,7 +61,7 @@
 | 55. <font color="#00b050">inhabitant</font>                              | （居民）          |
 | 56. exhaust                                                              | （耗尽  疲惫 废弃）   |
 | 57. <font color="#00b050">coherent</font>                                | （连贯的）         |
-| 58. <font color="#00b050">adhere</font>                                  |               |
+| 58. <font color="#00b050">adhere</font>                                  | （遵守 附着）       |
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
 | 60. <font color="#00b050">hesitate</font>                                |               |
 | 61. hostile                                                              | 厌恶            |
