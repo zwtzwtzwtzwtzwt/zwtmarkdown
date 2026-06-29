@@ -54,7 +54,7 @@
 | 48. ignorant                                | 无知的   |
 | 49. grain                                   | 粮食    |
 | 50. grateful                                | 极好的   |
-| 51. gravity                                 |       |
+| 51. gravity                                 | 重力    |
 | 52. ingredient                              |       |
 | 53. progressive                             |       |
 | 54. inhabit                                 |       |
