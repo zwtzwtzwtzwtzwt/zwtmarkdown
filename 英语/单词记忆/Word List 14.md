@@ -66,9 +66,9 @@
 | 60. hesitate                                |       |
 | 61. hostile                                 | 厌恶    |
 | 62. hospitality                             |       |
-| 63. humble                                  |       |
+| 63. humble                                  | 谦虚的   |
 | 64. ideology                                |       |
-| 65. ambiguous                               |       |
+| 65. ambiguous                               | 有决心的  |
 | 66. imaginative                             |       |
 | 67. inferior                                |       |
 | 68. integrate                               |       |
