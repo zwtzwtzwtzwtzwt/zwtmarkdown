@@ -72,9 +72,9 @@
 | 66. imaginative                             |       |
 | 67. inferior                                |       |
 | 68. integrate                               |       |
-| 69. integrity                               |       |
+| 69. integrity                               | 融合    |
 | 70. objection                               |       |
-| 71. inject                                  |       |
+| 71. inject                                  | 注射    |
 | 72. jet                                     |       |
 | 73. joint                                   |       |
 | 74. jurisdiction                            |       |
