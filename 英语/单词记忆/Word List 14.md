@@ -12,9 +12,9 @@
 | 6. fame                                     | 荣誉  |
 | 7. welfare                                  | 福利  |
 | 8. fare                                     | 公平的 |
-| 9. fatal                                    |     |
-| 10. default                                 |     |
-| 11. favorable                               |     |
+| 9. fatal                                    | 致命的 |
+| 10. default                                 | 默认的 |
+| 11. favorable                               | 最好的 |
 | 12. beneficial                              |     |
 | 13. magnificent                             |     |
 | 14. sacrifice                               |     |
