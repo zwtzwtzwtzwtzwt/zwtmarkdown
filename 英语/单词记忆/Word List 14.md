@@ -50,7 +50,7 @@
 | 44. generator                               |       |
 | 45. exaggerate                              | 夸大    |
 | 46. gigantic                                |       |
-| 47. cognitive                               |       |
+| 47. cognitive                               | 认知的   |
 | 48. ignorant                                | 无知的   |
 | 49. grain                                   | 粮食    |
 | 50. grateful                                | 极好的   |
