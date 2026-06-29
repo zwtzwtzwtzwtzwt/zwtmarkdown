@@ -37,7 +37,7 @@
 | 33. <font color="#00b050">succession</font>  |          |
 | 34. <font color="#00b050">precede</font>     |          |
 | 35. cease                                    |          |
-| 36. excel                                    |          |
+| 36. excel                                    | 表格 精通    |
 | 37. <font color="#00b050">census</font>      |          |
 | 38. charter                                  |          |
 | 39. chemistry                                |          |
