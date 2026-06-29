@@ -47,9 +47,9 @@
 | 41. confuse                                                              | 使困惑           |
 | 42. confusion                                                            | 困扰   （混乱）     |
 | 43. <font color="#00b050">garment</font>                                 | （衣服）          |
-| 44. <font color="#00b050">generator</font>                               | （生成器 ）        |
+| 44. <font color="#00b050">generator</font>                               | （生成器 发动机）     |
 | 45. exaggerate                                                           | 夸大            |
-| 46. <font color="#00b050">gigantic</font>                                |               |
+| 46. <font color="#00b050">gigantic</font>                                | （巨大的）         |
 | 47. cognitive                                                            | 认知的           |
 | 48. ignorant                                                             | 无知的           |
 | 49. grain                                                                | 粮食            |
