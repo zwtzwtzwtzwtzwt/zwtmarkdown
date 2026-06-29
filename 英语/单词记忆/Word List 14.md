@@ -39,7 +39,7 @@
 | 33. <font color="#00b050">fluctuate</font>    |       |
 | 34. uniform                                   | 校服    |
 | 35. <font color="#00b050">formulate</font>    |       |
-| 36. format                                    |       |
+| 36. format                                    | 形式    |
 | 37. <font color="#00b050">fossil</font>       |       |
 | 38. fragment                                  | 碎片    |
 | 39. fraction                                  | 碎片    |
