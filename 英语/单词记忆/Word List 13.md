@@ -30,9 +30,9 @@
 | 26. <font color="#00b050">cast</font>        | （加于  模型）          |
 | 27. caution                                  | （谨慎 警告）           |
 | 28. <font color="#00b050">conceal</font>     | （隐瞒 掩盖  隐藏）       |
-| 29. proceed                                  | （前）               |
+| 29. proceed                                  | （前进  开展）          |
 | 30. <font color="#00b050">exceed</font>      | 超过                |
-| 31. <font color="#00b050">excess</font>      |                   |
+| 31. <font color="#00b050">excess</font>      | （过量的   ）          |
 | 32. <font color="#00b050">predecessor</font> |                   |
 | 33. <font color="#00b050">succession</font>  |                   |
 | 34. <font color="#00b050">precede</font>     |                   |
