@@ -24,9 +24,9 @@
 | 18. facilitate                              | 使便利 |
 | 19. <font color="#00b050">federation</font> |     |
 | 20. defend                                  | 防御  |
-| 21. manifest                                |     |
-| 22. interference                            |     |
-| 23. inference                               |     |
+| 21. <font color="#00b050">manifest</font>   |     |
+| 22. interference                            | 干涉  |
+| 23. inference                               | 干涉  |
 | 24. indifferent                             |     |
 | 25. preferable                              |     |
 | 26. fibre                                   |     |
