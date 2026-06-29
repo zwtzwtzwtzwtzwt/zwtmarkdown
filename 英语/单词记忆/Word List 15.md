@@ -59,8 +59,8 @@
 | 53. <font color="#00b050">adolescent</font>                              | （青春期的  青少年）       |     |
 | 54. cooperate                                                            | 合作                |     |
 | 55. <font color="#00b050">opt</font>                                     | 选择                |     |
-| 56. orbit                                                                | 轨道  （）            |     |
-| 57. coordinate                                                           |                   |     |
+| 56. orbit                                                                | 轨道  （环绕）          |     |
+| 57. <font color="#00b050">coordinate</font>                              | （协调  搭配）          |     |
 | 58. organic                                                              | 有机的               |     |
 | 59. negotiate                                                            | 协商                |     |
 | 60. <font color="#00b050">accompany</font>                               | 陪伴                |     |
