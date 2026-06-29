@@ -21,8 +21,8 @@
 | 17. bonus                                  | 红利   |
 | 18. calculate                              | 计算   |
 | 19. camp                                   | 搭帐篷  |
-| 20. canal                                  |      |
-| 21. captive                                |      |
+| 20. <font color="#00b050">canal</font>     |      |
+| 21. <font color="#00b050">captive</font>   |      |
 | 22. conception                             | 概念   |
 | 23. conceive                               |      |
 | 24. recipient                              |      |
