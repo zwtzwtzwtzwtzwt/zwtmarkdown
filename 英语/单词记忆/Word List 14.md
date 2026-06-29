@@ -7,8 +7,8 @@
 | 1. <font color="#ff0000">reproduce                             </font> | （繁殖 再现 复制） |
 | 2. durable                                                             | 耐用的        |
 | 3. <font color="#ff0000">duration</font>                               | （持续时间）     |
-| 4. electric                                                            | （电的 ）      |
-| 5. possession                                                          | 财产         |
+| 4. electric                                                            | （电的 电动的）   |
+| 5. possession                                                          | 财产（拥有）     |
 | 6. fame                                                                | 荣誉         |
 | 7. welfare                                                             | 福利         |
 | 8. fare                                                                | 公平的        |
