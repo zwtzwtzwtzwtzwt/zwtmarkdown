@@ -21,8 +21,8 @@
 | 17. bonus                                    | 红利 （奖金）           |
 | 18. calculate                                | 计算 （预测 推测）        |
 | 19. camp                                     | （阵营 露营）           |
-| 20. <font color="#00b050">canal</font>       | （运河 ）             |
-| 21. <font color="#00b050">captive</font>     |                   |
+| 20. <font color="#00b050">canal</font>       | （运河 管道）           |
+| 21. <font color="#00b050">captive</font>     | （垄断的  关起来的）       |
 | 22. conception                               | 概念                |
 | 23. <font color="#00b050">conceive</font>    |                   |
 | 24. recipient                                | 接待会               |
