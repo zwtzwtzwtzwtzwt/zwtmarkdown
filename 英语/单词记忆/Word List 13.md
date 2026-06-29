@@ -46,7 +46,7 @@
 | 42. classification                           | 分类  （类别）          |
 | 43. exclude                                  | 排除 （不准进入）         |
 | 44. <font color="#00b050">exclusive</font>   | （专用的 独有的  排外的）    |
-| 45. <font color="#00b050">disclose</font>    |                   |
+| 45. <font color="#00b050">disclose</font>    | （揭露 透露  ）         |
 | 46. <font color="#00b050">coalition</font>   |                   |
 | 47. coast                                    |                   |
 | 48. <font color="#00b050">colony</font>      | 殖民地               |
