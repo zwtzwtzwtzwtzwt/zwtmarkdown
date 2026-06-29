@@ -45,7 +45,7 @@
 | 41. <font color="#00b050">clarity</font>     | （清晰）              |
 | 42. classification                           | 分类  （类别）          |
 | 43. exclude                                  | 排除 （不准进入）         |
-| 44. <font color="#00b050">exclusive</font>   |                   |
+| 44. <font color="#00b050">exclusive</font>   | （专员公）             |
 | 45. <font color="#00b050">disclose</font>    |                   |
 | 46. <font color="#00b050">coalition</font>   |                   |
 | 47. coast                                    |                   |
