@@ -31,7 +31,7 @@
 | 25. <font color="#ff0000">preferable                             </font> | （更可取  更合适） |
 | 26. fibre                                                                | 纤维         |
 | 27. confident                                                            | 自信的        |
-| 28. definite                                                             | 明确的        |
+| 28. <font color="#00b050">definite                             </font>   | 明确的        |
 | 29. confirm                                                              | 证实 确认      |
 | 30. reflection                                                           | 反应         |
 | 31. <font color="#00b050">flourish</font>                                |            |
