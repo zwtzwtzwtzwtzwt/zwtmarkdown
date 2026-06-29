@@ -28,8 +28,8 @@
 | 22. interference                            | 干涉  |
 | 23. inference                               | 干涉  |
 | 24. indifferent                             | 冷漠的 |
-| 25. preferable                              |     |
-| 26. fibre                                   |     |
+| 25. preferable                              | 更喜欢 |
+| 26. fibre                                   | 纤维  |
 | 27. confident                               |     |
 | 28. definite                                |     |
 | 29. confirm                                 |     |
