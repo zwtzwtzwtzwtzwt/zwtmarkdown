@@ -70,7 +70,7 @@
 | 64. <font color="#00b050">ideology</font>                                | （意识形态）        |
 | 65. <font color="#00b050">ambiguous</font>                               | （模糊的）         |
 | 66. <font color="#00b050">imaginative</font>                             | （有想象力的 创新的）   |
-| 67. <font color="#00b050">inferior</font>                                |               |
+| 67. <font color="#00b050">inferior</font>                                | （较差的  ）       |
 | 68. <font color="#00b050">integrate</font>                               |               |
 | 69. integrity                                                            | 融合            |
 | 70. <font color="#00b050">objection</font>                               |               |
