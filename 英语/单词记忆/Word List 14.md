@@ -10,7 +10,7 @@
 | 4. electric                                                            | （电的 电动的）   |
 | 5. possession                                                          | 财产（拥有）     |
 | 6. fame                                                                | 荣誉         |
-| 7. welfare                                                             | 福利         |
+| 7. welfare                                                             | 福利（幸福）     |
 | 8. fare                                                                | 公平的        |
 | 9. fatal                                                               | 致命的        |
 | 10. default                                                            | 默认的        |
