@@ -35,7 +35,7 @@
 | 29. confirm                                                              | 证实 确认       |
 | 30. reflection                                                           | （反映  思考 反射） |
 | 31. <font color="#00b050">flourish</font>                                | （繁荣 兴旺）     |
-| 32. <font color="#00b050">fluid</font>                                   |             |
+| 32. <font color="#00b050">fluid</font>                                   | （流体的  ）     |
 | 33. <font color="#00b050">fluctuate</font>                               |             |
 | 34. uniform                                                              | 校服          |
 | 35. <font color="#00b050">formulate</font>                               |             |
