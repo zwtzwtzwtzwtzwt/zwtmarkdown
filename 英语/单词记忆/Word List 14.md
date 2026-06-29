@@ -5,9 +5,9 @@
 | 英文单词                                        | 1   |
 | ------------------------------------------- | --- |
 | 1. reproduce                                | 代表  |
-| 2. durable                                  |     |
-| 3. duration                                 |     |
-| 4. electric                                 |     |
+| 2. durable                                  | 耐用的 |
+| 3. duration                                 | 耐用  |
+| 4. electric                                 | 电子  |
 | 5. possession                               |     |
 | 6. fame                                     |     |
 | 7. welfare                                  |     |
