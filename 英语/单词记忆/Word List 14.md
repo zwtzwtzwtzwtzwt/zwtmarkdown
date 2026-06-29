@@ -26,7 +26,7 @@
 | 20. defend                                                              | 防御（捍卫 保卫）  |
 | 21. <font color="#00b050">manifest</font>                               | （显示 明显的）   |
 | 22. interference                                                        | 干涉         |
-| 23. inference                                                           | 干涉         |
+| 23. <font color="#ff0000">inference                             </font> |            |
 | 24. indifferent                                                         | 冷漠的        |
 | 25. preferable                                                          | 更喜欢        |
 | 26. fibre                                                               | 纤维         |
