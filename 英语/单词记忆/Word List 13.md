@@ -69,7 +69,7 @@
 | 65. dose                                     | （一剂 ）              |
 | 66. <font color="#00b050">mandate</font>     | （指令  委托）           |
 | 67. edition                                  | （版本  版次）           |
-| 68. division                                 | 分开                 |
+| 68. division                                 | 分开 （分配  分歧 差异）     |
 | 69. document                                 | 文件                 |
 | 70. <font color="#00b050">paradox</font>     |                    |
 | 71. <font color="#00b050">drastic</font>     |                    |
