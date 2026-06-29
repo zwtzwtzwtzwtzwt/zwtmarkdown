@@ -9,9 +9,9 @@
 | 3. duration                                 | 耐用  |
 | 4. electric                                 | 电子的 |
 | 5. possession                               | 财产  |
-| 6. fame                                     |     |
-| 7. welfare                                  |     |
-| 8. fare                                     |     |
+| 6. fame                                     | 荣誉  |
+| 7. welfare                                  | 福利  |
+| 8. fare                                     | 公平的 |
 | 9. fatal                                    |     |
 | 10. default                                 |     |
 | 11. favorable                               |     |
