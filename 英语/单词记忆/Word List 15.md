@@ -78,7 +78,7 @@
 | 72. <font color="#00b050">compel</font>                                  | 强迫  （迫使  引起）      |     |
 | 73. <font color="#00b050">propel</font>                                  | （推动 驱动）           |     |
 | 74. penalty                                                              | 惩罚                |     |
-| 75. <font color="#00b050">compensate                             </font> |                   |     |
+| 75. <font color="#00b050">compensate                             </font> | （弥补 ）             |     |
 | 76. <font color="#00b050">indispensable</font>                           |                   |     |
 | 77. <font color="#00b050">pension</font>                                 |                   |     |
 | 78. suspend                                                              | 停止  悬挂  （延迟）      |     |
