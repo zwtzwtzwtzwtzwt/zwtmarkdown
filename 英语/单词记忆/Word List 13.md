@@ -29,7 +29,7 @@
 | 25. <font color="#00b050">occasion</font>  |      |
 | 26. <font color="#00b050">cast</font>      |      |
 | 27. caution                                | 谨慎的  |
-| 28. conceal                                |      |
+| 28. <font color="#00b050">conceal</font>   |      |
 | 29. proceed                                |      |
 | 30. exceed                                 |      |
 | 31. excess                                 |      |
