@@ -76,7 +76,7 @@
 | 70. passive                                                              | 被动的               |     |
 | 71. sympathetic                                                          | 同情的               |     |
 | 72. <font color="#00b050">compel</font>                                  | 强迫  （迫使  引起）      |     |
-| 73. <font color="#00b050">propel</font>                                  |                   |     |
+| 73. <font color="#00b050">propel</font>                                  | （推动 驱动）           |     |
 | 74. penalty                                                              | 惩罚                |     |
 | 75. <font color="#00b050">compensate                             </font> |                   |     |
 | 76. <font color="#00b050">indispensable</font>                           |                   |     |
