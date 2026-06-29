@@ -53,9 +53,9 @@
 | 47. cognitive                                                            | 认知的           |
 | 48. ignorant                                                             | 无知的           |
 | 49. grain                                                                | （谷物）          |
-| 50. <font color="#00b050">grateful</font>                                |               |
+| 50. <font color="#00b050">grateful</font>                                | （感激的）         |
 | 51. gravity                                                              | 重力            |
-| 52. <font color="#00b050">ingredient</font>                              |               |
+| 52. <font color="#00b050">ingredient</font>                              | （）            |
 | 53. progressive                                                          |               |
 | 54. <font color="#00b050">inhabit</font>                                 |               |
 | 55. <font color="#00b050">inhabitant</font>                              |               |
