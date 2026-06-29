@@ -67,7 +67,7 @@
 | 61. <font color="#00b050">hostile</font>                                 | （敌对的 有敌意的）    |
 | 62. <font color="#00b050">hospitality</font>                             | （好客的 殷勤）      |
 | 63. humble                                                               | 谦虚的           |
-| 64. <font color="#00b050">ideology</font>                                | （意识）          |
+| 64. <font color="#00b050">ideology</font>                                | （意识形态）        |
 | 65. <font color="#00b050">ambiguous</font>                               | 有决心的          |
 | 66. <font color="#00b050">imaginative</font>                             |               |
 | 67. <font color="#00b050">inferior</font>                                |               |
