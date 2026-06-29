@@ -73,4 +73,4 @@
 | 69. document                                 | 文件（文献  记录）         |
 | 70. <font color="#00b050">paradox</font>     | （悖论  矛盾的）          |
 | 71. <font color="#00b050">drastic</font>     | （急剧的  严重的）         |
-| 72. <font color="#00b050">deduce</font>      |                    |
+| 72. <font color="#00b050">deduce</font>      | （推断 推论）            |
