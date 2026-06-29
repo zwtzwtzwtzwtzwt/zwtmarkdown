@@ -59,10 +59,10 @@
 | 53. progressive                             |       |
 | 54. inhabit                                 |       |
 | 55. inhabitant                              |       |
-| 56. exhaust                                 |       |
+| 56. exhaust                                 | 疲惫的   |
 | 57. coherent                                |       |
 | 58. adhere                                  |       |
-| 59. heritage                                |       |
+| 59. heritage                                | 遗产    |
 | 60. hesitate                                |       |
 | 61. hostile                                 |       |
 | 62. hospitality                             |       |
