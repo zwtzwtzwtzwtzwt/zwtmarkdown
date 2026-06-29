@@ -53,8 +53,8 @@
 | 49. consultant                               |                   |
 | 50. cosmic                                   |                   |
 | 51. discourage                               |                   |
-| 52. accordingly                              |                   |
-| 53. recover                                  |                   |
+| 52. accordingly                              | 相应的               |
+| 53. recover                                  | 覆盖                |
 | 54. incredible                               |                   |
 | 55. concrete                                 | 具体的               |
 | 56. agriculture                              |                   |
