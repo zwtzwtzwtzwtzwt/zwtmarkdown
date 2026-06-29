@@ -24,7 +24,7 @@
 | 18. facilitate                                                          | 使便利（促进）    |
 | 19. <font color="#00b050">federation</font>                             | （联盟）       |
 | 20. defend                                                              | 防御（捍卫 保卫）  |
-| 21. <font color="#00b050">manifest</font>                               | （显示 ）      |
+| 21. <font color="#00b050">manifest</font>                               | （显示 明显的）   |
 | 22. interference                                                        | 干涉         |
 | 23. inference                                                           | 干涉         |
 | 24. indifferent                                                         | 冷漠的        |
