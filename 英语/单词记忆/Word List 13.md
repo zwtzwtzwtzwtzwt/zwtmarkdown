@@ -49,9 +49,9 @@
 | 45. <font color="#00b050">disclose</font>    |                   |
 | 46. <font color="#00b050">coalition</font>   |                   |
 | 47. coast                                    |                   |
-| 48. <font color="#00b050">colony</font>      |                   |
+| 48. <font color="#00b050">colony</font>      | 殖民地               |
 | 49. consultant                               | 咨询者               |
-| 50. cosmic                                   |                   |
+| 50. cosmic                                   | 有趣的 喜剧演员          |
 | 51. discourage                               |                   |
 | 52. accordingly                              | 相应的               |
 | 53. recover                                  | 覆盖                |
