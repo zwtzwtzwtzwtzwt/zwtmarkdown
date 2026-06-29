@@ -28,7 +28,7 @@
 | 24. recipient                              |      |
 | 25. occasion                               |      |
 | 26. cast                                   |      |
-| 27. caution                                |      |
+| 27. caution                                | 谨慎的  |
 | 28. conceal                                |      |
 | 29. proceed                                |      |
 | 30. exceed                                 |      |
