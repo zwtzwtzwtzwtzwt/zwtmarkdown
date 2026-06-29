@@ -31,7 +31,7 @@
 | 25. <font color="#ff0000">mechanic</font>                                | （技工 修理工 方法）      |     |
 | 26. dimension                                                            | 维度（层面  大小 部分）    |     |
 | 27. commerce                                                             | 贸易               |     |
-| 28. <font color="#00b050">merit</font>                                   |                  |     |
+| 28. <font color="#00b050">merit</font>                                   | （价值 ）            |     |
 | 29. <font color="#00b050">prominent</font>                               |                  |     |
 | 30. minimize                                                             | 最小化              |     |
 | 31. <font color="#ff0000">misery</font>                                  |                  |     |
