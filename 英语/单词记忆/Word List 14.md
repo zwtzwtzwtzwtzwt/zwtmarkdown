@@ -52,8 +52,8 @@
 | 46. <font color="#00b050">gigantic</font>                                | （巨大的）         |
 | 47. cognitive                                                            | 认知的           |
 | 48. ignorant                                                             | 无知的           |
-| 49. grain                                                                | （）            |
-| 50. grateful                                                             | 极好的           |
+| 49. grain                                                                | （谷物）          |
+| 50. <font color="#00b050">grateful</font>                                |               |
 | 51. gravity                                                              | 重力            |
 | 52. <font color="#00b050">ingredient</font>                              |               |
 | 53. progressive                                                          |               |
