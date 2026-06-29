@@ -17,9 +17,9 @@
 | 13. <font color="#00b050">combat</font>    |      |
 | 14. combination                            | 关联   |
 | 15. embody                                 | 体现   |
-| 16. symbol                                 |      |
-| 17. bonus                                  |      |
-| 18. calculate                              |      |
+| 16. symbol                                 | 象征   |
+| 17. bonus                                  | 红利   |
+| 18. calculate                              | 计算   |
 | 19. camp                                   |      |
 | 20. canal                                  |      |
 | 21. captive                                |      |
