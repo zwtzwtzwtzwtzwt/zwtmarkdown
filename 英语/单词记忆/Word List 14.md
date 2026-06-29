@@ -28,7 +28,7 @@
 | 22. interference                                                         | 干涉         |
 | 23. <font color="#ff0000">inference                             </font>  | （推断 推理）    |
 | 24. indifferent                                                          | 冷漠的        |
-| 25. <font color="#ff0000">preferable                             </font> | （）         |
+| 25. <font color="#ff0000">preferable                             </font> | （更可取  更合适） |
 | 26. fibre                                                                | 纤维         |
 | 27. confident                                                            | 自信的        |
 | 28. definite                                                             | 明确的        |
