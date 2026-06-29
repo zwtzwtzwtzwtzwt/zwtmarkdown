@@ -37,8 +37,8 @@
 | 33. <font color="#00b050">succession</font>  | （一系列   连续  继承）    |
 | 34. <font color="#00b050">precede</font>     | （先于之前）            |
 | 35. cease                                    | （停止）              |
-| 36. excel                                    | （善于）              |
-| 37. <font color="#00b050">census</font>      |                   |
+| 36. excel                                    | （善于 突出）           |
+| 37. <font color="#00b050">census</font>      | 人口普查              |
 | 38. charter                                  |                   |
 | 39. chemistry                                |                   |
 | 40. chronic                                  | 慢性的               |
