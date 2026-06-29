@@ -31,11 +31,11 @@
 | 25. preferable                              | 更喜欢   |
 | 26. fibre                                   | 纤维    |
 | 27. confident                               | 自信的   |
-| 28. definite                                |       |
+| 28. definite                                | 明确的   |
 | 29. confirm                                 | 证实 确认 |
 | 30. reflection                              | 反应    |
 | 31. flourish                                |       |
-| 32. fluid                                   |       |
+| 32. fluid                                   | 流畅的   |
 | 33. fluctuate                               |       |
 | 34. uniform                                 |       |
 | 35. formulate                               |       |
