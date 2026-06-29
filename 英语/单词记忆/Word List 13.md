@@ -61,9 +61,9 @@
 | 57. occupy                                   | 占用 （占领 任职）        |
 | 58. accurate                                 | 精确地 （确切的  恰当的）    |
 | 59. curious                                  | 好奇的               |
-| 60. curriculum                               |                   |
+| 60. <font color="#00b050">curriculum</font>  | （课程）              |
 | 61. dense                                    | 密集的  稠密的          |
-| 62. density                                  | 密集                |
+| 62. density                                  | 密度                |
 | 63. contradict                               |                   |
 | 64. dictate                                  |                   |
 | 65. dose                                     |                   |
