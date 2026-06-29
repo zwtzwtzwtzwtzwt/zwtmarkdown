@@ -24,7 +24,7 @@
 | 20. <font color="#00b050">canal</font>     |      |
 | 21. <font color="#00b050">captive</font>   |      |
 | 22. conception                             | 概念   |
-| 23. conceive                               |      |
+| 23. conceive                               | 接受   |
 | 24. recipient                              |      |
 | 25. occasion                               |      |
 | 26. cast                                   |      |
