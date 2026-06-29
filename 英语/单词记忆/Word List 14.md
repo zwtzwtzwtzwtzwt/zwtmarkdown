@@ -51,7 +51,7 @@
 | 45. exaggerate                                                           | 夸大            |
 | 46. <font color="#00b050">gigantic</font>                                | （巨大的）         |
 | 47. cognitive                                                            | 认知的           |
-| 48. ignorant                                                             | 无知的           |
+| 48. ignorant                                                             | 无知的  （）       |
 | 49. grain                                                                | 粮食            |
 | 50. grateful                                                             | 极好的           |
 | 51. gravity                                                              | 重力            |
