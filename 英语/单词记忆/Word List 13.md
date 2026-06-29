@@ -44,7 +44,7 @@
 | 40. chronic                                  | 慢性的      |
 | 41. clarity                                  |          |
 | 42. classification                           |          |
-| 43. exclude                                  |          |
+| 43. exclude                                  | 排除       |
 | 44. exclusive                                |          |
 | 45. disclose                                 |          |
 | 46. coalition                                |          |
