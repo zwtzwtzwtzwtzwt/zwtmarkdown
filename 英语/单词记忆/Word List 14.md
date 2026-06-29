@@ -45,8 +45,8 @@
 | 39. <font color="#00b050">fraction</font>                                | （小部分 少量）      |
 | 40. frequency                                                            | 频率            |
 | 41. confuse                                                              | 使困惑           |
-| 42. confusion                                                            | 困扰   （）       |
-| 43. <font color="#00b050">garment</font>                                 |               |
+| 42. confusion                                                            | 困扰   （混乱）     |
+| 43. <font color="#00b050">garment</font>                                 | （衣服）          |
 | 44. <font color="#00b050">generator</font>                               |               |
 | 45. exaggerate                                                           | 夸大            |
 | 46. <font color="#00b050">gigantic</font>                                |               |
