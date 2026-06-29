@@ -33,9 +33,9 @@
 | 27. commerce                                                             | 贸易               |     |
 | 28. <font color="#00b050">merit</font>                                   | （价值 优点  长处）      |     |
 | 29. <font color="#00b050">prominent</font>                               | （重要的 杰出的 突出的）    |     |
-| 30. minimize                                                             | 最小化              |     |
-| 31. <font color="#ff0000">misery</font>                                  |                  |     |
-| 32. <font color="#00b050">miserable</font>                               |                  |     |
+| 30. minimize                                                             | 最小化（减少）          |     |
+| 31. <font color="#ff0000">misery</font>                                  | （苦难 痛苦）          |     |
+| 32. <font color="#00b050">miserable</font>                               | （痛苦的 难受的 ）       |     |
 | 33. promising                                                            | 光明的 有前景的         |     |
 | 34. <font color="#00b050">transmit</font>                                |                  |     |
 | 35. submit                                                               | 提交 订阅            |     |
