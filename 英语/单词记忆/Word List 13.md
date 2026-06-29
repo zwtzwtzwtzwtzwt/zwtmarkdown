@@ -2,8 +2,8 @@
 
 | 英文单词               | 1   |
 | ------------------ | --- |
-| 1. abolish         |     |
-| 2. activate        |     |
+| 1. abolish         | 废除  |
+| 2. activate        | 激活  |
 | 3. agenda          |     |
 | 4. alcohol         |     |
 | 5. alien           |     |
