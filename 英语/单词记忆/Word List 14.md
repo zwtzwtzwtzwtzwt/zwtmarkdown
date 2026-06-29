@@ -55,15 +55,15 @@
 | 49. grain                                   | 粮食    |
 | 50. grateful                                | 极好的   |
 | 51. gravity                                 | 重力    |
-| 52. ingredient                              |       |
+| 52. <font color="#00b050">ingredient</font> |       |
 | 53. progressive                             |       |
-| 54. inhabit                                 |       |
-| 55. inhabitant                              |       |
+| 54. <font color="#00b050">inhabit</font>    |       |
+| 55. <font color="#00b050">inhabitant</font> |       |
 | 56. exhaust                                 | 疲惫的   |
-| 57. coherent                                |       |
-| 58. adhere                                  |       |
+| 57. <font color="#00b050">coherent</font>   |       |
+| 58. <font color="#00b050">adhere</font>     |       |
 | 59. heritage                                | 遗产    |
-| 60. hesitate                                |       |
+| 60. <font color="#00b050">hesitate</font>   |       |
 | 61. hostile                                 | 厌恶    |
 | 62. hospitality                             |       |
 | 63. humble                                  | 谦虚的   |
