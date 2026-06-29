@@ -49,7 +49,7 @@
 | 45. <font color="#00b050">disclose</font>    | （揭露 透露  显露）       |
 | 46. <font color="#00b050">coalition</font>   | （联盟 联合）           |
 | 47. coast                                    | （海岸 ）             |
-| 48. <font color="#00b050">colony</font>      | 殖民地               |
+| 48. <font color="#00b050">colony</font>      | 殖民地   （）          |
 | 49. consultant                               | 咨询者               |
 | 50. cosmic                                   | 有趣的 喜剧演员          |
 | 51. discourage                               |                   |
