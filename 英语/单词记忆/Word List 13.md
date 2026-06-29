@@ -41,7 +41,7 @@
 | 37. <font color="#00b050">census</font>      |          |
 | 38. charter                                  |          |
 | 39. chemistry                                |          |
-| 40. chronic                                  |          |
+| 40. chronic                                  | 慢性的      |
 | 41. clarity                                  |          |
 | 42. classification                           |          |
 | 43. exclude                                  |          |
