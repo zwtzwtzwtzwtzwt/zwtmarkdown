@@ -41,7 +41,7 @@
 | 35. <font color="#00b050">submit</font>                                  | （提交 屈服）           |     |
 | 36. mixture                                                              | 混合物               |     |
 | 37. <font color="#00b050">moderate</font>                                | （适中的 合理的  适度的 缓和） |     |
-| 38. <font color="#00b050">modify</font>                                  | （修改 调整 ）          |     |
+| 38. <font color="#00b050">modify</font>                                  | （修改 调整  ）         |     |
 | 39. motive                                                               | 动机                |     |
 | 40. remote                                                               | 遥远的               |     |
 | 41. <font color="#ff0000">mount                             </font>      |                   |     |
