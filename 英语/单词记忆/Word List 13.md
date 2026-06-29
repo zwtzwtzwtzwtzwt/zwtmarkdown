@@ -71,6 +71,6 @@
 | 67. edition                                  |      |
 | 68. division                                 |      |
 | 69. document                                 |      |
-| 70. paradox                                  |      |
-| 71. drastic                                  |      |
-| 72. deduce                                   |      |
+| 70. <font color="#00b050">paradox</font>     |      |
+| 71. <font color="#00b050">drastic</font>     |      |
+| 72. <font color="#00b050">deduce</font>      |      |
