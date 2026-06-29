@@ -65,9 +65,9 @@
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
 | 60. <font color="#00b050">hesitate</font>                                | （犹豫的）         |
 | 61. <font color="#00b050">hostile</font>                                 | （敌对的 有敌意的）    |
-| 62. <font color="#00b050">hospitality</font>                             | （好客的 ）        |
+| 62. <font color="#00b050">hospitality</font>                             | （好客的 殷勤）      |
 | 63. humble                                                               | 谦虚的           |
-| 64. <font color="#00b050">ideology</font>                                |               |
+| 64. <font color="#00b050">ideology</font>                                | （意识）          |
 | 65. <font color="#00b050">ambiguous</font>                               | 有决心的          |
 | 66. <font color="#00b050">imaginative</font>                             |               |
 | 67. <font color="#00b050">inferior</font>                                |               |
