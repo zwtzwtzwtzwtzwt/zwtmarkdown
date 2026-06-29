@@ -67,8 +67,8 @@
 | 63. <font color="#00b050">contradict</font>  | （相抵触  相矛盾  相反  反驳） |
 | 64. <font color="#00b050">dictate</font>     | （支配   影响 口述）       |
 | 65. dose                                     |                    |
-| 66. <font color="#00b050">mandate</font>     | （指令  ）             |
-| 67. edition                                  | 编辑                 |
+| 66. <font color="#00b050">mandate</font>     | （指令  委托）           |
+| 67. edition                                  | （版本  ）             |
 | 68. division                                 | 分开                 |
 | 69. document                                 | 文件                 |
 | 70. <font color="#00b050">paradox</font>     |                    |
