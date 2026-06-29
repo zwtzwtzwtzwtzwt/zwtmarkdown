@@ -77,6 +77,6 @@
 | 71. inject                                                               | 注射 （投入）         |
 | 72. <font color="#00b050">jet</font>                                     | （飞机  坐飞机旅行）     |
 | 73. joint                                                                | （联合的  共同的）      |
-| 74. <font color="#00b050">jurisdiction</font>                            |                 |
+| 74. <font color="#00b050">jurisdiction</font>                            | （管辖权  管辖区）      |
 |                                                                          |                 |
 
