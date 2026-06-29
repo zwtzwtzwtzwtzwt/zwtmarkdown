@@ -56,7 +56,7 @@
 | 52. accordingly                              |      |
 | 53. recover                                  |      |
 | 54. incredible                               |      |
-| 55. concrete                                 |      |
+| 55. concrete                                 | 具体的  |
 | 56. agriculture                              |      |
 | 57. occupy                                   |      |
 | 58. accurate                                 | 精确地  |
