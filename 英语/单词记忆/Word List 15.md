@@ -66,8 +66,8 @@
 | 60. <font color="#00b050">accompany</font>                               | 陪伴                |     |
 | 61. <font color="#00b050">companion</font>                               | （同伴）              |     |
 | 62. expansion                                                            | 扩张                |     |
-| 63. <font color="#00b050">comparable                             </font> | （类似的  ）           |     |
-| 64. <font color="#00b050">comparative</font>                             |                   |     |
+| 63. <font color="#00b050">comparable                             </font> | （类似的  可比较的）       |     |
+| 64. <font color="#00b050">comparative</font>                             | （比价的）             |     |
 | 65. preparation                                                          | 准备                |     |
 | 66. <font color="#ff0000">parliament</font>                              | （国会）              |     |
 | 67. apartment                                                            | 公寓                |     |
