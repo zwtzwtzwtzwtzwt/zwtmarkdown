@@ -57,9 +57,9 @@
 | 51. gravity                                                              | 重力            |
 | 52. <font color="#00b050">ingredient</font>                              | （因素   食材）     |
 | 53. progressive                                                          | （先进的  改革派）    |
-| 54. <font color="#00b050">inhabit</font>                                 |               |
-| 55. <font color="#00b050">inhabitant</font>                              |               |
-| 56. exhaust                                                              | 疲惫的           |
+| 54. <font color="#00b050">inhabit</font>                                 | （居住）          |
+| 55. <font color="#00b050">inhabitant</font>                              | （居民）          |
+| 56. exhaust                                                              | （）            |
 | 57. <font color="#00b050">coherent</font>                                |               |
 | 58. <font color="#00b050">adhere</font>                                  |               |
 | 59. <font color="#00b050">heritage</font>                                | 遗产            |
