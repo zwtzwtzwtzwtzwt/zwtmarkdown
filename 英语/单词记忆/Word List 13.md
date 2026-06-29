@@ -59,7 +59,7 @@
 | 55. concrete                                 | 具体的  （混泥土）        |
 | 56. agriculture                              | 农业                |
 | 57. occupy                                   | 占用 （占领 任职）        |
-| 58. accurate                                 | 精确地               |
+| 58. accurate                                 | 精确地 （确切的  恰当的）    |
 | 59. curious                                  | 好奇的               |
 | 60. curriculum                               |                   |
 | 61. dense                                    | 密集的  稠密的          |
