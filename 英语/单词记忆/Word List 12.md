@@ -91,6 +91,6 @@
 | 84. weight                                                                | 重量                  |
 | 85. <font color="#00b050">wipe</font>                                     | （擦拭 抹去 湿巾）          |
 | 86. wisdom                                                                | 智慧  才智              |
-| 87. <font color="#00b050">witness                             </font>     |                     |
+| 87. <font color="#00b050">witness                             </font>     | （目击 见证 ）            |
 | 88. wonder                                                                | 想要                  |
 | 89. <font color="#ff0000">yield                             </font>       | 收获                  |
