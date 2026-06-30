@@ -44,7 +44,7 @@
 | 37. square        | 平方       |
 | 38. staff         | 全体员工     |
 | 39. stage         | 舞台       |
-| 40. statistics    |          |
+| 40. statistics    | 统计       |
 | 41. stem          |          |
 | 42. stick         |          |
 | 43. stock         |          |
