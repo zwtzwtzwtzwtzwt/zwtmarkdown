@@ -59,7 +59,7 @@
 | 52. supply                                                                | 提供（供应）              |
 | 53. <font color="#ff0000">supreme</font>                                  | （最高的 最大的）           |
 | 54. <font color="#ff0000">surround</font>                                 | （围绕 包围）             |
-| 55. survive                                                               | 存活                  |
+| 55. survive                                                               | 存活（）                |
 | 56. switch                                                                | 转变                  |
 | 57. systematic                                                            | 系统性的                |
 | 58. thin                                                                  | 瘦的                  |
