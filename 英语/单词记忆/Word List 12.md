@@ -59,9 +59,9 @@
 | 52. supply        | 提供       |
 | 53. supreme       | 极好的      |
 | 54. surround      | 周围的      |
-| 55. survive       |          |
-| 56. switch        |          |
-| 57. systematic    |          |
+| 55. survive       | 存活       |
+| 56. switch        | 转变       |
+| 57. systematic    | 系统性的     |
 | 58. thin          |          |
 | 59. threat        |          |
 | 60. threaten      |          |
