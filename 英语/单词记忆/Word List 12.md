@@ -23,10 +23,10 @@
 | 16. secretary     | 秘书的      |
 | 17. sector        | 部门       |
 | 18. secure        | 救援       |
-| 19. seldom        |          |
-| 20. sequence      |          |
-| 21. setting       |          |
-| 22. settle        |          |
+| 19. seldom        | 很少       |
+| 20. sequence      | 序列 一系列   |
+| 21. setting       | 设置       |
+| 22. settle        | 解决       |
 | 23. settlement    |          |
 | 24. shelter       |          |
 | 25. shortage      |          |
