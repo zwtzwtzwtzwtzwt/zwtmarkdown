@@ -67,7 +67,7 @@
 | 61. <font color="#00b050">profession</font>                          | 职业  （行业）          |
 | 62. <font color="#00b050">profound</font>                            | （深远的 巨大的  知识渊博的）  |
 | 63. purchase                                                         | 购买                |
-| 64. <font color="#00b050">quota</font>                               | 配额 限额             |
+| 64. <font color="#00b050">quota</font>                               | 配额 限额 指标          |
 | 65. <font color="#00b050">quote</font>                               | 引用                |
 | 66. random                                                           | 随机的               |
 | 67. rare                                                             | 生的                |
