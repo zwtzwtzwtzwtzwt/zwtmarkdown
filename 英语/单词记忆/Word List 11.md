@@ -21,7 +21,7 @@
 | 15. lobby        |        |
 | 16. manage       | 管理  调整 |
 | 17. manager      | 管理者    |
-| 18. mass         |        |
+| 18. mass         | 大量的    |
 | 19. massive      |        |
 | 20. mere         |        |
 | 21. merely       |        |
