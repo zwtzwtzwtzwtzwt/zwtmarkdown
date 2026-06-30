@@ -16,10 +16,10 @@
 | 9. rural          | 乡村的      |
 | 10. sample        | 样本       |
 | 11. satellite     | 卫星       |
-| 12. saving        |          |
-| 13. schedule      |          |
-| 14. score         |          |
-| 15. secret        |          |
+| 12. saving        | 存款       |
+| 13. schedule      | 规划       |
+| 14. score         | 分数       |
+| 15. secret        | 秘密的      |
 | 16. secretary     |          |
 | 17. sector        |          |
 | 18. secure        |          |
