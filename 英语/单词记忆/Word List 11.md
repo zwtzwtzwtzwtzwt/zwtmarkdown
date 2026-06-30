@@ -9,7 +9,7 @@
 | 3. institution   |       |
 | 4. intend        | 想要    |
 | 5. intention     |       |
-| 6. interpret     |       |
+| 6. interpret     | 阐释    |
 | 7. interview     |       |
 | 8. kingdom       |       |
 | 9. landscape     |       |
