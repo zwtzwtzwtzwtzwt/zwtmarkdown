@@ -71,8 +71,8 @@
 | 65. quote        | 引用     |
 | 66. random       | 随机的    |
 | 67. rare         | 生的     |
-| 68. recall       |        |
-| 69. recognize    |        |
+| 68. recall       | 回忆     |
+| 69. recognize    | 承认     |
 | 70. recognition  | 认证     |
 | 71. recommend    | 推荐     |
 | 72. recruit      | 循环     |
