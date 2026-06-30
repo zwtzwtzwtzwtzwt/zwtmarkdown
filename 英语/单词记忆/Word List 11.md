@@ -32,7 +32,7 @@
 | 26. negative                                  | 积极的             |
 | 27. neighbour                                 | 邻居              |
 | 28. <font color="#00b050">nevertheless</font> | 尽管如此 不过         |
-| 29. occupation                                | 占用 职业           |
+| 29. occupation                                | 占用 职业（侵占 工作）    |
 | 30. odd                                       | 古怪的             |
 | 31. offer                                     | 提供              |
 | 32. officer                                   | 办公室             |
