@@ -65,7 +65,7 @@
 | 59. <font color="#00b050">produce</font>                             | （产生 引起 生产 制造 培养）  |
 | 60. <font color="#00b050">production</font>                          | （生产 制造  产量）       |
 | 61. <font color="#00b050">profession</font>                          | 职业  （行业）          |
-| 62. <font color="#00b050">profound</font>                            | （深远的 巨大的  知识）     |
+| 62. <font color="#00b050">profound</font>                            | （深远的 巨大的  ）       |
 | 63. purchase                                                         | 购买                |
 | 64. quota                                                            | 引用                |
 | 65. quote                                                            | 引用                |
