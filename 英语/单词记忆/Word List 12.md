@@ -42,8 +42,8 @@
 | 35. spirit        | 精神       |
 | 36. spot          | 发现  点    |
 | 37. square        | 平方       |
-| 38. staff         |          |
-| 39. stage         |          |
+| 38. staff         | 全体员工     |
+| 39. stage         | 舞台       |
 | 40. statistics    |          |
 | 41. stem          |          |
 | 42. stick         |          |
