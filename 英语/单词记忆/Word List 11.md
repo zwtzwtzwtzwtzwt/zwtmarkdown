@@ -56,15 +56,15 @@
 | 50. plate                                     | 盘子              |
 | 51. poetry                                    | 贫穷              |
 | 52. poll                                      | 人口普查            |
-| 53. pose                                      |                 |
+| 53. pose                                      | 姿势              |
 | 54. poverty                                   |                 |
 | 55. premium                                   |                 |
 | 56. previous                                  | 先前的             |
 | 57. pride                                     | 骄傲的             |
 | 58. print                                     | 打印              |
-| 59. produce                                   |                 |
-| 60. production                                |                 |
-| 61. profession                                |                 |
+| 59. produce                                   | 介绍              |
+| 60. production                                | 借号              |
+| 61. profession                                | 职业  专业          |
 | 62. profound                                  |                 |
 | 63. purchase                                  | 购买              |
 | 64. quota                                     |                 |
