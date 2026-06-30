@@ -61,7 +61,7 @@
 | 54. <font color="#ff0000">surround</font>                                 | （围绕 包围）             |
 | 55. survive                                                               | 存活（幸存）              |
 | 56. switch                                                                | 转变（改变 开关）           |
-| 57. systematic                                                            | 系统性的                |
+| 57. systematic                                                            | 系统的                 |
 | 58. thin                                                                  | 瘦的                  |
 | 59. <font color="#00b050">threat</font>                                   | 对待                  |
 | 60. <font color="#00b050">threaten</font>                                 |                     |
