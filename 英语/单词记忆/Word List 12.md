@@ -45,7 +45,7 @@
 | 38. <font color="#00b050">staff</font>      | 全体员工 （任职于）          |
 | 39. stage                                   | 舞台 （时期 阶段）          |
 | 40. statistics                              | （统计学）               |
-| 41. <font color="#00b050">stem</font>       | （阻止  杆）             |
+| 41. <font color="#00b050">stem</font>       | （阻止  杆茎）            |
 | 42. stick                                   | 棍子                  |
 | 43. <font color="#00b050">stock</font>      |                     |
 | 44. strategy                                | 策略                  |
