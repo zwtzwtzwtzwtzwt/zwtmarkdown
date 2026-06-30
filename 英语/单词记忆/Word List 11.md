@@ -17,7 +17,7 @@
 | 11. <font color="#00b050">leading</font>    | （最重要的  一流的 领先的） |
 | 12. <font color="#00b050">lean</font>       | （精瘦的  精干的  依靠）  |
 | 13. likewise                                | 同样的（类似的）        |
-| 14. link                                    | 链接  联系（关系 ）     |
+| 14. link                                    | 链接  联系（关系 纽带）   |
 | 15. lobby                                   |                 |
 | 16. manage                                  | 管理  调整          |
 | 17. manager                                 | 管理者             |
