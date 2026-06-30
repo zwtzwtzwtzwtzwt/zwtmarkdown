@@ -71,9 +71,9 @@
 | 64. <font color="#00b050">tobacco</font>                                  | （烟草）                |
 | 65. tough                                                                 | 艰难的  困难的 （严厉的）      |
 | 66. translate                                                             | 翻译（转变）              |
-| 67. translation                                                           | 翻译                  |
+| 67. translation                                                           | 翻译（转变）              |
 | 68. trend                                                                 | 趋势                  |
-| 69. <font color="#00b050">trial</font>                                    |                     |
+| 69. <font color="#00b050">trial</font>                                    | （实验 ）               |
 | 70. trigger                                                               | 触发                  |
 | 71. tunnel                                                                | 管道                  |
 | 72. understanding                                                         | 理解                  |
