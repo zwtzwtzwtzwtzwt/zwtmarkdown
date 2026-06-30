@@ -93,4 +93,4 @@
 | 86. wisdom                                                                | 智慧  才智              |
 | 87. <font color="#00b050">witness                             </font>     | （目击 见证 目击者 证人）      |
 | 88. wonder                                                                | 想要   （奇迹 惊奇）        |
-| 89. <font color="#ff0000">yield                             </font>       | （产生 屈服）             |
+| 89. <font color="#ff0000">yield                             </font>       | （产生 屈服 产量 提供）       |
