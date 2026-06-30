@@ -79,8 +79,8 @@
 | 72. understanding                           | 理解       |
 | 73. unemployment                            | 事业       |
 | 74. unexpected                              | 出乎意料的    |
-| 75. unlike                                  |          |
-| 76. unlikely                                |          |
+| 75. <font color="#00b050">unlike</font>     |          |
+| 76. <font color="#00b050">unlikely</font>   |          |
 | 77. vary                                    | 变化       |
 | 78. vast                                    | 大的       |
 | 79. vehicle                                 | 交通工具     |
