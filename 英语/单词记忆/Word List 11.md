@@ -89,6 +89,6 @@
 | 83. release                                                          | 发布 （公布 释放 ）       |
 | 84. relevant                                                         | 相关的               |
 | 85. reliable                                                         | 可靠的 （可信赖的）        |
-| 86. <font color="#00b050">relief</font>                              |                   |
+| 86. <font color="#00b050">relief</font>                              | 宽慰 轻松 救济          |
 | 87. <font color="#00b050">relieve</font>                             | 信任                |
 | 88. <font color="#00b050">reputation</font>                          |                   |
