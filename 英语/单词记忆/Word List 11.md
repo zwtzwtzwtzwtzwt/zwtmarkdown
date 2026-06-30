@@ -54,7 +54,7 @@
 | 48. permit       | 承认     |
 | 49. physician    | 物理学家   |
 | 50. plate        |        |
-| 51. poetry       |        |
+| 51. poetry       | 贫穷     |
 | 52. poll         |        |
 | 53. pose         |        |
 | 54. poverty      |        |
