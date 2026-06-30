@@ -47,7 +47,7 @@
 | 41. patent                                    | 专利（专利权）         |
 | 42. patience                                  | 耐心              |
 | 43. <font color="#00b050">payment</font>      | 支付  （还款 ）       |
-| 44. peak                                      | 顶峰              |
+| 44. peak                                      | 顶峰  （巅峰 ）       |
 | 45. peer                                      | 同龄人             |
 | 46. perform                                   | 表演              |
 | 47. performance                               | 表演              |
