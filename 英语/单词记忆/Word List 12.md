@@ -49,9 +49,9 @@
 | 42. <font color="#00b050">stick</font>      | （粘住  刺入 条状物）        |
 | 43. <font color="#00b050">stock</font>      | （股票 库存 存货）          |
 | 44. strategy                                | 策略（战略）              |
-| 45. strength                                | 长处 优点               |
-| 46. strengthen                              | 增长  加强              |
-| 47. <font color="#00b050">strike</font>     |                     |
+| 45. strength                                | 长处 优点（优势 意志力）       |
+| 46. strengthen                              | 增长  加强（巩固）          |
+| 47. <font color="#00b050">strike</font>     | （罢工 ）               |
 | 48. substantial                             | 补充的                 |
 | 49. subtle                                  | 解决                  |
 | 50. <font color="#00b050">suit</font>       |                     |
