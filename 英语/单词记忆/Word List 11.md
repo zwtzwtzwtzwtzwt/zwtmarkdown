@@ -40,7 +40,7 @@
 | 34. opening      |        |
 | 35. opponent     |        |
 | 36. opportunity  | 机会     |
-| 37. oppose       |        |
+| 37. oppose       | 反对     |
 | 38. original     | 开始的    |
 | 39. painting     |        |
 | 40. panel        |        |
