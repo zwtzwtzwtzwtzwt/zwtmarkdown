@@ -70,8 +70,8 @@
 | 64. <font color="#00b050">quota</font>                               | 配额 限额 指标          |
 | 65. <font color="#00b050">quote</font>                               | 引用                |
 | 66. random                                                           | 随机的               |
-| 67. <font color="#00b050">rare</font>                                | 少见的               |
-| 68. recall                                                           | 回忆                |
+| 67. <font color="#00b050">rare</font>                                | （少见的 珍贵的）         |
+| 68. recall                                                           | 回忆（回想起  ）         |
 | 69. recognize                                                        | 承认                |
 | 70. recognition                                                      | 认证                |
 | 71. recommend                                                        | 推荐                |
