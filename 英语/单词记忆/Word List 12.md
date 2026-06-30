@@ -50,9 +50,9 @@
 | 43. stock         |          |
 | 44. strategy      | 策略       |
 | 45. strength      | 长处       |
-| 46. strengthen    |          |
+| 46. strengthen    | 增长       |
 | 47. strike        |          |
-| 48. substantial   |          |
+| 48. substantial   | 补充的      |
 | 49. subtle        |          |
 | 50. suit          |          |
 | 51. sum           |          |
