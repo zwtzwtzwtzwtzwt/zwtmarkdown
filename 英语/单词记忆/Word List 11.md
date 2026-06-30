@@ -73,10 +73,10 @@
 | 67. rare         |        |
 | 68. recall       |        |
 | 69. recognize    |        |
-| 70. recognition  |        |
-| 71. recommend    |        |
-| 72. recruit      |        |
-| 73. refer        | 统计     |
+| 70. recognition  | 认证     |
+| 71. recommend    | 推荐     |
+| 72. recruit      | 循环     |
+| 73. refer        | 提及     |
 | 74. reflect      | 反应     |
 | 75. reform       | 改革     |
 | 76. refuse       | 拒绝     |
