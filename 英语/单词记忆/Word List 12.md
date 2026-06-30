@@ -46,10 +46,10 @@
 | 39. stage         | 舞台       |
 | 40. statistics    | 统计       |
 | 41. stem          |          |
-| 42. stick         |          |
+| 42. stick         | 棍子       |
 | 43. stock         |          |
-| 44. strategy      |          |
-| 45. strength      |          |
+| 44. strategy      | 策略       |
+| 45. strength      | 长处       |
 | 46. strengthen    |          |
 | 47. strike        |          |
 | 48. substantial   |          |
