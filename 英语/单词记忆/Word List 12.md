@@ -37,8 +37,8 @@
 | 30. situation     | 情况       |
 | 31. skilled       | 有技巧的     |
 | 32. sort          | 种类       |
-| 33. spark         |          |
-| 34. species       |          |
+| 33. spark         | 火花       |
+| 34. species       | 种类       |
 | 35. spirit        |          |
 | 36. spot          |          |
 | 37. square        |          |
