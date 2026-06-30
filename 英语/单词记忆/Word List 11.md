@@ -12,7 +12,7 @@
 | 6. interpret                                | 阐释 （领会  口译） |
 | 7. interview                                | 采访 面试       |
 | 8. kingdom                                  | 王国  （领域）    |
-| 9. landscape                                | 风景          |
+| 9. landscape                                | 风景 （风景画）    |
 | 10. leadership                              | 领导者         |
 | 11. leading                                 | 领导的         |
 | 12. lean                                    | 倾斜          |
