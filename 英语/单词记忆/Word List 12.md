@@ -81,12 +81,12 @@
 | 74. unexpected    |          |
 | 75. unlike        |          |
 | 76. unlikely      |          |
-| 77. vary          |          |
-| 78. vast          |          |
-| 79. vehicle       |          |
+| 77. vary          | 变化       |
+| 78. vast          | 大的       |
+| 79. vehicle       | 交通工具     |
 | 80. virtual       |          |
 | 81. vision        |          |
-| 82. vitamin       |          |
+| 82. vitamin       | 维他命      |
 | 83. weigh         | 称重       |
 | 84. weight        | 重量       |
 | 85. wipe          |          |
