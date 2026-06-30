@@ -51,8 +51,8 @@
 | 45. peer         | 同龄人    |
 | 46. perform      | 表演     |
 | 47. performance  | 表演     |
-| 48. permit       |        |
-| 49. physician    |        |
+| 48. permit       | 承认     |
+| 49. physician    | 物理学家   |
 | 50. plate        |        |
 | 51. poetry       |        |
 | 52. poll         |        |
