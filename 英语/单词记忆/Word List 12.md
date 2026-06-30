@@ -64,7 +64,7 @@
 | 57. systematic                                                            | 系统的                 |
 | 58. thin                                                                  | 瘦的（薄的 细的）           |
 | 59. <font color="#00b050">threat</font>                                   | （威胁 ）               |
-| 60. <font color="#00b050">threaten</font>                                 |                     |
+| 60. <font color="#00b050">threaten</font>                                 | （威胁）                |
 | 61. thus                                                                  | 因此                  |
 | 62. <font color="#00b050">timber</font>                                   |                     |
 | 63. tiny                                                                  | 小的                  |
@@ -93,4 +93,4 @@
 | 86. wisdom                                                                | 指挥                  |
 | 87. witness                                                               | 旁观者                 |
 | 88. wonder                                                                | 想要                  |
-| 89. yield                                                                 | 收获           
+| 89. yield                                                                 | 收获                  |
