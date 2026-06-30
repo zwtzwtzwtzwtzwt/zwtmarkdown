@@ -28,8 +28,8 @@
 | 22. minister     |        |
 | 23. mostly       | 大量的    |
 | 24. motivate     |        |
-| 25. museum       |        |
-| 26. negative     |        |
+| 25. museum       | 博物馆    |
+| 26. negative     | 积极的    |
 | 27. neighbour    |        |
 | 28. nevertheless |        |
 | 29. occupation   |        |
