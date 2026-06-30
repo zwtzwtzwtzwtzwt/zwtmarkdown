@@ -75,8 +75,8 @@
 | 69. <font color="#00b050">recognize</font>                           | （认出   辨别 承认 认可）   |
 | 70. <font color="#00b050">recognition</font>                         | （认识 识别 认可 承认）     |
 | 71. recommend                                                        | 推荐（建议）            |
-| 72. <font color="#00b050">recruit</font>                             | （招聘 ）             |
-| 73. refer                                                            | 提及                |
+| 72. <font color="#00b050">recruit</font>                             | （招聘  招收 动员  新兵）   |
+| 73. refer                                                            | 提及（描述 涉及 ）        |
 | 74. reflect                                                          | 反应                |
 | 75. reform                                                           | 改革                |
 | 76. refuse                                                           | 拒绝                |
