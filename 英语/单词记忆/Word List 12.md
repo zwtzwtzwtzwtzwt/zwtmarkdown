@@ -62,7 +62,7 @@
 | 55. survive                                                               | 存活（幸存）              |
 | 56. switch                                                                | 转变（改变 开关）           |
 | 57. systematic                                                            | 系统的                 |
-| 58. thin                                                                  | 瘦的                  |
+| 58. thin                                                                  | 瘦的（薄的）              |
 | 59. <font color="#00b050">threat</font>                                   | 对待                  |
 | 60. <font color="#00b050">threaten</font>                                 |                     |
 | 61. thus                                                                  | 因此                  |
