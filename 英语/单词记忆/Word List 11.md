@@ -52,8 +52,8 @@
 | 46. perform                                                          | 表演（做 履行  执行）    |
 | 47. performance                                                      | 表演（表现 业绩）       |
 | 48. <font color="#ff0000">permit                             </font> | （允许 准许  许可证）    |
-| 49. <font color="#ff0000">physician</font>                           | 物理学家            |
-| 50. plate                                                            | 盘子              |
+| 49. <font color="#ff0000">physician</font>                           | （医师 医生）         |
+| 50. plate                                                            | 盘子 （）           |
 | 51. poetry                                                           | 贫穷              |
 | 52. poll                                                             | 人口普查            |
 | 53. pose                                                             | 姿势              |
