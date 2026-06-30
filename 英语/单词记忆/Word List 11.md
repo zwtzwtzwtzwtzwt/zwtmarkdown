@@ -49,7 +49,7 @@
 | 43. <font color="#00b050">payment</font>      | 支付  （还款 ）       |
 | 44. peak                                      | 顶峰  （巅峰 最高值 ）   |
 | 45. peer                                      | 同龄人 （仔细看）       |
-| 46. perform                                   | 表演（）            |
+| 46. perform                                   | 表演（做 履行  执行）    |
 | 47. performance                               | 表演              |
 | 48. permit                                    | 承认              |
 | 49. physician                                 | 物理学家            |
