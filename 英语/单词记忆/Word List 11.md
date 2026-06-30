@@ -45,7 +45,7 @@
 | 39. painting     |        |
 | 40. panel        |        |
 | 41. patent       | 专利     |
-| 42. patience     |        |
+| 42. patience     | 耐心     |
 | 43. payment      |        |
 | 44. peak         |        |
 | 45. peer         |        |
