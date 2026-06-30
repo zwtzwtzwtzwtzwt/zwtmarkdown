@@ -9,7 +9,23 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [],
+  "excludeFolders": [
+    {
+      "type": "folder",
+      "id": "094d17fc-bd1e-43ae-926d-d099d5f2fa6c",
+      "path": "没咋了",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 0,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false,
+      "showFolderNote": false
+    }
+  ],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
