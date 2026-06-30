@@ -74,7 +74,7 @@
 | 67. translation                                                           | 翻译（转变）              |
 | 68. trend                                                                 | 趋势                  |
 | 69. <font color="#00b050">trial</font>                                    | （试验 审判）             |
-| 70. trigger                                                               | 触发  触发器             |
+| 70. trigger                                                               | 触发  （）              |
 | 71. tunnel                                                                | 管道                  |
 | 72. understanding                                                         | 理解                  |
 | 73. unemployment                                                          | 事业                  |
