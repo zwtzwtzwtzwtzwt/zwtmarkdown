@@ -18,7 +18,7 @@
 | 12. <font color="#00b050">lean</font>       | （精瘦的  精干的  依靠）  |
 | 13. likewise                                | 同样的（类似的）        |
 | 14. link                                    | 链接  联系（关系 纽带）   |
-| 15. <font color="#00b050">lobby</font>      |                 |
+| 15. <font color="#00b050">lobby</font>      | （）              |
 | 16. manage                                  | 管理  调整          |
 | 17. manager                                 | 管理者             |
 | 18. mass                                    | 大量的             |
