@@ -19,8 +19,8 @@
 | 13. likewise     | 同样的    |
 | 14. link         | 链接  联系 |
 | 15. lobby        |        |
-| 16. manage       |        |
-| 17. manager      |        |
+| 16. manage       | 管理  调整 |
+| 17. manager      | 管理者    |
 | 18. mass         |        |
 | 19. massive      |        |
 | 20. mere         |        |
