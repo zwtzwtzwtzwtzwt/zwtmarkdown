@@ -33,8 +33,8 @@
 | 27. neighbour    | 邻居     |
 | 28. nevertheless |        |
 | 29. occupation   |        |
-| 30. odd          |        |
-| 31. offer        |        |
+| 30. odd          | 古怪的    |
+| 31. offer        | 提供     |
 | 32. officer      |        |
 | 33. official     |        |
 | 34. opening      |        |
