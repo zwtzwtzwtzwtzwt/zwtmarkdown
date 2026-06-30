@@ -66,8 +66,8 @@
 | 59. <font color="#00b050">threat</font>                                   | （威胁 ）               |
 | 60. <font color="#00b050">threaten</font>                                 | （威胁）                |
 | 61. thus                                                                  | 因此                  |
-| 62. <font color="#00b050">timber</font>                                   |                     |
-| 63. tiny                                                                  | 小的                  |
+| 62. <font color="#00b050">timber</font>                                   | （木材 木料）             |
+| 63. tiny                                                                  | 极小的                 |
 | 64. <font color="#00b050">tobacco</font>                                  |                     |
 | 65. tough                                                                 | 艰难的  困难的            |
 | 66. translate                                                             | 翻译                  |
