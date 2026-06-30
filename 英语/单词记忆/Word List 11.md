@@ -38,7 +38,7 @@
 | 32. officer                                   | 办公室             |
 | 33. official                                  | 官方的             |
 | 34. opening                                   |                 |
-| 35. opponent                                  |                 |
+| 35. opponent                                  | 敌人 对手           |
 | 36. opportunity                               | 机会              |
 | 37. oppose                                    | 反对              |
 | 38. original                                  | 开始的             |
