@@ -33,7 +33,7 @@
 | 26. <font color="#00b050">sign</font>       | （迹象 预兆  标志  签）      |
 | 27. signal                                  | 信号（迹象 于是 表达  示意）    |
 | 28. simple                                  | 简单的                 |
-| 29. <font color="#00b050">simply</font>     | （）                  |
+| 29. <font color="#00b050">simply</font>     | （仅仅  ）              |
 | 30. situation                               | 情况                  |
 | 31. skilled                                 | 有技巧的                |
 | 32. sort                                    | 种类                  |
