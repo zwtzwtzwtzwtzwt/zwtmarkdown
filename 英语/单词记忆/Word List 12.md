@@ -47,14 +47,14 @@
 | 40. statistics                              | 统计       |
 | 41. <font color="#00b050">stem</font>       |          |
 | 42. stick                                   | 棍子       |
-| 43. stock                                   |          |
+| 43. <font color="#00b050">stock</font>      |          |
 | 44. strategy                                | 策略       |
 | 45. strength                                | 长处       |
 | 46. strengthen                              | 增长       |
-| 47. strike                                  |          |
+| 47. <font color="#00b050">strike</font>     |          |
 | 48. substantial                             | 补充的      |
 | 49. subtle                                  | 解决       |
-| 50. suit                                    |          |
+| 50. <font color="#00b050">suit</font>       |          |
 | 51. sum                                     | 总和       |
 | 52. supply                                  | 提供       |
 | 53. supreme                                 | 极好的      |
@@ -64,7 +64,7 @@
 | 57. systematic                              | 系统性的     |
 | 58. thin                                    | 瘦的       |
 | 59. threat                                  | 对待       |
-| 60. threaten                                |          |
+| 60. <font color="#00b050">threaten</font>   |          |
 | 61. thus                                    | 因此       |
 | 62. timber                                  |          |
 | 63. tiny                                    | 小的       |
