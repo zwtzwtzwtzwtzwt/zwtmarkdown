@@ -64,7 +64,7 @@
 | 58. print                                                            | 打印（印刷的  印刷发行）     |
 | 59. <font color="#00b050">produce</font>                             | 介绍                |
 | 60. <font color="#00b050">production</font>                          | 借号                |
-| 61. profession                                                       | 职业  专业            |
+| 61. <font color="#00b050">profession</font>                          | 职业  专业            |
 | 62. <font color="#00b050">profound</font>                            |                   |
 | 63. purchase                                                         | 购买                |
 | 64. quota                                                            | 引用                |
