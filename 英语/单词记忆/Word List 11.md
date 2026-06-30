@@ -37,7 +37,7 @@
 | 31. offer                                     | 提供 （提出）         |
 | 32. <font color="#00b050">officer</font>      | （官员 军官）         |
 | 33. official                                  | 官方的  （官员）       |
-| 34. <font color="#00b050">opening</font>      |                 |
+| 34. <font color="#00b050">opening</font>      | （）              |
 | 35. opponent                                  | 敌人 对手           |
 | 36. opportunity                               | 机会              |
 | 37. oppose                                    | 反对              |
