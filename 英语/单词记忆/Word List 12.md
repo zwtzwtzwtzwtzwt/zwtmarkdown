@@ -56,9 +56,9 @@
 | 49. subtle        | 解决       |
 | 50. suit          |          |
 | 51. sum           | 总和       |
-| 52. supply        |          |
-| 53. supreme       |          |
-| 54. surround      |          |
+| 52. supply        | 提供       |
+| 53. supreme       | 极好的      |
+| 54. surround      | 周围的      |
 | 55. survive       |          |
 | 56. switch        |          |
 | 57. systematic    |          |
