@@ -82,7 +82,7 @@
 | 75. <font color="#00b050">unlike</font>                                   | （不同）                |
 | 76. <font color="#00b050">unlikely</font>                                 | （不太可能的）             |
 | 77. vary                                                                  | 变化 （不同 改变）          |
-| 78. vast                                                                  | 大的                  |
+| 78. vast                                                                  | 大的（辽阔的 庞大）          |
 | 79. vehicle                                                               | 交通工具                |
 | 80. <font color="#00b050">virtual</font>                                  |                     |
 | 81. <font color="#00b050">vision</font>                                   |                     |
