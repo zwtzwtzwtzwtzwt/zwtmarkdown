@@ -38,7 +38,7 @@
 | 32. <font color="#00b050">officer</font>      | （官员 军官）         |
 | 33. official                                  | 官方的  （官员）       |
 | 34. <font color="#00b050">opening</font>      | （空缺岗位  开始）      |
-| 35. opponent                                  | 敌人 对手           |
+| 35. opponent                                  | 敌人 对手（反对者  ）    |
 | 36. opportunity                               | 机会              |
 | 37. oppose                                    | 反对              |
 | 38. original                                  | 开始的             |
