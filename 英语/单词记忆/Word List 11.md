@@ -43,11 +43,11 @@
 | 37. oppose                                    | 反对 （抵制 阻挠）      |
 | 38. original                                  | 开始的 （最初的 原稿）    |
 | 39. painting                                  | 画画（绘画）          |
-| 40. <font color="#00b050">panel</font>        | （专家咨询部 ）        |
+| 40. <font color="#00b050">panel</font>        | （专家咨询部 控制板）     |
 | 41. patent                                    | 专利              |
 | 42. patience                                  | 耐心              |
-| 43. payment                                   |                 |
-| 44. peak                                      |                 |
+| 43. payment                                   | 支付              |
+| 44. peak                                      | 顶峰              |
 | 45. peer                                      | 同龄人             |
 | 46. perform                                   | 表演              |
 | 47. performance                               | 表演              |
