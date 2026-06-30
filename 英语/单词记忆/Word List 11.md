@@ -26,8 +26,8 @@
 | 20. mere                                    | 仅仅的             |
 | 21. merely                                  | 仅仅              |
 | 22. <font color="#00b050">minister</font>   | （部长 大臣 ）        |
-| 23. <font color="#00b050">mostly</font>     | （主要的 通常的）       |
-| 24. motivate                                | 激发 激活           |
+| 23. <font color="#00b050">mostly</font>     | （主要的 通常）        |
+| 24. motivate                                | 激发 激活（激励）       |
 | 25. museum                                  | 博物馆             |
 | 26. negative                                | 积极的             |
 | 27. neighbour                               | 邻居              |
