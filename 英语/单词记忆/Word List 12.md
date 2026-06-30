@@ -66,14 +66,14 @@
 | 59. threat                                  | 对待       |
 | 60. <font color="#00b050">threaten</font>   |          |
 | 61. thus                                    | 因此       |
-| 62. timber                                  |          |
+| 62. <font color="#00b050">timber</font>     |          |
 | 63. tiny                                    | 小的       |
-| 64. tobacco                                 |          |
+| 64. <font color="#00b050">tobacco</font>    |          |
 | 65. tough                                   | 艰难的  困难的 |
 | 66. translate                               | 翻译       |
 | 67. translation                             | 翻译       |
 | 68. trend                                   | 趋势       |
-| 69. trial                                   |          |
+| 69. <font color="#00b050">trial</font>      |          |
 | 70. trigger                                 | 触发       |
 | 71. tunnel                                  | 管道       |
 | 72. understanding                           | 理解       |
