@@ -10,7 +10,7 @@
 | 4. intend        | 想要    |
 | 5. intention     |       |
 | 6. interpret     | 阐释    |
-| 7. interview     |       |
+| 7. interview     | 采访 面试 |
 | 8. kingdom       |       |
 | 9. landscape     |       |
 | 10. leadership   |       |
