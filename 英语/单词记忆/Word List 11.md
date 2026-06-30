@@ -76,10 +76,10 @@
 | 70. recognition  |        |
 | 71. recommend    |        |
 | 72. recruit      |        |
-| 73. refer        |        |
-| 74. reflect      |        |
-| 75. reform       |        |
-| 76. refuse       |        |
+| 73. refer        | 统计     |
+| 74. reflect      | 反应     |
+| 75. reform       | 改革     |
+| 76. refuse       | 拒绝     |
 | 77. regard       |        |
 | 78. regardless   |        |
 | 79. register     | 注册     |
