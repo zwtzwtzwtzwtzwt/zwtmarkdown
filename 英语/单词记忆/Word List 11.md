@@ -19,7 +19,7 @@
 | 13. likewise                                | 同样的（类似的）        |
 | 14. link                                    | 链接  联系（关系 纽带）   |
 | 15. <font color="#00b050">lobby</font>      | （游说 大厅）         |
-| 16. manage                                  | 管理  调整          |
+| 16. manage                                  | 管理  （设法做成）      |
 | 17. manager                                 | 管理者             |
 | 18. mass                                    | 大量的             |
 | 19. massive                                 |                 |
