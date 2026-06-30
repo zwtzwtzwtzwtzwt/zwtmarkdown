@@ -46,8 +46,8 @@
 | 39. stage                                   | 舞台 （时期 阶段）          |
 | 40. statistics                              | （统计学）               |
 | 41. <font color="#00b050">stem</font>       | （阻止  杆茎）            |
-| 42. <font color="#00b050">stick</font>      | （粘住  刺入 ）           |
-| 43. <font color="#00b050">stock</font>      |                     |
+| 42. <font color="#00b050">stick</font>      | （粘住  刺入 条状物）        |
+| 43. <font color="#00b050">stock</font>      | （股票 库存 ）            |
 | 44. strategy                                | 策略                  |
 | 45. strength                                | 长处 优点               |
 | 46. strengthen                              | 增长  加强              |
