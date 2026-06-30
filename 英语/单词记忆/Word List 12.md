@@ -62,8 +62,8 @@
 | 55. survive                                                               | 存活（幸存）              |
 | 56. switch                                                                | 转变（改变 开关）           |
 | 57. systematic                                                            | 系统的                 |
-| 58. thin                                                                  | 瘦的（薄的）              |
-| 59. <font color="#00b050">threat</font>                                   | 对待                  |
+| 58. thin                                                                  | 瘦的（薄的 细的）           |
+| 59. <font color="#00b050">threat</font>                                   | （威胁 ）               |
 | 60. <font color="#00b050">threaten</font>                                 |                     |
 | 61. thus                                                                  | 因此                  |
 | 62. <font color="#00b050">timber</font>                                   |                     |
@@ -93,4 +93,4 @@
 | 86. wisdom                                                                | 指挥                  |
 | 87. witness                                                               | 旁观者                 |
 | 88. wonder                                                                | 想要                  |
-| 89. yield                                                                 | 收获                  |
+| 89. yield                                                                 | 收获           
