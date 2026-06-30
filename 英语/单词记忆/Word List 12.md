@@ -19,7 +19,7 @@
 | 12. saving                                  | 存款（节省）         |
 | 13. <font color="#00b050">schedule</font>   | 规划（安排 计划）      |
 | 14. score                                   | 分数（比分 得分）      |
-| 15. secret                                  | 秘密的            |
+| 15. secret                                  | 秘密的（秘密）        |
 | 16. secretary                               | 秘书的            |
 | 17. sector                                  | 部门             |
 | 18. <font color="#00b050">secure</font>     | 救援             |
