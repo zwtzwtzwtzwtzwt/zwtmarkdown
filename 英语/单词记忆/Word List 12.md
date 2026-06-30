@@ -20,9 +20,9 @@
 | 13. schedule      | 规划       |
 | 14. score         | 分数       |
 | 15. secret        | 秘密的      |
-| 16. secretary     |          |
-| 17. sector        |          |
-| 18. secure        |          |
+| 16. secretary     | 秘书的      |
+| 17. sector        | 部门       |
+| 18. secure        | 救援       |
 | 19. seldom        |          |
 | 20. sequence      |          |
 | 21. setting       |          |
