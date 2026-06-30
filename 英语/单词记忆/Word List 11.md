@@ -86,9 +86,9 @@
 | 80. regret       |        |
 | 81. relate       |        |
 | 82. relative     |        |
-| 83. release      |        |
-| 84. relevant     |        |
-| 85. reliable     |        |
+| 83. release      | 发布     |
+| 84. relevant     | 相关的    |
+| 85. reliable     | 可靠的    |
 | 86. relief       |        |
 | 87. relieve      |        |
 | 88. reputation   |        |
