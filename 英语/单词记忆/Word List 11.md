@@ -5,9 +5,9 @@
 | **英文单词**         | **1** |
 | ---------------- | ----- |
 | 1. inspire       | 激励 灵感 |
-| 2. instinct      |       |
+| 2. instinct      | 不同的   |
 | 3. institution   |       |
-| 4. intend        |       |
+| 4. intend        | 想要    |
 | 5. intention     |       |
 | 6. interpret     |       |
 | 7. interview     |       |
