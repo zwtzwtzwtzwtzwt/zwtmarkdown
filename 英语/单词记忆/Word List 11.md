@@ -68,9 +68,9 @@
 | 62. profound     |        |
 | 63. purchase     |        |
 | 64. quota        |        |
-| 65. quote        |        |
-| 66. random       |        |
-| 67. rare         |        |
+| 65. quote        | 引用     |
+| 66. random       | 随机的    |
+| 67. rare         | 生的     |
 | 68. recall       |        |
 | 69. recognize    |        |
 | 70. recognition  | 认证     |
