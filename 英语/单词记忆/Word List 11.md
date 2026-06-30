@@ -17,7 +17,7 @@
 | 11. leading      | 领导的   |
 | 12. lean         | 倾斜    |
 | 13. likewise     | 同样的   |
-| 14. link         | 谅     |
+| 14. link         |       |
 | 15. lobby        |       |
 | 16. manage       |       |
 | 17. manager      |       |
