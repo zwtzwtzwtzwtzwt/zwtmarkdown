@@ -35,8 +35,8 @@
 | 29. occupation   |        |
 | 30. odd          | 古怪的    |
 | 31. offer        | 提供     |
-| 32. officer      |        |
-| 33. official     |        |
+| 32. officer      | 办公室    |
+| 33. official     | 官方的    |
 | 34. opening      |        |
 | 35. opponent     |        |
 | 36. opportunity  |        |
