@@ -12,10 +12,10 @@
 | 5. reward         | 奖励       |
 | 6. rival          |          |
 | 7. routine        | 惯例       |
-| 8. royal          |          |
-| 9. rural          |          |
-| 10. sample        |          |
-| 11. satellite     |          |
+| 8. royal          | 皇室的      |
+| 9. rural          | 乡村的      |
+| 10. sample        | 样本       |
+| 11. satellite     | 卫星       |
 | 12. saving        |          |
 | 13. schedule      |          |
 | 14. score         |          |
