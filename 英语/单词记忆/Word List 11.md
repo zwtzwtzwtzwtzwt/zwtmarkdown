@@ -60,13 +60,13 @@
 | 54. poverty      |        |
 | 55. premium      |        |
 | 56. previous     |        |
-| 57. pride        |        |
-| 58. print        |        |
+| 57. pride        | 骄傲的    |
+| 58. print        | 打印     |
 | 59. produce      |        |
 | 60. production   |        |
 | 61. profession   |        |
 | 62. profound     |        |
-| 63. purchase     |        |
+| 63. purchase     | 购买     |
 | 64. quota        |        |
 | 65. quote        | 引用     |
 | 66. random       | 随机的    |
