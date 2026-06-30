@@ -89,6 +89,6 @@
 | 83. release                                                          | 发布 （公布 释放 ）       |
 | 84. relevant                                                         | 相关的               |
 | 85. reliable                                                         | 可靠的 （可信赖的）        |
-| 86. relief                                                           | 信赖                |
+| 86. relief                                                           |                   |
 | 87. relieve                                                          | 信任                |
-| 88. reputation                                                       | 荣誉                |
+| 88. reputation                                                       |                   |
