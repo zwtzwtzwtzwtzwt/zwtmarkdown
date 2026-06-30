@@ -91,4 +91,4 @@
 | 85. reliable                                                         | 可靠的 （可信赖的）        |
 | 86. <font color="#00b050">relief</font>                              | （宽慰 轻松 救济 减轻）     |
 | 87. <font color="#00b050">relieve</font>                             | （减轻 缓解）           |
-| 88. <font color="#00b050">reputation</font>                          |                   |
+| 88. <font color="#00b050">reputation</font>                          | （名誉 名声）           |
