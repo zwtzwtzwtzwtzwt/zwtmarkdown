@@ -65,9 +65,9 @@
 | 58. thin          | 瘦的       |
 | 59. threat        | 对待       |
 | 60. threaten      |          |
-| 61. thus          |          |
+| 61. thus          | 因此       |
 | 62. timber        |          |
-| 63. tiny          |          |
+| 63. tiny          | 小的       |
 | 64. tobacco       |          |
 | 65. tough         |          |
 | 66. translate     |          |
