@@ -36,7 +36,7 @@
 | 29. simply        | 简化       |
 | 30. situation     | 情况       |
 | 31. skilled       | 有技巧的     |
-| 32. sort          |          |
+| 32. sort          | 种类       |
 | 33. spark         |          |
 | 34. species       |          |
 | 35. spirit        |          |
