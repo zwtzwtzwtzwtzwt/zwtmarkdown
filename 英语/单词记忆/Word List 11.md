@@ -82,8 +82,8 @@
 | 76. refuse                                                           | 拒绝（垃圾）            |
 | 77. regard                                                           | 视为  （看待 关心）       |
 | 78. <font color="#00b050">regardless</font>                          |                   |
-| 79. register                                                         | 注册 （等级）           |
-| 80. regret                                                           | 后悔                |
+| 79. register                                                         | 注册 （登记）           |
+| 80. regret                                                           | 后悔（遗憾）            |
 | 81. relate                                                           |                   |
 | 82. relative                                                         | 相关的               |
 | 83. release                                                          | 发布                |
