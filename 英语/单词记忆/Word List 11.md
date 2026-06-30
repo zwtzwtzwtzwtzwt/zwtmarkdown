@@ -80,8 +80,8 @@
 | 74. reflect                                                          | 反应                |
 | 75. reform                                                           | 改革                |
 | 76. refuse                                                           | 拒绝                |
-| 77. regard                                                           |                   |
-| 78. regardless                                                       |                   |
+| 77. regard                                                           | 视为                |
+| 78. regardless                                                       | 相关的               |
 | 79. register                                                         | 注册                |
 | 80. regret                                                           | 后悔                |
 | 81. relate                                                           |                   |
