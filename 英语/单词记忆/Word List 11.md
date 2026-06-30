@@ -14,10 +14,10 @@
 | 8. kingdom       | 王国    |
 | 9. landscape     | 风景    |
 | 10. leadership   | 领导者   |
-| 11. leading      |       |
-| 12. lean         |       |
-| 13. likewise     |       |
-| 14. link         |       |
+| 11. leading      | 领导的   |
+| 12. lean         | 倾斜    |
+| 13. likewise     | 同样的   |
+| 14. link         | 谅     |
 | 15. lobby        |       |
 | 16. manage       |       |
 | 17. manager      |       |
