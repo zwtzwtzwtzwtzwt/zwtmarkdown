@@ -41,7 +41,7 @@
 | 34. species                                                               | 种类（物种）              |
 | 35. spirit                                                                | 精神（志气）              |
 | 36. spot                                                                  | 发现  （小圆点 场所）        |
-| 37. square                                                                | 平方                  |
+| 37. square                                                                | 平方（正方形）             |
 | 38. <font color="#00b050">staff</font>                                    | 全体员工 （任职于）          |
 | 39. stage                                                                 | 舞台 （时期 阶段）          |
 | 40. statistics                                                            | （统计学）               |
