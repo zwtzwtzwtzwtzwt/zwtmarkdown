@@ -30,7 +30,7 @@
 | 24. motivate     |        |
 | 25. museum       | 博物馆    |
 | 26. negative     | 积极的    |
-| 27. neighbour    |        |
+| 27. neighbour    | 邻居     |
 | 28. nevertheless |        |
 | 29. occupation   |        |
 | 30. odd          |        |
