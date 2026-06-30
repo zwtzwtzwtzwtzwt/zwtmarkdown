@@ -48,9 +48,9 @@
 | 42. patience     | 耐心     |
 | 43. payment      |        |
 | 44. peak         |        |
-| 45. peer         |        |
-| 46. perform      |        |
-| 47. performance  |        |
+| 45. peer         | 同龄人    |
+| 46. perform      | 表演     |
+| 47. performance  | 表演     |
 | 48. permit       |        |
 | 49. physician    |        |
 | 50. plate        |        |
