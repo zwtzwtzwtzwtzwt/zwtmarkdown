@@ -34,8 +34,8 @@
 | 27. signal        | 信号       |
 | 28. simple        | 简单的      |
 | 29. simply        | 简化       |
-| 30. situation     |          |
-| 31. skilled       |          |
+| 30. situation     | 情况       |
+| 31. skilled       | 有技巧的     |
 | 32. sort          |          |
 | 33. spark         |          |
 | 34. species       |          |
