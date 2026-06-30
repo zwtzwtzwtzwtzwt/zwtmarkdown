@@ -91,6 +91,6 @@
 | 84. weight        |          |
 | 85. wipe          |          |
 | 86. wisdom        |          |
-| 87. witness       |          |
-| 88. wonder        |          |
-| 89. yield         |          |
+| 87. witness       | 旁观者      |
+| 88. wonder        | 想要       |
+| 89. yield         | 收获       |
