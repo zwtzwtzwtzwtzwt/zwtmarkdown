@@ -88,7 +88,7 @@
 | 82. <font color="#00b050">relative</font>                            | （相对的  亲戚）         |
 | 83. release                                                          | 发布 （公布 释放 ）       |
 | 84. relevant                                                         | 相关的               |
-| 85. reliable                                                         | 可靠的               |
+| 85. reliable                                                         | 可靠的 （可信赖的）        |
 | 86. relief                                                           | 信赖                |
 | 87. relieve                                                          | 信任                |
 | 88. reputation                                                       | 荣誉                |
