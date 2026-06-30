@@ -39,7 +39,7 @@
 | 33. official     | 官方的    |
 | 34. opening      |        |
 | 35. opponent     |        |
-| 36. opportunity  |        |
+| 36. opportunity  | 机会     |
 | 37. oppose       |        |
 | 38. original     |        |
 | 39. painting     |        |
