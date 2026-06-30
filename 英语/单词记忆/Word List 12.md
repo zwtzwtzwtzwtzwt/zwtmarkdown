@@ -34,7 +34,7 @@
 | 27. signal                                  | 信号（迹象 于是 表达  示意）    |
 | 28. simple                                  | 简单的                 |
 | 29. <font color="#00b050">simply</font>     | （仅仅  确实）            |
-| 30. situation                               | 情况                  |
+| 30. situation                               | 情况（）                |
 | 31. skilled                                 | 有技巧的                |
 | 32. sort                                    | 种类                  |
 | 33. spark                                   | 火花                  |
