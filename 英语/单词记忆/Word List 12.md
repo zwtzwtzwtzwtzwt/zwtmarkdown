@@ -84,12 +84,12 @@
 | 77. vary                                    | 变化       |
 | 78. vast                                    | 大的       |
 | 79. vehicle                                 | 交通工具     |
-| 80. virtual                                 |          |
-| 81. vision                                  |          |
+| 80. <font color="#00b050">virtual</font>    |          |
+| 81. <font color="#00b050">vision</font>     |          |
 | 82. vitamin                                 | 维他命      |
 | 83. weigh                                   | 称重       |
 | 84. weight                                  | 重量       |
-| 85. wipe                                    |          |
+| 85. <font color="#00b050">wipe</font>       |          |
 | 86. wisdom                                  | 指挥       |
 | 87. witness                                 | 旁观者      |
 | 88. wonder                                  | 想要       |
