@@ -27,7 +27,7 @@
 | 20. sequence                                | 序列 一系列（顺序）          |
 | 21. setting                                 | （环境 地点 背景）          |
 | 22. settle                                  | 解决 （定居  决定 使平静）     |
-| 23. <font color="#00b050">settlement</font> | （定居点 ）              |
+| 23. <font color="#00b050">settlement</font> | （定居点 解决 处理 和解）      |
 | 24. shelter                                 | 庇护所                 |
 | 25. shortage                                | 缺点                  |
 | 26. sign                                    | 登录                  |
