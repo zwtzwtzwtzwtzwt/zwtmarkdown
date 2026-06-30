@@ -16,7 +16,7 @@
 | 9. rural                                    | 乡村的            |
 | 10. sample                                  | 样本（取样）         |
 | 11. satellite                               | 卫星（人造卫星）       |
-| 12. saving                                  | 存款             |
+| 12. saving                                  | 存款（节省）         |
 | 13. schedule                                | 规划             |
 | 14. score                                   | 分数             |
 | 15. secret                                  | 秘密的            |
