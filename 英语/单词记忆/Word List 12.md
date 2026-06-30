@@ -80,7 +80,7 @@
 | 73. unemployment                                                          | 失业                  |
 | 74. unexpected                                                            | 出乎意料的               |
 | 75. <font color="#00b050">unlike</font>                                   | （不同）                |
-| 76. <font color="#00b050">unlikely</font>                                 |                     |
+| 76. <font color="#00b050">unlikely</font>                                 | （不太可能的）             |
 | 77. vary                                                                  | 变化                  |
 | 78. vast                                                                  | 大的                  |
 | 79. vehicle                                                               | 交通工具                |
