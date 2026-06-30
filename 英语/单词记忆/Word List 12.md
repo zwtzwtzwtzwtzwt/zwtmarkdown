@@ -69,7 +69,7 @@
 | 62. timber        |          |
 | 63. tiny          | 小的       |
 | 64. tobacco       |          |
-| 65. tough         | 艰难的      |
+| 65. tough         | 艰难的  困难的 |
 | 66. translate     | 翻译       |
 | 67. translation   | 翻译       |
 | 68. trend         | 趋势       |
