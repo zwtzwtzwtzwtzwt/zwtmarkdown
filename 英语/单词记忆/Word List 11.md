@@ -22,8 +22,8 @@
 | 16. manage                                  | 管理  （设法做成）      |
 | 17. manager                                 | 管理者             |
 | 18. mass                                    | 大量  （大众 群众）     |
-| 19. massive                                 |                 |
-| 20. mere                                    |                 |
+| 19. massive                                 | （巨大的 ）          |
+| 20. mere                                    | 仅仅的             |
 | 21. merely                                  | 仅仅              |
 | 22. minister                                |                 |
 | 23. mostly                                  | 大量的             |
