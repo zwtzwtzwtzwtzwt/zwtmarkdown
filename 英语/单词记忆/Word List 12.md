@@ -22,7 +22,7 @@
 | 15. secret                                  | 秘密的（秘密）        |
 | 16. secretary                               | 秘书 （部长 大臣）     |
 | 17. sector                                  | 部门（领域 行业 地带）   |
-| 18. <font color="#00b050">secure</font>     | 救援             |
+| 18. <font color="#00b050">secure</font>     |                |
 | 19. seldom                                  | 很少             |
 | 20. sequence                                | 序列 一系列         |
 | 21. setting                                 | 设置             |
