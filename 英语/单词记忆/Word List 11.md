@@ -85,8 +85,8 @@
 | 79. register                                                         | 注册 （登记）           |
 | 80. regret                                                           | 后悔（遗憾）            |
 | 81. <font color="#00b050">relate</font>                              | （相关  有关联 讲述）      |
-| 82. <font color="#00b050">relative</font>                            | （相对的  ）           |
-| 83. release                                                          | 发布                |
+| 82. <font color="#00b050">relative</font>                            | （相对的  亲戚）         |
+| 83. release                                                          | 发布 （公布 释放 ）       |
 | 84. relevant                                                         | 相关的               |
 | 85. reliable                                                         | 可靠的               |
 | 86. relief                                                           | 信赖                |
