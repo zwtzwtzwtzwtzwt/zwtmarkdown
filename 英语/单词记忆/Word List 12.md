@@ -28,8 +28,8 @@
 | 21. setting       | 设置       |
 | 22. settle        | 解决       |
 | 23. settlement    |          |
-| 24. shelter       |          |
-| 25. shortage      |          |
+| 24. shelter       | 庇护所      |
+| 25. shortage      | 缺点       |
 | 26. sign          |          |
 | 27. signal        |          |
 | 28. simple        |          |
