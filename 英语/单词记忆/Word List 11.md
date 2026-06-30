@@ -85,7 +85,7 @@
 | 79. register     | 注册     |
 | 80. regret       | 后悔     |
 | 81. relate       |        |
-| 82. relative     |        |
+| 82. relative     | 相关的    |
 | 83. release      | 发布     |
 | 84. relevant     | 相关的    |
 | 85. reliable     | 可靠的    |
