@@ -53,9 +53,9 @@
 | 46. strengthen    | 增长       |
 | 47. strike        |          |
 | 48. substantial   | 补充的      |
-| 49. subtle        |          |
+| 49. subtle        | 解决       |
 | 50. suit          |          |
-| 51. sum           |          |
+| 51. sum           | 总和       |
 | 52. supply        |          |
 | 53. supreme       |          |
 | 54. surround      |          |
