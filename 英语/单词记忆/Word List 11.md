@@ -24,9 +24,9 @@
 | 18. mass         | 大量的    |
 | 19. massive      |        |
 | 20. mere         |        |
-| 21. merely       |        |
+| 21. merely       | 仅仅     |
 | 22. minister     |        |
-| 23. mostly       |        |
+| 23. mostly       | 大量的    |
 | 24. motivate     |        |
 | 25. museum       |        |
 | 26. negative     |        |
