@@ -85,7 +85,7 @@
 | 78. vast                                                                  | 大的（辽阔的 庞大的）         |
 | 79. vehicle                                                               | 交通工具 （手段 工具）        |
 | 80. <font color="#00b050">virtual</font>                                  | （虚拟的）               |
-| 81. <font color="#00b050">vision</font>                                   | （想象 ）               |
+| 81. <font color="#00b050">vision</font>                                   | （想象  展望  ）          |
 | 82. vitamin                                                               | 维他命                 |
 | 83. weigh                                                                 | 称重                  |
 | 84. weight                                                                | 重量                  |
