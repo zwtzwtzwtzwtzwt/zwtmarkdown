@@ -78,7 +78,7 @@
 | 71. tunnel        |          |
 | 72. understanding |          |
 | 73. unemployment  |          |
-| 74. unexpected    |          |
+| 74. unexpected    | 出乎意料的    |
 | 75. unlike        |          |
 | 76. unlikely      |          |
 | 77. vary          | 变化       |
