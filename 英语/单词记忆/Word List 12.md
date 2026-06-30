@@ -87,10 +87,10 @@
 | 80. virtual       |          |
 | 81. vision        |          |
 | 82. vitamin       |          |
-| 83. weigh         |          |
-| 84. weight        |          |
+| 83. weigh         | 称重       |
+| 84. weight        | 重量       |
 | 85. wipe          |          |
-| 86. wisdom        |          |
+| 86. wisdom        | 指挥       |
 | 87. witness       | 旁观者      |
 | 88. wonder        | 想要       |
 | 89. yield         | 收获       |
