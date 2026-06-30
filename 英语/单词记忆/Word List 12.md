@@ -9,9 +9,9 @@
 | 2. respond        | 反应       |
 | 3. retail         | 零售       |
 | 4. review         | 审查 复习 评论 |
-| 5. reward         |          |
+| 5. reward         | 奖励       |
 | 6. rival          |          |
-| 7. routine        |          |
+| 7. routine        | 惯例       |
 | 8. royal          |          |
 | 9. rural          |          |
 | 10. sample        |          |
