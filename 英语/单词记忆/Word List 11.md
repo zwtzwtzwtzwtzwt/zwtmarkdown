@@ -21,8 +21,8 @@
 | 15. <font color="#00b050">lobby</font>      | （游说 大厅）         |
 | 16. manage                                  | 管理  （设法做成）      |
 | 17. manager                                 | 管理者             |
-| 18. mass                                    | 大量  （大众 群众）     |
-| 19. massive                                 | （巨大的 ）          |
+| 18. <font color="#00b050">mass</font>       | 大量  （大众 群众）     |
+| 19. <font color="#00b050">massive</font>    | （巨大的 庞大的）       |
 | 20. mere                                    | 仅仅的             |
 | 21. merely                                  | 仅仅              |
 | 22. minister                                |                 |
