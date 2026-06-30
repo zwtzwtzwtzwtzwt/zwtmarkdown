@@ -72,8 +72,8 @@
 | 66. random                                                           | 随机的               |
 | 67. <font color="#00b050">rare</font>                                | （少见的 珍贵的）         |
 | 68. recall                                                           | 回忆（回想起  召回  记忆力）  |
-| 69. recognize                                                        | 承认                |
-| 70. recognition                                                      | 认证                |
+| 69. <font color="#00b050">recognize</font>                           | 承认                |
+| 70. <font color="#00b050">recognition</font>                         | 认证                |
 | 71. recommend                                                        | 推荐                |
 | 72. recruit                                                          | 循环                |
 | 73. refer                                                            | 提及                |
