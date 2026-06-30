@@ -67,7 +67,7 @@
 | 61. profession                                | 职业  专业          |
 | 62. profound                                  |                 |
 | 63. purchase                                  | 购买              |
-| 64. quota                                     |                 |
+| 64. quota                                     | 引用              |
 | 65. quote                                     | 引用              |
 | 66. random                                    | 随机的             |
 | 67. rare                                      | 生的              |
