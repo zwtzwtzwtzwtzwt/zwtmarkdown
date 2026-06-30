@@ -62,8 +62,8 @@
 | 56. previous                                                         | 先前的               |
 | 57. pride                                                            | 骄傲（自豪  自尊心 尊严）    |
 | 58. print                                                            | 打印（印刷的  印刷发行）     |
-| 59. <font color="#00b050">produce</font>                             | （产生 引起 生产）        |
-| 60. <font color="#00b050">production</font>                          | 借号                |
+| 59. <font color="#00b050">produce</font>                             | （产生 引起 生产 制造）     |
+| 60. <font color="#00b050">production</font>                          | （）                |
 | 61. <font color="#00b050">profession</font>                          | 职业  专业            |
 | 62. <font color="#00b050">profound</font>                            |                   |
 | 63. purchase                                                         | 购买                |
