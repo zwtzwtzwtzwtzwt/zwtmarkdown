@@ -70,9 +70,9 @@
 | 63. tiny          | 小的       |
 | 64. tobacco       |          |
 | 65. tough         |          |
-| 66. translate     |          |
-| 67. translation   |          |
-| 68. trend         |          |
+| 66. translate     | 翻译       |
+| 67. translation   | 翻译       |
+| 68. trend         | 趋势       |
 | 69. trial         |          |
 | 70. trigger       | 触发       |
 | 71. tunnel        | 管道       |
