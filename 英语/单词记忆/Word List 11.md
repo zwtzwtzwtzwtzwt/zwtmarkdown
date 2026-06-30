@@ -8,7 +8,7 @@
 | 2. <font color="#00b050">instinct</font>    | （本能 直觉）    |
 | 3. <font color="#00b050">institution</font> | （机构 风俗 习惯） |
 | 4. intend                                   | 想要 （打算）    |
-| 5. intention                                | 意向         |
+| 5. intention                                | 意向 （意图 打算） |
 | 6. interpret                                | 阐释         |
 | 7. interview                                | 采访 面试      |
 | 8. kingdom                                  | 王国         |
