@@ -75,9 +75,9 @@
 | 68. trend                                                                 | 趋势                  |
 | 69. <font color="#00b050">trial</font>                                    | （试验 审判）             |
 | 70. trigger                                                               | 触发  （起因）            |
-| 71. <font color="#ff0000">tunnel</font>                                   | （隧道 地道  ）           |
-| 72. understanding                                                         | 理解                  |
-| 73. unemployment                                                          | 事业                  |
+| 71. <font color="#ff0000">tunnel</font>                                   | （隧道 地道  开凿隧道）       |
+| 72. understanding                                                         | 理解  （）              |
+| 73. unemployment                                                          | 失业                  |
 | 74. unexpected                                                            | 出乎意料的               |
 | 75. <font color="#00b050">unlike</font>                                   |                     |
 | 76. <font color="#00b050">unlikely</font>                                 |                     |
