@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "测试",
+      "path": "测试.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "adfasdfas",
+      "path": "adfasdfas.md"
+    },
+    {
+      "basename": "二阶非齐次方程微分算子法",
+      "path": "1高数基础/7微分方程/做题方法/二阶非齐次方程微分算子法.md"
+    },
+    {
       "basename": "积分上限函数转换（心一学长 没咋了）",
       "path": "1高数基础/5定积分与反常积分/做题方法/积分上限函数转换（心一学长 没咋了）.md"
     },
@@ -133,10 +149,6 @@
       "path": "1高数基础/7微分方程/补充理解/欧拉公式.md"
     },
     {
-      "basename": "二阶非齐次方程微分算子法",
-      "path": "1高数基础/7微分方程/做题方法/二阶非齐次方程微分算子法.md"
-    },
-    {
       "basename": "解三角函数",
       "path": "1高数基础/9二重积分/做题方法/解三角函数.md"
     },
@@ -159,10 +171,6 @@
     {
       "basename": "#5函数与导数的爱恨情仇（带交流群）",
       "path": "没咋了/经典错误系列/#5函数与导数的爱恨情仇（带交流群）.pdf"
-    },
-    {
-      "basename": "测试",
-      "path": "测试.md"
     },
     {
       "basename": "#7驻点、极值点、拐点、单调性、凹凸性易错点",
@@ -343,18 +351,6 @@
     {
       "basename": "微服务中间件配置",
       "path": "9微服务作业/微服务中间件配置.md"
-    },
-    {
-      "basename": "adfasdfas",
-      "path": "adfasdfas.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "compose 操作",
