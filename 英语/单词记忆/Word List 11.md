@@ -55,8 +55,8 @@
 | 49. <font color="#ff0000">physician</font>                           | （医师 医生）         |
 | 50. plate                                                            | 盘子 （板块）         |
 | 51. <font color="#00b050">poetry                             </font> | （诗歌  优雅气质）      |
-| 52. <font color="#00b050">poll</font>                                | （名义调查  ）        |
-| 53. pose                                                             | 姿势              |
+| 52. <font color="#00b050">poll</font>                                | （名义调查  选举投票）    |
+| 53. pose                                                             | 姿势（造成 引起 冒充）    |
 | 54. poverty                                                          |                 |
 | 55. premium                                                          |                 |
 | 56. previous                                                         | 先前的             |
