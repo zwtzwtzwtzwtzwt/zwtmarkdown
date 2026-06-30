@@ -25,7 +25,7 @@
 | 18. <font color="#00b050">secure</font>     | （可靠的 稳固的 安全的 获得 实现） |
 | 19. seldom                                  | 很少                  |
 | 20. sequence                                | 序列 一系列（顺序）          |
-| 21. setting                                 | 设置                  |
+| 21. setting                                 | （环境 地点 背景）          |
 | 22. settle                                  | 解决                  |
 | 23. <font color="#00b050">settlement</font> |                     |
 | 24. shelter                                 | 庇护所                 |
