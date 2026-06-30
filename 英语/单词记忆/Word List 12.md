@@ -54,7 +54,7 @@
 | 47. <font color="#00b050">strike</font>                                   | （罢工  撞击）            |
 | 48. <font color="#ff0000">substantial                             </font> | （大量的 重大的 结实的 大而坚固的） |
 | 49. <font color="#ff0000">subtle</font>                                   | （微妙的 巧妙的 敏锐的）       |
-| 50. <font color="#00b050">suit</font>                                     | （满足 速冻 ）            |
+| 50. <font color="#00b050">suit</font>                                     | （满足 诉讼 套装）          |
 | 51. sum                                                                   | 总和                  |
 | 52. supply                                                                | 提供                  |
 | 53. supreme                                                               | 极好的                 |
