@@ -51,7 +51,7 @@
 | 44. strategy                                | 策略（战略）              |
 | 45. strength                                | 长处 优点（优势 意志力）       |
 | 46. strengthen                              | 增长  加强（巩固）          |
-| 47. <font color="#00b050">strike</font>     | （罢工 ）               |
+| 47. <font color="#00b050">strike</font>     | （罢工  撞击）            |
 | 48. substantial                             | 补充的                 |
 | 49. subtle                                  | 解决                  |
 | 50. <font color="#00b050">suit</font>       |                     |
