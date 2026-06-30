@@ -57,7 +57,7 @@
 | 50. <font color="#00b050">suit</font>                                     | （满足 诉讼 套装）          |
 | 51. sum                                                                   | 总和（金额 款项）           |
 | 52. supply                                                                | 提供（供应）              |
-| 53. <font color="#ff0000">supreme</font>                                  |                     |
+| 53. <font color="#ff0000">supreme</font>                                  | （最高的 ）              |
 | 54. surround                                                              | 周围的                 |
 | 55. survive                                                               | 存活                  |
 | 56. switch                                                                | 转变                  |
