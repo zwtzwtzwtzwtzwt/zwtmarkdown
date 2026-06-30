@@ -39,9 +39,9 @@
 | 32. sort          | 种类       |
 | 33. spark         | 火花       |
 | 34. species       | 种类       |
-| 35. spirit        |          |
-| 36. spot          |          |
-| 37. square        |          |
+| 35. spirit        | 精神       |
+| 36. spot          | 发现  点    |
+| 37. square        | 平方       |
 | 38. staff         |          |
 | 39. stage         |          |
 | 40. statistics    |          |
