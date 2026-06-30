@@ -82,8 +82,8 @@
 | 75. <font color="#00b050">unlike</font>                                   | （不同）                |
 | 76. <font color="#00b050">unlikely</font>                                 | （不太可能的）             |
 | 77. vary                                                                  | 变化 （不同 改变）          |
-| 78. vast                                                                  | 大的（辽阔的 庞大）          |
-| 79. vehicle                                                               | 交通工具                |
+| 78. vast                                                                  | 大的（辽阔的 庞大的）         |
+| 79. vehicle                                                               | 交通工具 （手段 工具）        |
 | 80. <font color="#00b050">virtual</font>                                  |                     |
 | 81. <font color="#00b050">vision</font>                                   |                     |
 | 82. vitamin                                                               | 维他命                 |
@@ -93,4 +93,4 @@
 | 86. wisdom                                                                | 指挥                  |
 | 87. witness                                                               | 旁观者                 |
 | 88. wonder                                                                | 想要                  |
-| 89. yield                                                                 | 收获                  |
+| 89. yield                                                                 | 收获           
