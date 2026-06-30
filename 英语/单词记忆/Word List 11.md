@@ -60,7 +60,7 @@
 | 54. poverty                                                          | 贫穷                |
 | 55. <font color="#00b050">premium</font>                             | （额外费用 保险费  优质的）   |
 | 56. previous                                                         | 先前的               |
-| 57. pride                                                            | 骄傲（）              |
+| 57. pride                                                            | 骄傲（自豪  自尊心 ）      |
 | 58. print                                                            | 打印                |
 | 59. produce                                                          | 介绍                |
 | 60. production                                                       | 借号                |
