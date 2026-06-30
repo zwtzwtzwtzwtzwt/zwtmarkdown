@@ -59,7 +59,7 @@
 | 53. pose         |        |
 | 54. poverty      |        |
 | 55. premium      |        |
-| 56. previous     |        |
+| 56. previous     | 先前的    |
 | 57. pride        | 骄傲的    |
 | 58. print        | 打印     |
 | 59. produce      |        |
