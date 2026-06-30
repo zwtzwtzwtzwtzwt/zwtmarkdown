@@ -62,7 +62,7 @@
 | 55. survive       | 存活       |
 | 56. switch        | 转变       |
 | 57. systematic    | 系统性的     |
-| 58. thin          |          |
+| 58. thin          | 瘦的       |
 | 59. threat        |          |
 | 60. threaten      |          |
 | 61. thus          |          |
