@@ -41,10 +41,10 @@
 | 35. opponent     |        |
 | 36. opportunity  | 机会     |
 | 37. oppose       |        |
-| 38. original     |        |
+| 38. original     | 开始的    |
 | 39. painting     |        |
 | 40. panel        |        |
-| 41. patent       |        |
+| 41. patent       | 专利     |
 | 42. patience     |        |
 | 43. payment      |        |
 | 44. peak         |        |
