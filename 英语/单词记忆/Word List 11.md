@@ -51,7 +51,7 @@
 | 45. peer                                                             | 同龄人 （仔细看）       |
 | 46. perform                                                          | 表演（做 履行  执行）    |
 | 47. performance                                                      | 表演（表现 业绩）       |
-| 48. <font color="#ff0000">permit                             </font> |                 |
+| 48. <font color="#ff0000">permit                             </font> | （允许 准许  ）       |
 | 49. physician                                                        | 物理学家            |
 | 50. plate                                                            | 盘子              |
 | 51. poetry                                                           | 贫穷              |
