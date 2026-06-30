@@ -25,7 +25,7 @@
 | 19. <font color="#00b050">massive</font>    | （巨大的 庞大的）       |
 | 20. mere                                    | 仅仅的             |
 | 21. merely                                  | 仅仅              |
-| 22. minister                                |                 |
+| 22. <font color="#00b050">minister</font>   |                 |
 | 23. mostly                                  | 大量的             |
 | 24. motivate                                |                 |
 | 25. museum                                  | 博物馆             |
