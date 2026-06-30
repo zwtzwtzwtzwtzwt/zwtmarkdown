@@ -43,7 +43,7 @@
 | 37. oppose                                    | 反对 （抵制 阻挠）      |
 | 38. original                                  | 开始的 （最初的 原稿）    |
 | 39. painting                                  | 画画（绘画）          |
-| 40. panel                                     | （）              |
+| 40. <font color="#00b050">panel</font>        | （专家咨询部 ）        |
 | 41. patent                                    | 专利              |
 | 42. patience                                  | 耐心              |
 | 43. payment                                   |                 |
