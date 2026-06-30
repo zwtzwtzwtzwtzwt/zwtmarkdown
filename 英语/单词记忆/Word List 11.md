@@ -53,9 +53,9 @@
 | 47. performance  | 表演     |
 | 48. permit       | 承认     |
 | 49. physician    | 物理学家   |
-| 50. plate        |        |
+| 50. plate        | 盘子     |
 | 51. poetry       | 贫穷     |
-| 52. poll         |        |
+| 52. poll         | 人口普查   |
 | 53. pose         |        |
 | 54. poverty      |        |
 | 55. premium      |        |
