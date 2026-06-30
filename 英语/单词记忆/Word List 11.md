@@ -11,9 +11,9 @@
 | 5. intention     |       |
 | 6. interpret     | 阐释    |
 | 7. interview     | 采访 面试 |
-| 8. kingdom       |       |
-| 9. landscape     |       |
-| 10. leadership   |       |
+| 8. kingdom       | 王国    |
+| 9. landscape     | 风景    |
+| 10. leadership   | 领导者   |
 | 11. leading      |       |
 | 12. lean         |       |
 | 13. likewise     |       |
