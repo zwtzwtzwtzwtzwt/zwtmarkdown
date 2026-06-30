@@ -39,7 +39,7 @@
 | 32. sort                                    | 种类  （分类）            |
 | 33. spark                                   | 火花 （引发 触发）          |
 | 34. species                                 | 种类（物种）              |
-| 35. spirit                                  | 精神                  |
+| 35. spirit                                  | 精神（志气）              |
 | 36. spot                                    | 发现  点               |
 | 37. square                                  | 平方                  |
 | 38. <font color="#00b050">staff</font>      | 全体员工                |
