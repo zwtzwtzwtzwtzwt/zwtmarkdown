@@ -82,8 +82,8 @@
 | 76. refuse       |        |
 | 77. regard       |        |
 | 78. regardless   |        |
-| 79. register     |        |
-| 80. regret       |        |
+| 79. register     | 注册     |
+| 80. regret       | 后悔     |
 | 81. relate       |        |
 | 82. relative     |        |
 | 83. release      | 发布     |
