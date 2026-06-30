@@ -58,9 +58,9 @@
 | 52. <font color="#00b050">poll</font>                                | （名义调查  选举投票）      |
 | 53. pose                                                             | 姿势（造成 引起 冒充 摆好姿势） |
 | 54. poverty                                                          | 贫穷                |
-| 55. <font color="#00b050">premium</font>                             | （额外费用 保险费  ）      |
+| 55. <font color="#00b050">premium</font>                             | （额外费用 保险费  优质的）   |
 | 56. previous                                                         | 先前的               |
-| 57. pride                                                            | 骄傲的               |
+| 57. pride                                                            | 骄傲（）              |
 | 58. print                                                            | 打印                |
 | 59. produce                                                          | 介绍                |
 | 60. production                                                       | 借号                |
