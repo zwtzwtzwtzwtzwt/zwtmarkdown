@@ -22,7 +22,7 @@
 | 15. secret                                  | 秘密的      |
 | 16. secretary                               | 秘书的      |
 | 17. sector                                  | 部门       |
-| 18. secure                                  | 救援       |
+| 18. <font color="#00b050">secure</font>     | 救援       |
 | 19. seldom                                  | 很少       |
 | 20. sequence                                | 序列 一系列   |
 | 21. setting                                 | 设置       |
