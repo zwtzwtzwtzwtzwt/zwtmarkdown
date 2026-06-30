@@ -30,10 +30,10 @@
 | 23. settlement    |          |
 | 24. shelter       | 庇护所      |
 | 25. shortage      | 缺点       |
-| 26. sign          |          |
-| 27. signal        |          |
-| 28. simple        |          |
-| 29. simply        |          |
+| 26. sign          | 登录       |
+| 27. signal        | 信号       |
+| 28. simple        | 简单的      |
+| 29. simply        | 简化       |
 | 30. situation     |          |
 | 31. skilled       |          |
 | 32. sort          |          |
