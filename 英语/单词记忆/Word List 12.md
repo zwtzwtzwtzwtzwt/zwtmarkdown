@@ -10,7 +10,7 @@
 | 3. retail                                   | 零售        |
 | 4. review                                   | 审查 复习 评论  |
 | 5. reward                                   | 奖励        |
-| 6. <font color="#00b050">rival</font>       |           |
+| 6. <font color="#00b050">rival</font>       | （对手 ）     |
 | 7. routine                                  | 惯例        |
 | 8. royal                                    | 皇室的       |
 | 9. rural                                    | 乡村的       |
