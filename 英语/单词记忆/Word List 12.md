@@ -11,8 +11,8 @@
 | 4. review                                   | 审查 复习 评论     |
 | 5. reward                                   | 奖励           |
 | 6. <font color="#00b050">rival</font>       | （对手 竞争者 与匹敌） |
-| 7. <font color="#00b050">routine</font>     |              |
-| 8. royal                                    | 皇室的          |
+| 7. routine                                  | 惯例           |
+| 8. royal                                    | 皇室的 （王室）     |
 | 9. rural                                    | 乡村的          |
 | 10. sample                                  | 样本           |
 | 11. satellite                               | 卫星           |
