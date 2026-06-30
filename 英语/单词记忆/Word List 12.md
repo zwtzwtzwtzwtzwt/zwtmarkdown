@@ -53,7 +53,7 @@
 | 46. strengthen                                                            | 增长  加强（巩固）          |
 | 47. <font color="#00b050">strike</font>                                   | （罢工  撞击）            |
 | 48. <font color="#ff0000">substantial                             </font> | 补充的                 |
-| 49. subtle                                                                | 解决                  |
+| 49. <font color="#ff0000">subtle</font>                                   | 解决                  |
 | 50. <font color="#00b050">suit</font>                                     |                     |
 | 51. sum                                                                   | 总和                  |
 | 52. supply                                                                | 提供                  |
