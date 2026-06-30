@@ -74,10 +74,10 @@
 | 67. translation   |          |
 | 68. trend         |          |
 | 69. trial         |          |
-| 70. trigger       |          |
-| 71. tunnel        |          |
-| 72. understanding |          |
-| 73. unemployment  |          |
+| 70. trigger       | 触发       |
+| 71. tunnel        | 管道       |
+| 72. understanding | 理解       |
+| 73. unemployment  | 事业       |
 | 74. unexpected    | 出乎意料的    |
 | 75. unlike        |          |
 | 76. unlikely      |          |
