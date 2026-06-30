@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "计算方法",
+      "path": "线性代数/矩阵/计算方法.md"
+    },
+    {
+      "basename": "线性代数",
+      "path": "线性代数/线性代数.md"
+    },
+    {
       "basename": "记忆内容",
       "path": "线性代数/记忆内容.md"
     },
@@ -257,10 +265,6 @@
       "path": "英语/单词记忆/Word List 21.md"
     },
     {
-      "basename": "计算方法",
-      "path": "线性代数/矩阵/计算方法.md"
-    },
-    {
       "basename": "7图",
       "path": "2数据结构/7图/7图.md"
     },
@@ -279,10 +283,6 @@
     {
       "basename": "单词记忆",
       "path": "英语/单词记忆/单词记忆.md"
-    },
-    {
-      "basename": "线性代数",
-      "path": "线性代数/线性代数.md"
     },
     {
       "basename": "考试时间",
