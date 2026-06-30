@@ -42,7 +42,7 @@
 | 35. spirit                                  | 精神       |
 | 36. spot                                    | 发现  点    |
 | 37. square                                  | 平方       |
-| 38. staff                                   | 全体员工     |
+| 38. <font color="#00b050">staff</font>      | 全体员工     |
 | 39. stage                                   | 舞台       |
 | 40. statistics                              | 统计       |
 | 41. <font color="#00b050">stem</font>       |          |
