@@ -15,7 +15,7 @@
 | 9. landscape                                | 风景 （风景画）        |
 | 10. <font color="#00b050">leadership</font> | （领导才能 领导班子）     |
 | 11. <font color="#00b050">leading</font>    | （最重要的  一流的 领先的） |
-| 12. <font color="#00b050">lean</font>       | （精瘦的  ）         |
+| 12. <font color="#00b050">lean</font>       | （精瘦的  精干的  依靠）  |
 | 13. likewise                                | 同样的             |
 | 14. link                                    | 链接  联系          |
 | 15. lobby                                   |                 |
