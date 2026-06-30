@@ -54,8 +54,8 @@
 | 48. <font color="#ff0000">permit                             </font> | （允许 准许  许可证）    |
 | 49. <font color="#ff0000">physician</font>                           | （医师 医生）         |
 | 50. plate                                                            | 盘子 （板块）         |
-| 51. <font color="#00b050">poetry                             </font> | （诗歌  又要）        |
-| 52. poll                                                             | 人口普查            |
+| 51. <font color="#00b050">poetry                             </font> | （诗歌  优雅气质）      |
+| 52. poll                                                             |                 |
 | 53. pose                                                             | 姿势              |
 | 54. poverty                                                          |                 |
 | 55. premium                                                          |                 |
