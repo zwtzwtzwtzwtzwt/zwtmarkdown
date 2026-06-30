@@ -41,7 +41,7 @@
 | 35. opponent                                  | 敌人 对手（反对者  竞争者） |
 | 36. opportunity                               | 机会              |
 | 37. oppose                                    | 反对 （抵制 阻挠）      |
-| 38. original                                  | 开始的             |
+| 38. original                                  | 开始的 （最初的 原稿）    |
 | 39. painting                                  | 画画              |
 | 40. panel                                     |                 |
 | 41. patent                                    | 专利              |
