@@ -35,8 +35,8 @@
 | 28. simple                                  | 简单的                 |
 | 29. <font color="#00b050">simply</font>     | （仅仅  确实）            |
 | 30. situation                               | 情况（环境 局面）           |
-| 31. skilled                                 | 有技巧的（技术的  ）         |
-| 32. sort                                    | 种类                  |
+| 31. skilled                                 | 有技巧的（技术的 熟练的）       |
+| 32. sort                                    | 种类  （分类）            |
 | 33. spark                                   | 火花                  |
 | 34. species                                 | 种类                  |
 | 35. spirit                                  | 精神                  |
