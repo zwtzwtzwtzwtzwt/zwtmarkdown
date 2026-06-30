@@ -38,7 +38,7 @@
 | 31. skilled                                 | 有技巧的（技术的 熟练的）       |
 | 32. sort                                    | 种类  （分类）            |
 | 33. spark                                   | 火花 （引发 触发）          |
-| 34. species                                 | 种类                  |
+| 34. species                                 | 种类（物种）              |
 | 35. spirit                                  | 精神                  |
 | 36. spot                                    | 发现  点               |
 | 37. square                                  | 平方                  |
