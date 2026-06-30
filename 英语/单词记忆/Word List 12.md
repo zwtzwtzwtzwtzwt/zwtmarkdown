@@ -30,7 +30,7 @@
 | 23. <font color="#00b050">settlement</font> | （定居点 解决 处理 和解）      |
 | 24. shelter                                 | 庇护所                 |
 | 25. shortage                                | 缺点                  |
-| 26. <font color="#00b050">sign</font>       |                     |
+| 26. <font color="#00b050">sign</font>       | （迹象 预兆  标志  ）       |
 | 27. signal                                  | 信号                  |
 | 28. simple                                  | 简单的                 |
 | 29. simply                                  | 简化                  |
