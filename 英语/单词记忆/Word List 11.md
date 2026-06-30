@@ -79,7 +79,7 @@
 | 73. refer                                                            | 提及（描述 涉及 介绍 委托）   |
 | 74. reflect                                                          | （反映  思考  显示）      |
 | 75. reform                                                           | 改革 （改进）           |
-| 76. refuse                                                           | 拒绝                |
+| 76. refuse                                                           | 拒绝（垃圾）            |
 | 77. regard                                                           | 视为                |
 | 78. regardless                                                       | 相关的               |
 | 79. register                                                         | 注册                |
