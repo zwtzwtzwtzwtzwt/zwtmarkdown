@@ -90,7 +90,7 @@
 | 83. <font color="#ff0000">weigh</font>                                    | （权衡 称重  有影响）        |
 | 84. weight                                                                | 重量                  |
 | 85. <font color="#00b050">wipe</font>                                     | （擦拭 抹去 湿巾）          |
-| 86. wisdom                                                                | 指挥                  |
+| 86. wisdom                                                                | 指挥 才智               |
 | 87. witness                                                               | 旁观者                 |
 | 88. wonder                                                                | 想要                  |
 | 89. yield                                                                 | 收获                  |
