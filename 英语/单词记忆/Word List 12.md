@@ -68,7 +68,7 @@
 | 61. thus                                                                  | 因此                  |
 | 62. <font color="#00b050">timber</font>                                   | （木材 木料）             |
 | 63. tiny                                                                  | 极小的                 |
-| 64. <font color="#00b050">tobacco</font>                                  |                     |
+| 64. <font color="#00b050">tobacco</font>                                  | （烟草）                |
 | 65. tough                                                                 | 艰难的  困难的            |
 | 66. translate                                                             | 翻译                  |
 | 67. translation                                                           | 翻译                  |
