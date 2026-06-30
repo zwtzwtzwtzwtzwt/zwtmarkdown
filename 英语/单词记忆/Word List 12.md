@@ -15,7 +15,7 @@
 | 8. royal                                    | 皇室的 （王室成员 盛大的） |
 | 9. rural                                    | 乡村的            |
 | 10. sample                                  | 样本（取样）         |
-| 11. satellite                               | 卫星             |
+| 11. satellite                               | 卫星（人造卫星）       |
 | 12. saving                                  | 存款             |
 | 13. schedule                                | 规划             |
 | 14. score                                   | 分数             |
