@@ -63,7 +63,7 @@
 | 56. switch                                  | 转变       |
 | 57. systematic                              | 系统性的     |
 | 58. thin                                    | 瘦的       |
-| 59. threat                                  | 对待       |
+| 59. <font color="#00b050">threat</font>     | 对待       |
 | 60. <font color="#00b050">threaten</font>   |          |
 | 61. thus                                    | 因此       |
 | 62. <font color="#00b050">timber</font>     |          |
