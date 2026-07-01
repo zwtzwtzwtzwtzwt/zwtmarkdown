@@ -74,9 +74,9 @@
 | 70. cigarette      | 香烟     |
 | 71. circuit        | 循环     |
 | 72. claim          | 表明 声明  |
-| 73. colleague      |        |
-| 74. column         |        |
-| 75. command        |        |
+| 73. colleague      | 大学     |
+| 74. column         | 列      |
+| 75. command        | 命令     |
 | 76. competitive    |        |
 | 77. constant       |        |
 | 78. context        |        |
