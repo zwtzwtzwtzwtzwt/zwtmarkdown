@@ -40,7 +40,7 @@
 | 36. operate      | 操作        |
 | 37. operator     |           |
 | 38. option       | 选择        |
-| 39. adopt        | 采用  手游哪个  |
+| 39. adopt        | 采用  收养    |
 | 40. optimistic   |           |
 | 41. ordinary     |           |
 | 42. organize     |           |
