@@ -39,7 +39,7 @@
 | 35. award          | 回报    |
 | 36. barely         | 仅仅    |
 | 37. bay            | 海湾    |
-| 38. bear           |       |
+| 38. bear           | 忍受 熊  |
 | 39. behalf         |       |
 | 40. behave         |       |
 | 41. beneath        |       |
