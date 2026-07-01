@@ -20,7 +20,7 @@
 | 16. politics      | 政策      |
 | 17. politician    |         |
 | 18. monopoly      | 垄断      |
-| 19. suppose       |         |
+| 19. suppose       | 假设      |
 | 20. impose        |         |
 | 21. expose        |         |
 | 22. propose       |         |
