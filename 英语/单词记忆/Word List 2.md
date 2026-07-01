@@ -63,9 +63,9 @@
 | 59. suffer        | 承受 遭受       |
 | 60. professional  | 专业的         |
 | 61. confidence    | 自信          |
-| 62. fierce        |             |
-| 63. file          |             |
-| 64. financial     |             |
+| 62. fierce        | 激烈的         |
+| 63. file          | 文件          |
+| 64. financial     | 财政的         |
 | 65. confine       |             |
 | 66. define        |             |
 | 67. definition    |             |
