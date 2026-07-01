@@ -10,15 +10,15 @@
 | 5. segment         | 部分        |
 | 6. section         | 部分 部门     |
 | 7. assemble        |           |
-| 8. senior          |           |
-| 9. present         |           |
-| 10. presence       |           |
-| 11. represent      |           |
-| 12. representative |           |
-| 13. sensitive      |           |
-| 14. consequence    |           |
-| 15. consequently   |           |
-| 16. pursue         |           |
+| 8. senior          | 初级的       |
+| 9. present         | 表现        |
+| 10. presence       | 表现        |
+| 11. represent      | 代表        |
+| 12. representative | 代表性的      |
+| 13. sensitive      | 明智的       |
+| 14. consequence    | 结果        |
+| 15. consequently   | 总结的       |
+| 16. pursue         | 追求        |
 | 17. pursuit        |           |
 | 18. suitable       |           |
 | 19. series         |           |
