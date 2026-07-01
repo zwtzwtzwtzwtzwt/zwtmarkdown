@@ -73,11 +73,11 @@
 | 69. independent  | 独立的       |
 | 70. independence | 独立性       |
 | 71. personality  | 个性        |
-| 72. competition  |           |
-| 73. emphasize    |           |
-| 74. phenomenon   |           |
+| 72. competition  | 比赛        |
+| 73. emphasize    | 强调        |
+| 74. phenomenon   | 现象        |
 | 75. photograph   |           |
 | 76. physics      |           |
 | 77. physical     |           |
 | 78. replace      |           |
-| 79. complaint    |         
+| 79. complaint    |           |
