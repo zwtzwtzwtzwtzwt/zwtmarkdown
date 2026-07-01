@@ -47,8 +47,8 @@
 | 43. equality      | 平等          |
 | 44. adequate      | 足够的         |
 | 45. estimate      | 估计 预估       |
-| 46. ethic         |             |
-| 47. inevitable    |             |
+| 46. ethic         | 道德的         |
+| 47. inevitable    | 不可避免的       |
 | 48. extreme       |             |
 | 49. surface       |             |
 | 50. defence       |             |
