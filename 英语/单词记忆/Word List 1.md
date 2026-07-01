@@ -14,7 +14,7 @@
 | 8. transaction   | 交易              |
 | 9. parallel      | 平行的  平行线        |
 | 10. alter        |                 |
-| 11. alternative  |                 |
+| 11. alternative  | 可替代的            |
 | 12. amateur      |                 |
 | 13. ancient      |                 |
 | 14. annual       |                 |
