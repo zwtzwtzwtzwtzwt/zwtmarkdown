@@ -42,10 +42,10 @@
 | 38. bear           | 忍受 熊  |
 | 39. behalf         | 行为    |
 | 40. behave         | 行为    |
-| 41. beneath        |       |
-| 42. blame          |       |
-| 43. blank          |       |
-| 44. block          |       |
+| 41. beneath        | 在什么下面 |
+| 42. blame          | 责怪    |
+| 43. blank          | 空白    |
+| 44. block          | 阻碍    |
 | 45. boom           |       |
 | 46. boost          |       |
 | 47. bound          |       |
