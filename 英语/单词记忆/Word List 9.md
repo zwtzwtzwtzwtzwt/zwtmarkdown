@@ -20,9 +20,9 @@
 | 16. ahead          | 向前    |
 | 17. alert          |       |
 | 18. alike          |       |
-| 19. ambition       |       |
-| 20. ancestor       |       |
-| 21. anticipate     |       |
+| 19. ambition       | 决心    |
+| 20. ancestor       | 祖先 原型 |
+| 21. anticipate     | 参与    |
 | 22. appoint        |       |
 | 23. argument       |       |
 | 24. arise          |       |
