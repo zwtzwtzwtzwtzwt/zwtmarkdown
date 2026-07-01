@@ -6,8 +6,8 @@
 | 2. abroad          | 国外的 |
 | 3. absence         | 缺席  |
 | 4. abuse           |     |
-| 5. academic        |     |
-| 6. accomplish      |     |
+| 5. academic        | 学术的 |
+| 6. accomplish      | 完成  |
 | 7. acknowledge     |     |
 | 8. activity        |     |
 | 9. addition        |     |
