@@ -29,9 +29,9 @@
 | 25. condition     | 条件 状况       |
 | 26. diverse       | 多样的         |
 | 27. individual    | 个人的         |
-| 28. domestic      | 明珠          |
-| 29. dominate      |             |
-| 30. dominant      |             |
+| 28. domestic      | 民主的         |
+| 29. dominate      | 支配          |
+| 30. dominant      | 首要的 支配的     |
 | 31. introduce     | 介绍  说明      |
 | 32. introduction  | 介绍 说明       |
 | 33. conduct       | 组织          |
