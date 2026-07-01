@@ -51,7 +51,7 @@
 | 47. lecture        |            |
 | 48. religion       |            |
 | 49. religious      |            |
-| 50. legitimate     |            |
+| 50. legitimate     | 法律的        |
 | 51. illegal        |            |
 | 52. legislation    |            |
 | 53. liberal        |            |
