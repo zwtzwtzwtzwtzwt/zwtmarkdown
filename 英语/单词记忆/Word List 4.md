@@ -53,9 +53,9 @@
 | 49. partly       | 部分的       |
 | 50. counterpart  |           |
 | 51. departure    | 离开        |
-| 52. proportion   |           |
-| 53. participate  |           |
-| 54. support      |           |
+| 52. proportion   | 份额        |
+| 53. participate  | 参与        |
+| 54. support      | 支持        |
 | 55. import       |           |
 | 56. transport    |           |
 | 57. patient      |           |
