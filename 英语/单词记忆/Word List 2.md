@@ -90,6 +90,6 @@
 | 86. <font color="#00b050">reinforce</font>     | 抵抗          |
 | 87. fortune                                    | 幸运          |
 | 88. unfortunately                              | 不幸的         |
-| 89. frequent                                   | 频繁的         |
-| 90. confront                                   | 在前的         |
+| 89. <font color="#00b050">frequent</font>      | 频繁的         |
+| 90. <font color="#00b050">confront</font>      | 在前的         |
 | 91. fundamental                                | 基础的         |
