@@ -65,10 +65,10 @@
 | 61. invest        | 投资       |
 | 62. investment    | 投资       |
 | 63. obvious       |          |
-| 64. victim        |          |
-| 65. evidence      |          |
+| 64. victim        | 受害者      |
+| 65. evidence      | 证据       |
 | 66. provision     |          |
-| 67. visual        |          |
+| 67. visual        | 虚拟的      |
 | 68. convince      |          |
 | 69. virtue        |          |
 | 70. survival      |          |
