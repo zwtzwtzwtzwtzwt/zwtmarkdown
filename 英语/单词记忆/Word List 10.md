@@ -6,8 +6,8 @@
 | 2. delay           | 延迟  |
 | 3. deliver         | 传递  |
 | 4. delivery        | 传递  |
-| 5. dependent       | 依赖  |
-| 6. desert          |     |
+| 5. dependent       | 依赖的 |
+| 6. desert          | 丢弃  |
 | 7. desirable       |     |
 | 8. despite         |     |
 | 9. destroy         |     |
