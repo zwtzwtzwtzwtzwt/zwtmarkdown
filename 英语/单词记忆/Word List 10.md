@@ -66,8 +66,8 @@
 | 62. foundation     | 基础设施   |
 | 63. frame          | 框架     |
 | 64. fulfil         |        |
-| 65. generous       |        |
-| 66. genius         |        |
+| 65. generous       | 慷慨的    |
+| 66. genius         | 天赋     |
 | 67. grant          |        |
 | 68. guarantee      |        |
 | 69. guard          |        |
