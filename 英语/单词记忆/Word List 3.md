@@ -77,10 +77,10 @@
 | 73. remarkable     | 非凡的        |
 | 74. master         | 大师 精通      |
 | 75. mechanism      | 机器         |
-| 76. mechanical     |            |
+| 76. mechanical     | 机器的        |
 | 77. machinery      |            |
 | 78. medical        |            |
-| 79. immediate      |            |
+| 79. immediate      | 立即的 马上的    |
 | 80. medicine       |            |
 | 81. comment        |            |
 | 82. mental         |            |
