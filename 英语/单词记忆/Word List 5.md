@@ -36,9 +36,9 @@
 | 32. <font color="#00b050">appreciate</font>  |         |
 | 33. praise                                   | 表扬      |
 | 34. comprehension                            | 理解力     |
-| 35. comprehensive                            |         |
+| 35. comprehensive                            | 理解      |
 | 36. expression                               | 表达      |
-| 37. principle                                | 主要的     |
+| 37. <font color="#00b050">principle</font>   | 主要的     |
 | 38. primary                                  | 主要的     |
 | 39. prior                                    |         |
 | 40. priority                                 | 优先级     |
