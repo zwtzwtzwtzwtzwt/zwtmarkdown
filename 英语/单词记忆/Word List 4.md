@@ -21,7 +21,7 @@
 | 17. remove       | 移除      |
 | 18. amount       |         |
 | 19. prompt       |         |
-| 20. immune       |         |
+| 20. immune       | 免疫      |
 | 21. mysterious   |         |
 | 22. natural      |         |
 | 23. connection   |         |
