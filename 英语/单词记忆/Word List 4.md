@@ -16,11 +16,11 @@
 | 12. <font color="#00b050">commodity</font>   |           |
 | 13. <font color="#00b050">monitor</font>     | 监管        |
 | 14. <font color="#00b050">demonstrate</font> | 拥护        |
-| 15. <font color="#00b050">promote</font>     | 推动  促进    |
+| 15. promote                                  | 推动  促进    |
 | 16. motor                                    | 摩托        |
 | 17. remove                                   | 移除        |
 | 18. <font color="#00b050">amount</font>      |           |
-| 19. prompt                                   |           |
+| 19. <font color="#00b050">prompt</font>      |           |
 | 20. immune                                   | 免疫        |
 | 21. mysterious                               |           |
 | 22. natural                                  | 自然的 天然的   |
