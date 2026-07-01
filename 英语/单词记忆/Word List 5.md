@@ -1,78 +1,78 @@
 [英语单词1到30, p.19](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%205))  
 
-|**英文单词**|**1**|
-|---|---|
-|1. planet||
-|2. explanation||
-|3. plant||
-|4. plastic||
-|5. multiple||
-|6. pleasant||
-|7. explosion||
-|8. employment||
-|9. apply||
-|10. imply||
-|11. complex||
-|12. application||
-|13. implication||
-|14. complicated||
-|15. political||
-|16. politics||
-|17. politician||
-|18. monopoly||
-|19. suppose||
-|20. impose||
-|21. expose||
-|22. propose||
-|23. proposal||
-|24. position||
-|25. composition||
-|26. positive||
-|27. opposite||
-|28. possibility||
-|29. possess||
-|30. potential||
-|31. practical||
-|32. appreciate||
-|33. praise||
-|34. comprehension||
-|35. comprehensive||
-|36. expression||
-|37. principle||
-|38. primary||
-|39. prior||
-|40. priority||
-|41. private||
-|42. privacy||
-|43. privilege||
-|44. deprive||
-|45. approach||
-|46. appropriate||
-|47. proper||
-|48. property||
-|49. approval||
-|50. psychology||
-|51. publication||
-|52. quantity||
-|53. quarter||
-|54. require||
-|55. requirement||
-|56. request||
-|57. acquire||
-|58. enquiry||
-|59. acquisition||
-|60. quit||
-|61. radical||
-|62. range||
-|63. arrange||
-|64. reasonable||
-|65. directly||
-|66. region||
-|67. regular||
-|68. regulate||
-|69. regulation||
-|70. render||
-|71. derive||
-|72. satisfy||
-|73. satisfaction||
-|74. scale|
+| 英文单词              | **1** |
+| ----------------- | ----- |
+| 1. planet         |       |
+| 2. explanation    |       |
+| 3. plant          |       |
+| 4. plastic        |       |
+| 5. multiple       |       |
+| 6. pleasant       |       |
+| 7. explosion      |       |
+| 8. employment     |       |
+| 9. apply          |       |
+| 10. imply         |       |
+| 11. complex       |       |
+| 12. application   |       |
+| 13. implication   |       |
+| 14. complicated   |       |
+| 15. political     |       |
+| 16. politics      |       |
+| 17. politician    |       |
+| 18. monopoly      |       |
+| 19. suppose       |       |
+| 20. impose        |       |
+| 21. expose        |       |
+| 22. propose       |       |
+| 23. proposal      |       |
+| 24. position      |       |
+| 25. composition   |       |
+| 26. positive      |       |
+| 27. opposite      |       |
+| 28. possibility   |       |
+| 29. possess       |       |
+| 30. potential     |       |
+| 31. practical     |       |
+| 32. appreciate    |       |
+| 33. praise        |       |
+| 34. comprehension |       |
+| 35. comprehensive |       |
+| 36. expression    |       |
+| 37. principle     |       |
+| 38. primary       |       |
+| 39. prior         |       |
+| 40. priority      |       |
+| 41. private       |       |
+| 42. privacy       |       |
+| 43. privilege     |       |
+| 44. deprive       |       |
+| 45. approach      |       |
+| 46. appropriate   |       |
+| 47. proper        |       |
+| 48. property      |       |
+| 49. approval      |       |
+| 50. psychology    |       |
+| 51. publication   |       |
+| 52. quantity      |       |
+| 53. quarter       |       |
+| 54. require       |       |
+| 55. requirement   |       |
+| 56. request       |       |
+| 57. acquire       |       |
+| 58. enquiry       |       |
+| 59. acquisition   |       |
+| 60. quit          |       |
+| 61. radical       |       |
+| 62. range         |       |
+| 63. arrange       |       |
+| 64. reasonable    |       |
+| 65. directly      |       |
+| 66. region        |       |
+| 67. regular       |       |
+| 68. regulate      |       |
+| 69. regulation    |       |
+| 70. render        |       |
+| 71. derive        |       |
+| 72. satisfy       |       |
+| 73. satisfaction  |       |
+| 74. scale         |       |
