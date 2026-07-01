@@ -74,18 +74,18 @@
 | 70. guidance                                 | 指导     |
 | 71. guide                                    | 指导     |
 | 72. <font color="#00b050">guilt</font>       | 愧疚     |
-| 73. guilty                                   |        |
+| <font color="#00b050">73</font>. guilty      |        |
 | 74. handle                                   | 解决     |
-| 75. highly                                   |        |
+| 75. <font color="#00b050">highly</font>      |        |
 | 76. humanity                                 | 谦虚     |
 | 77. ideal                                    | 理想的    |
-| 78. illustrate                               |        |
+| 78. <font color="#00b050">illustrate</font>  |        |
 | 79. impression                               | 表达     |
-| 80. incentive                                |        |
+| 80. <font color="#00b050">incentive</font>   |        |
 | 81. incident                                 | 事故     |
 | 82. increasingly                             | 增长的    |
-| 83. indeed                                   |        |
-| 84. industrial                               |        |
+| 83. <font color="#00b050">indeed</font>      |        |
+| 84. <font color="#00b050">industrial</font>  |        |
 | 85. infant                                   |        |
 | 86. infrastructure                           |        |
 | 87. initiative                               |        |
