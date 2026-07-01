@@ -2,9 +2,9 @@
 
 | 英文单词               | 0   |
 | ------------------ | --- |
-| 1. ability         |     |
-| 2. abroad          |     |
-| 3. absence         |     |
+| 1. ability         | 能力  |
+| 2. abroad          | 国外的 |
+| 3. absence         | 缺席  |
 | 4. abuse           |     |
 | 5. academic        |     |
 | 6. accomplish      |     |
