@@ -51,9 +51,9 @@
 | 47. proper        |         |
 | 48. property      | 性质      |
 | 49. approval      | 同意      |
-| 50. psychology    |         |
+| 50. psychology    | 心理学     |
 | 51. publication   |         |
-| 52. quantity      |         |
+| 52. quantity      | 数量      |
 | 53. quarter       |         |
 | 54. require       |         |
 | 55. requirement   |         |
