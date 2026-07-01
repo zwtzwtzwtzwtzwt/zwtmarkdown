@@ -77,8 +77,8 @@
 | 72. institute      |           |
 | 73. constitution   |           |
 | 74. restore        |           |
-| 75. storage        |           |
-| 76. restrict       |           |
+| 75. storage        | 存储        |
+| 76. restrict       | 限制        |
 | 77. strain         |           |
 | 78. persuade       |           |
 | 79. consume        |           |
