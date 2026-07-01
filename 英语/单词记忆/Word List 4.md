@@ -29,16 +29,16 @@
 | 25. normal                                   | 普通的       |
 | 26. enormous                                 | 巨大的       |
 | 27. notice                                   | 提示        |
-| 28. notion                                   | 公告        |
+| 28. <font color="#00b050">notion</font>      | 公告        |
 | 29. ignore                                   | 忽视        |
 | 30. announce                                 | 宣告        |
 | 31. innovation                               | 创新        |
 | 32. nuclear                                  | 原子的       |
 | 33. obesity                                  | 肥胖        |
-| 34. obscure                                  |           |
+| 34. <font color="#00b050">obscure</font>     |           |
 | 35. operation                                | 操作 手术  经营 |
 | 36. operate                                  | 操作        |
-| 37. operator                                 |           |
+| 37. <font color="#00b050">operator</font>    |           |
 | 38. option                                   | 选择        |
 | 39. adopt                                    | 采用  收养    |
 | 40. optimistic                               | 悲观的       |
