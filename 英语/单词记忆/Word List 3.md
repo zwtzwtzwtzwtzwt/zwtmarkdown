@@ -62,9 +62,9 @@
 | 58. literature     |            |
 | 59. literary       |            |
 | 60. locate         | 位于         |
-| 61. location       |            |
-| 62. logical        |            |
-| 63. reluctant      |            |
+| 61. location       | 位置         |
+| 62. logical        | 有逻辑的       |
+| 63. reluctant      | 拖延的  不情愿的  |
 | 64. pollution      |            |
 | 65. analyse        |            |
 | 66. analysis       |            |
