@@ -70,9 +70,9 @@
 | 66. genius         | 天赋     |
 | 67. grant          | 大的     |
 | 68. guarantee      | 保证     |
-| 69. guard          | 指导     |
+| 69. guard          |        |
 | 70. guidance       | 指导     |
-| 71. guide          |        |
+| 71. guide          | 指导     |
 | 72. guilt          |        |
 | 73. guilty         |        |
 | 74. handle         |        |
