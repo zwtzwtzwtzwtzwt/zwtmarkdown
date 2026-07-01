@@ -33,14 +33,14 @@
 | 27. cancer       | 癌症              |
 | 28. candidate    | 候选人             |
 | 29. capital      | 首都   大写的        |
-| 30. carbon       |                 |
+| 30. carbon       | 碳               |
 | 31. career       | 职业  事业          |
 | 32. carry        | 带来  携带          |
 | 33. forecast     | 预测              |
 | 34. cautious     | 谨慎的             |
-| 35. perceive     |                 |
-| 36. celebrity    |                 |
-| 37. celebrate    |                 |
+| 35. perceive     | 接受              |
+| 36. celebrity    | 庆祝              |
+| 37. celebrate    | 庆祝              |
 | 38. accelerate   |                 |
 | 39. percentage   |                 |
 | 40. centre       |                 |
