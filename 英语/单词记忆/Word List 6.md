@@ -51,9 +51,9 @@
 | 46. desperate      | 失望的 绝望的   |
 | 47. prosperity     |           |
 | 48. atmosphere     | 气氛 大气     |
-| 49. response       |           |
-| 50. responsible    |           |
-| 51. sponsor        |           |
+| 49. response       | 回应        |
+| 50. responsible    | 负责的       |
+| 51. sponsor        | 赞助商       |
 | 52. spouse         |           |
 | 53. substance      |           |
 | 54. instance       |           |
