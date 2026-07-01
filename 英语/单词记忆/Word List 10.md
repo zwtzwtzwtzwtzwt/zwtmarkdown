@@ -2,8 +2,8 @@
 
 | 英文单词               | 0   |
 | ------------------ | --- |
-| 1. decision        |     |
-| 2. delay           |     |
+| 1. decision        | 决定  |
+| 2. delay           | 延迟  |
 | 3. deliver         |     |
 | 4. delivery        |     |
 | 5. dependent       |     |
