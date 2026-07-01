@@ -49,7 +49,7 @@
 | 45. valuable      | 有价值的     |
 | 46. valid         | 空的       |
 | 47. available     | 可用的  空闲的 |
-| 48. variety       |          |
+| 48. variety       | 种类       |
 | 49. various       |          |
 | 50. reveal        |          |
 | 51. revenue       |          |
