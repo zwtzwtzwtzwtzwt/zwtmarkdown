@@ -68,10 +68,10 @@
 | 64. fulfil         |        |
 | 65. generous       | 慷慨的    |
 | 66. genius         | 天赋     |
-| 67. grant          |        |
-| 68. guarantee      |        |
-| 69. guard          |        |
-| 70. guidance       |        |
+| 67. grant          | 大的     |
+| 68. guarantee      | 保证     |
+| 69. guard          | 指导     |
+| 70. guidance       | 指导     |
 | 71. guide          |        |
 | 72. guilt          |        |
 | 73. guilty         |        |
