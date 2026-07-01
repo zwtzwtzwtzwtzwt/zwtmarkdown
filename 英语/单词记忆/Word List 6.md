@@ -65,10 +65,10 @@
 | 60. station        |           |
 | 61. consist        | 包含        |
 | 62. assistant      | 助手        |
-| 63. assist         |           |
-| 64. resistance     |           |
+| 63. assist         | 帮助        |
+| 64. resistance     | 抵抗        |
 | 65. circumstance   |           |
-| 66. contrast       |           |
+| 66. contrast       | 对比        |
 | 67. estate         |           |
 | 68. distinction    |           |
 | 69. distinguish    |           |
