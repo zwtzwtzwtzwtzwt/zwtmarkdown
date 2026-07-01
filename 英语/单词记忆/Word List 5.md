@@ -28,12 +28,12 @@
 | 24. position                                 | 位置  立场  |
 | 25. <font color="#00b050">composition</font> |         |
 | 26. positive                                 | 积极的     |
-| 27. opposite                                 | 对立的     |
+| 27. <font color="#00b050">opposite</font>    | 对立的     |
 | 28. possibility                              | 可能性     |
 | 29. possess                                  | 拥有      |
 | 30. potential                                | 潜在的     |
-| 31. practical                                | 实际的     |
-| 32. appreciate                               |         |
+| 31. <font color="#00b050">practical</font>   | 实际的     |
+| 32. <font color="#00b050">appreciate</font>  |         |
 | 33. praise                                   | 表扬      |
 | 34. comprehension                            | 理解力     |
 | 35. comprehensive                            |         |
