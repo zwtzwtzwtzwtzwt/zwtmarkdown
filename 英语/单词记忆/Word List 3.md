@@ -36,8 +36,8 @@
 | 32. reject         | 拒绝         |
 | 33. journalist     |            |
 | 34. jury           |            |
-| 35. justice        |            |
-| 36. adjust         |            |
+| 35. justice        | 公平的        |
+| 36. adjust         | 调整         |
 | 37. justify        |            |
 | 38. judgement      |            |
 | 39. prejudice      |            |
