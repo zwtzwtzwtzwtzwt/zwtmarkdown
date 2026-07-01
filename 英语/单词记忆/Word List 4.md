@@ -31,7 +31,7 @@
 | 27. notice       | 提示      |
 | 28. notion       | 公告      |
 | 29. ignore       | 忽视      |
-| 30. announce     | 宣       |
+| 30. announce     | 宣告      |
 | 31. innovation   |         |
 | 32. nuclear      |         |
 | 33. obesity      |         |
