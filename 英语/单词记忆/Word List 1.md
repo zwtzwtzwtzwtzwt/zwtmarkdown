@@ -37,7 +37,7 @@
 | 31. career       | 职业  事业          |
 | 32. carry        | 带来  携带          |
 | 33. forecast     | 预测              |
-| 34. cautious     |                 |
+| 34. cautious     | 谨慎的             |
 | 35. perceive     |                 |
 | 36. celebrity    |                 |
 | 37. celebrate    |                 |
