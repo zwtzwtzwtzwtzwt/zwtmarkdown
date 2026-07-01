@@ -10,13 +10,13 @@
 | 6. crude          | 粗鲁的         |
 | 7. cultivate      | 培育 培养       |
 | 8. cure           | 治疗 治愈       |
-| 9. security       |             |
+| 9. security       | 安全措施        |
 | 10. accuracy      | 精确          |
 | 11. occur         | 出现          |
 | 12. current       | 当前的         |
 | 13. core          | 核心的         |
 | 14. discuss       | 讨论          |
-| 15. custom        |             |
+| 15. custom        | 风俗          |
 | 16. cycle         |             |
 | 17. debt          |             |
 | 18. decade        |             |
