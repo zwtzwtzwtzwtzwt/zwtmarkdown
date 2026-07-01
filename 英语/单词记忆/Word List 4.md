@@ -41,10 +41,10 @@
 | 37. operator     |           |
 | 38. option       | 选择        |
 | 39. adopt        | 采用  收养    |
-| 40. optimistic   |           |
-| 41. ordinary     |           |
-| 42. organize     |           |
-| 43. organization |           |
+| 40. optimistic   | 悲观的       |
+| 41. ordinary     | 寻常的       |
+| 42. organize     | 组织        |
+| 43. organization | 组织        |
 | 44. origin       |           |
 | 45. originate    |           |
 | 46. impact       |           |
