@@ -55,8 +55,8 @@
 | 50. responsible    | 负责的       |
 | 51. sponsor        | 赞助商       |
 | 52. spouse         |           |
-| 53. substance      |           |
-| 54. instance       |           |
+| 53. substance      | 物质        |
+| 54. instance       | 例子        |
 | 55. distance       |           |
 | 56. stable         |           |
 | 57. establish      |           |
