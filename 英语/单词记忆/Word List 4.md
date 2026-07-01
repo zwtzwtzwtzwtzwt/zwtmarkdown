@@ -9,8 +9,8 @@
 | 5. admission     | 承认      |
 | 6. dismiss       | 开除  摒弃  |
 | 7. permission    | 批准 允许   |
-| 8. committee     |         |
-| 9. mission       |         |
+| 8. committee     | 委员会     |
+| 9. mission       | 使命 任务   |
 | 10. commission   |         |
 | 11. mode         |         |
 | 12. commodity    |         |
