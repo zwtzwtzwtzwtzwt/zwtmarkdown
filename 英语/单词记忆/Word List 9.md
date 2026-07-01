@@ -66,10 +66,10 @@
 | 62. challenge      | 挑战     |
 | 63. chance         | 选择     |
 | 64. channel        | 频道     |
-| 65. character      |        |
+| 65. character      | 角色  性格 |
 | 66. characterize   |        |
 | 67. characteristic |        |
-| 68. charge         |        |
+| 68. charge         | 充电     |
 | 69. check          |        |
 | 70. cigarette      |        |
 | 71. circuit        |        |
