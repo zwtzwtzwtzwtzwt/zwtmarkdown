@@ -48,9 +48,9 @@
 | 43. suspect        | 怀疑        |
 | 44. specific       |           |
 | 45. specialist     |           |
-| 46. desperate      |           |
+| 46. desperate      | 失望的 绝望的   |
 | 47. prosperity     |           |
-| 48. atmosphere     |           |
+| 48. atmosphere     | 气氛 大气     |
 | 49. response       |           |
 | 50. responsible    |           |
 | 51. sponsor        |           |
