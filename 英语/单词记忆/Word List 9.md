@@ -73,7 +73,7 @@
 | 69. check          | 检查     |
 | 70. cigarette      | 香烟     |
 | 71. circuit        | 循环     |
-| 72. claim          |        |
+| 72. claim          | 表明 声明  |
 | 73. colleague      |        |
 | 74. column         |        |
 | 75. command        |        |
