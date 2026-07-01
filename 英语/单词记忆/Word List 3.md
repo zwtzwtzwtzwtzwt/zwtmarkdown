@@ -68,9 +68,9 @@
 | 64. pollution      | 污染         |
 | 65. analyse        | 分析         |
 | 66. analysis       | 分析         |
-| 67. permanent      |            |
-| 68. maintain       |            |
-| 69. management     |            |
+| 67. permanent      | 永久的        |
+| 68. maintain       | 保持         |
+| 69. management     | 管理         |
 | 70. majority       |            |
 | 71. demand         |            |
 | 72. remark         |            |
