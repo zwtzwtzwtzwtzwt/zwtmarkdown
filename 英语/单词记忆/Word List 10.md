@@ -73,9 +73,9 @@
 | 69. guard          |        |
 | 70. guidance       | 指导     |
 | 71. guide          | 指导     |
-| 72. guilt          |        |
+| 72. guilt          | 愧疚     |
 | 73. guilty         |        |
-| 74. handle         |        |
+| 74. handle         | 解决     |
 | 75. highly         |        |
 | 76. humanity       |        |
 | 77. ideal          |        |
