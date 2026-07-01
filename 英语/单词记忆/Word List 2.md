@@ -73,13 +73,13 @@
 | 69. faculty       |             |
 | 70. sufficient    | 足够的         |
 | 71. efficient     | 高效的         |
-| 72. efficiency    |             |
-| 73. artificial    |             |
+| 72. efficiency    | 效率          |
+| 73. artificial    | 人工的         |
 | 74. qualification |             |
-| 75. benefit       |             |
+| 75. benefit       | 有益的         |
 | 76. profitable    |             |
 | 77. affect        | 影响          |
-| 78. effective     |             |
+| 78. effective     | 有效的         |
 | 79. fiction       |             |
 | 80. inflation     |             |
 | 81. influential   |             |
