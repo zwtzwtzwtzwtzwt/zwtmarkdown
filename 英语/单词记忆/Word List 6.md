@@ -71,8 +71,8 @@
 | 66. contrast       | 对比        |
 | 67. estate         |           |
 | 68. distinction    |           |
-| 69. distinguish    |           |
-| 70. stimulate      |           |
+| 69. distinguish    | 分辨        |
+| 70. stimulate      | 促进        |
 | 71. constitute     |           |
 | 72. institute      |           |
 | 73. constitution   |           |
