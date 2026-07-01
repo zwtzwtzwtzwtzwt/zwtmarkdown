@@ -12,7 +12,7 @@
 | 8. progress        | 进步         |
 | 9. aggressive      | 激进的  有攻击性的 |
 | 10. degree         | 程度  学位     |
-| 11. congress       |            |
+| 11. congress       | 坦白   承认    |
 | 12. inherent       |            |
 | 13. exhibit        |            |
 | 14. exhibition     |            |
