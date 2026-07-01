@@ -21,7 +21,7 @@
 | 17. historian      | 历史学家       |
 | 18. identify       | 分辨         |
 | 19. identity       | 分辨 身份      |
-| 20. imagine        |            |
+| 20. imagine        | 想象         |
 | 21. imagination    |            |
 | 22. imitate        |            |
 | 23. insect         |            |
