@@ -24,7 +24,7 @@
 | 20. impose        |         |
 | 21. expose        |         |
 | 22. propose       |         |
-| 23. proposal      |         |
+| 23. proposal      | 提议      |
 | 24. position      |         |
 | 25. composition   |         |
 | 26. positive      |         |
