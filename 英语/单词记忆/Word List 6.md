@@ -26,10 +26,10 @@
 | 21. conservative   | 保护的       |
 | 22. preserve       | 值得        |
 | 23. reserve        | 预约 保护     |
-| 24. observe        |           |
+| 24. observe        | 遵守        |
 | 25. observation    |           |
 | 26. deserve        |           |
-| 27. severe         |           |
+| 27. severe         | 严重的       |
 | 28. resident       |           |
 | 29. considerable   |           |
 | 30. design         |           |
