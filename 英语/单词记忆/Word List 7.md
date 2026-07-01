@@ -69,9 +69,9 @@
 | 65. evidence      | 证据       |
 | 66. provision     |          |
 | 67. visual        | 虚拟的      |
-| 68. convince      |          |
-| 69. virtue        |          |
-| 70. survival      |          |
+| 68. convince      | 确信       |
+| 69. virtue        | 美德       |
+| 70. survival      | 幸存的      |
 | 71. vital         |          |
 | 72. advocate      |          |
 | 73. voluntary     |          |
