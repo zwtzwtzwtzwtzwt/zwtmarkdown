@@ -49,9 +49,9 @@
 | 43. capacity     | 能力              |
 | 44. escape       | 逃离              |
 | 45. participant  | 参与              |
-| 46. capture      |                 |
-| 47. capable      |                 |
-| 48. accept       |                 |
+| 46. capture      | 捕捉              |
+| 47. capable      | 有能力的            |
+| 48. accept       | 接受              |
 | 49. exception    |                 |
 | 50. exceptional  |                 |
 | 51. certain      |                 |
