@@ -60,7 +60,7 @@
 | 56. campaign       |       |
 | 57. cancel         | 取消    |
 | 58. careful        | 关心的   |
-| 59. category       |       |
+| 59. category       | 类别    |
 | 60. ceremony       |       |
 | 61. chain          |       |
 | 62. challenge      |       |
