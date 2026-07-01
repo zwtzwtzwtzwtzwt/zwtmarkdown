@@ -31,10 +31,10 @@
 | 25. neighborhood | 社区              |
 | 26. brief        | 简明的             |
 | 27. cancer       | 癌症              |
-| 28. candidate    |                 |
-| 29. capital      |                 |
+| 28. candidate    | 候选人             |
+| 29. capital      | 首都   大写的        |
 | 30. carbon       |                 |
-| 31. career       |                 |
+| 31. career       | 职业              |
 | 32. carry        |                 |
 | 33. forecast     |                 |
 | 34. cautious     |                 |
