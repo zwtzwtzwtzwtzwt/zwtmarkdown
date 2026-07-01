@@ -46,8 +46,8 @@
 | 42. organize     | 组织        |
 | 43. organization | 组织        |
 | 44. origin       | 开始的 起初的   |
-| 45. originate    |           |
-| 46. impact       |           |
+| 45. originate    | 起源于       |
+| 46. impact       | 有影响的      |
 | 47. expand       |           |
 | 48. particular   |           |
 | 49. partly       |           |
