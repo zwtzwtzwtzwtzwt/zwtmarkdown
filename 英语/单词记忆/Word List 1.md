@@ -87,6 +87,6 @@
 | 81. discovery    | 发现              |
 | 82. recovery     | 覆盖              |
 | 83. decrease     | 下降              |
-| 84. creative     |                 |
-| 85. creature     |                 |
+| 84. creative     | 创新的             |
+| 85. creature     | 生物              |
 | 86. criminal     |                 |
