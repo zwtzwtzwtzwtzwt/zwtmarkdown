@@ -37,9 +37,9 @@
 | 33. engineering    |       |
 | 34. enhance        | 提高    |
 | 35. entertainment  | 娱乐    |
-| 36. enthusiasm     |       |
-| 37. entire         |       |
-| 38. entrepreneur   |       |
+| 36. enthusiasm     | 热情    |
+| 37. entire         | 整体的   |
+| 38. entrepreneur   | 企业    |
 | 39. equipment      |       |
 | 40. evolve         |       |
 | 41. evolution      |       |
