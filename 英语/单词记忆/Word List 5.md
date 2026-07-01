@@ -60,19 +60,19 @@
 | 56. request                                  | 请求      |
 | 57. acquire                                  | 获得 得到   |
 | 58. enquiry                                  | 询问 咨询   |
-| 59. acquisition                              |         |
+| 59. <font color="#00b050">acquisition</font> |         |
 | 60. quit                                     | 停止      |
-| 61. radical                                  |         |
+| 61. <font color="#00b050">radical</font>     |         |
 | 62. range                                    | 范围      |
 | 63. arrange                                  | 安排      |
-| 64. reasonable                               | 合理的     |
+| 64. <font color="#00b050">reasonable</font>  | 合理的     |
 | 65. directly                                 | 直接的     |
-| 66. region                                   | 宗教      |
+| 66. <font color="#00b050">region</font>      | 宗教      |
 | 67. regular                                  | 频繁的 经常的 |
 | 68. regulate                                 | 管理  监管  |
 | 69. regulation                               | 政策      |
 | 70. render                                   | 导致      |
-| 71. derive                                   |         |
+| 71. <font color="#00b050">derive</font>      |         |
 | 72. satisfy                                  | 使满意     |
 | 73. satisfaction                             | 满意      |
 | 74. scale                                    | 规模      |
