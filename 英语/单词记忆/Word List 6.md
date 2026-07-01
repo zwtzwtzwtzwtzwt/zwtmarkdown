@@ -24,8 +24,8 @@
 | 19. series         | 一系列       |
 | 20. conservation   | 保护        |
 | 21. conservative   | 保护的       |
-| 22. preserve       |           |
-| 23. reserve        |           |
+| 22. preserve       | 值得        |
+| 23. reserve        | 预约 保护     |
 | 24. observe        |           |
 | 25. observation    |           |
 | 26. deserve        |           |
