@@ -37,10 +37,10 @@
 | 33. obesity      | 肥胖        |
 | 34. obscure      |           |
 | 35. operation    | 操作 手术  经营 |
-| 36. operate      |           |
+| 36. operate      | 操作        |
 | 37. operator     |           |
-| 38. option       |           |
-| 39. adopt        |           |
+| 38. option       | 选择        |
+| 39. adopt        | 采用  手游哪个  |
 | 40. optimistic   |           |
 | 41. ordinary     |           |
 | 42. organize     |           |
