@@ -26,9 +26,9 @@
 | 22. appoint        |       |
 | 23. argument       |       |
 | 24. arise          |       |
-| 25. arouse         |       |
-| 26. aside          |       |
-| 27. aspect         |       |
+| 25. arouse         | 激发    |
+| 26. aside          | 在一旁   |
+| 27. aspect         | 方面    |
 | 28. assess         |       |
 | 29. asset          |       |
 | 30. assume         |       |
