@@ -86,8 +86,8 @@
 | 82. mental         |            |
 | 83. commercial     | 贸易的        |
 | 84. emerge         | 浮现         |
-| 85. immigrant      |            |
-| 86. military       |            |
+| 85. immigrant      | 移民的        |
+| 86. military       | 军事的        |
 | 87. diminish       |            |
 | 88. minimum        |            |
 | 89. administration |            |
