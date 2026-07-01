@@ -40,8 +40,8 @@
 | 36. barely         | 仅仅    |
 | 37. bay            | 海湾    |
 | 38. bear           | 忍受 熊  |
-| 39. behalf         |       |
-| 40. behave         |       |
+| 39. behalf         | 行为    |
+| 40. behave         | 行为    |
 | 41. beneath        |       |
 | 42. blame          |       |
 | 43. blank          |       |
