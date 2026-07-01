@@ -57,7 +57,7 @@
 | 53. conference    |             |
 | 54. reference     |             |
 | 55. transfer      | 转变          |
-| 56. infer         |             |
+| 56. infer         | 推断          |
 | 57. preference    |             |
 | 58. interfere     |             |
 | 59. suffer        |             |
