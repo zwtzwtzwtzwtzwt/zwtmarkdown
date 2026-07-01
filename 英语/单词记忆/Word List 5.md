@@ -47,9 +47,9 @@
 | 43. <font color="#00b050">privilege</font>   |         |
 | 44. <font color="#00b050">deprive</font>     |         |
 | 45. approach                                 | 方式 途径   |
-| 46. appropriate                              |         |
-| 47. proper                                   |         |
-| 48. property                                 | 性质      |
+| 46. <font color="#00b050">appropriate</font> |         |
+| 47. <font color="#00b050">proper</font>      |         |
+| 48. <font color="#00b050">property</font>    | 性质      |
 | 49. approval                                 | 同意      |
 | 50. psychology                               | 心理学     |
 | 51. publication                              |         |
