@@ -61,19 +61,19 @@
 | 57. finance                                  | 财政     |
 | 58. finding                                  | 发现     |
 | 59. former                                   | 之前的    |
-| 60. forth                                    | 北方     |
-| 61. foster                                   | 培育     |
-| 62. foundation                               | 基础设施   |
-| 63. frame                                    | 框架     |
-| 64. fulfil                                   |        |
+| 60. <font color="#00b050">forth</font>       | 北方     |
+| 61. <font color="#00b050">foster</font>      | 培育     |
+| 62. <font color="#00b050">foundation</font>  | 基础设施   |
+| 63. <font color="#00b050">frame</font>       | 框架     |
+| 64. <font color="#00b050">fulfil</font>      |        |
 | 65. generous                                 | 慷慨的    |
 | 66. genius                                   | 天赋     |
-| 67. grant                                    | 大的     |
+| 67. <font color="#00b050">grant</font>       | 大的     |
 | 68. guarantee                                | 保证     |
-| 69. guard                                    |        |
+| 69. <font color="#00b050">guard</font>       |        |
 | 70. guidance                                 | 指导     |
 | 71. guide                                    | 指导     |
-| 72. guilt                                    | 愧疚     |
+| 72. <font color="#00b050">guilt</font>       | 愧疚     |
 | 73. guilty                                   |        |
 | 74. handle                                   | 解决     |
 | 75. highly                                   |        |
