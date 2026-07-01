@@ -10,7 +10,7 @@
 | 4. react         | 反应              |
 | 5. actual        | 实际的             |
 | 6. interact      | 交流              |
-| 7. exact         |                 |
+| 7. exact         | 精确的             |
 | 8. transaction   |                 |
 | 9. parallel      |                 |
 | 10. alter        |                 |
