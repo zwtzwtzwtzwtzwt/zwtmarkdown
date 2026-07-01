@@ -31,7 +31,7 @@
 | 27. opposite      | 对立的     |
 | 28. possibility   | 可能性     |
 | 29. possess       | 拥有      |
-| 30. potential     |         |
+| 30. potential     | 潜在的     |
 | 31. practical     |         |
 | 32. appreciate    |         |
 | 33. praise        |         |
