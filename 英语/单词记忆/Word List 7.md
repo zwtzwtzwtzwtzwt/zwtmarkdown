@@ -50,8 +50,8 @@
 | 46. valid         | 空的       |
 | 47. available     | 可用的  空闲的 |
 | 48. variety       | 种类       |
-| 49. various       |          |
-| 50. reveal        |          |
+| 49. various       | 多样的      |
+| 50. reveal        | 揭示       |
 | 51. revenue       |          |
 | 52. convention    |          |
 | 53. convenient    |          |
