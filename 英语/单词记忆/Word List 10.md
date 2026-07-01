@@ -27,9 +27,9 @@
 | 23. dramatic       | 喜剧的   |
 | 24. earn           | 赢得    |
 | 25. ease           | 容易    |
-| 26. elite          |       |
-| 27. embrace        |       |
-| 28. emphasis       |       |
+| 26. elite          | 精英    |
+| 27. embrace        | 拥抱    |
+| 28. emphasis       | 强调    |
 | 29. empty          |       |
 | 30. endeavour      |       |
 | 31. engage         |       |
