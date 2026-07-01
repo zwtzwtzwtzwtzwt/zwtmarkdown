@@ -54,8 +54,8 @@
 | 50. expectation    | 期望    |
 | 51. external       | 外部的   |
 | 52. fade           |       |
-| 53. fairly         |       |
-| 54. fake           |       |
+| 53. fairly         | 公平的   |
+| 54. fake           | 假的    |
 | 55. feature        |       |
 | 56. federal        |       |
 | 57. finance        |       |
