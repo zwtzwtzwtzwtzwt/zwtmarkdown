@@ -68,7 +68,7 @@
 | 64. reasonable    | 合理的     |
 | 65. directly      | 直接的     |
 | 66. region        | 宗教      |
-| 67. regular       |         |
+| 67. regular       | 频繁的     |
 | 68. regulate      |         |
 | 69. regulation    |         |
 | 70. render        |         |
