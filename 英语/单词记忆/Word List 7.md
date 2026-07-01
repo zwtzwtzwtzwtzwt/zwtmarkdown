@@ -17,9 +17,9 @@
 | 13. temperature   | 温度  |
 | 14. temporary     | 暂时的 |
 | 15. attempt       | 尝试  |
-| 16. tendency      |     |
-| 17. extend        |     |
-| 18. extent        |     |
+| 16. tendency      | 趋势  |
+| 17. extend        | 扩大  |
+| 18. extent        | 程度  |
 | 19. extension     |     |
 | 20. intense       |     |
 | 21. determine     |     |
