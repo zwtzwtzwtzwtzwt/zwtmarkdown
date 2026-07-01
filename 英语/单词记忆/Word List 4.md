@@ -69,10 +69,10 @@
 | 65. disappear    | 消失        |
 | 66. appearance   | 出现        |
 | 67. peculiar     |           |
-| 68. expense      |           |
-| 69. independent  |           |
-| 70. independence |           |
-| 71. personality  |           |
+| 68. expense      | 消费        |
+| 69. independent  | 独立的       |
+| 70. independence | 独立性       |
+| 71. personality  | 个性        |
 | 72. competition  |           |
 | 73. emphasize    |           |
 | 74. phenomenon   |           |
@@ -80,4 +80,4 @@
 | 76. physics      |           |
 | 77. physical     |           |
 | 78. replace      |           |
-| 79. complaint    |           |
+| 79. complaint    |         
