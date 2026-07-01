@@ -61,9 +61,9 @@
 | 57. version       | 版本       |
 | 58. controversy   | 矛盾       |
 | 59. controversial |          |
-| 60. reverse       |          |
-| 61. invest        |          |
-| 62. investment    |          |
+| 60. reverse       | 翻转       |
+| 61. invest        | 投资       |
+| 62. investment    | 投资       |
 | 63. obvious       |          |
 | 64. victim        |          |
 | 65. evidence      |          |
