@@ -20,7 +20,7 @@
 | 14. annual       |                 |
 | 15. anxiety      | 焦虑   渴望         |
 | 16. anxious      | 焦虑的             |
-| 17. adapt        |                 |
+| 17. adapt        | 适应              |
 | 18. automation   |                 |
 | 19. abandon      |                 |
 | 20. debate       |                 |
