@@ -92,5 +92,5 @@
 | 88. curb           | 捕捉      |
 | 89. danger         | 危险      |
 | 90. dangerous      | 危险的     |
-| 91. dark           |         |
+| 91. dark           | 暗的      |
 | 92. deal           |         |
