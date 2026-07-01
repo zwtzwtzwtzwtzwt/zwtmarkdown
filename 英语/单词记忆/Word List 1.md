@@ -18,8 +18,8 @@
 | 12. amateur      |                 |
 | 13. ancient      | 事故              |
 | 14. annual       |                 |
-| 15. anxiety      |                 |
-| 16. anxious      |                 |
+| 15. anxiety      | 焦虑   渴望         |
+| 16. anxious      | 焦虑的             |
 | 17. adapt        |                 |
 | 18. automation   |                 |
 | 19. abandon      |                 |
