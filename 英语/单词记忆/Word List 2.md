@@ -81,13 +81,13 @@
 | 77. affect                                     | 影响          |
 | 78. effective                                  | 有效的         |
 | 79. fiction                                    | 小说          |
-| 80. inflation                                  |             |
+| 80. <font color="#00b050">inflation</font>     |             |
 | 81. <font color="#00b050">influential</font>   |             |
-| 82. inform                                     | 表示          |
-| 83. formation                                  |             |
+| 82. <font color="#00b050">inform</font>        | 表示          |
+| 83. <font color="#00b050">formation</font>     |             |
 | 84. transform                                  | 转变          |
-| 85. comfort                                    | 舒适的         |
-| 86. reinforce                                  | 抵抗          |
+| 85. <font color="#00b050">comfort</font>       | 舒适的         |
+| 86. <font color="#00b050">reinforce</font>     | 抵抗          |
 | 87. fortune                                    | 幸运          |
 | 88. unfortunately                              | 不幸的         |
 | 89. frequent                                   | 频繁的         |
