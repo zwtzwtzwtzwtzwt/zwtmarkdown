@@ -49,8 +49,8 @@
 | 45. exchange       | 交换    |
 | 46. executive      | 主管    |
 | 47. exist          | 存在    |
-| 48. existence      |       |
-| 49. expect         |       |
+| 48. existence      | 存在    |
+| 49. expect         | 期望    |
 | 50. expectation    |       |
 | 51. external       |       |
 | 52. fade           |       |
