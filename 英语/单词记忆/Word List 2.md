@@ -78,7 +78,7 @@
 | 74. qualification |             |
 | 75. benefit       |             |
 | 76. profitable    |             |
-| 77. affect        |             |
+| 77. affect        | 影响          |
 | 78. effective     |             |
 | 79. fiction       |             |
 | 80. inflation     |             |
