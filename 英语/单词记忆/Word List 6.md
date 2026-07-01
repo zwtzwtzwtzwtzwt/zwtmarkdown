@@ -79,11 +79,11 @@
 | 74. <font color="#00b050">restore</font>      |           |
 | 75. storage                                   | 存储        |
 | 76. restrict                                  | 限制        |
-| 77. strain                                    |           |
+| 77. <font color="#00b050">strain</font>       |           |
 | 78. persuade                                  | 劝说        |
 | 79. consume                                   | 消耗        |
 | 80. consumption                               | 消耗        |
-| 81. summarize                                 | 总计        |
+| 81. <font color="#00b050">summarize</font>    | 总计        |
 | 82. ensure                                    | 确信        |
 | 83. insurance                                 | 投保        |
 | 84. assure                                    | 确信  保证    |
