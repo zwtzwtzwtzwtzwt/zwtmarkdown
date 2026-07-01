@@ -38,19 +38,19 @@
 | 34. <font color="#00b050">jury</font>         |            |
 | 35. justice                                   | 公平的        |
 | 36. adjust                                    | 调整         |
-| 37. justify                                   |            |
+| 37. <font color="#00b050">justify</font>      |            |
 | 38. judgement                                 | 评判         |
 | 39. prejudice                                 | 歧视  偏见     |
-| 40. laboratory                                | 劳动力        |
+| 40. <font color="#00b050">laboratory</font>   | 劳动力        |
 | 41. collapse                                  | 坍塌         |
 | 42. select                                    | 选择         |
 | 43. selection                                 | 选择         |
 | 44. neglect                                   | 忽视         |
 | 45. collection                                | 收藏品        |
 | 46. collective                                | 集体的        |
-| 47. lecture                                   |            |
-| 48. religion                                  |            |
-| 49. religious                                 |            |
+| 47. <font color="#00b050">lecture</font>      |            |
+| 48. <font color="#00b050">religion</font>     |            |
+| 49. <font color="#00b050">religious</font>    |            |
 | 50. legitimate                                | 法律的        |
 | 51. illegal                                   |            |
 | 52. legislation                               |            |
