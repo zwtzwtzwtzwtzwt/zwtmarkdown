@@ -36,9 +36,9 @@
 | 31. significant    | 重要的       |
 | 32. significance   | 重要性       |
 | 33. assign         | 分配        |
-| 34. associate      |           |
-| 35. association    |           |
-| 36. resolve        |           |
+| 34. associate      | 联系        |
+| 35. association    | 联系        |
+| 36. resolve        | 解决        |
 | 37. solution       |           |
 | 38. philosophy     |           |
 | 39. philosopher    |           |
