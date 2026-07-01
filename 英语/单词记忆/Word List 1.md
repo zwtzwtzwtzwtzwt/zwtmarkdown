@@ -81,10 +81,10 @@
 | 75. conclude     | 包括              |
 | 76. contrary     | 矛盾              |
 | 77. corporation  | 公司 合作           |
-| 78. account      |                 |
-| 79. encounter    |                 |
-| 80. discover     |                 |
-| 81. discovery    |                 |
+| 78. account      | 账户              |
+| 79. encounter    | 遭遇              |
+| 80. discover     | 发现              |
+| 81. discovery    | 发现              |
 | 82. recovery     |                 |
 | 83. decrease     |                 |
 | 84. creative     |                 |
