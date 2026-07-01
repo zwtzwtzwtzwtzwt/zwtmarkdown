@@ -72,9 +72,9 @@
 | 68. convince      | 确信       |
 | 69. virtue        | 美德       |
 | 70. survival      | 幸存的      |
-| 71. vital         |          |
-| 72. advocate      |          |
-| 73. voluntary     |          |
+| 71. vital         | 重要的      |
+| 72. advocate      | 拥护       |
+| 73. voluntary     | 慈湖       |
 | 74. involve       |          |
 | 75. volume        |          |
 | 76. revolution    |          |
