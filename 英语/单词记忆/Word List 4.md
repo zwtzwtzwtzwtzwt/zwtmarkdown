@@ -57,12 +57,12 @@
 | 53. participate                              | 参与        |
 | 54. support                                  | 支持        |
 | 55. import                                   | 进口        |
-| 56. transport                                | 交通工具      |
+| 56. <font color="#00b050">transport</font>   | 交通工具      |
 | 57. patient                                  | 病人  耐心的   |
 | 58. sympathy                                 | 同情        |
 | 59. passion                                  | 热情        |
-| 60. appeal                                   |           |
-| 61. impulse                                  |           |
+| 60. <font color="#00b050">appeal</font>      |           |
+| 61. <font color="#00b050">impulse</font>     |           |
 | 62. apparent                                 |           |
 | 63. separate                                 | 分离        |
 | 64. comparison                               | 竞争        |
