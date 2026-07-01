@@ -1,93 +1,93 @@
 [英语单词1到30, p.11](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%203))  
 
-| 英文单词               | 0   |
-| ------------------ | --- |
-| 1. genetic         | 基因的 |
-| 2. general         | 寻常的 |
-| 3. generation      | 一代  |
-| 4. generate        | 产生  |
-| 5. govern          | 管理  |
-| 6. government      | 政府  |
-| 7. gradual         | 逐渐的 |
-| 8. progress        |     |
-| 9. aggressive      |     |
-| 10. degree         |     |
-| 11. congress       |     |
-| 12. inherent       |     |
-| 13. exhibit        |     |
-| 14. exhibition     |     |
-| 15. habitat        |     |
-| 16. historical     |     |
-| 17. historian      |     |
-| 18. identify       |     |
-| 19. identity       |     |
-| 20. imagine        |     |
-| 21. imagination    |     |
-| 22. imitate        |     |
-| 23. insect         |     |
-| 24. intelligent    |     |
-| 25. intelligence   |     |
-| 26. intellectual   |     |
-| 27. internal       |     |
-| 28. interior       |     |
-| 29. initial        |     |
-| 30. transition     |     |
-| 31. objective      |     |
-| 32. reject         |     |
-| 33. journalist     |     |
-| 34. jury           |     |
-| 35. justice        |     |
-| 36. adjust         |     |
-| 37. justify        |     |
-| 38. judgement      |     |
-| 39. prejudice      |     |
-| 40. laboratory     |     |
-| 41. collapse       |     |
-| 42. select         |     |
-| 43. selection      |     |
-| 44. neglect        |     |
-| 45. collection     |     |
-| 46. collective     |     |
-| 47. lecture        |     |
-| 48. religion       |     |
-| 49. religious      |     |
-| 50. legitimate     |     |
-| 51. illegal        |     |
-| 52. legislation    |     |
-| 53. liberal        |     |
-| 54. license        |     |
-| 55. limit          |     |
-| 56. limited        |     |
-| 57. eliminate      |     |
-| 58. literature     |     |
-| 59. literary       |     |
-| 60. locate         |     |
-| 61. location       |     |
-| 62. logical        |     |
-| 63. reluctant      |     |
-| 64. pollution      |     |
-| 65. analyse        |     |
-| 66. analysis       |     |
-| 67. permanent      |     |
-| 68. maintain       |     |
-| 69. management     |     |
-| 70. majority       |     |
-| 71. demand         |     |
-| 72. remark         |     |
-| 73. remarkable     |     |
-| 74. master         |     |
-| 75. mechanism      |     |
-| 76. mechanical     |     |
-| 77. machinery      |     |
-| 78. medical        |     |
-| 79. immediate      |     |
-| 80. medicine       |     |
-| 81. comment        |     |
-| 82. mental         |     |
-| 83. commercial     |     |
-| 84. emerge         |     |
-| 85. immigrant      |     |
-| 86. military       |     |
-| 87. diminish       |     |
-| 88. minimum        |     |
-| 89. administration |     |
+| 英文单词               | 0     |
+| ------------------ | ----- |
+| 1. genetic         | 基因的   |
+| 2. general         | 寻常的   |
+| 3. generation      | 一代    |
+| 4. generate        | 产生    |
+| 5. govern          | 管理    |
+| 6. government      | 政府    |
+| 7. gradual         | 逐渐的   |
+| 8. progress        | 进步    |
+| 9. aggressive      | 激进的   |
+| 10. degree         |       |
+| 11. congress       |       |
+| 12. inherent       |       |
+| 13. exhibit        |       |
+| 14. exhibition     |       |
+| 15. habitat        |       |
+| 16. historical     |       |
+| 17. historian      |       |
+| 18. identify       |       |
+| 19. identity       |       |
+| 20. imagine        |       |
+| 21. imagination    |       |
+| 22. imitate        |       |
+| 23. insect         |       |
+| 24. intelligent    |       |
+| 25. intelligence   |       |
+| 26. intellectual   |       |
+| 27. internal       |       |
+| 28. interior       |       |
+| 29. initial        |       |
+| 30. transition     |       |
+| 31. objective      |       |
+| 32. reject         |       |
+| 33. journalist     |       |
+| 34. jury           |       |
+| 35. justice        |       |
+| 36. adjust         |       |
+| 37. justify        |       |
+| 38. judgement      |       |
+| 39. prejudice      |       |
+| 40. laboratory     |       |
+| 41. collapse       |       |
+| 42. select         |       |
+| 43. selection      |       |
+| 44. neglect        |       |
+| 45. collection     |       |
+| 46. collective     |       |
+| 47. lecture        |       |
+| 48. religion       |       |
+| 49. religious      |       |
+| 50. legitimate     |       |
+| 51. illegal        |       |
+| 52. legislation    |       |
+| 53. liberal        |       |
+| 54. license        |       |
+| 55. limit          |       |
+| 56. limited        |       |
+| 57. eliminate      |       |
+| 58. literature     |       |
+| 59. literary       |       |
+| 60. locate         |       |
+| 61. location       |       |
+| 62. logical        |       |
+| 63. reluctant      |       |
+| 64. pollution      |       |
+| 65. analyse        |       |
+| 66. analysis       |       |
+| 67. permanent      |       |
+| 68. maintain       |       |
+| 69. management     |       |
+| 70. majority       |       |
+| 71. demand         |       |
+| 72. remark         |       |
+| 73. remarkable     |       |
+| 74. master         |       |
+| 75. mechanism      |       |
+| 76. mechanical     |       |
+| 77. machinery      |       |
+| 78. medical        |       |
+| 79. immediate      |       |
+| 80. medicine       |       |
+| 81. comment        |       |
+| 82. mental         |       |
+| 83. commercial     |       |
+| 84. emerge         |       |
+| 85. immigrant      |       |
+| 86. military       |       |
+| 87. diminish       |       |
+| 88. minimum        |       |
+| 89. administration |       |
