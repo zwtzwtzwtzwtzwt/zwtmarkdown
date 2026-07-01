@@ -51,7 +51,7 @@
 | 47. bound          | 边界    |
 | 48. bracket        | 篮子    |
 | 49. branch         | 分支    |
-| 50. brand          | 银行    |
+| 50. brand          |       |
 | 51. bright         |       |
 | 52. broad          |       |
 | 53. budget         |       |
