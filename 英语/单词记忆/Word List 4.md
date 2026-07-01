@@ -29,9 +29,9 @@
 | 25. normal       | 普通的     |
 | 26. enormous     | 巨大的     |
 | 27. notice       | 提示      |
-| 28. notion       |         |
-| 29. ignore       |         |
-| 30. announce     |         |
+| 28. notion       | 公告      |
+| 29. ignore       | 忽视      |
+| 30. announce     | 宣       |
 | 31. innovation   |         |
 | 32. nuclear      |         |
 | 33. obesity      |         |
