@@ -8,7 +8,7 @@
 | 4. delivery        | 传递  |
 | 5. dependent       | 依赖的 |
 | 6. desert          | 丢弃  |
-| 7. desirable       |     |
+| 7. desirable       | 渴望的 |
 | 8. despite         |     |
 | 9. destroy         |     |
 | 10. digital        |     |
