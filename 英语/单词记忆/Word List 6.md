@@ -22,8 +22,8 @@
 | 17. pursuit        | 追求        |
 | 18. suitable       | 合适的       |
 | 19. series         | 一系列       |
-| 20. conservation   |           |
-| 21. conservative   |           |
+| 20. conservation   | 保护        |
+| 21. conservative   | 保护的       |
 | 22. preserve       |           |
 | 23. reserve        |           |
 | 24. observe        |           |
