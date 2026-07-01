@@ -59,7 +59,7 @@
 | 55. transfer      | 转变          |
 | 56. infer         | 推断          |
 | 57. preference    |             |
-| 58. interfere     |             |
+| 58. interfere     | 接口 界面       |
 | 59. suffer        |             |
 | 60. professional  |             |
 | 61. confidence    |             |
