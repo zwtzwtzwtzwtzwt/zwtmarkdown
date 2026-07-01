@@ -16,11 +16,11 @@
 | 12. meanwhile     | 同时    |
 | 13. moreover      | 但是    |
 | 14. newspaper     | 报纸    |
-| 15. outcome       | 出口    |
+| 15. outcome       |       |
 | 16. outline       |       |
-| 17. output        |       |
-| 18. overall       |       |
-| 19. overlook      |       |
+| 17. output        | 输出    |
+| 18. overall       | 整体    |
+| 19. overlook      | 俯瞰    |
 | 20. ownership     |       |
 | 21. platform      |       |
 | 22. so-called     |       |
