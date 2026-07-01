@@ -77,8 +77,8 @@
 | 73. guilty         |        |
 | 74. handle         | 解决     |
 | 75. highly         |        |
-| 76. humanity       |        |
-| 77. ideal          |        |
+| 76. humanity       | 谦虚     |
+| 77. ideal          | 理想的    |
 | 78. illustrate     |        |
 | 79. impression     |        |
 | 80. incentive      |        |
