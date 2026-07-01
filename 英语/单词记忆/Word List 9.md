@@ -54,9 +54,9 @@
 | 50. brand          | 品牌    |
 | 51. bright         | 明亮的   |
 | 52. broad          | 宽广的   |
-| 53. budget         |       |
-| 54. burden         |       |
-| 55. butterfly      |       |
+| 53. budget         | 预算    |
+| 54. burden         | 压力    |
+| 55. butterfly      | 蝴蝶    |
 | 56. campaign       |       |
 | 57. cancel         |       |
 | 58. careful        |       |
