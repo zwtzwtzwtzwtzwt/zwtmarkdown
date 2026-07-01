@@ -71,7 +71,7 @@
 | 67. regular       | 频繁的 经常的 |
 | 68. regulate      | 管理  监管  |
 | 69. regulation    | 政策      |
-| 70. render        |         |
+| 70. render        | 致       |
 | 71. derive        |         |
 | 72. satisfy       |         |
 | 73. satisfaction  |         |
