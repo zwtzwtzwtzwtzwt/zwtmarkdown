@@ -69,25 +69,25 @@
 | 65. <font color="#00b050">character</font>      | 角色  性格  |
 | 66. <font color="#00b050">characterize</font>   |         |
 | 67. <font color="#00b050">characteristic</font> |         |
-| 68. charge                                      | 充电      |
+| 68. <font color="#00b050">charge</font>         | 充电      |
 | 69. check                                       | 检查      |
 | 70. cigarette                                   | 香烟      |
 | 71. circuit                                     | 循环      |
 | 72. claim                                       | 表明 声明   |
-| 73. colleague                                   | 大学      |
-| 74. column                                      | 列       |
-| 75. command                                     | 命令      |
-| 76. competitive                                 |         |
-| 77. constant                                    | 短暂的     |
+| 73. <font color="#00b050">colleague</font>      | 大学      |
+| 74. <font color="#00b050">column</font>         | 列       |
+| 75. <font color="#00b050">command</font>        | 命令      |
+| 76. <font color="#00b050">competitive</font>    |         |
+| 77. <font color="#00b050">constant</font>       | 短暂的     |
 | 78. context                                     | 文本  上下文 |
-| 79. continent                                   |         |
-| 80. convey                                      |         |
+| 79. <font color="#00b050">continent</font>      |         |
+| 80. <font color="#00b050">convey</font>         |         |
 | 81. cope                                        | 应对      |
 | 82. corporate                                   | 合作      |
 | 83. court                                       | 场地      |
-| 84. craft                                       |         |
-| 85. crash                                       |         |
-| 86. credit                                      | 信誉      |
+| 84. <font color="#00b050">craft</font>          |         |
+| 85. <font color="#00b050">crash</font>          |         |
+| 86. <font color="#00b050">credit</font>         | 信誉      |
 | 87. crop                                        |         |
 | 88. curb                                        | 捕捉      |
 | 89. danger                                      | 危险      |
