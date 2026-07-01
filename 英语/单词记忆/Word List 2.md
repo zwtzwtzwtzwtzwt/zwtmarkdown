@@ -71,8 +71,8 @@
 | 67. definition    | 定义          |
 | 68. artefact      |             |
 | 69. faculty       |             |
-| 70. sufficient    |             |
-| 71. efficient     |             |
+| 70. sufficient    | 足够的         |
+| 71. efficient     | 搞笑          |
 | 72. efficiency    |             |
 | 73. artificial    |             |
 | 74. qualification |             |
