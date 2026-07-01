@@ -45,8 +45,8 @@
 | 41. electrical    |             |
 | 42. electronic    |             |
 | 43. equality      | 平等          |
-| 44. adequate      |             |
-| 45. estimate      |             |
+| 44. adequate      | 足够的         |
+| 45. estimate      | 估计 预估       |
 | 46. ethic         |             |
 | 47. inevitable    |             |
 | 48. extreme       |             |
