@@ -22,11 +22,11 @@
 | 18. monopoly                                 | 垄断      |
 | 19. suppose                                  | 假设      |
 | 20. <font color="#00b050">impose</font>      |         |
-| 21. expose                                   |         |
-| 22. propose                                  |         |
+| 21. expose                                   | 暴露      |
+| 22. <font color="#00b050">propose</font>     |         |
 | 23. proposal                                 | 提议  提案  |
 | 24. position                                 | 位置  立场  |
-| 25. composition                              |         |
+| 25. <font color="#00b050">composition</font> |         |
 | 26. positive                                 | 积极的     |
 | 27. opposite                                 | 对立的     |
 | 28. possibility                              | 可能性     |
