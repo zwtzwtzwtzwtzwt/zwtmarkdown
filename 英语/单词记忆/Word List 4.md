@@ -65,9 +65,9 @@
 | 61. impulse      |           |
 | 62. apparent     |           |
 | 63. separate     | 分离        |
-| 64. comparison   |           |
-| 65. disappear    |           |
-| 66. appearance   |           |
+| 64. comparison   | 竞争        |
+| 65. disappear    | 消失        |
+| 66. appearance   | 出现        |
 | 67. peculiar     |           |
 | 68. expense      |           |
 | 69. independent  |           |
