@@ -80,10 +80,10 @@
 | 76. humanity       | 谦虚     |
 | 77. ideal          | 理想的    |
 | 78. illustrate     |        |
-| 79. impression     |        |
+| 79. impression     | 表达     |
 | 80. incentive      |        |
-| 81. incident       |        |
-| 82. increasingly   |        |
+| 81. incident       | 事故     |
+| 82. increasingly   | 增长的    |
 | 83. indeed         |        |
 | 84. industrial     |        |
 | 85. infant         |        |
