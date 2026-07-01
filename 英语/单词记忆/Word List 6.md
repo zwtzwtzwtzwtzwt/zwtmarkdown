@@ -31,13 +31,13 @@
 | 26. <font color="#00b050">deserve</font>      | 值得        |
 | 27. <font color="#00b050">severe</font>       | 严重的       |
 | 28. resident                                  | 总统        |
-| 29. considerable                              | 大量的       |
+| 29. <font color="#00b050">considerable</font> | 大量的       |
 | 30. design                                    | 设计        |
 | 31. significant                               | 重要的       |
 | 32. significance                              | 重要性       |
-| 33. assign                                    | 分配        |
+| 33. <font color="#00b050">assign</font>       | 分配        |
 | 34. associate                                 | 联系        |
-| 35. association                               | 联系        |
+| 35. <font color="#00b050">association</font>  | 联系        |
 | 36. resolve                                   | 解决        |
 | 37. solution                                  | 解决        |
 | 38. philosophy                                | 哲学        |
