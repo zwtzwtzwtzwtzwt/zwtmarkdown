@@ -54,9 +54,9 @@
 | 50. reveal        | 揭示       |
 | 51. revenue       |          |
 | 52. convention    |          |
-| 53. convenient    |          |
-| 54. verbal        |          |
-| 55. universe      |          |
+| 53. convenient    | 方便的      |
+| 54. verbal        | 口头的      |
+| 55. universe      | 大学       |
 | 56. universal     |          |
 | 57. version       |          |
 | 58. controversy   |          |
