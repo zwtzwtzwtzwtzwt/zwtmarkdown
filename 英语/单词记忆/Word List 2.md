@@ -34,13 +34,13 @@
 | 30. dominant      |             |
 | 31. introduce     | 介绍  说明      |
 | 32. introduction  | 介绍 说明       |
-| 33. conduct       |             |
-| 34. productive    |             |
-| 35. productivity  |             |
-| 36. reduction     |             |
-| 37. endure        |             |
-| 38. dynamic       |             |
-| 39. economics     |             |
+| 33. conduct       | 组织          |
+| 34. productive    | 生产的  生产率高的  |
+| 35. productivity  | 生产力         |
+| 36. reduction     | 较少          |
+| 37. endure        | 忍受          |
+| 38. dynamic       | 动态的         |
+| 39. economics     | 经济          |
 | 40. electricity   |             |
 | 41. electrical    |             |
 | 42. electronic    |             |
