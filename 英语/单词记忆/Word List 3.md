@@ -13,10 +13,10 @@
 | 9. aggressive      | 激进的  有攻击性的 |
 | 10. degree         | 程度  学位     |
 | 11. congress       | 坦白   承认    |
-| 12. inherent       |            |
-| 13. exhibit        |            |
-| 14. exhibition     |            |
-| 15. habitat        |            |
+| 12. inherent       | 继承         |
+| 13. exhibit        | 展示         |
+| 14. exhibition     | 展示         |
+| 15. habitat        | 栖息地        |
 | 16. historical     |            |
 | 17. historian      |            |
 | 18. identify       |            |
