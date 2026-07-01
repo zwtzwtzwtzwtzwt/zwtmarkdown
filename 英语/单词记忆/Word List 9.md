@@ -62,10 +62,10 @@
 | 58. careful        | 关心的    |
 | 59. category       | 类别     |
 | 60. ceremony       | 庆祝     |
-| 61. chain          | 链子 一些列 |
-| 62. challenge      |        |
-| 63. chance         |        |
-| 64. channel        |        |
+| 61. chain          | 链子 一系列 |
+| 62. challenge      | 挑战     |
+| 63. chance         | 选择     |
+| 64. channel        | 频道     |
 | 65. character      |        |
 | 66. characterize   |        |
 | 67. characteristic |        |
