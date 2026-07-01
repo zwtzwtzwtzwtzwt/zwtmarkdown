@@ -78,7 +78,7 @@
 | 72. client       | 委托人             |
 | 73. decline      | 下降              |
 | 74. conclusion   | 总结              |
-| 75. conclude     |                 |
+| 75. conclude     | 包括              |
 | 76. contrary     |                 |
 | 77. corporation  |                 |
 | 78. account      |                 |
