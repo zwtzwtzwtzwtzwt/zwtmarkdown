@@ -46,8 +46,8 @@
 | 42. select         | 选择         |
 | 43. selection      | 选择         |
 | 44. neglect        | 忽视         |
-| 45. collection     | 手机         |
-| 46. collective     |            |
+| 45. collection     | 收藏品        |
+| 46. collective     | 集体的        |
 | 47. lecture        |            |
 | 48. religion       |            |
 | 49. religious      |            |
