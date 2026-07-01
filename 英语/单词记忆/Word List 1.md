@@ -85,8 +85,8 @@
 | 79. encounter                                 | 遭遇              |
 | 80. discover                                  | 发现              |
 | 81. discovery                                 | 发现              |
-| 82. recovery                                  | 覆盖              |
+| 82. <font color="#00b050">recovery</font>     | 覆盖              |
 | 83. decrease                                  | 下降              |
 | 84. creative                                  | 创新的             |
 | 85. creature                                  | 生物              |
-| 86. criminal                                  | 犯罪的             |
+| 86. <font color="#00b050">criminal</font>     | 犯罪的             |
