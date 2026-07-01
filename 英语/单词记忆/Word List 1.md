@@ -67,8 +67,8 @@
 | 61. decide       | 决定              |
 | 62. suicide      | 自杀              |
 | 63. council      | 咨询              |
-| 64. citizen      |                 |
-| 65. cite         |                 |
+| 64. citizen      | 居民              |
+| 65. cite         | 引用              |
 | 66. exciting     |                 |
 | 67. civil        |                 |
 | 68. civilization |                 |
