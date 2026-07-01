@@ -38,10 +38,10 @@
 | 34. comprehension | 理解力     |
 | 35. comprehensive |         |
 | 36. expression    | 表达      |
-| 37. principle     |         |
+| 37. principle     | 主要的     |
 | 38. primary       | 主要的     |
 | 39. prior         |         |
-| 40. priority      |         |
+| 40. priority      | 优先级     |
 | 41. private       |         |
 | 42. privacy       |         |
 | 43. privilege     |         |
