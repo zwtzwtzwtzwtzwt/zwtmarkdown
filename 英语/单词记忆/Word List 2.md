@@ -60,8 +60,8 @@
 | 56. infer         | 推断          |
 | 57. preference    |             |
 | 58. interfere     | 接口 界面       |
-| 59. suffer        |             |
-| 60. professional  |             |
+| 59. suffer        | 承受 遭受       |
+| 60. professional  | 专业的         |
 | 61. confidence    |             |
 | 62. fierce        |             |
 | 63. file          |             |
