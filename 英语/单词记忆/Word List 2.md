@@ -67,8 +67,8 @@
 | 63. file          | 文件          |
 | 64. financial     | 财政的         |
 | 65. confine       |             |
-| 66. define        |             |
-| 67. definition    |             |
+| 66. define        | 定义          |
+| 67. definition    | 定义          |
 | 68. artefact      |             |
 | 69. faculty       |             |
 | 70. sufficient    |             |
