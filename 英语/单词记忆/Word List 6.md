@@ -39,7 +39,7 @@
 | 34. associate      | 联系        |
 | 35. association    | 联系        |
 | 36. resolve        | 解决        |
-| 37. solution       |           |
+| 37. solution       | 解决        |
 | 38. philosophy     |           |
 | 39. philosopher    |           |
 | 40. absorb         |           |
