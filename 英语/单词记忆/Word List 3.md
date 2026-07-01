@@ -77,8 +77,8 @@
 | 73. remarkable                                | 非凡的        |
 | 74. master                                    | 大师 精通      |
 | 75. mechanism                                 | 机器         |
-| 76. mechanical                                | 机器的        |
-| 77. machinery                                 |            |
+| 76. <font color="#00b050">mechanical</font>   | 机器的        |
+| 77. <font color="#00b050">machinery</font>    |            |
 | 78. medical                                   |            |
 | 79. immediate                                 | 立即的 马上的    |
 | 80. medicine                                  |            |
