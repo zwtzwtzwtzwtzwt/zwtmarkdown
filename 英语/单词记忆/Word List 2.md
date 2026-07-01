@@ -80,7 +80,7 @@
 | 76. profitable    |             |
 | 77. affect        | 影响          |
 | 78. effective     | 有效的         |
-| 79. fiction       |             |
+| 79. fiction       | 小说          |
 | 80. inflation     |             |
 | 81. influential   |             |
 | 82. inform        |             |
