@@ -46,9 +46,9 @@
 | 42. blame          | 责怪    |
 | 43. blank          | 空白    |
 | 44. block          | 阻碍    |
-| 45. boom           |       |
-| 46. boost          |       |
-| 47. bound          |       |
+| 45. boom           | 上升    |
+| 46. boost          | 爆发 上升 |
+| 47. bound          | 边界    |
 | 48. bracket        |       |
 | 49. branch         |       |
 | 50. brand          |       |
