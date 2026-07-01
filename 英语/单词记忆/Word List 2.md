@@ -17,9 +17,9 @@
 | 13. core          | 核心的         |
 | 14. discuss       | 讨论          |
 | 15. custom        | 风俗          |
-| 16. cycle         |             |
-| 17. debt          |             |
-| 18. decade        |             |
+| 16. cycle         | 自行车         |
+| 17. debt          | 辩论          |
+| 18. decade        | 十年          |
 | 19. damage        |             |
 | 20. democratic    |             |
 | 21. democracy     |             |
