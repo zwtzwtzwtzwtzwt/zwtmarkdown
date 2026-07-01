@@ -51,9 +51,9 @@
 | 47. bound          | 边界    |
 | 48. bracket        | 篮子    |
 | 49. branch         | 分支    |
-| 50. brand          |       |
-| 51. bright         |       |
-| 52. broad          |       |
+| 50. brand          | 品牌    |
+| 51. bright         | 明亮的   |
+| 52. broad          | 款管    |
 | 53. budget         |       |
 | 54. burden         |       |
 | 55. butterfly      |       |
