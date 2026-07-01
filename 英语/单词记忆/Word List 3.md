@@ -43,8 +43,8 @@
 | 39. prejudice      | 歧视  偏见     |
 | 40. laboratory     |            |
 | 41. collapse       | 坍塌         |
-| 42. select         |            |
-| 43. selection      |            |
+| 42. select         | 选择         |
+| 43. selection      | 选择         |
 | 44. neglect        |            |
 | 45. collection     |            |
 | 46. collective     |            |
