@@ -22,8 +22,8 @@
 | 16. anxious      | 焦虑的             |
 | 17. adapt        | 适应              |
 | 18. automation   | 自动  自动化         |
-| 19. abandon      |                 |
-| 20. debate       |                 |
+| 19. abandon      | 抛弃  丢弃          |
+| 20. debate       | 辩论              |
 | 21. battle       |                 |
 | 22. bias         |                 |
 | 23. combine      |                 |
