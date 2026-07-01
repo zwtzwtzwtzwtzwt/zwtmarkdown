@@ -51,8 +51,8 @@
 | 47. inevitable    | 不可避免的       |
 | 48. extreme       | 极端的         |
 | 49. surface       | 表面          |
-| 50. defence       | 防御          |
-| 51. differ        |             |
+| 50. defence       | 防御 抵御       |
+| 51. differ        | 不同          |
 | 52. difference    |             |
 | 53. conference    |             |
 | 54. reference     |             |
