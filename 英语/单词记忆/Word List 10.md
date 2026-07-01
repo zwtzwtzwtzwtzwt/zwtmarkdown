@@ -15,7 +15,7 @@
 | 11. dioxide        | 氧化物   |
 | 12. disorder       |       |
 | 13. display        | 展示    |
-| 14. dispute        |       |
+| 14. dispute        | 争论    |
 | 15. distant        |       |
 | 16. district       |       |
 | 17. divorce        |       |
