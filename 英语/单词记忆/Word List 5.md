@@ -75,4 +75,4 @@
 | 71. <font color="#00b050">derive</font>      |         |
 | 72. satisfy                                  | 使满意     |
 | 73. satisfaction                             | 满意      |
-| 74. scale                                    | 规模      |
+| 74. <font color="#00b050">scale</font>       | 规模      |
