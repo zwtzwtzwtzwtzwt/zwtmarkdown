@@ -89,8 +89,8 @@
 | 85. crash          |         |
 | 86. credit         | 信誉      |
 | 87. crop           |         |
-| 88. curb           |         |
-| 89. danger         |         |
-| 90. dangerous      |         |
+| 88. curb           | 捕捉      |
+| 89. danger         | 危险      |
+| 90. dangerous      | 危险的     |
 | 91. dark           |         |
 | 92. deal           |         |
