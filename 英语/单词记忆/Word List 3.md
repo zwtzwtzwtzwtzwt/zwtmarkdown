@@ -65,9 +65,9 @@
 | 61. location       | 位置         |
 | 62. logical        | 有逻辑的       |
 | 63. reluctant      | 拖延的  不情愿的  |
-| 64. pollution      |            |
-| 65. analyse        |            |
-| 66. analysis       |            |
+| 64. pollution      | 污染         |
+| 65. analyse        | 分析         |
+| 66. analysis       | 分析         |
 | 67. permanent      |            |
 | 68. maintain       |            |
 | 69. management     |            |
