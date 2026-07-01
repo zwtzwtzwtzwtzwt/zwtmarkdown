@@ -87,8 +87,8 @@
 | 83. formation     |             |
 | 84. transform     | 转变          |
 | 85. comfort       | 舒适的         |
-| 86. reinforce     |             |
-| 87. fortune       |             |
+| 86. reinforce     | 抵抗          |
+| 87. fortune       | 幸运          |
 | 88. unfortunately |             |
 | 89. frequent      |             |
 | 90. confront      |             |
