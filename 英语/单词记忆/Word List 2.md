@@ -20,7 +20,7 @@
 | 16. cycle         | 自行车         |
 | 17. debt          | 辩论          |
 | 18. decade        | 十年          |
-| 19. damage        |             |
+| 19. damage        | 摧毁          |
 | 20. democratic    |             |
 | 21. democracy     |             |
 | 22. epidemic      |             |
