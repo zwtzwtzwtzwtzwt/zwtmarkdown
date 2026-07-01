@@ -4,9 +4,9 @@
 | ------------------ | --- |
 | 1. decision        | 决定  |
 | 2. delay           | 延迟  |
-| 3. deliver         |     |
-| 4. delivery        |     |
-| 5. dependent       |     |
+| 3. deliver         | 传递  |
+| 4. delivery        | 传递  |
+| 5. dependent       | 依赖  |
 | 6. desert          |     |
 | 7. desirable       |     |
 | 8. despite         |     |
