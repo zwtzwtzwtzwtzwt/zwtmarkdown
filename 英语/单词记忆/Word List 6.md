@@ -59,9 +59,9 @@
 | 54. instance       | 例子        |
 | 55. distance       | 举例        |
 | 56. stable         | 稳定的       |
-| 57. establish      |           |
-| 58. status         |           |
-| 59. statement      |           |
+| 57. establish      | 创建        |
+| 58. status         | 状态 地位     |
+| 59. statement      | 申明        |
 | 60. station        |           |
 | 61. consist        |           |
 | 62. assistant      |           |
