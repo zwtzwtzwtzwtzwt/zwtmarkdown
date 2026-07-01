@@ -44,8 +44,8 @@
 | 40. priority                                 | 优先级     |
 | 41. private                                  | 私下的 隐私的 |
 | 42. privacy                                  | 隐私      |
-| 43. privilege                                |         |
-| 44. deprive                                  |         |
+| 43. <font color="#00b050">privilege</font>   |         |
+| 44. <font color="#00b050">deprive</font>     |         |
 | 45. approach                                 | 方式 途径   |
 | 46. appropriate                              |         |
 | 47. proper                                   |         |
