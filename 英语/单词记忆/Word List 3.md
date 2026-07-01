@@ -4,8 +4,8 @@
 | ------------------ | --- |
 | 1. genetic         | 基因的 |
 | 2. general         | 寻常的 |
-| 3. generation      |     |
-| 4. generate        |     |
+| 3. generation      | 一代  |
+| 4. generate        | 产生  |
 | 5. govern          |     |
 | 6. government      |     |
 | 7. gradual         |     |
