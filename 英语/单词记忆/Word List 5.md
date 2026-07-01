@@ -52,7 +52,7 @@
 | 48. <font color="#00b050">property</font>    | 性质      |
 | 49. approval                                 | 同意      |
 | 50. psychology                               | 心理学     |
-| 51. publication                              |         |
+| 51. <font color="#00b050">publication</font> | 发布      |
 | 52. quantity                                 | 数量      |
 | 53. quarter                                  | 1/4 的   |
 | 54. require                                  | 需要 需求   |
