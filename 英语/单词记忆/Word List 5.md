@@ -5,8 +5,8 @@
 | 1. planet         | 星球 地球   |
 | 2. explanation    | 解释 说明   |
 | 3. plant          | 种植  发电厂 |
-| 4. plastic        |         |
-| 5. multiple       |         |
+| 4. plastic        | 塑料的     |
+| 5. multiple       | 大量的     |
 | 6. pleasant       |         |
 | 7. explosion      |         |
 | 8. employment     |         |
