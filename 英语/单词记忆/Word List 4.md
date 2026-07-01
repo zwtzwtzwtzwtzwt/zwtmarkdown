@@ -80,4 +80,4 @@
 | 76. physics      | 物理        |
 | 77. physical     | 物理的       |
 | 78. replace      | 代替        |
-| 79. complaint    |           |
+| 79. complaint    | 抱怨        |
