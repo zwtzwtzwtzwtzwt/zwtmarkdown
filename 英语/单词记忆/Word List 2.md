@@ -90,6 +90,6 @@
 | 86. reinforce     | 抵抗          |
 | 87. fortune       | 幸运          |
 | 88. unfortunately | 不幸的         |
-| 89. frequent      | 平           |
-| 90. confront      |             |
+| 89. frequent      | 频繁的         |
+| 90. confront      | 在前的         |
 | 91. fundamental   |             |
