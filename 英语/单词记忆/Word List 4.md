@@ -16,8 +16,8 @@
 | 12. commodity    |         |
 | 13. monitor      | 监管      |
 | 14. demonstrate  | 拥护      |
-| 15. promote      |         |
-| 16. motor        |         |
+| 15. promote      | 推动  促进  |
+| 16. motor        | 摩托      |
 | 17. remove       |         |
 | 18. amount       |         |
 | 19. prompt       |         |
