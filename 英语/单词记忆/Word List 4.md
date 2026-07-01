@@ -45,7 +45,7 @@
 | 41. ordinary     | 寻常的       |
 | 42. organize     | 组织        |
 | 43. organization | 组织        |
-| 44. origin       | 开始的       |
+| 44. origin       | 开始的 起初的   |
 | 45. originate    |           |
 | 46. impact       |           |
 | 47. expand       |           |
