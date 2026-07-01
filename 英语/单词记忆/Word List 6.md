@@ -82,8 +82,8 @@
 | 77. strain         |           |
 | 78. persuade       | 劝说        |
 | 79. consume        | 消耗        |
-| 80. consumption    |           |
-| 81. summarize      |           |
+| 80. consumption    | 消耗        |
+| 81. summarize      | 总计        |
 | 82. ensure         |           |
 | 83. insurance      |           |
 | 84. assure         |           |
