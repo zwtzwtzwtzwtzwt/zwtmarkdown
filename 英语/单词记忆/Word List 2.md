@@ -56,7 +56,7 @@
 | 52. difference    | 不同          |
 | 53. conference    |             |
 | 54. reference     |             |
-| 55. transfer      |             |
+| 55. transfer      | 转变          |
 | 56. infer         |             |
 | 57. preference    |             |
 | 58. interfere     |             |
