@@ -4,7 +4,7 @@
 | ----------------- | --- |
 | 1. attach         | 粘贴  |
 | 2. attack         | 攻击  |
-| 3. contact        |     |
+| 3. contact        | 合同  |
 | 4. contain        |     |
 | 5. sustain        | 维持  |
 | 6. content        | 内容  |
@@ -14,9 +14,9 @@
 | 10. technical     | 科技的 |
 | 11. technique     | 技巧  |
 | 12. detect        | 发现  |
-| 13. temperature   |     |
-| 14. temporary     |     |
-| 15. attempt       |     |
+| 13. temperature   | 温度  |
+| 14. temporary     | 暂时的 |
+| 15. attempt       | 尝试  |
 | 16. tendency      |     |
 | 17. extend        |     |
 | 18. extent        |     |
