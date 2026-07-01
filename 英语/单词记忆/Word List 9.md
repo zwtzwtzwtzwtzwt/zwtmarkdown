@@ -26,7 +26,7 @@
 | 22. <font color="#00b050">appoint</font>   |         |
 | 23. <font color="#00b050">argument</font>  |         |
 | 24. <font color="#00b050">arise</font>     | 上升      |
-| 25. arouse                                 | 激发      |
+| 25. <font color="#00b050">arouse</font>    | 激发      |
 | 26. aside                                  | 在一旁     |
 | 27. aspect                                 | 方面      |
 | 28. assess                                 | 评估      |
