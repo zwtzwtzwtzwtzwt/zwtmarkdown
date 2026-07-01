@@ -11,8 +11,8 @@
 | 5. actual        | 实际的             |
 | 6. interact      | 交流              |
 | 7. exact         | 精确的             |
-| 8. transaction   |                 |
-| 9. parallel      |                 |
+| 8. transaction   | 交易              |
+| 9. parallel      | 平行的  平行线        |
 | 10. alter        |                 |
 | 11. alternative  |                 |
 | 12. amateur      |                 |
