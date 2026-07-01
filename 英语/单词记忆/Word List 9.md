@@ -1,96 +1,96 @@
 [英语单词1到30, p.34](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%209))  
 
-| 英文单词                                       | 0       |
-| ------------------------------------------ | ------- |
-| 1. ability                                 | 能力      |
-| 2. abroad                                  | 国外的     |
-| 3. absence                                 | 缺席      |
-| 4. <font color="#00b050">abuse</font>      |         |
-| 5. academic                                | 学术的     |
-| 6. <font color="#00b050">accomplish</font> | 完成      |
-| 7. acknowledge                             | 承认      |
-| 8. activity                                | 活动      |
-| 9. <font color="#00b050">addition</font>   |         |
-| 10. address                                | 地址 解决   |
-| 11. advantage                              | 优点 优势   |
-| 12. affair                                 | 事务      |
-| 13. afford                                 | 承担      |
-| 14. afraid                                 | 害怕      |
-| 15. <font color="#00b050">agency</font>    | 代办处     |
-| 16. ahead                                  | 向前      |
-| 17. <font color="#00b050">alert</font>     |         |
-| 18. <font color="#00b050">alike</font>     |         |
-| 19. ambition                               | 决心      |
-| 20. ancestor                               | 祖先 原型   |
-| 21. anticipate                             | 参与      |
-| 22. <font color="#00b050">appoint</font>   |         |
-| 23. <font color="#00b050">argument</font>  |         |
-| 24. <font color="#00b050">arise</font>     | 上升      |
-| 25. <font color="#00b050">arouse</font>    | 激发      |
-| 26. aside                                  | 在一旁     |
-| 27. aspect                                 | 方面      |
-| 28. assess                                 | 评估      |
-| 29. <font color="#00b050">asset</font>     |         |
-| 30. assume                                 | 假定      |
-| 31. assumption                             | 假设      |
-| 32. attend                                 | 参加      |
-| 33. <font color="#00b050">authority</font> |         |
-| 34. automatic                              | 自动的     |
-| 35. award                                  | 回报      |
-| 36. barely                                 | 仅仅      |
-| 37. bay                                    | 海湾      |
-| 38. bear                                   | 忍受 熊    |
-| 39. <font color="#00b050">behalf</font>    | 行为      |
-| 40. <font color="#00b050">behave</font>    | 行为      |
-| 41. beneath                                | 在什么下面   |
-| 42. blame                                  | 责怪      |
-| 43. blank                                  | 空白      |
-| 44. block                                  | 阻碍      |
-| 45. boom                                   | 上升      |
-| 46. boost                                  | 爆发 上升   |
-| 47. bound                                  | 边界      |
-| 48. bracket                                | 篮子      |
-| 49. branch                                 | 分支      |
-| 50. brand                                  | 品牌      |
-| 51. bright                                 | 明亮的     |
-| 52. broad                                  | 宽广的     |
-| 53. budget                                 | 预算      |
-| 54. burden                                 | 压力      |
-| 55. butterfly                              | 蝴蝶      |
-| 56. campaign                               |         |
-| 57. cancel                                 | 取消      |
-| 58. careful                                | 关心的     |
-| 59. category                               | 类别      |
-| 60. ceremony                               | 庆祝      |
-| 61. chain                                  | 链子 一系列  |
-| 62. challenge                              | 挑战      |
-| 63. chance                                 | 选择      |
-| 64. channel                                | 频道      |
-| 65. character                              | 角色  性格  |
-| 66. characterize                           |         |
-| 67. characteristic                         |         |
-| 68. charge                                 | 充电      |
-| 69. check                                  | 检查      |
-| 70. cigarette                              | 香烟      |
-| 71. circuit                                | 循环      |
-| 72. claim                                  | 表明 声明   |
-| 73. colleague                              | 大学      |
-| 74. column                                 | 列       |
-| 75. command                                | 命令      |
-| 76. competitive                            |         |
-| 77. constant                               | 短暂的     |
-| 78. context                                | 文本  上下文 |
-| 79. continent                              |         |
-| 80. convey                                 |         |
-| 81. cope                                   | 应对      |
-| 82. corporate                              | 合作      |
-| 83. court                                  | 场地      |
-| 84. craft                                  |         |
-| 85. crash                                  |         |
-| 86. credit                                 | 信誉      |
-| 87. crop                                   |         |
-| 88. curb                                   | 捕捉      |
-| 89. danger                                 | 危险      |
-| 90. dangerous                              | 危险的     |
-| 91. dark                                   | 暗的      |
-| 92. deal                                   | 处理  应对  |
+| 英文单词                                            | 0       |
+| ----------------------------------------------- | ------- |
+| 1. ability                                      | 能力      |
+| 2. abroad                                       | 国外的     |
+| 3. absence                                      | 缺席      |
+| 4. <font color="#00b050">abuse</font>           |         |
+| 5. academic                                     | 学术的     |
+| 6. <font color="#00b050">accomplish</font>      | 完成      |
+| 7. acknowledge                                  | 承认      |
+| 8. activity                                     | 活动      |
+| 9. <font color="#00b050">addition</font>        |         |
+| 10. address                                     | 地址 解决   |
+| 11. advantage                                   | 优点 优势   |
+| 12. affair                                      | 事务      |
+| 13. afford                                      | 承担      |
+| 14. afraid                                      | 害怕      |
+| 15. <font color="#00b050">agency</font>         | 代办处     |
+| 16. ahead                                       | 向前      |
+| 17. <font color="#00b050">alert</font>          |         |
+| 18. <font color="#00b050">alike</font>          |         |
+| 19. ambition                                    | 决心      |
+| 20. ancestor                                    | 祖先 原型   |
+| 21. anticipate                                  | 参与      |
+| 22. <font color="#00b050">appoint</font>        |         |
+| 23. <font color="#00b050">argument</font>       |         |
+| 24. <font color="#00b050">arise</font>          | 上升      |
+| 25. <font color="#00b050">arouse</font>         | 激发      |
+| 26. aside                                       | 在一旁     |
+| 27. aspect                                      | 方面      |
+| 28. assess                                      | 评估      |
+| 29. <font color="#00b050">asset</font>          |         |
+| 30. assume                                      | 假定      |
+| 31. assumption                                  | 假设      |
+| 32. attend                                      | 参加      |
+| 33. <font color="#00b050">authority</font>      |         |
+| 34. automatic                                   | 自动的     |
+| 35. award                                       | 回报      |
+| 36. barely                                      | 仅仅      |
+| 37. bay                                         | 海湾      |
+| 38. bear                                        | 忍受 熊    |
+| 39. <font color="#00b050">behalf</font>         | 行为      |
+| 40. <font color="#00b050">behave</font>         | 行为      |
+| 41. beneath                                     | 在什么下面   |
+| 42. blame                                       | 责怪      |
+| 43. blank                                       | 空白      |
+| 44. block                                       | 阻碍      |
+| 45. boom                                        | 上升      |
+| 46. <font color="#00b050">boost</font>          | 爆发 上升   |
+| 47. bound                                       | 边界      |
+| 48. bracket                                     | 篮子      |
+| 49. branch                                      | 分支      |
+| 50. brand                                       | 品牌      |
+| 51. bright                                      | 明亮的     |
+| 52. broad                                       | 宽广的     |
+| 53. budget                                      | 预算      |
+| 54. burden                                      | 压力      |
+| 55. butterfly                                   | 蝴蝶      |
+| 56. <font color="#00b050">campaign</font>       |         |
+| 57. cancel                                      | 取消      |
+| 58. careful                                     | 关心的     |
+| 59. <font color="#00b050">category</font>       | 类别      |
+| 60. <font color="#00b050">ceremony</font>       | 庆祝      |
+| 61. chain                                       | 链子 一系列  |
+| 62. challenge                                   | 挑战      |
+| 63. chance                                      | 选择      |
+| 64. channel                                     | 频道      |
+| 65. <font color="#00b050">character</font>      | 角色  性格  |
+| 66. <font color="#00b050">characterize</font>   |         |
+| 67. <font color="#00b050">characteristic</font> |         |
+| 68. charge                                      | 充电      |
+| 69. check                                       | 检查      |
+| 70. cigarette                                   | 香烟      |
+| 71. circuit                                     | 循环      |
+| 72. claim                                       | 表明 声明   |
+| 73. colleague                                   | 大学      |
+| 74. column                                      | 列       |
+| 75. command                                     | 命令      |
+| 76. competitive                                 |         |
+| 77. constant                                    | 短暂的     |
+| 78. context                                     | 文本  上下文 |
+| 79. continent                                   |         |
+| 80. convey                                      |         |
+| 81. cope                                        | 应对      |
+| 82. corporate                                   | 合作      |
+| 83. court                                       | 场地      |
+| 84. craft                                       |         |
+| 85. crash                                       |         |
+| 86. credit                                      | 信誉      |
+| 87. crop                                        |         |
+| 88. curb                                        | 捕捉      |
+| 89. danger                                      | 危险      |
+| 90. dangerous                                   | 危险的     |
+| 91. dark                                        | 暗的      |
+| 92. deal                                        | 处理  应对  |
