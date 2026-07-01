@@ -64,7 +64,7 @@
 | 60. appeal       |           |
 | 61. impulse      |           |
 | 62. apparent     |           |
-| 63. separate     |           |
+| 63. separate     | 分离        |
 | 64. comparison   |           |
 | 65. disappear    |           |
 | 66. appearance   |           |
