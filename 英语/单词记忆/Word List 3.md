@@ -24,8 +24,8 @@
 | 20. imagine        | 想象         |
 | 21. imagination    | 想象力        |
 | 22. imitate        | 模仿         |
-| 23. insect         |            |
-| 24. intelligent    |            |
+| 23. insect         | 昆虫         |
+| 24. intelligent    | 明智的        |
 | 25. intelligence   |            |
 | 26. intellectual   |            |
 | 27. internal       |            |
