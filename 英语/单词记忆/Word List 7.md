@@ -22,10 +22,10 @@
 | 18. extent        | 程度  |
 | 19. extension     |     |
 | 20. intense       |     |
-| 21. determine     |     |
+| 21. determine     | 决定  |
 | 22. contest       |     |
 | 23. theatre       |     |
-| 24. theory        |     |
+| 24. theory        | 理论  |
 | 25. entitle       |     |
 | 26. tolerate      |     |
 | 27. tolerant      |     |
