@@ -59,12 +59,12 @@
 | 55. requirement   | 要求  要求  |
 | 56. request       | 请求      |
 | 57. acquire       | 获得 得到   |
-| 58. enquiry       |         |
+| 58. enquiry       | 询问 咨询   |
 | 59. acquisition   |         |
-| 60. quit          |         |
+| 60. quit          | 停止      |
 | 61. radical       |         |
-| 62. range         |         |
-| 63. arrange       |         |
+| 62. range         | 范围      |
+| 63. arrange       | 安培      |
 | 64. reasonable    |         |
 | 65. directly      |         |
 | 66. region        |         |
