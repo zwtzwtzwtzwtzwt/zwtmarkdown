@@ -32,7 +32,7 @@
 | 28. interior       |            |
 | 29. initial        |            |
 | 30. transition     |            |
-| 31. objective      |            |
+| 31. objective      | 客观的        |
 | 32. reject         |            |
 | 33. journalist     |            |
 | 34. jury           |            |
