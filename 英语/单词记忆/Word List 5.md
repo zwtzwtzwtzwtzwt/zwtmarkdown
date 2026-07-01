@@ -64,8 +64,8 @@
 | 60. quit          | 停止      |
 | 61. radical       |         |
 | 62. range         | 范围      |
-| 63. arrange       | 安培      |
-| 64. reasonable    |         |
+| 63. arrange       | 安排      |
+| 64. reasonable    | 合理的     |
 | 65. directly      |         |
 | 66. region        |         |
 | 67. regular       |         |
