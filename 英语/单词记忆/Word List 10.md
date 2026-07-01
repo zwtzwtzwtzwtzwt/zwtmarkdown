@@ -46,9 +46,9 @@
 | 42. examine        | 考核    |
 | 43. examination    | 考核 考试 |
 | 44. excessive      |       |
-| 45. exchange       |       |
-| 46. executive      |       |
-| 47. exist          |       |
+| 45. exchange       | 交换    |
+| 46. executive      | 主管    |
+| 47. exist          | 存在    |
 | 48. existence      |       |
 | 49. expect         |       |
 | 50. expectation    |       |
