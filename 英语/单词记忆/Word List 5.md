@@ -7,7 +7,7 @@
 | 3. plant          | 种植  发电厂 |
 | 4. plastic        | 塑料的     |
 | 5. multiple       | 大量的     |
-| 6. pleasant       |         |
+| 6. pleasant       | 高兴的     |
 | 7. explosion      | 爆发      |
 | 8. employment     | 就业      |
 | 9. apply          |         |
