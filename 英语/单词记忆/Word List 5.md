@@ -57,8 +57,8 @@
 | 53. quarter       | 1/4 的   |
 | 54. require       | 需要 需求   |
 | 55. requirement   | 要求  要求  |
-| 56. request       |         |
-| 57. acquire       |         |
+| 56. request       | 请求      |
+| 57. acquire       | 获得 得到   |
 | 58. enquiry       |         |
 | 59. acquisition   |         |
 | 60. quit          |         |
