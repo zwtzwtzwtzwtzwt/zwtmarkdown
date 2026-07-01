@@ -30,8 +30,8 @@
 | 26. tolerate      | 容忍  |
 | 27. tolerant      | 容忍的 |
 | 28. tolerance     | 容忍  |
-| 29. track         |     |
-| 30. trace         |     |
+| 29. track         | 踪迹  |
+| 30. trace         | 踪迹  |
 | 31. trail         |     |
 | 32. trait         |     |
 | 33. attractive    |     |
