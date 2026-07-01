@@ -16,9 +16,9 @@
 | 12. disorder       |       |
 | 13. display        | 展示    |
 | 14. dispute        | 争论    |
-| 15. distant        |       |
-| 16. district       |       |
-| 17. divorce        |       |
+| 15. distant        | 演员的   |
+| 16. district       | 限制    |
+| 17. divorce        | 离婚    |
 | 18. double         |       |
 | 19. doubt          |       |
 | 20. dozen          |       |
