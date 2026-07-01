@@ -89,4 +89,4 @@
 | 83. decrease     | 下降              |
 | 84. creative     | 创新的             |
 | 85. creature     | 生物              |
-| 86. criminal     |                 |
+| 86. criminal     | 犯罪的             |
