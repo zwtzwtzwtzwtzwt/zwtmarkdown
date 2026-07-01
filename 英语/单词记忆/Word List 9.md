@@ -49,9 +49,9 @@
 | 45. boom           | 上升    |
 | 46. boost          | 爆发 上升 |
 | 47. bound          | 边界    |
-| 48. bracket        |       |
-| 49. branch         |       |
-| 50. brand          |       |
+| 48. bracket        | 篮子    |
+| 49. branch         | 分支    |
+| 50. brand          | 银行    |
 | 51. bright         |       |
 | 52. broad          |       |
 | 53. budget         |       |
