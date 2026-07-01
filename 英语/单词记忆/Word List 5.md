@@ -54,8 +54,8 @@
 | 50. psychology    | 心理学     |
 | 51. publication   |         |
 | 52. quantity      | 数量      |
-| 53. quarter       |         |
-| 54. require       |         |
+| 53. quarter       | 1/4 的   |
+| 54. require       | 需要      |
 | 55. requirement   |         |
 | 56. request       |         |
 | 57. acquire       |         |
