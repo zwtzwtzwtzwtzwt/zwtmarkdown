@@ -7,9 +7,9 @@
 | 3. alongside      | 在一旁  |
 | 4. background     | 背景   |
 | 5. chairman       | 主席   |
-| 6. database       | 数据   |
-| 7. elsewhere      | 所有   |
-| 8. feedback       |      |
+| 6. database       | 数据库  |
+| 7. elsewhere      | 所有位置 |
+| 8. feedback       | 返回   |
 | 9. furthermore    |      |
 | 10. highlight     |      |
 | 11. household     |      |
