@@ -37,8 +37,8 @@
 | 33. authority      |       |
 | 34. automatic      | 自动的   |
 | 35. award          | 回报    |
-| 36. barely         |       |
-| 37. bay            |       |
+| 36. barely         | 仅仅    |
+| 37. bay            | 海湾    |
 | 38. bear           |       |
 | 39. behalf         |       |
 | 40. behave         |       |
