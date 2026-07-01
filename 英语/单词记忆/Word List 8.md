@@ -14,9 +14,9 @@
 | 10. highlight     | 高光 强调 |
 | 11. household     | 家务    |
 | 12. meanwhile     | 同时    |
-| 13. moreover      |       |
-| 14. newspaper     |       |
-| 15. outcome       |       |
+| 13. moreover      | 但是    |
+| 14. newspaper     | 报纸    |
+| 15. outcome       | 出口    |
 | 16. outline       |       |
 | 17. output        |       |
 | 18. overall       |       |
