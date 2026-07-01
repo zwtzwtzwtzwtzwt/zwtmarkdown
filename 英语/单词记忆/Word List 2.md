@@ -86,7 +86,7 @@
 | 82. inform        |             |
 | 83. formation     |             |
 | 84. transform     | 转变          |
-| 85. comfort       |             |
+| 85. comfort       | 舒适的         |
 | 86. reinforce     |             |
 | 87. fortune       |             |
 | 88. unfortunately |             |
