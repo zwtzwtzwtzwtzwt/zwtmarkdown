@@ -74,8 +74,8 @@
 | 70. survival      | 幸存的      |
 | 71. vital         | 重要的      |
 | 72. advocate      | 拥护       |
-| 73. voluntary     | 慈湖       |
-| 74. involve       |          |
+| 73. voluntary     | 词汇       |
+| 74. involve       | 包括       |
 | 75. volume        |          |
 | 76. revolution    |          |
 | 77. vulnerable    |          |
