@@ -25,11 +25,11 @@
 | 21. democracy     |             |
 | 22. epidemic      |             |
 | 23. indicate      | 指明  指示      |
-| 24. discipline    |             |
+| 24. discipline    | 约束          |
 | 25. condition     | 条件 状况       |
 | 26. diverse       | 多样的         |
-| 27. individual    |             |
-| 28. domestic      |             |
+| 27. individual    | 个人的         |
+| 28. domestic      | 明珠          |
 | 29. dominate      |             |
 | 30. dominant      |             |
 | 31. introduce     | 介绍  说明      |
