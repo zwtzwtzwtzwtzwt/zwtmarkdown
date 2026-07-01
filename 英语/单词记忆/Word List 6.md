@@ -8,7 +8,7 @@
 | 3. telescope       | 望远镜       |
 | 4. description     | 描述        |
 | 5. segment         | 部分        |
-| 6. section         |           |
+| 6. section         | 部分 部门     |
 | 7. assemble        |           |
 | 8. senior          |           |
 | 9. present         |           |
