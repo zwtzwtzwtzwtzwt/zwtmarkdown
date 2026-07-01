@@ -6,8 +6,8 @@
 | ---------------- | --------------- |
 | 1. advance       | 促进 进步  推动 前景 提前 |
 | 2. advanced      | 先进的  预先的        |
-| 3. agent         |                 |
-| 4. react         |                 |
+| 3. agent         | 代理人             |
+| 4. react         | 反应              |
 | 5. actual        |                 |
 | 6. interact      |                 |
 | 7. exact         |                 |
