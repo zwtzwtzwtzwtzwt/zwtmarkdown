@@ -32,7 +32,7 @@
 | 28. notion       | 公告      |
 | 29. ignore       | 忽视      |
 | 30. announce     | 宣告      |
-| 31. innovation   |         |
+| 31. innovation   | 创新      |
 | 32. nuclear      |         |
 | 33. obesity      |         |
 | 34. obscure      |         |
