@@ -6,7 +6,7 @@
 | 2. admit         | 承认      |
 | 3. commit        | 提交      |
 | 4. compromise    |         |
-| 5. admission     |         |
+| 5. admission     | 承认      |
 | 6. dismiss       |         |
 | 7. permission    |         |
 | 8. committee     |         |
