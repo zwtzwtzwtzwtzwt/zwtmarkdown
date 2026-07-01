@@ -13,10 +13,10 @@
 | 9. destroy                                | 毁坏 摧毁  |
 | 10. digital                               | 数字的    |
 | 11. dioxide                               | 氧化物    |
-| 12. disorder                              |        |
+| 12. <font color="#00b050">disorder</font> |        |
 | 13. display                               | 展示     |
-| 14. dispute                               | 争论     |
-| 15. distant                               | 演员的    |
+| 14. <font color="#00b050">dispute</font>  | 争论     |
+| 15. distant                               |        |
 | 16. district                              | 限制     |
 | 17. divorce                               | 离婚     |
 | 18. double                                | 双重     |
