@@ -61,7 +61,7 @@
 | 57. eliminate      |            |
 | 58. literature     |            |
 | 59. literary       |            |
-| 60. locate         |            |
+| 60. locate         | 位于         |
 | 61. location       |            |
 | 62. logical        |            |
 | 63. reluctant      |            |
