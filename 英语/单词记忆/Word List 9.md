@@ -78,8 +78,8 @@
 | 74. column         | 列      |
 | 75. command        | 命令     |
 | 76. competitive    |        |
-| 77. constant       |        |
-| 78. context        |        |
+| 77. constant       | 短暂的    |
+| 78. context        | 文本     |
 | 79. continent      |        |
 | 80. convey         |        |
 | 81. cope           |        |
