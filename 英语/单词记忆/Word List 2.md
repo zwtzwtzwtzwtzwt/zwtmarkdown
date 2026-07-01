@@ -27,7 +27,7 @@
 | 23. indicate      | 指明  指示      |
 | 24. discipline    |             |
 | 25. condition     | 条件 状况       |
-| 26. diverse       |             |
+| 26. diverse       | 多样的         |
 | 27. individual    |             |
 | 28. domestic      |             |
 | 29. dominate      |             |
