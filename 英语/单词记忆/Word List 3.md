@@ -6,9 +6,9 @@
 | 2. general         | 寻常的 |
 | 3. generation      | 一代  |
 | 4. generate        | 产生  |
-| 5. govern          |     |
-| 6. government      |     |
-| 7. gradual         |     |
+| 5. govern          | 管理  |
+| 6. government      | 政府  |
+| 7. gradual         | 逐渐的 |
 | 8. progress        |     |
 | 9. aggressive      |     |
 | 10. degree         |     |
