@@ -29,8 +29,8 @@
 | 25. composition   |         |
 | 26. positive      | 积极的     |
 | 27. opposite      | 对立的     |
-| 28. possibility   |         |
-| 29. possess       |         |
+| 28. possibility   | 可能性     |
+| 29. possess       | 拥有      |
 | 30. potential     |         |
 | 31. practical     |         |
 | 32. appreciate    |         |
