@@ -45,15 +45,15 @@
 | 41. ordinary                                 | 寻常的       |
 | 42. organize                                 | 组织        |
 | 43. organization                             | 组织        |
-| 44. origin                                   | 开始的 起初的   |
-| 45. originate                                | 起源于       |
-| 46. impact                                   | 有影响的      |
+| 44. <font color="#00b050">origin</font>      | 开始的 起初的   |
+| 45. <font color="#00b050">originate</font>   | 起源于       |
+| 46. <font color="#00b050">impact</font>      | 有影响的      |
 | 47. expand                                   | 扩展  扩大    |
 | 48. particular                               | 特定的       |
 | 49. partly                                   | 部分的       |
-| 50. counterpart                              |           |
+| 50. <font color="#00b050">counterpart</font> |           |
 | 51. departure                                | 离开        |
-| 52. proportion                               | 份额        |
+| 52. <font color="#00b050">proportion</font>  | 份额        |
 | 53. participate                              | 参与        |
 | 54. support                                  | 支持        |
 | 55. import                                   | 进口        |
