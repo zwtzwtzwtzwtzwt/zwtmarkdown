@@ -61,10 +61,10 @@
 | 56. stable         | 稳定的       |
 | 57. establish      | 创建        |
 | 58. status         | 状态 地位     |
-| 59. statement      | 申明        |
+| 59. statement      | 声明        |
 | 60. station        |           |
-| 61. consist        |           |
-| 62. assistant      |           |
+| 61. consist        | 包含        |
+| 62. assistant      | 助手        |
 | 63. assist         |           |
 | 64. resistance     |           |
 | 65. circumstance   |           |
