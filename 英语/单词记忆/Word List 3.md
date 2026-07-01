@@ -55,9 +55,9 @@
 | 51. illegal        |            |
 | 52. legislation    |            |
 | 53. liberal        |            |
-| 54. license        |            |
-| 55. limit          |            |
-| 56. limited        |            |
+| 54. license        | 证书         |
+| 55. limit          | 限制         |
+| 56. limited        | 限制的        |
 | 57. eliminate      |            |
 | 58. literature     |            |
 | 59. literary       |            |
