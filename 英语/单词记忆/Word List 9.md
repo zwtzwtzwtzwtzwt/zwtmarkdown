@@ -36,7 +36,7 @@
 | 32. attend         | 参加    |
 | 33. authority      |       |
 | 34. automatic      | 自动的   |
-| 35. award          |       |
+| 35. award          | 回报    |
 | 36. barely         |       |
 | 37. bay            |       |
 | 38. bear           |       |
