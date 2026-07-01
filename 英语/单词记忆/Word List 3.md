@@ -89,5 +89,5 @@
 | 85. immigrant      | 移民的        |
 | 86. military       | 军事的        |
 | 87. diminish       |            |
-| 88. minimum        |            |
+| 88. minimum        | 最小的        |
 | 89. administration |            |
