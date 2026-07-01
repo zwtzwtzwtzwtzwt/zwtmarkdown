@@ -34,8 +34,8 @@
 | 30. potential     | 潜在的     |
 | 31. practical     | 实际的     |
 | 32. appreciate    |         |
-| 33. praise        |         |
-| 34. comprehension |         |
+| 33. praise        | 表扬      |
+| 34. comprehension | 理解力     |
 | 35. comprehensive |         |
 | 36. expression    |         |
 | 37. principle     |         |
