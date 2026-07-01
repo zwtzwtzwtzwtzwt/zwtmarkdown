@@ -58,8 +58,8 @@
 | 54. verbal        | 口头的      |
 | 55. universe      | 大学       |
 | 56. universal     |          |
-| 57. version       |          |
-| 58. controversy   |          |
+| 57. version       | 版本       |
+| 58. controversy   | 矛盾       |
 | 59. controversial |          |
 | 60. reverse       |          |
 | 61. invest        |          |
