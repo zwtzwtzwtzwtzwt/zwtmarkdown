@@ -60,10 +60,10 @@
 | 56. federal        | 联邦     |
 | 57. finance        | 财政     |
 | 58. finding        | 发现     |
-| 59. former         |        |
-| 60. forth          |        |
-| 61. foster         |        |
-| 62. foundation     |        |
+| 59. former         | 之前的    |
+| 60. forth          | 北方     |
+| 61. foster         | 培育     |
+| 62. foundation     | 基础设置   |
 | 63. frame          |        |
 | 64. fulfil         |        |
 | 65. generous       |        |
