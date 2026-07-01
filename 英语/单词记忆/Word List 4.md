@@ -11,8 +11,8 @@
 | 7. permission    | 批准 允许   |
 | 8. committee     | 委员会     |
 | 9. mission       | 使命 任务   |
-| 10. commission   |         |
-| 11. mode         |         |
+| 10. commission   | 委员会     |
+| 11. mode         | 模式      |
 | 12. commodity    |         |
 | 13. monitor      |         |
 | 14. demonstrate  |         |
