@@ -70,7 +70,7 @@
 | 66. region        | 宗教      |
 | 67. regular       | 频繁的 经常的 |
 | 68. regulate      | 管理  监管  |
-| 69. regulation    |         |
+| 69. regulation    | 政策      |
 | 70. render        |         |
 | 71. derive        |         |
 | 72. satisfy       |         |
