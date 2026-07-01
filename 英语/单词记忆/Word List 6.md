@@ -43,9 +43,9 @@
 | 38. philosophy     | 哲学        |
 | 39. philosopher    | 哲学家       |
 | 40. absorb         | 吸收        |
-| 41. prospect       |           |
+| 41. prospect       | 角度        |
 | 42. perspective    |           |
-| 43. suspect        |           |
+| 43. suspect        | 怀疑        |
 | 44. specific       |           |
 | 45. specialist     |           |
 | 46. desperate      |           |
