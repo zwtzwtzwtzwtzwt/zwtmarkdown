@@ -40,9 +40,9 @@
 | 35. association    | 联系        |
 | 36. resolve        | 解决        |
 | 37. solution       | 解决        |
-| 38. philosophy     |           |
-| 39. philosopher    |           |
-| 40. absorb         |           |
+| 38. philosophy     | 哲学        |
+| 39. philosopher    | 哲学家       |
+| 40. absorb         | 吸收        |
 | 41. prospect       |           |
 | 42. perspective    |           |
 | 43. suspect        |           |
