@@ -85,8 +85,8 @@
 | 79. encounter    | 遭遇              |
 | 80. discover     | 发现              |
 | 81. discovery    | 发现              |
-| 82. recovery     |                 |
-| 83. decrease     |                 |
+| 82. recovery     | 覆盖              |
+| 83. decrease     | 下降              |
 | 84. creative     |                 |
 | 85. creature     |                 |
 | 86. criminal     |                 |
