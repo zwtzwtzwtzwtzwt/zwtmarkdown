@@ -21,7 +21,7 @@
 | 15. anxiety      | 焦虑   渴望         |
 | 16. anxious      | 焦虑的             |
 | 17. adapt        | 适应              |
-| 18. automation   |                 |
+| 18. automation   | 自动              |
 | 19. abandon      |                 |
 | 20. debate       |                 |
 | 21. battle       |                 |
