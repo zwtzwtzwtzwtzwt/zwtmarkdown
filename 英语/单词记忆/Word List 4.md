@@ -14,8 +14,8 @@
 | 10. commission   | 委员会     |
 | 11. mode         | 模式      |
 | 12. commodity    |         |
-| 13. monitor      |         |
-| 14. demonstrate  |         |
+| 13. monitor      | 监管      |
+| 14. demonstrate  | 拥护      |
 | 15. promote      |         |
 | 16. motor        |         |
 | 17. remove       |         |
