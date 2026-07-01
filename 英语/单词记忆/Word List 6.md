@@ -30,10 +30,10 @@
 | 25. observation    |           |
 | 26. deserve        |           |
 | 27. severe         | 严重的       |
-| 28. resident       |           |
-| 29. considerable   |           |
-| 30. design         |           |
-| 31. significant    |           |
+| 28. resident       | 总统        |
+| 29. considerable   | 大量的       |
+| 30. design         | 设计        |
+| 31. significant    | 重要的       |
 | 32. significance   |           |
 | 33. assign         |           |
 | 34. associate      |           |
