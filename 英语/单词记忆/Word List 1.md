@@ -73,11 +73,11 @@
 | 67. civil        |                 |
 | 68. civilization |                 |
 | 69. declare      | 声明 宣告           |
-| 70. classical    |                 |
-| 71. classify     |                 |
-| 72. client       |                 |
-| 73. decline      |                 |
-| 74. conclusion   |                 |
+| 70. classical    | 经典的             |
+| 71. classify     | 分类              |
+| 72. client       | 委托人             |
+| 73. decline      | 下降              |
+| 74. conclusion   | 总结              |
 | 75. conclude     |                 |
 | 76. contrary     |                 |
 | 77. corporation  |                 |
