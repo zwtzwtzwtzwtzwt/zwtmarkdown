@@ -32,7 +32,7 @@
 | 28. tolerance     | 容忍  |
 | 29. track         | 踪迹  |
 | 30. trace         | 踪迹  |
-| 31. trail         |     |
+| 31. trail         | 试验  |
 | 32. trait         |     |
 | 33. attractive    |     |
 | 34. contribute    |     |
