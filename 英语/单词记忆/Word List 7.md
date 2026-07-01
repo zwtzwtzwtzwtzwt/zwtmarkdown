@@ -8,12 +8,12 @@
 | 4. contain        |     |
 | 5. sustain        | 维持  |
 | 6. content        | 内容  |
-| 7. obtain         |     |
+| 7. obtain         | 获得  |
 | 8. retain         |     |
-| 9. technology     |     |
-| 10. technical     |     |
-| 11. technique     |     |
-| 12. detect        |     |
+| 9. technology     | 科技  |
+| 10. technical     | 科技的 |
+| 11. technique     | 技巧  |
+| 12. detect        | 发现  |
 | 13. temperature   |     |
 | 14. temporary     |     |
 | 15. attempt       |     |
