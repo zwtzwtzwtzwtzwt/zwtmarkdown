@@ -58,8 +58,8 @@
 | 54. burden         | 压力    |
 | 55. butterfly      | 蝴蝶    |
 | 56. campaign       |       |
-| 57. cancel         |       |
-| 58. careful        |       |
+| 57. cancel         | 取消    |
+| 58. careful        | 关心的   |
 | 59. category       |       |
 | 60. ceremony       |       |
 | 61. chain          |       |
