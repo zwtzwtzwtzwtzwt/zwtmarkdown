@@ -13,9 +13,9 @@
 | 9. apply          | 运用      |
 | 10. imply         | 暗示      |
 | 11. complex       | 复杂的     |
-| 12. application   |         |
+| 12. application   | 运用  申请  |
 | 13. implication   |         |
-| 14. complicated   |         |
+| 14. complicated   | 复杂      |
 | 15. political     |         |
 | 16. politics      |         |
 | 17. politician    |         |
