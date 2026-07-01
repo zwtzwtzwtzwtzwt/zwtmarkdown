@@ -46,7 +46,7 @@
 | 42. privacy       | 隐私      |
 | 43. privilege     |         |
 | 44. deprive       |         |
-| 45. approach      |         |
+| 45. approach      | 方式 途径   |
 | 46. appropriate   |         |
 | 47. proper        |         |
 | 48. property      |         |
