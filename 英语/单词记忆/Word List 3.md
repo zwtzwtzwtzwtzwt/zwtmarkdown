@@ -41,12 +41,12 @@
 | 37. justify        |            |
 | 38. judgement      | 评判         |
 | 39. prejudice      | 歧视  偏见     |
-| 40. laboratory     |            |
+| 40. laboratory     | 劳动力        |
 | 41. collapse       | 坍塌         |
 | 42. select         | 选择         |
 | 43. selection      | 选择         |
-| 44. neglect        |            |
-| 45. collection     |            |
+| 44. neglect        | 忽视         |
+| 45. collection     | 手机         |
 | 46. collective     |            |
 | 47. lecture        |            |
 | 48. religion       |            |
