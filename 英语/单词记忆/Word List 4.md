@@ -56,8 +56,8 @@
 | 52. proportion   | 份额        |
 | 53. participate  | 参与        |
 | 54. support      | 支持        |
-| 55. import       |           |
-| 56. transport    |           |
+| 55. import       | 进口        |
+| 56. transport    | 交通工具      |
 | 57. patient      |           |
 | 58. sympathy     |           |
 | 59. passion      |           |
