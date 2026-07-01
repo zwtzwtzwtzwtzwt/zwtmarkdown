@@ -50,7 +50,7 @@
 | 46. ethic         | 道德的         |
 | 47. inevitable    | 不可避免的       |
 | 48. extreme       | 极端的         |
-| 49. surface       |             |
+| 49. surface       | 表面          |
 | 50. defence       |             |
 | 51. differ        |             |
 | 52. difference    |             |
