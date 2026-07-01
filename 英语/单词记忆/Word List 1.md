@@ -41,8 +41,8 @@
 | 35. perceive     | 接受              |
 | 36. celebrity    | 庆祝              |
 | 37. celebrate    | 庆祝              |
-| 38. accelerate   |                 |
-| 39. percentage   |                 |
+| 38. accelerate   | 加速              |
+| 39. percentage   | 百分比             |
 | 40. centre       |                 |
 | 41. central      |                 |
 | 42. concentrate  |                 |
