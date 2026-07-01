@@ -32,8 +32,8 @@
 | 28. domestic      |             |
 | 29. dominate      |             |
 | 30. dominant      |             |
-| 31. introduce     |             |
-| 32. introduction  |             |
+| 31. introduce     | 介绍  说明      |
+| 32. introduction  | 介绍 说明       |
 | 33. conduct       |             |
 | 34. productive    |             |
 | 35. productivity  |             |
