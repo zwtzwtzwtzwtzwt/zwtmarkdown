@@ -15,11 +15,11 @@
 | 11. complex       | 复杂的     |
 | 12. application   | 运用  申请  |
 | 13. implication   |         |
-| 14. complicated   | 复杂      |
-| 15. political     |         |
-| 16. politics      |         |
+| 14. complicated   | 复杂的     |
+| 15. political     | 政策的     |
+| 16. politics      | 政策      |
 | 17. politician    |         |
-| 18. monopoly      |         |
+| 18. monopoly      | 垄断      |
 | 19. suppose       |         |
 | 20. impose        |         |
 | 21. expose        |         |
