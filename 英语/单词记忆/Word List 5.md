@@ -37,9 +37,9 @@
 | 33. praise        | 表扬      |
 | 34. comprehension | 理解力     |
 | 35. comprehensive |         |
-| 36. expression    |         |
+| 36. expression    | 表达      |
 | 37. principle     |         |
-| 38. primary       |         |
+| 38. primary       | 主要的     |
 | 39. prior         |         |
 | 40. priority      |         |
 | 41. private       |         |
