@@ -8,8 +8,8 @@
 | 4. plastic        | 塑料的     |
 | 5. multiple       | 大量的     |
 | 6. pleasant       |         |
-| 7. explosion      |         |
-| 8. employment     |         |
+| 7. explosion      | 爆发      |
+| 8. employment     | 就业      |
 | 9. apply          |         |
 | 10. imply         |         |
 | 11. complex       |         |
