@@ -92,4 +92,4 @@
 | 88. unfortunately | 不幸的         |
 | 89. frequent      | 频繁的         |
 | 90. confront      | 在前的         |
-| 91. fundamental   |             |
+| 91. fundamental   | 基础的         |
