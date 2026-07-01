@@ -73,6 +73,6 @@
 | 69. regulation    | 政策      |
 | 70. render        | 导致      |
 | 71. derive        |         |
-| 72. satisfy       |         |
-| 73. satisfaction  |         |
-| 74. scale         |         |
+| 72. satisfy       | 使满意     |
+| 73. satisfaction  | 满意      |
+| 74. scale         | 规模      |
