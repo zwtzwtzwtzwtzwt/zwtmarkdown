@@ -33,10 +33,10 @@
 | 29. empty          | 空的    |
 | 30. endeavour      | 努力    |
 | 31. engage         | 参与    |
-| 32. engineer       |       |
+| 32. engineer       | 工程师   |
 | 33. engineering    |       |
-| 34. enhance        |       |
-| 35. entertainment  |       |
+| 34. enhance        | 提高    |
+| 35. entertainment  | 娱乐    |
 | 36. enthusiasm     |       |
 | 37. entire         |       |
 | 38. entrepreneur   |       |
