@@ -19,12 +19,12 @@
 | 15. distant        | 演员的   |
 | 16. district       | 限制    |
 | 17. divorce        | 离婚    |
-| 18. double         |       |
-| 19. doubt          |       |
-| 20. dozen          |       |
+| 18. double         | 双重    |
+| 19. doubt          | 怀疑    |
+| 20. dozen          | 一打    |
 | 21. draft          |       |
-| 22. drama          |       |
-| 23. dramatic       |       |
+| 22. drama          | 喜剧    |
+| 23. dramatic       | 喜剧    |
 | 24. earn           |       |
 | 25. ease           |       |
 | 26. elite          |       |
