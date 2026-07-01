@@ -64,19 +64,19 @@
 | 60. reverse                                    | 翻转       |
 | 61. invest                                     | 投资       |
 | 62. investment                                 | 投资       |
-| 63. <font color="#00b050">obvious</font>       | 明显       |
+| 63. <font color="#00b050">obvious</font>       | 明显的      |
 | 64. victim                                     | 受害者      |
 | 65. evidence                                   | 证据       |
-| 66. provision                                  |          |
-| 67. visual                                     | 虚拟的      |
+| 66. <font color="#00b050">provision</font>     |          |
+| 67. <font color="#00b050">visual</font>        | 虚拟的      |
 | 68. convince                                   | 确信       |
 | 69. virtue                                     | 美德       |
-| 70. survival                                   | 幸存的      |
+| 70. <font color="#00b050">survival</font>      | 幸存的      |
 | 71. vital                                      | 重要的      |
 | 72. advocate                                   | 拥护       |
-| 73. voluntary                                  | 词汇       |
+| 73. <font color="#00b050">voluntary</font>     | 词汇       |
 | 74. involve                                    | 包括       |
-| 75. volume                                     |          |
-| 76. revolution                                 | 进化       |
+| 75. <font color="#00b050">volume</font>        |          |
+| 76. <font color="#00b050">revolution</font>    | 进化       |
 | 77. vulnerable                                 |          |
 | 78. aware                                      | 意识到      |
