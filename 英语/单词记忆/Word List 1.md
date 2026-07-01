@@ -47,8 +47,8 @@
 | 41. central      | 中心              |
 | 42. concentrate  | 集中              |
 | 43. capacity     | 能力              |
-| 44. escape       |                 |
-| 45. participant  |                 |
+| 44. escape       | 逃离              |
+| 45. participant  | 参与              |
 | 46. capture      |                 |
 | 47. capable      |                 |
 | 48. accept       |                 |
