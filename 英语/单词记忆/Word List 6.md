@@ -57,8 +57,8 @@
 | 52. spouse         |           |
 | 53. substance      | 物质        |
 | 54. instance       | 例子        |
-| 55. distance       |           |
-| 56. stable         |           |
+| 55. distance       | 举例        |
+| 56. stable         | 稳定的       |
 | 57. establish      |           |
 | 58. status         |           |
 | 59. statement      |           |
