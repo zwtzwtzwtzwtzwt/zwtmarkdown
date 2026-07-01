@@ -63,8 +63,8 @@
 | 59. former         | 之前的    |
 | 60. forth          | 北方     |
 | 61. foster         | 培育     |
-| 62. foundation     | 基础设置   |
-| 63. frame          |        |
+| 62. foundation     | 基础设施   |
+| 63. frame          | 框架     |
 | 64. fulfil         |        |
 | 65. generous       |        |
 | 66. genius         |        |
