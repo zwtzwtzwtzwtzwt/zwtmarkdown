@@ -30,9 +30,9 @@
 | 26. elite          | 精英    |
 | 27. embrace        | 拥抱    |
 | 28. emphasis       | 强调    |
-| 29. empty          |       |
-| 30. endeavour      |       |
-| 31. engage         |       |
+| 29. empty          | 空的    |
+| 30. endeavour      | 努力    |
+| 31. engage         | 参与    |
 | 32. engineer       |       |
 | 33. engineering    |       |
 | 34. enhance        |       |
