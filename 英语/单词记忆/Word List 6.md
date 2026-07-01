@@ -5,9 +5,9 @@
 | ------------------ | --------- |
 | 1. scholar         | 奖学金       |
 | 2. conscious       | 有意识的  有益的 |
-| 3. telescope       |           |
-| 4. description     |           |
-| 5. segment         |           |
+| 3. telescope       | 望远镜       |
+| 4. description     | 描述        |
+| 5. segment         | 部分        |
 | 6. section         |           |
 | 7. assemble        |           |
 | 8. senior          |           |
