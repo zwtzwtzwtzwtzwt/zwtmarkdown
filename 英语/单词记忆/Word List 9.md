@@ -70,9 +70,9 @@
 | 66. characterize   |        |
 | 67. characteristic |        |
 | 68. charge         | 充电     |
-| 69. check          |        |
-| 70. cigarette      |        |
-| 71. circuit        |        |
+| 69. check          | 检查     |
+| 70. cigarette      | 香烟     |
+| 71. circuit        | 循环     |
 | 72. claim          |        |
 | 73. colleague      |        |
 | 74. column         |        |
