@@ -80,8 +80,8 @@
 | 75. storage        | 存储        |
 | 76. restrict       | 限制        |
 | 77. strain         |           |
-| 78. persuade       |           |
-| 79. consume        |           |
+| 78. persuade       | 劝说        |
+| 79. consume        | 消耗        |
 | 80. consumption    |           |
 | 81. summarize      |           |
 | 82. ensure         |           |
