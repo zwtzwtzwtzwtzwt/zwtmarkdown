@@ -44,9 +44,9 @@
 | 38. accelerate   | 加速              |
 | 39. percentage   | 百分比             |
 | 40. centre       |                 |
-| 41. central      |                 |
-| 42. concentrate  |                 |
-| 43. capacity     |                 |
+| 41. central      | 中心              |
+| 42. concentrate  | 集中              |
+| 43. capacity     | 能力              |
 | 44. escape       |                 |
 | 45. participant  |                 |
 | 46. capture      |                 |
