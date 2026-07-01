@@ -8,8 +8,8 @@
 | 2. advanced      | 先进的  预先的        |
 | 3. agent         | 代理人             |
 | 4. react         | 反应              |
-| 5. actual        |                 |
-| 6. interact      |                 |
+| 5. actual        | 实际的             |
+| 6. interact      | 交流              |
 | 7. exact         |                 |
 | 8. transaction   |                 |
 | 9. parallel      |                 |
