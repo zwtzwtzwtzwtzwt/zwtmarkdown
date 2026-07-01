@@ -62,7 +62,7 @@
 | 57. establish                                 | 创建        |
 | 58. status                                    | 状态 地位     |
 | 59. statement                                 | 声明        |
-| 60. station                                   |           |
+| 60. <font color="#00b050">station</font>      | 运动场  站台   |
 | 61. consist                                   | 包含        |
 | 62. assistant                                 | 助手        |
 | 63. assist                                    | 帮助        |
