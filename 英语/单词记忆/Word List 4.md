@@ -18,7 +18,7 @@
 | 14. demonstrate  | 拥护      |
 | 15. promote      | 推动  促进  |
 | 16. motor        | 摩托      |
-| 17. remove       |         |
+| 17. remove       | 移除      |
 | 18. amount       |         |
 | 19. prompt       |         |
 | 20. immune       |         |
