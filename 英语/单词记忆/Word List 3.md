@@ -17,7 +17,7 @@
 | 13. exhibit        | 展示         |
 | 14. exhibition     | 展示         |
 | 15. habitat        | 栖息地        |
-| 16. historical     |            |
+| 16. historical     | 历史的        |
 | 17. historian      |            |
 | 18. identify       |            |
 | 19. identity       |            |
