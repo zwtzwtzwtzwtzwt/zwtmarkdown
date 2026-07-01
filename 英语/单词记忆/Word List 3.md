@@ -51,16 +51,16 @@
 | 47. <font color="#00b050">lecture</font>      |            |
 | 48. <font color="#00b050">religion</font>     |            |
 | 49. <font color="#00b050">religious</font>    |            |
-| 50. legitimate                                | 法律的        |
-| 51. illegal                                   |            |
-| 52. legislation                               |            |
-| 53. liberal                                   |            |
+| 50. <font color="#00b050">legitimate</font>   | 法律的        |
+| 51. <font color="#00b050">illegal</font>      |            |
+| 52. <font color="#00b050">legislation</font>  |            |
+| 53. <font color="#00b050">liberal</font>      |            |
 | 54. license                                   | 证书         |
 | 55. limit                                     | 限制         |
 | 56. limited                                   | 限制的        |
-| 57. eliminate                                 |            |
-| 58. literature                                |            |
-| 59. literary                                  |            |
+| 57. <font color="#00b050">eliminate</font>    |            |
+| 58. <font color="#00b050">literature</font>   |            |
+| 59. <font color="#00b050">literary</font>     |            |
 | 60. locate                                    | 位于         |
 | 61. location                                  | 位置         |
 | 62. logical                                   | 有逻辑的       |
