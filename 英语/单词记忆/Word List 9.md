@@ -83,13 +83,13 @@
 | 79. <font color="#00b050">continent</font>      |         |
 | 80. <font color="#00b050">convey</font>         |         |
 | 81. cope                                        | 应对      |
-| 82. corporate                                   | 合作      |
+| 82. <font color="#00b050">corporate</font>      | 合作      |
 | 83. court                                       | 场地      |
 | 84. <font color="#00b050">craft</font>          |         |
 | 85. <font color="#00b050">crash</font>          |         |
 | 86. <font color="#00b050">credit</font>         | 信誉      |
-| 87. crop                                        |         |
-| 88. curb                                        | 捕捉      |
+| 87. <font color="#00b050">crop</font>           |         |
+| 88. <font color="#00b050">curb</font>           | 捕捉      |
 | 89. danger                                      | 危险      |
 | 90. dangerous                                   | 危险的     |
 | 91. dark                                        | 暗的      |
