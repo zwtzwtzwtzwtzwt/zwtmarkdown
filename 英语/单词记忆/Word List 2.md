@@ -10,9 +10,9 @@
 | 6. crude          | 粗鲁的         |
 | 7. cultivate      | 培育 培养       |
 | 8. cure           | 治疗 治愈       |
-| 9. security       | 安全感         |
-| 10. accuracy      |             |
-| 11. occur         |             |
+| 9. security       |             |
+| 10. accuracy      | 精确          |
+| 11. occur         | 出现          |
 | 12. current       |             |
 | 13. core          |             |
 | 14. discuss       |             |
