@@ -14,9 +14,9 @@
 | 8. transaction   | 交易              |
 | 9. parallel      | 平行的  平行线        |
 | 10. alter        |                 |
-| 11. alternative  | 可替代的            |
+| 11. alternative  | 可替代的 可选择的       |
 | 12. amateur      |                 |
-| 13. ancient      |                 |
+| 13. ancient      | 事故              |
 | 14. annual       |                 |
 | 15. anxiety      |                 |
 | 16. anxious      |                 |
