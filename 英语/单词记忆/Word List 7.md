@@ -6,8 +6,8 @@
 | 2. attack         | 攻击  |
 | 3. contact        |     |
 | 4. contain        |     |
-| 5. sustain        |     |
-| 6. content        |     |
+| 5. sustain        | 维持  |
+| 6. content        | 内容  |
 | 7. obtain         |     |
 | 8. retain         |     |
 | 9. technology     |     |
