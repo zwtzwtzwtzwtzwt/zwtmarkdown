@@ -11,10 +11,10 @@
 | 7. desirable       | 渴望的   |
 | 8. despite         | 即使    |
 | 9. destroy         | 毁坏 摧毁 |
-| 10. digital        |       |
-| 11. dioxide        |       |
+| 10. digital        | 数字的   |
+| 11. dioxide        | 氧化物   |
 | 12. disorder       |       |
-| 13. display        |       |
+| 13. display        | 展示    |
 | 14. dispute        |       |
 | 15. distant        |       |
 | 16. district       |       |
