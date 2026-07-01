@@ -76,7 +76,7 @@
 | 72. competition  | 比赛        |
 | 73. emphasize    | 强调        |
 | 74. phenomenon   | 现象        |
-| 75. photograph   |           |
+| 75. photograph   | 照片        |
 | 76. physics      |           |
 | 77. physical     |           |
 | 78. replace      |           |
