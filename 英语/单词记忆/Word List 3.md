@@ -84,8 +84,8 @@
 | 80. medicine       |            |
 | 81. comment        | 评论         |
 | 82. mental         |            |
-| 83. commercial     |            |
-| 84. emerge         |            |
+| 83. commercial     | 贸易的        |
+| 84. emerge         | 浮现         |
 | 85. immigrant      |            |
 | 86. military       |            |
 | 87. diminish       |            |
