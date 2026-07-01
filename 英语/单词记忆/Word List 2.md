@@ -44,7 +44,7 @@
 | 40. electricity   |             |
 | 41. electrical    |             |
 | 42. electronic    |             |
-| 43. equality      |             |
+| 43. equality      | 平等          |
 | 44. adequate      |             |
 | 45. estimate      |             |
 | 46. ethic         |             |
