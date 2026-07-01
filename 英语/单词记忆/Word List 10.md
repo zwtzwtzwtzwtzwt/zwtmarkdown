@@ -51,8 +51,8 @@
 | 47. exist          | 存在    |
 | 48. existence      | 存在    |
 | 49. expect         | 期望    |
-| 50. expectation    |       |
-| 51. external       |       |
+| 50. expectation    | 期望    |
+| 51. external       | 外部的   |
 | 52. fade           |       |
 | 53. fairly         |       |
 | 54. fake           |       |
