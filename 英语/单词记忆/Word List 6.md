@@ -63,20 +63,20 @@
 | 58. status                                    | 状态 地位     |
 | 59. statement                                 | 声明        |
 | 60. <font color="#00b050">station</font>      | 运动场  站台   |
-| 61. consist                                   | 包含        |
+| 61. <font color="#00b050">consist</font>      | 包含        |
 | 62. assistant                                 | 助手        |
 | 63. assist                                    | 帮助        |
 | 64. resistance                                | 抵抗        |
-| 65. circumstance                              |           |
-| 66. contrast                                  | 对比        |
-| 67. estate                                    |           |
-| 68. distinction                               |           |
+| 65. <font color="#00b050">circumstance</font> |           |
+| 66. <font color="#00b050">contrast</font>     | 对比        |
+| 67. <font color="#00b050">estate</font>       |           |
+| 68. <font color="#00b050">distinction</font>  |           |
 | 69. distinguish                               | 分辨        |
 | 70. stimulate                                 | 促进        |
-| 71. constitute                                |           |
-| 72. institute                                 |           |
-| 73. constitution                              |           |
-| 74. restore                                   |           |
+| 71. <font color="#00b050">constitute</font>   |           |
+| 72. <font color="#00b050">institute</font>    |           |
+| 73. <font color="#00b050">constitution</font> |           |
+| 74. <font color="#00b050">restore</font>      |           |
 | 75. storage                                   | 存储        |
 | 76. restrict                                  | 限制        |
 | 77. strain                                    |           |
