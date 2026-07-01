@@ -22,7 +22,7 @@
 | 18. <font color="#00b050">amount</font>      |           |
 | 19. <font color="#00b050">prompt</font>      |           |
 | 20. immune                                   | 免疫        |
-| 21. mysterious                               |           |
+| 21. mysterious                               | 神秘的       |
 | 22. natural                                  | 自然的 天然的   |
 | 23. connection                               | 联系        |
 | 24. nervous                                  | 神经        |
