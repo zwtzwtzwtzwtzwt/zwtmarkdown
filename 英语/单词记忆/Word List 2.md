@@ -53,7 +53,7 @@
 | 49. surface       | 表面          |
 | 50. defence       | 防御 抵御       |
 | 51. differ        | 不同          |
-| 52. difference    |             |
+| 52. difference    | 不同          |
 | 53. conference    |             |
 | 54. reference     |             |
 | 55. transfer      |             |
