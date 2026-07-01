@@ -43,18 +43,18 @@
 | 38. philosophy                                | 哲学        |
 | 39. philosopher                               | 哲学家       |
 | 40. absorb                                    | 吸收        |
-| 41. prospect                                  | 角度        |
-| 42. perspective                               |           |
+| 41. <font color="#00b050">prospect</font>     | 角度        |
+| 42. <font color="#00b050">perspective</font>  |           |
 | 43. suspect                                   | 怀疑        |
-| 44. specific                                  |           |
-| 45. specialist                                |           |
+| 44. <font color="#00b050">specific</font>     |           |
+| 45. <font color="#00b050">specialist</font>   |           |
 | 46. desperate                                 | 失望的 绝望的   |
-| 47. prosperity                                |           |
+| 47. <font color="#00b050">prosperity</font>   |           |
 | 48. atmosphere                                | 气氛 大气     |
 | 49. response                                  | 回应        |
 | 50. responsible                               | 负责的       |
 | 51. sponsor                                   | 赞助商       |
-| 52. spouse                                    |           |
+| 52. <font color="#00b050">spouse</font>       |           |
 | 53. substance                                 | 物质        |
 | 54. instance                                  | 例子        |
 | 55. distance                                  | 举例        |
