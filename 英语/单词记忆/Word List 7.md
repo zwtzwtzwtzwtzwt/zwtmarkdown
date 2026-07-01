@@ -4,7 +4,7 @@
 | ---------------------------------------------- | -------- |
 | 1. attach                                      | 粘贴       |
 | 2. attack                                      | 攻击       |
-| 3. contact                                     | 合同       |
+| 3. <font color="#00b050">contact</font>        | 合同       |
 | 4. <font color="#00b050">contain</font>        |          |
 | 5. <font color="#00b050">sustain</font>        | 维持       |
 | 6. content                                     | 内容       |
