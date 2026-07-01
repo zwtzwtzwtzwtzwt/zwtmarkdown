@@ -59,8 +59,8 @@
 | 55. import       | 进口        |
 | 56. transport    | 交通工具      |
 | 57. patient      | 病人  耐心的   |
-| 58. sympathy     | 通行        |
-| 59. passion      |           |
+| 58. sympathy     | 同情        |
+| 59. passion      | 热情        |
 | 60. appeal       |           |
 | 61. impulse      |           |
 | 62. apparent     |           |
