@@ -10,7 +10,7 @@
 | 6. database       | 数据库  |
 | 7. elsewhere      | 所有位置 |
 | 8. feedback       | 返回   |
-| 9. furthermore    |      |
+| 9. furthermore    | 进一步  |
 | 10. highlight     |      |
 | 11. household     |      |
 | 12. meanwhile     |      |
