@@ -24,11 +24,11 @@
 | 20. impose        |         |
 | 21. expose        |         |
 | 22. propose       |         |
-| 23. proposal      | 提议      |
-| 24. position      |         |
+| 23. proposal      | 提议  提案  |
+| 24. position      | 位置  立场  |
 | 25. composition   |         |
-| 26. positive      |         |
-| 27. opposite      |         |
+| 26. positive      | 积极的     |
+| 27. opposite      | 对立的     |
 | 28. possibility   |         |
 | 29. possess       |         |
 | 30. potential     |         |
