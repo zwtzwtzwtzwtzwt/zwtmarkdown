@@ -24,10 +24,10 @@
 | 18. automation   | 自动  自动化         |
 | 19. abandon      | 抛弃  丢弃          |
 | 20. debate       | 辩论              |
-| 21. battle       |                 |
-| 22. bias         |                 |
-| 23. combine      |                 |
-| 24. biology      |                 |
+| 21. battle       | 战斗              |
+| 22. bias         | 偏见              |
+| 23. combine      | 联系              |
+| 24. biology      | 生物              |
 | 25. neighborhood |                 |
 | 26. brief        |                 |
 | 27. cancer       |                 |
