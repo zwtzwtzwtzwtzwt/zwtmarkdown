@@ -8,8 +8,8 @@
 | 4. abuse           |     |
 | 5. academic        | 学术的 |
 | 6. accomplish      | 完成  |
-| 7. acknowledge     |     |
-| 8. activity        |     |
+| 7. acknowledge     | 承认  |
+| 8. activity        | 活动  |
 | 9. addition        |     |
 | 10. address        |     |
 | 11. advantage      |     |
