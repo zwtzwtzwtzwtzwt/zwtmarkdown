@@ -43,8 +43,8 @@
 | 39. equipment      | 装备    |
 | 40. evolve         | 包含    |
 | 41. evolution      | 进化    |
-| 42. examine        |       |
-| 43. examination    |       |
+| 42. examine        | 考核    |
+| 43. examination    | 考核 考试 |
 | 44. excessive      |       |
 | 45. exchange       |       |
 | 46. executive      |       |
