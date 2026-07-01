@@ -16,19 +16,19 @@
 | 12. <font color="#00b050">disorder</font> |        |
 | 13. display                               | 展示     |
 | 14. <font color="#00b050">dispute</font>  | 争论     |
-| 15. distant                               |        |
+| 15. distant                               | 遥远的    |
 | 16. district                              | 限制     |
 | 17. divorce                               | 离婚     |
 | 18. double                                | 双重     |
 | 19. doubt                                 | 怀疑     |
 | 20. dozen                                 | 一打     |
-| 21. draft                                 |        |
+| 21. <font color="#00b050">draft</font>    |        |
 | 22. drama                                 | 喜剧     |
 | 23. dramatic                              | 喜剧的    |
-| 24. earn                                  | 赢得     |
-| 25. ease                                  | 容易     |
+| 24. <font color="#00b050">earn</font>     | 赢得     |
+| 25. <font color="#00b050">ease</font>     | 容易     |
 | 26. elite                                 | 精英     |
-| 27. embrace                               | 拥抱     |
+| 27. <font color="#00b050">embrace</font>  | 拥抱     |
 | 28. emphasis                              | 强调     |
 | 29. empty                                 | 空的     |
 | 30. endeavour                             | 努力     |
