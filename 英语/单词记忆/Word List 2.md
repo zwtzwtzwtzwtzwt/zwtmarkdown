@@ -89,7 +89,7 @@
 | 85. comfort       | 舒适的         |
 | 86. reinforce     | 抵抗          |
 | 87. fortune       | 幸运          |
-| 88. unfortunately |             |
-| 89. frequent      |             |
+| 88. unfortunately | 不幸的         |
+| 89. frequent      | 平           |
 | 90. confront      |             |
 | 91. fundamental   |             |
