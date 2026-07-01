@@ -33,8 +33,8 @@
 | 29. ignore       | 忽视      |
 | 30. announce     | 宣告      |
 | 31. innovation   | 创新      |
-| 32. nuclear      |         |
-| 33. obesity      |         |
+| 32. nuclear      | 原子的     |
+| 33. obesity      | 肥胖      |
 | 34. obscure      |         |
 | 35. operation    |         |
 | 36. operate      |         |
