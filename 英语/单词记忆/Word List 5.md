@@ -39,8 +39,8 @@
 | 35. comprehensive                            | 理解      |
 | 36. expression                               | 表达      |
 | 37. <font color="#00b050">principle</font>   | 主要的     |
-| 38. primary                                  | 主要的     |
-| 39. prior                                    |         |
+| 38. <font color="#00b050">primary</font>     | 主要的     |
+| 39. <font color="#00b050">prior</font>       |         |
 | 40. priority                                 | 优先级     |
 | 41. private                                  | 私下的 隐私的 |
 | 42. privacy                                  | 隐私      |
