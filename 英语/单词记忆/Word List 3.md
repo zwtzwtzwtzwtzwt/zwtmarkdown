@@ -82,7 +82,7 @@
 | 78. medical        |            |
 | 79. immediate      | 立即的 马上的    |
 | 80. medicine       |            |
-| 81. comment        |            |
+| 81. comment        | 评论         |
 | 82. mental         |            |
 | 83. commercial     |            |
 | 84. emerge         |            |
