@@ -29,11 +29,11 @@
 | 25. arouse         | 激发    |
 | 26. aside          | 在一旁   |
 | 27. aspect         | 方面    |
-| 28. assess         |       |
+| 28. assess         | 评估    |
 | 29. asset          |       |
-| 30. assume         |       |
-| 31. assumption     |       |
-| 32. attend         |       |
+| 30. assume         | 假定    |
+| 31. assumption     | 假设    |
+| 32. attend         | 参加    |
 | 33. authority      |       |
 | 34. automatic      |       |
 | 35. award          |       |
