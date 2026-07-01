@@ -87,7 +87,7 @@
 | 83. court          | 场地      |
 | 84. craft          |         |
 | 85. crash          |         |
-| 86. credit         |         |
+| 86. credit         | 信誉      |
 | 87. crop           |         |
 | 88. curb           |         |
 | 89. danger         |         |
