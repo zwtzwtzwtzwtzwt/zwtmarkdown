@@ -24,8 +24,8 @@
 | 20. ancestor                               | 祖先 原型   |
 | 21. anticipate                             | 参与      |
 | 22. <font color="#00b050">appoint</font>   |         |
-| 23. argument                               |         |
-| 24. arise                                  |         |
+| 23. <font color="#00b050">argument</font>  |         |
+| 24. <font color="#00b050">arise</font>     | 上升      |
 | 25. arouse                                 | 激发      |
 | 26. aside                                  | 在一旁     |
 | 27. aspect                                 | 方面      |
