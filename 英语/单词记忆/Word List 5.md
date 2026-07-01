@@ -42,8 +42,8 @@
 | 38. primary       | 主要的     |
 | 39. prior         |         |
 | 40. priority      | 优先级     |
-| 41. private       |         |
-| 42. privacy       |         |
+| 41. private       | 私下的 隐私的 |
+| 42. privacy       | 隐私      |
 | 43. privilege     |         |
 | 44. deprive       |         |
 | 45. approach      |         |
