@@ -42,7 +42,7 @@
 | 38. judgement      | 评判         |
 | 39. prejudice      | 歧视  偏见     |
 | 40. laboratory     |            |
-| 41. collapse       |            |
+| 41. collapse       | 坍塌         |
 | 42. select         |            |
 | 43. selection      |            |
 | 44. neglect        |            |
