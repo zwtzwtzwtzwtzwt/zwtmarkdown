@@ -40,9 +40,9 @@
 | 36. enthusiasm     | 热情    |
 | 37. entire         | 整体的   |
 | 38. entrepreneur   | 企业    |
-| 39. equipment      |       |
-| 40. evolve         |       |
-| 41. evolution      |       |
+| 39. equipment      | 装备    |
+| 40. evolve         | 包含    |
+| 41. evolution      | 进化    |
 | 42. examine        |       |
 | 43. examination    |       |
 | 44. excessive      |       |
