@@ -89,4 +89,4 @@
 | 85. infant         |        |
 | 86. infrastructure |        |
 | 87. initiative     |        |
-| 88. insist         |        |
+| 88. insist         | 坚持     |
