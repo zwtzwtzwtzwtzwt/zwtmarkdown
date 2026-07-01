@@ -49,8 +49,8 @@
 | 45. approach      | 方式 途径   |
 | 46. appropriate   |         |
 | 47. proper        |         |
-| 48. property      |         |
-| 49. approval      |         |
+| 48. property      | 性质      |
+| 49. approval      | 同意      |
 | 50. psychology    |         |
 | 51. publication   |         |
 | 52. quantity      |         |
