@@ -45,7 +45,7 @@
 | 41. evolution                                | 进化     |
 | 42. examine                                  | 考核     |
 | 43. examination                              | 考核 考试  |
-| 44. excessive                                |        |
+| 44. <font color="#00b050">excessive</font>   |        |
 | 45. exchange                                 | 交换     |
 | 46. executive                                | 主管     |
 | 47. exist                                    | 存在     |
@@ -53,8 +53,8 @@
 | 49. expect                                   | 期望     |
 | 50. expectation                              | 期望     |
 | 51. external                                 | 外部的    |
-| 52. fade                                     |        |
-| 53. fairly                                   | 公平的    |
+| 52. <font color="#00b050">fade</font>        |        |
+| 53. <font color="#00b050">fairly</font>      | 公平的    |
 | 54. fake                                     | 假的 冒牌货 |
 | 55. feature                                  | 特征     |
 | 56. federal                                  | 联邦     |
