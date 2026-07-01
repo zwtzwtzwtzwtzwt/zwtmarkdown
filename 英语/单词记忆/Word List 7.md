@@ -78,5 +78,6 @@
 | 74. involve                                    | 包括       |
 | 75. <font color="#00b050">volume</font>        |          |
 | 76. <font color="#00b050">revolution</font>    | 进化       |
-| 77. vulnerable                                 |          |
-| 78. aware                                      | 意识到      |
+| 77. <font color="#00b050">vulnerable</font>    |          |
+| 78. aware                                      | 意识到  知道  |
+|                                                |          |
