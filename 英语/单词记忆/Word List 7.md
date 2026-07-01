@@ -26,19 +26,19 @@
 | 22. <font color="#00b050">contest</font>   | 比赛       |
 | 23. <font color="#00b050">theatre</font>   |          |
 | 24. theory                                 | 理论       |
-| 25. entitle                                |          |
+| 25. <font color="#00b050">entitle</font>   | 命名       |
 | 26. tolerate                               | 容忍       |
 | 27. tolerant                               | 容忍的      |
 | 28. tolerance                              | 容忍       |
 | 29. track                                  | 踪迹       |
-| 30. trace                                  | 踪迹       |
-| 31. trail                                  | 试验       |
-| 32. trait                                  |          |
+| 30. <font color="#00b050">trace</font>     | 踪迹       |
+| 31. <font color="#00b050">trail</font>     | 试验       |
+| 32. <font color="#00b050">trait</font>     |          |
 | 33. attractive                             | 有吸引力的    |
 | 34. contribute                             | 贡献       |
 | 35. contribution                           | 贡献       |
 | 36. attribute                              | 归结于      |
-| 37. triumph                                |          |
+| 37. <font color="#00b050">triumph</font>   |          |
 | 38. typical                                | 典型的      |
 | 39. union                                  | 联合       |
 | 40. unique                                 | 不同的      |
