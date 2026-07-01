@@ -48,11 +48,11 @@
 | 44. origin       | 开始的 起初的   |
 | 45. originate    | 起源于       |
 | 46. impact       | 有影响的      |
-| 47. expand       |           |
-| 48. particular   |           |
-| 49. partly       |           |
+| 47. expand       | 扩展  扩大    |
+| 48. particular   | 特定的       |
+| 49. partly       | 部分的       |
 | 50. counterpart  |           |
-| 51. departure    |           |
+| 51. departure    | 离开        |
 | 52. proportion   |           |
 | 53. participate  |           |
 | 54. support      |           |
