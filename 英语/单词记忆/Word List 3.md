@@ -26,7 +26,7 @@
 | 22. imitate        | 模仿         |
 | 23. insect         | 昆虫         |
 | 24. intelligent    | 明智的        |
-| 25. intelligence   |            |
+| 25. intelligence   | 智力         |
 | 26. intellectual   |            |
 | 27. internal       |            |
 | 28. interior       |            |
