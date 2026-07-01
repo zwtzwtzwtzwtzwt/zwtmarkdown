@@ -42,8 +42,8 @@
 | 38. typical       | 典型的   |
 | 39. union         | 联合    |
 | 40. unique        | 不同的   |
-| 41. urban         |       |
-| 42. urgent        |       |
+| 41. urban         | 急迫的   |
+| 42. urgent        | 急迫的   |
 | 43. urge          |       |
 | 44. unusual       |       |
 | 45. valuable      |       |
