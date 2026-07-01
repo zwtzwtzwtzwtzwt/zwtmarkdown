@@ -21,8 +21,8 @@
 | 17. output        | 输出    |
 | 18. overall       | 整体    |
 | 19. overlook      | 俯瞰    |
-| 20. ownership     |       |
-| 21. platform      |       |
+| 20. ownership     | 所以权   |
+| 21. platform      | 平台    |
 | 22. so-called     |       |
 | 23. software      |       |
 | 24. somewhat      |       |
