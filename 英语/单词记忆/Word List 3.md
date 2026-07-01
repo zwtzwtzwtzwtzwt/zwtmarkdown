@@ -18,9 +18,9 @@
 | 14. exhibition     | 展示         |
 | 15. habitat        | 栖息地        |
 | 16. historical     | 历史的        |
-| 17. historian      |            |
-| 18. identify       |            |
-| 19. identity       |            |
+| 17. historian      | 历史学家       |
+| 18. identify       | 分辨         |
+| 19. identity       | 分辨 身份      |
 | 20. imagine        |            |
 | 21. imagination    |            |
 | 22. imitate        |            |
