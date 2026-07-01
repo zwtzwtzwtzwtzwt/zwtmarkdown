@@ -1,96 +1,96 @@
 [英语单词1到30, p.34](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%209))  
 
-| 英文单词               | 0     |
-| ------------------ | ----- |
-| 1. ability         | 能力    |
-| 2. abroad          | 国外的   |
-| 3. absence         | 缺席    |
-| 4. abuse           |       |
-| 5. academic        | 学术的   |
-| 6. accomplish      | 完成    |
-| 7. acknowledge     | 承认    |
-| 8. activity        | 活动    |
-| 9. addition        |       |
-| 10. address        | 地址 解决 |
-| 11. advantage      | 优点 优势 |
-| 12. affair         | 事务    |
-| 13. afford         | 承担    |
-| 14. afraid         | 害怕    |
-| 15. agency         | 代办处   |
-| 16. ahead          | 向前    |
-| 17. alert          |       |
-| 18. alike          |       |
-| 19. ambition       | 决心    |
-| 20. ancestor       | 祖先 原型 |
-| 21. anticipate     | 参与    |
-| 22. appoint        |       |
-| 23. argument       |       |
-| 24. arise          |       |
-| 25. arouse         | 激发    |
-| 26. aside          | 在一旁   |
-| 27. aspect         | 方面    |
-| 28. assess         | 评估    |
-| 29. asset          |       |
-| 30. assume         | 假定    |
-| 31. assumption     | 假设    |
-| 32. attend         | 参加    |
-| 33. authority      |       |
-| 34. automatic      |       |
-| 35. award          |       |
-| 36. barely         |       |
-| 37. bay            |       |
-| 38. bear           |       |
-| 39. behalf         |       |
-| 40. behave         |       |
-| 41. beneath        |       |
-| 42. blame          |       |
-| 43. blank          |       |
-| 44. block          |       |
-| 45. boom           |       |
-| 46. boost          |       |
-| 47. bound          |       |
-| 48. bracket        |       |
-| 49. branch         |       |
-| 50. brand          |       |
-| 51. bright         |       |
-| 52. broad          |       |
-| 53. budget         |       |
-| 54. burden         |       |
-| 55. butterfly      |       |
-| 56. campaign       |       |
-| 57. cancel         |       |
-| 58. careful        |       |
-| 59. category       |       |
-| 60. ceremony       |       |
-| 61. chain          |       |
-| 62. challenge      |       |
-| 63. chance         |       |
-| 64. channel        |       |
-| 65. character      |       |
-| 66. characterize   |       |
-| 67. characteristic |       |
-| 68. charge         |       |
-| 69. check          |       |
-| 70. cigarette      |       |
-| 71. circuit        |       |
-| 72. claim          |       |
-| 73. colleague      |       |
-| 74. column         |       |
-| 75. command        |       |
-| 76. competitive    |       |
-| 77. constant       |       |
-| 78. context        |       |
-| 79. continent      |       |
-| 80. convey         |       |
-| 81. cope           |       |
-| 82. corporate      |       |
-| 83. court          |       |
-| 84. craft          |       |
-| 85. crash          |       |
-| 86. credit         |       |
-| 87. crop           |       |
-| 88. curb           |       |
-| 89. danger         |       |
-| 90. dangerous      |       |
-| 91. dark           |       |
-| 92. deal           |       |
+| 英文单词                                       | 0     |
+| ------------------------------------------ | ----- |
+| 1. ability                                 | 能力    |
+| 2. abroad                                  | 国外的   |
+| 3. absence                                 | 缺席    |
+| 4. abuse                                   |       |
+| 5. academic                                | 学术的   |
+| 6. accomplish                              | 完成    |
+| 7. acknowledge                             | 承认    |
+| 8. activity                                | 活动    |
+| 9. addition                                |       |
+| 10. address                                | 地址 解决 |
+| 11. advantage                              | 优点 优势 |
+| 12. affair                                 | 事务    |
+| 13. afford                                 | 承担    |
+| 14. afraid                                 | 害怕    |
+| 15. agency                                 | 代办处   |
+| 16. ahead                                  | 向前    |
+| 17. alert                                  |       |
+| 18. alike                                  |       |
+| 19. ambition                               | 决心    |
+| 20. ancestor                               | 祖先 原型 |
+| 21. anticipate                             | 参与    |
+| 22. appoint                                |       |
+| 23. argument                               |       |
+| 24. arise                                  |       |
+| 25. arouse                                 | 激发    |
+| 26. aside                                  | 在一旁   |
+| 27. aspect                                 | 方面    |
+| 28. assess                                 | 评估    |
+| 29. asset                                  |       |
+| 30. assume                                 | 假定    |
+| 31. assumption                             | 假设    |
+| 32. attend                                 | 参加    |
+| 33. <font color="#00b050">authority</font> | 作者    |
+| 34. automatic                              | 自动的   |
+| 35. award                                  |       |
+| 36. barely                                 |       |
+| 37. bay                                    |       |
+| 38. bear                                   |       |
+| 39. behalf                                 |       |
+| 40. behave                                 |       |
+| 41. beneath                                |       |
+| 42. blame                                  |       |
+| 43. blank                                  |       |
+| 44. block                                  |       |
+| 45. boom                                   |       |
+| 46. boost                                  |       |
+| 47. bound                                  |       |
+| 48. bracket                                |       |
+| 49. branch                                 |       |
+| 50. brand                                  |       |
+| 51. bright                                 |       |
+| 52. broad                                  |       |
+| 53. budget                                 |       |
+| 54. burden                                 |       |
+| 55. butterfly                              |       |
+| 56. campaign                               |       |
+| 57. cancel                                 |       |
+| 58. careful                                |       |
+| 59. category                               |       |
+| 60. ceremony                               |       |
+| 61. chain                                  |       |
+| 62. challenge                              |       |
+| 63. chance                                 |       |
+| 64. channel                                |       |
+| 65. character                              |       |
+| 66. characterize                           |       |
+| 67. characteristic                         |       |
+| 68. charge                                 |       |
+| 69. check                                  |       |
+| 70. cigarette                              |       |
+| 71. circuit                                |       |
+| 72. claim                                  |       |
+| 73. colleague                              |       |
+| 74. column                                 |       |
+| 75. command                                |       |
+| 76. competitive                            |       |
+| 77. constant                               |       |
+| 78. context                                |       |
+| 79. continent                              |       |
+| 80. convey                                 |       |
+| 81. cope                                   |       |
+| 82. corporate                              |       |
+| 83. court                                  |       |
+| 84. craft                                  |       |
+| 85. crash                                  |       |
+| 86. credit                                 |       |
+| 87. crop                                   |       |
+| 88. curb                                   |       |
+| 89. danger                                 |       |
+| 90. dangerous                              |       |
+| 91. dark                                   |       |
+| 92. deal                                   |       |
