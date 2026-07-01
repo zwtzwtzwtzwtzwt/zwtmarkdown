@@ -34,8 +34,8 @@
 | 29. considerable   | 大量的       |
 | 30. design         | 设计        |
 | 31. significant    | 重要的       |
-| 32. significance   |           |
-| 33. assign         |           |
+| 32. significance   | 重要性       |
+| 33. assign         | 分配        |
 | 34. associate      |           |
 | 35. association    |           |
 | 36. resolve        |           |
