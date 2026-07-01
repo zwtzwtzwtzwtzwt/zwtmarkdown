@@ -23,13 +23,13 @@
 | 19. <font color="#00b050">damage</font>     | 摧毁          |
 | 20. <font color="#00b050">democratic</font> |             |
 | 21. <font color="#00b050">democracy</font>  |             |
-| 22. epidemic                                |             |
+| 22. <font color="#00b050">epidemic</font>   |             |
 | 23. indicate                                | 指明  指示      |
-| 24. discipline                              | 约束          |
+| 24. <font color="#00b050">discipline</font> | 约束          |
 | 25. condition                               | 条件 状况       |
-| 26. diverse                                 | 多样的         |
+| 26. <font color="#00b050">diverse</font>    | 多样的         |
 | 27. individual                              | 个人的         |
-| 28. domestic                                | 民主的         |
+| 28. <font color="#00b050">domestic</font>   | 民主的         |
 | 29. dominate                                | 支配          |
 | 30. dominant                                | 首要的 支配的     |
 | 31. introduce                               | 介绍  说明      |
