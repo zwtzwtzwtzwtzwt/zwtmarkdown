@@ -32,7 +32,7 @@
 | 28. possibility   | 可能性     |
 | 29. possess       | 拥有      |
 | 30. potential     | 潜在的     |
-| 31. practical     |         |
+| 31. practical     | 实际的     |
 | 32. appreciate    |         |
 | 33. praise        |         |
 | 34. comprehension |         |
