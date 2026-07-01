@@ -83,8 +83,8 @@
 | 79. continent      |         |
 | 80. convey         |         |
 | 81. cope           | 应对      |
-| 82. corporate      |         |
-| 83. court          |         |
+| 82. corporate      | 合作      |
+| 83. court          | 场地      |
 | 84. craft          |         |
 | 85. crash          |         |
 | 86. credit         |         |
