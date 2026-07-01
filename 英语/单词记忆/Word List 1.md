@@ -16,7 +16,7 @@
 | 10. <font color="#00b050">alter</font>   |                 |
 | 11. alternative                          | 可替代的 可选择的       |
 | 12. <font color="#00b050">amateur</font> |                 |
-| 13. ancient                              | 事故              |
+| 13. <font color="#00b050">ancient</font> | 事故              |
 | 14. <font color="#00b050">annual</font>  |                 |
 | 15. anxiety                              | 焦虑   渴望         |
 | 16. anxious                              | 焦虑的             |
