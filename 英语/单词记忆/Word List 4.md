@@ -23,8 +23,8 @@
 | 19. prompt       |         |
 | 20. immune       | 免疫      |
 | 21. mysterious   |         |
-| 22. natural      |         |
-| 23. connection   |         |
+| 22. natural      | 自然的 天然的 |
+| 23. connection   | 联系      |
 | 24. nervous      |         |
 | 25. normal       |         |
 | 26. enormous     |         |
