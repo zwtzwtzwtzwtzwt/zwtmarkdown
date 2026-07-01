@@ -9,8 +9,8 @@
 | 5. crucial        | 残酷的 严酷的 严厉的 |
 | 6. crude          | 粗鲁的         |
 | 7. cultivate      | 培育 培养       |
-| 8. cure           | 治疗          |
-| 9. security       |             |
+| 8. cure           | 治疗 治愈       |
+| 9. security       | 安全感         |
 | 10. accuracy      |             |
 | 11. occur         |             |
 | 12. current       |             |
