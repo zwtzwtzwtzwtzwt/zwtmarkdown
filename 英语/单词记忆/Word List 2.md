@@ -24,7 +24,7 @@
 | 20. democratic    |             |
 | 21. democracy     |             |
 | 22. epidemic      |             |
-| 23. indicate      |             |
+| 23. indicate      | 指明  指示      |
 | 24. discipline    |             |
 | 25. condition     |             |
 | 26. diverse       |             |
