@@ -79,8 +79,8 @@
 | 73. decline      | 下降              |
 | 74. conclusion   | 总结              |
 | 75. conclude     | 包括              |
-| 76. contrary     |                 |
-| 77. corporation  |                 |
+| 76. contrary     | 矛盾              |
+| 77. corporation  | 公司 合作           |
 | 78. account      |                 |
 | 79. encounter    |                 |
 | 80. discover     |                 |
