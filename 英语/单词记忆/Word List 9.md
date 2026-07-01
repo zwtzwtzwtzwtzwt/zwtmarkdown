@@ -17,7 +17,7 @@
 | 13. afford         | 承担    |
 | 14. afraid         | 害怕    |
 | 15. agency         |       |
-| 16. ahead          |       |
+| 16. ahead          | 向前    |
 | 17. alert          |       |
 | 18. alike          |       |
 | 19. ambition       |       |
