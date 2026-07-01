@@ -24,13 +24,13 @@
 | 20. ownership     | 所以权   |
 | 21. platform      | 平台    |
 | 22. so-called     |       |
-| 23. software      |       |
+| 23. software      | 软件    |
 | 24. somewhat      |       |
 | 25. throughout    |       |
-| 26. underestimate |       |
-| 27. undergraduate |       |
-| 28. underline     |       |
+| 26. underestimate | 低估    |
+| 27. undergraduate | 毕业    |
+| 28. underline     | 划线    |
 | 29. undermine     |       |
 | 30. upgrade       |       |
-| 31. widespread    |       |
+| 31. widespread    | 传播    |
 | 32. worthwhile    |       |
