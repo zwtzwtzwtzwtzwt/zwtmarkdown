@@ -83,7 +83,7 @@
 | 79. fiction       | 小说          |
 | 80. inflation     |             |
 | 81. influential   |             |
-| 82. inform        |             |
+| 82. inform        | 表示 表明       |
 | 83. formation     |             |
 | 84. transform     | 转变          |
 | 85. comfort       | 舒适的         |
