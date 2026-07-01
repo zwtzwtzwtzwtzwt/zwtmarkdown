@@ -24,12 +24,12 @@
 | 19. series                                    | 一系列       |
 | 20. conservation                              | 保护        |
 | 21. <font color="#00b050">conservative</font> | 保护的       |
-| 22. preserve                                  | 值得        |
+| 22. <font color="#00b050">preserve</font>     | 值得        |
 | 23. reserve                                   | 预约 保护     |
 | 24. observe                                   | 遵守        |
-| 25. observation                               |           |
-| 26. deserve                                   |           |
-| 27. severe                                    | 严重的       |
+| 25. <font color="#00b050">observation</font>  |           |
+| 26. <font color="#00b050">deserve</font>      | 值得        |
+| 27. <font color="#00b050">severe</font>       | 严重的       |
 | 28. resident                                  | 总统        |
 | 29. considerable                              | 大量的       |
 | 30. design                                    | 设计        |
