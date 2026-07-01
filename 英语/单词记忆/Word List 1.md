@@ -28,9 +28,9 @@
 | 22. bias         | 偏见              |
 | 23. combine      | 联系              |
 | 24. biology      | 生物              |
-| 25. neighborhood |                 |
-| 26. brief        |                 |
-| 27. cancer       |                 |
+| 25. neighborhood | 社区              |
+| 26. brief        | 简明的             |
+| 27. cancer       | 癌症              |
 | 28. candidate    |                 |
 | 29. capital      |                 |
 | 30. carbon       |                 |
