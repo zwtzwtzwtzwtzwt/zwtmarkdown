@@ -30,18 +30,18 @@
 | 26. aside                                  | 在一旁     |
 | 27. aspect                                 | 方面      |
 | 28. assess                                 | 评估      |
-| 29. asset                                  |         |
+| 29. <font color="#00b050">asset</font>     |         |
 | 30. assume                                 | 假定      |
 | 31. assumption                             | 假设      |
 | 32. attend                                 | 参加      |
-| 33. authority                              |         |
+| 33. <font color="#00b050">authority</font> |         |
 | 34. automatic                              | 自动的     |
 | 35. award                                  | 回报      |
 | 36. barely                                 | 仅仅      |
 | 37. bay                                    | 海湾      |
 | 38. bear                                   | 忍受 熊    |
-| 39. behalf                                 | 行为      |
-| 40. behave                                 | 行为      |
+| 39. <font color="#00b050">behalf</font>    | 行为      |
+| 40. <font color="#00b050">behave</font>    | 行为      |
 | 41. beneath                                | 在什么下面   |
 | 42. blame                                  | 责怪      |
 | 43. blank                                  | 空白      |
