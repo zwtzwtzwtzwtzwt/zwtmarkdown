@@ -35,13 +35,13 @@
 | 31. trail         | 试验    |
 | 32. trait         |       |
 | 33. attractive    | 有吸引力的 |
-| 34. contribute    |       |
-| 35. contribution  |       |
-| 36. attribute     |       |
+| 34. contribute    | 贡献    |
+| 35. contribution  | 贡献    |
+| 36. attribute     | 归结于   |
 | 37. triumph       |       |
-| 38. typical       |       |
-| 39. union         |       |
-| 40. unique        |       |
+| 38. typical       | 典型的   |
+| 39. union         | 联合    |
+| 40. unique        | 不同的   |
 | 41. urban         |       |
 | 42. urgent        |       |
 | 43. urge          |       |
