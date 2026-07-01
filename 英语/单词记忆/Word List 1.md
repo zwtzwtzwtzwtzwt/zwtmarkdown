@@ -56,17 +56,17 @@
 | 50. exceptional  |                 |
 | 51. certain      |                 |
 | 52. procedure    |                 |
-| 53. access       |                 |
-| 54. necessary    |                 |
-| 55. necessity    |                 |
+| 53. access       | 评估              |
+| 54. necessary    | 必要的             |
+| 55. necessity    | 必要性             |
 | 56. recession    |                 |
-| 57. chart        |                 |
-| 58. chemical     |                 |
-| 59. accident     |                 |
-| 60. casual       |                 |
-| 61. decide       |                 |
-| 62. suicide      |                 |
-| 63. council      |                 |
+| 57. chart        | 章节              |
+| 58. chemical     | 化学的             |
+| 59. accident     | 事故              |
+| 60. casual       | 寻常的             |
+| 61. decide       | 决定              |
+| 62. suicide      | 自杀              |
+| 63. council      | 咨询              |
 | 64. citizen      |                 |
 | 65. cite         |                 |
 | 66. exciting     |                 |
