@@ -1,9 +1,9 @@
 [英语单词1到30, p.11](英语/英语单词1到30.pdf#search=考研词汇核心提取%20(Word%20List%203))  
 
-| 英文单词               | 1   |
+| 英文单词               | 0   |
 | ------------------ | --- |
 | 1. genetic         | 基因的 |
-| 2. general         |     |
+| 2. general         | 寻常的 |
 | 3. generation      |     |
 | 4. generate        |     |
 | 5. govern          |     |
