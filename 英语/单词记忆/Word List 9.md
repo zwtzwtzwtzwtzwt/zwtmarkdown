@@ -16,7 +16,7 @@
 | 12. affair         | 事务    |
 | 13. afford         | 承担    |
 | 14. afraid         | 害怕    |
-| 15. agency         |       |
+| 15. agency         | 代办处   |
 | 16. ahead          | 向前    |
 | 17. alert          |       |
 | 18. alike          |       |
