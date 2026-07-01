@@ -77,6 +77,6 @@
 | 73. voluntary     | 词汇       |
 | 74. involve       | 包括       |
 | 75. volume        |          |
-| 76. revolution    |          |
+| 76. revolution    | 进化       |
 | 77. vulnerable    |          |
 | 78. aware         |          |
