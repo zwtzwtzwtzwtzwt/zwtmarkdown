@@ -27,9 +27,9 @@
 | 23. theatre       |     |
 | 24. theory        | 理论  |
 | 25. entitle       |     |
-| 26. tolerate      |     |
-| 27. tolerant      |     |
-| 28. tolerance     |     |
+| 26. tolerate      | 容忍  |
+| 27. tolerant      | 容忍的 |
+| 28. tolerance     | 容忍  |
 | 29. track         |     |
 | 30. trace         |     |
 | 31. trail         |     |
