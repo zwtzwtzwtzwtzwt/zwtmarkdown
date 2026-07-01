@@ -26,7 +26,7 @@
 | 22. epidemic      |             |
 | 23. indicate      | 指明  指示      |
 | 24. discipline    |             |
-| 25. condition     |             |
+| 25. condition     | 条件 状况       |
 | 26. diverse       |             |
 | 27. individual    |             |
 | 28. domestic      |             |
