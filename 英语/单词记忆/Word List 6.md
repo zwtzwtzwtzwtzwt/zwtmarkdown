@@ -86,4 +86,4 @@
 | 81. summarize      | 总计        |
 | 82. ensure         | 确信        |
 | 83. insurance      | 投保        |
-| 84. assure         |           |
+| 84. assure         | 确信  保证    |
