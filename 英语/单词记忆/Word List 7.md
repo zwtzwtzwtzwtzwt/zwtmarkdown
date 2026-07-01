@@ -15,16 +15,16 @@
 | 11. <font color="#00b050">technique</font> | 技巧       |
 | 12. detect                                 | 发现       |
 | 13. temperature                            | 温度       |
-| 14. temporary                              | 暂时的      |
+| 14. <font color="#00b050">temporary</font> | 暂时的      |
 | 15. attempt                                | 尝试       |
 | 16. tendency                               | 趋势       |
 | 17. extend                                 | 扩大       |
 | 18. extent                                 | 程度       |
-| 19. extension                              |          |
-| 20. intense                                |          |
+| 19. <font color="#00b050">extension</font> |          |
+| 20. <font color="#00b050">intense</font>   |          |
 | 21. determine                              | 决定       |
-| 22. contest                                |          |
-| 23. theatre                                |          |
+| 22. <font color="#00b050">contest</font>   | 比赛       |
+| 23. <font color="#00b050">theatre</font>   |          |
 | 24. theory                                 | 理论       |
 | 25. entitle                                |          |
 | 26. tolerate                               | 容忍       |
