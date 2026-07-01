@@ -13,9 +13,9 @@
 | 9. security       |             |
 | 10. accuracy      | 精确          |
 | 11. occur         | 出现          |
-| 12. current       |             |
-| 13. core          |             |
-| 14. discuss       |             |
+| 12. current       | 当前的         |
+| 13. core          | 核心的         |
+| 14. discuss       | 讨论          |
 | 15. custom        |             |
 | 16. cycle         |             |
 | 17. debt          |             |
