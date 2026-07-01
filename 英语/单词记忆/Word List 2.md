@@ -7,9 +7,9 @@
 | 3. critical       | 批判的         |
 | 4. criticism      | 批判主义        |
 | 5. crucial        | 残酷的 严酷的 严厉的 |
-| 6. crude          | 触怒          |
-| 7. cultivate      |             |
-| 8. cure           |             |
+| 6. crude          | 粗鲁的         |
+| 7. cultivate      | 培育 培养       |
+| 8. cure           | 治疗          |
 | 9. security       |             |
 | 10. accuracy      |             |
 | 11. occur         |             |
