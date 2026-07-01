@@ -72,7 +72,7 @@
 | 68. maintain       | 保持         |
 | 69. management     | 管理         |
 | 70. majority       |            |
-| 71. demand         |            |
+| 71. demand         | 指令 命令      |
 | 72. remark         |            |
 | 73. remarkable     |            |
 | 74. master         |            |
