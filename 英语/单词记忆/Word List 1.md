@@ -69,10 +69,10 @@
 | 63. council      | 咨询              |
 | 64. citizen      | 居民              |
 | 65. cite         | 引用              |
-| 66. exciting     |                 |
+| 66. exciting     | 兴奋的             |
 | 67. civil        |                 |
 | 68. civilization |                 |
-| 69. declare      |                 |
+| 69. declare      | 声明 宣告           |
 | 70. classical    |                 |
 | 71. classify     |                 |
 | 72. client       |                 |
