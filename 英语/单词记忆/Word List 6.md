@@ -19,9 +19,9 @@
 | 14. consequence    | 结果        |
 | 15. consequently   | 总结的       |
 | 16. pursue         | 追求        |
-| 17. pursuit        |           |
-| 18. suitable       |           |
-| 19. series         |           |
+| 17. pursuit        | 追求        |
+| 18. suitable       | 合适的       |
+| 19. series         | 一系列       |
 | 20. conservation   |           |
 | 21. conservative   |           |
 | 22. preserve       |           |
