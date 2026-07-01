@@ -66,8 +66,8 @@
 | 62. range         | 范围      |
 | 63. arrange       | 安排      |
 | 64. reasonable    | 合理的     |
-| 65. directly      |         |
-| 66. region        |         |
+| 65. directly      | 直接的     |
+| 66. region        | 宗教      |
 | 67. regular       |         |
 | 68. regulate      |         |
 | 69. regulation    |         |
