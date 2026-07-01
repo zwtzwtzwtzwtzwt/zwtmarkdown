@@ -2,8 +2,8 @@
 
 | 英文单词              | 0   |
 | ----------------- | --- |
-| 1. attach         |     |
-| 2. attack         |     |
+| 1. attach         | 粘贴  |
+| 2. attack         | 攻击  |
 | 3. contact        |     |
 | 4. contain        |     |
 | 5. sustain        |     |
