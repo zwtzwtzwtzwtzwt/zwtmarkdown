@@ -24,9 +24,9 @@
 | 20. dozen          | 一打    |
 | 21. draft          |       |
 | 22. drama          | 喜剧    |
-| 23. dramatic       | 喜剧    |
-| 24. earn           |       |
-| 25. ease           |       |
+| 23. dramatic       | 喜剧的   |
+| 24. earn           | 赢得    |
+| 25. ease           | 容易    |
 | 26. elite          |       |
 | 27. embrace        |       |
 | 28. emphasis       |       |
