@@ -73,10 +73,10 @@
 | 69. management     | 管理         |
 | 70. majority       |            |
 | 71. demand         | 指令 命令      |
-| 72. remark         |            |
-| 73. remarkable     |            |
-| 74. master         |            |
-| 75. mechanism      |            |
+| 72. remark         | 评论         |
+| 73. remarkable     | 非凡的        |
+| 74. master         | 大师 精通      |
+| 75. mechanism      | 机器         |
 | 76. mechanical     |            |
 | 77. machinery      |            |
 | 78. medical        |            |
