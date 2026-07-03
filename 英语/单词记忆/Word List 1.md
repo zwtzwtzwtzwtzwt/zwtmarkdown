@@ -91,5 +91,3 @@
 | 85. creature                                  | 生物                   |
 | 86. <font color="#00b050">criminal</font>     | 犯罪的  （刑法的  罪犯）       |
 
-这个十四吗东西  
-可以了吗  
