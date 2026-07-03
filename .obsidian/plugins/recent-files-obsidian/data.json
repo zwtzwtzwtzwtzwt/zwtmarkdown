@@ -1,16 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "Word List 1",
+      "path": "英语/单词记忆/Word List 1.md"
+    },
+    {
+      "basename": "英语单词1到30",
+      "path": "英语/英语单词1到30.pdf"
+    },
+    {
+      "basename": "Word List 10",
+      "path": "英语/单词记忆/Word List 10.md"
+    },
+    {
+      "basename": "Word List 11",
+      "path": "英语/单词记忆/Word List 11.md"
+    },
+    {
+      "basename": "Word List 9",
+      "path": "英语/单词记忆/Word List 9.md"
+    },
+    {
+      "basename": "Word List 8",
+      "path": "英语/单词记忆/Word List 8.md"
+    },
+    {
+      "basename": "Word List 7",
+      "path": "英语/单词记忆/Word List 7.md"
+    },
+    {
+      "basename": "Word List 6",
+      "path": "英语/单词记忆/Word List 6.md"
+    },
+    {
+      "basename": "Word List 5",
+      "path": "英语/单词记忆/Word List 5.md"
+    },
+    {
+      "basename": "Word List 4",
+      "path": "英语/单词记忆/Word List 4.md"
+    },
+    {
+      "basename": "Word List 3",
+      "path": "英语/单词记忆/Word List 3.md"
+    },
+    {
+      "basename": "Word List 2",
+      "path": "英语/单词记忆/Word List 2.md"
+    },
+    {
+      "basename": "Word List 30",
+      "path": "英语/单词记忆/Word List 30.md"
+    },
+    {
+      "basename": "408笔记语雀",
+      "path": "408/408笔记语雀.md"
+    },
+    {
+      "basename": "408",
+      "path": "408/408.md"
+    },
+    {
+      "basename": "Word List 15",
+      "path": "英语/单词记忆/Word List 15.md"
+    },
+    {
+      "basename": "矩阵",
+      "path": "线性代数/矩阵/矩阵.md"
+    },
+    {
+      "basename": "计算方法",
+      "path": "线性代数/矩阵/计算方法.md"
+    },
+    {
+      "basename": "记忆内容",
+      "path": "线性代数/矩阵/记忆内容.md"
+    },
+    {
+      "basename": "指数的随意交换",
+      "path": "线性代数/矩阵/指数的随意交换.md"
+    },
+    {
+      "basename": "矩阵化为行最简矩阵",
+      "path": "线性代数/矩阵/矩阵化为行最简矩阵.md"
+    },
+    {
+      "basename": "秩的本质",
+      "path": "线性代数/矩阵/秩的本质.md"
+    },
+    {
+      "basename": "给矩阵增加一列，矩阵的秩要么不变，要么最多增加 1。",
+      "path": "线性代数/矩阵/给矩阵增加一列，矩阵的秩要么不变，要么最多增加 1。.md"
+    },
+    {
       "basename": "方阵行列式为0和不为0",
       "path": "线性代数/方阵行列式为0和不为0.md"
     },
     {
-      "basename": "要求为方阵的",
-      "path": "线性代数/要求为方阵的.md"
+      "basename": "几种不理解的结论的证明",
+      "path": "线性代数/几种不理解的结论的证明.md"
+    },
+    {
+      "basename": "单词记忆",
+      "path": "英语/单词记忆/单词记忆.md"
     },
     {
       "basename": "补充公式",
       "path": "线性代数/补充公式.md"
+    },
+    {
+      "basename": "高数基础模版",
+      "path": "模版/高数基础模版.md"
+    },
+    {
+      "basename": "线性代数",
+      "path": "线性代数/线性代数.md"
+    },
+    {
+      "basename": "要求为方阵的",
+      "path": "线性代数/要求为方阵的.md"
     },
     {
       "basename": "模版",
@@ -33,34 +141,6 @@
       "path": "英语/单词记忆/Word List 19.md"
     },
     {
-      "basename": "Word List 11",
-      "path": "英语/单词记忆/Word List 11.md"
-    },
-    {
-      "basename": "Word List 10",
-      "path": "英语/单词记忆/Word List 10.md"
-    },
-    {
-      "basename": "Word List 3",
-      "path": "英语/单词记忆/Word List 3.md"
-    },
-    {
-      "basename": "Word List 7",
-      "path": "英语/单词记忆/Word List 7.md"
-    },
-    {
-      "basename": "Word List 9",
-      "path": "英语/单词记忆/Word List 9.md"
-    },
-    {
-      "basename": "Word List 8",
-      "path": "英语/单词记忆/Word List 8.md"
-    },
-    {
-      "basename": "英语单词1到30",
-      "path": "英语/英语单词1到30.pdf"
-    },
-    {
       "basename": "Word List 27",
       "path": "英语/单词记忆/Word List 27.md"
     },
@@ -75,26 +155,6 @@
     {
       "basename": "Word List 12",
       "path": "英语/单词记忆/Word List 12.md"
-    },
-    {
-      "basename": "Word List 6",
-      "path": "英语/单词记忆/Word List 6.md"
-    },
-    {
-      "basename": "Word List 5",
-      "path": "英语/单词记忆/Word List 5.md"
-    },
-    {
-      "basename": "Word List 4",
-      "path": "英语/单词记忆/Word List 4.md"
-    },
-    {
-      "basename": "Word List 2",
-      "path": "英语/单词记忆/Word List 2.md"
-    },
-    {
-      "basename": "Word List 1",
-      "path": "英语/单词记忆/Word List 1.md"
     }
   ],
   "omittedPaths": [],
