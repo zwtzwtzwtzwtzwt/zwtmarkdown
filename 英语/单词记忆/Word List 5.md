@@ -39,7 +39,7 @@
 | 35. comprehension                              | 理解力               |
 | 36. <font color="#ff0000">comprehensive</font> | （全面的  详细的）        |
 | 37. expression                                 | 表达 （表情）           |
-| 38. <font color="#00b050">principle</font>     | 主要的               |
+| 38. <font color="#00b050">principle</font>     | （原则 ）             |
 | 39. <font color="#00b050">primary</font>       | 主要的               |
 | 40. <font color="#00b050">prior</font>         |                   |
 | 41. priority                                   | 优先级               |
