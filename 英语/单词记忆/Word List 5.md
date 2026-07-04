@@ -61,9 +61,9 @@
 | 57. request                                    | 请求（要求）                 |
 | 58. acquire                                    | 获得 得到                  |
 | 59. enquiry                                    | 询问 咨询（探究 调查）           |
-| 60. <font color="#00b050">acquisition</font>   | （收购   ）                |
+| 60. <font color="#00b050">acquisition</font>   | （收购   获得）              |
 | 61. quit                                       | 停止                     |
-| 62. <font color="#00b050">radical</font>       |                        |
+| 62. <font color="#00b050">radical</font>       | （彻底的  ）                |
 | 63. range                                      | 范围                     |
 | 64. arrange                                    | 安排                     |
 | 65. <font color="#00b050">reasonable</font>    | 合理的                    |
