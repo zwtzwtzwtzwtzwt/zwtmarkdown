@@ -32,7 +32,7 @@
 | 28. <font color="#00b050">opposite</font>    | 对立的（对面的  对立面 ）    |
 | 29. possibility                              | 可能性               |
 | 30. possess                                  | 拥有                |
-| 31. potential                                | 潜在的               |
+| 31. potential                                | 潜在的  （）           |
 | 32. <font color="#00b050">practical</font>   | 实际的               |
 | 33. <font color="#00b050">appreciate</font>  |                   |
 | 34. praise                                   | 表扬                |
