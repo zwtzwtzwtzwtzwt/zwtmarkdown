@@ -35,7 +35,7 @@
 | 31. potential                                | 潜在的  （潜力）         |
 | 32. <font color="#00b050">practical</font>   | 实际的  （实践的   实用的）  |
 | 33. <font color="#00b050">appreciate</font>  | （欣赏  重视  感激  意识到） |
-| 34. praise                                   | 表扬 （）             |
+| 34. praise                                   | 表扬 （称赞）           |
 | 35. comprehension                            | 理解力               |
 | 36. comprehensive                            | 理解                |
 | 37. expression                               | 表达                |
