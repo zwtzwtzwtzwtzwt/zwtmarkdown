@@ -4,7 +4,7 @@
 | 英文单词                                          | 0           |
 | --------------------------------------------- | ----------- |
 | 1. <font color="#ff0000">scholar</font>       | （学者 奖学金获得者） |
-| 2. conscious                                  | 有意识的  有意的   |
+| 2. conscious                                  | 有意识的  可以的   |
 | 3. telescope                                  | 望远镜         |
 | 4. description                                | 描述          |
 | 5. <font color="#00b050">segment</font>       | 部分          |
