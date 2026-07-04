@@ -65,7 +65,7 @@
 | 61. <font color="#00b050">impulse</font>                                 | （冲动   脉冲）         |         |
 | 62. apparent                                                             | 明显的               |         |
 | 63. separate                                                             | 分离  （不同的 区分）      |         |
-| 64. <font color="#00b050">comparison</font>                              | （对比    ）          |         |
+| 64. <font color="#00b050">comparison</font>                              | （对比    相比  比较）    |         |
 | 65. disappear                                                            | 消失                |         |
 | 66. appearance                                                           | 出现                |         |
 | 67. <font color="#00b050">peculiar</font>                                |                   |         |
