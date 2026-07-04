@@ -8,7 +8,7 @@
 | 3. telescope                                  | 望远镜 （使缩短）   |
 | 4. description                                | 描述（类型）      |
 | 5. <font color="#00b050">segment</font>       | 部分  （划分）    |
-| 6. <font color="#00b050">section</font>       | 部分 部门       |
+| 6. <font color="#00b050">section</font>       | 部分 （区域  ）   |
 | 7. <font color="#00b050">assemble</font>      |             |
 | 8. senior                                     | 初级的         |
 | 9. <font color="#00b050">present</font>       | 表现          |
