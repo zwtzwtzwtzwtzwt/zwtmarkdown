@@ -62,7 +62,7 @@
 | 58. sympathy                                                             | 同情                |         |
 | 59. passion                                                              | 热情                |         |
 | 60. <font color="#00b050">appeal</font>                                  | （上诉   呼吁   有吸引力）  |         |
-| 61. <font color="#00b050">impulse</font>                                 |                   |         |
+| 61. <font color="#00b050">impulse</font>                                 | （冲动   脉冲）         |         |
 | 62. apparent                                                             | 明显的               |         |
 | 63. separate                                                             | 分离                |         |
 | 64. <font color="#00b050">comparison</font>                              | 竞争                |         |
