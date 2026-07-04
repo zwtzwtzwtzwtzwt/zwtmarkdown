@@ -16,7 +16,7 @@
 | 11. represent                                 | 代表  （体现 象征）             |
 | 12. representative                            | 代表性的  （代议制的）            |
 | 13. <font color="#00b050">sensitive</font>    | （敏感的   过敏的   保密的   体贴的） |
-| 14. consequence                               | 结果                      |
+| 14. consequence                               | 结果  （后果 ）               |
 | 15. <font color="#00b050">consequently</font> | 总结的                     |
 | 16. <font color="#00b050">pursue</font>       | 追求                      |
 | 17. <font color="#00b050">pursuit</font>      | 追求                      |
