@@ -29,7 +29,7 @@
 | 25. normal                                                          | 普通的  （正常的 一般的）    |         |
 | 26. enormous                                                        | 巨大的               |         |
 | 27. <font color="#00b050">notice</font>                             | 提示                |         |
-| 28. <font color="#00b050">notion</font>                             | 公告                |         |
+| 28. <font color="#00b050">notion</font>                             | 概念                |         |
 | 29. ignore                                                          | 忽视                |         |
 | 30. announce                                                        | 宣告                |         |
 | 31. innovation                                                      | 创新                |         |
