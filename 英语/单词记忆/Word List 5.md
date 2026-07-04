@@ -64,8 +64,8 @@
 | 60. <font color="#00b050">acquisition</font>   | （收购   获得）              |
 | 61. quit                                       | 停止                     |
 | 62. <font color="#00b050">radical</font>       | （彻底的  根本的 激进的）         |
-| 63. range                                      | 范围   （）                |
-| 64. arrange                                    | 安排                     |
+| 63. range                                      | 范围   （一系列  种类）         |
+| 64. arrange                                    | 安排（整理）                 |
 | 65. <font color="#00b050">reasonable</font>    | 合理的                    |
 | 66. directly                                   | 直接的                    |
 | 67. <font color="#00b050">region</font>        | 宗教                     |
