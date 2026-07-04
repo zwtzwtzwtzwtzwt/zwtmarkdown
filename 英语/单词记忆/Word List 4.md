@@ -43,7 +43,7 @@
 | 39. adopt                                                                | 采用  收养            |         |
 | 40. <font color="#ff0000">optimistic                             </font> | （乐观的）             |         |
 | 41. ordinary                                                             | 寻常的  （普通的）        |         |
-| 42. organize                                                             | 组织                |         |
+| 42. organize                                                             | 组织   （整理）         |         |
 | 43. organization                                                         | 组织                |         |
 | 44. <font color="#00b050">origin</font>                                  | 开始的 起初的           |         |
 | 45. <font color="#00b050">originate</font>                               | 起源于               |         |
