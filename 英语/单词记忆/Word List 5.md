@@ -11,7 +11,7 @@
 | 7. <font color="#00b050">explosion</font>    | 爆发（爆炸  猛增）      |
 | 8. employment                                | 就业              |
 | 9. apply                                     | 运用 （应用  申请 请求）  |
-| 10. imply                                    | 暗示              |
+| 10. imply                                    | 暗示（表明  说明）      |
 | 11. complex                                  | 复杂的             |
 | 12. application                              | 运用  申请          |
 | 13. <font color="#00b050">implication</font> |                 |
