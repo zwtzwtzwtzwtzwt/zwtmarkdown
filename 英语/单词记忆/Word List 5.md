@@ -58,7 +58,7 @@
 | 54. quarter                                    | 1/4 的  （季度  团体）        |
 | 55. require                                    | 需要  需求（有赖于   要求）       |
 | 56. requirement                                | 要求  （需求  规定）           |
-| 57. request                                    | 请求                     |
+| 57. request                                    | 请求（要求）                 |
 | 58. acquire                                    | 获得 得到                  |
 | 59. enquiry                                    | 询问 咨询                  |
 | 60. <font color="#00b050">acquisition</font>   |                        |
