@@ -23,7 +23,7 @@
 | 18. suitable                                                               | 合适的                     |
 | 19. series                                                                 | 一系列  （系列节目）             |
 | 20. conservation                                                           | 保护   （节约）               |
-| 21. <font color="#00b050">conservative</font>                              | 保护的                     |
+| 21. <font color="#00b050">conservative</font>                              | （保守的  ）                 |
 | 22. <font color="#00b050">preserve</font>                                  | 值得                      |
 | 23. reserve                                                                | 预约 保护                   |
 | 24. observe                                                                | 遵守                      |
