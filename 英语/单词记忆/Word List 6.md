@@ -25,7 +25,7 @@
 | 20. conservation                                                           | 保护   （节约）               |
 | 21. <font color="#00b050">conservative</font>                              | （保守的  守旧（党）的）           |
 | 22. <font color="#00b050">preserve</font>                                  | 值得                      |
-| 23. reserve                                                                | 预约 保护                   |
+| 23. <font color="#00b050">reserve                             </font>      | 预约 保护                   |
 | 24. <font color="#ff0000">observe</font>                                   | 遵守                      |
 | 25. <font color="#00b050">observation</font>                               |                         |
 | 26. <font color="#00b050">deserve</font>                                   | 值得                      |
