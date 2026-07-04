@@ -54,8 +54,8 @@
 | 50. approval                                   | 同意（批准 通过）              |
 | 51. psychology                                 | 心理学                    |
 | 52. <font color="#00b050">publication</font>   | 发布（出版 发表  刊物）          |
-| 53. quantity                                   | 数量                     |
-| 54. quarter                                    | 1/4 的                  |
+| 53. quantity                                   | 数量  （大量）               |
+| 54. quarter                                    | 1/4 的  （）              |
 | 55. require                                    | 需要 需求                  |
 | 56. requirement                                | 要求  要求                 |
 | 57. request                                    | 请求                     |
