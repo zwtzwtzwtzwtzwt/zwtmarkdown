@@ -24,7 +24,7 @@
 | 20. <font color="#00b050">impose</font>      | （强加  强制实行  使接受） |
 | 21. expose                                   | 暴露（揭露  遭受 接触）   |
 | 22. exposure                                 | 暴露（接触 遭受 揭露）    |
-| 23. <font color="#00b050">propose</font>     |                 |
+| 23. <font color="#00b050">propose</font>     | （提出  建议 提议 打算 ） |
 | 24. proposal                                 | 提议  提案          |
 | 25. position                                 | 位置  立场          |
 | 26. <font color="#00b050">composition</font> |                 |
