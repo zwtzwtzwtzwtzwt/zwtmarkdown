@@ -17,8 +17,8 @@
 | 13. <font color="#00b050">implication</font> | （影响 含义）         |
 | 14. <font color="#00b050">complicated</font> | 复杂的             |
 | 15. <font color="#00b050">political</font>   | （政治的 政党的）       |
-| 16. <font color="#00b050">politics</font>    | （政治 ）           |
-| 17. <font color="#00b050">politician</font>  |                 |
+| 16. <font color="#00b050">politics</font>    | （政治）            |
+| 17. <font color="#00b050">politician</font>  | （政治家）           |
 | 18. monopoly                                 | 垄断              |
 | 19. suppose                                  | 假设              |
 | 20. <font color="#00b050">impose</font>      |                 |
