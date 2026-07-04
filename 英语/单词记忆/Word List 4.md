@@ -23,8 +23,8 @@
 | 19. <font color="#00b050">prompt</font>                             | （促使   迅速的）        |         |
 | 20. immune                                                          | 免疫  （免受）          |         |
 | 21. mysterious                                                      | 神秘的               |         |
-| 22. natural                                                         | 自然的 天然的 （）        |         |
-| 23. connection                                                      | 联系                |         |
+| 22. natural                                                         | 自然的 天然的 （天生的）     |         |
+| 23. connection                                                      | 联系 （）             |         |
 | 24. nervous                                                         | 神经                |         |
 | 25. normal                                                          | 普通的               |         |
 | 26. enormous                                                        | 巨大的               |         |
