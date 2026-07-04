@@ -60,8 +60,8 @@
 | 56. requirement                                | 要求  （需求  规定）           |
 | 57. request                                    | 请求（要求）                 |
 | 58. acquire                                    | 获得 得到                  |
-| 59. enquiry                                    | 询问 咨询（探究 ）             |
-| 60. <font color="#00b050">acquisition</font>   |                        |
+| 59. enquiry                                    | 询问 咨询（探究 调查）           |
+| 60. <font color="#00b050">acquisition</font>   | （收购   ）                |
 | 61. quit                                       | 停止                     |
 | 62. <font color="#00b050">radical</font>       |                        |
 | 63. range                                      | 范围                     |
