@@ -19,8 +19,8 @@
 | 14. consequence                                                            | 结果  （后果  影响）            |
 | 15. <font color="#00b050"><font color="#ff0000">consequently</font></font> | （因此）                    |
 | 16. <font color="#00b050">pursue</font>                                    | 追求  （追赶）                |
-| 17. <font color="#00b050">pursuit</font>                                   | 追求 （寻求 追赶  事业爱好）        |
-| 18. suitable                                                               | 合适的                     |
+| 17. <font color="#00b050">pursuit</font>                                   | 追求 （寻求 追赶  事业 爱好）       |
+| 18. suitable                                                               | 合适的   （）                |
 | 19. series                                                                 | 一系列                     |
 | 20. conservation                                                           | 保护                      |
 | 21. <font color="#00b050">conservative</font>                              | 保护的                     |
