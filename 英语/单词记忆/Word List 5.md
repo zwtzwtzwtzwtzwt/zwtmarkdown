@@ -50,7 +50,7 @@
 | 46. approach                                   | 方式 途径（对付  接近）          |
 | 47. <font color="#00b050">appropriate</font>   | （合适的   适当的   盗用）       |
 | 48. <font color="#00b050">proper</font>        | （恰当的 合适的）              |
-| 49. <font color="#00b050">property</font>      | 性质                     |
+| 49. <font color="#00b050">property</font>      | （财产  特性 房地产）           |
 | 50. approval                                   | 同意                     |
 | 51. psychology                                 | 心理学                    |
 | 52. <font color="#00b050">publication</font>   | 发布                     |
