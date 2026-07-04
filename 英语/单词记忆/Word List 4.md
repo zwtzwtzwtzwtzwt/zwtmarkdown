@@ -67,7 +67,7 @@
 | 63. separate                                                             | 分离  （不同的 区分）      |         |
 | 64. <font color="#00b050">comparison</font>                              | （对比    相比  比较）    |         |
 | 65. disappear                                                            | 消失                |         |
-| 66. appearance                                                           | 出现   （）           |         |
+| 66. appearance                                                           | 出现   （外貌）         |         |
 | 67. <font color="#00b050">peculiar</font>                                |                   |         |
 | 68. expense                                                              | 消费                |         |
 | 69. independent                                                          | 独立的               |         |
