@@ -6,8 +6,8 @@
 | 2. <font color="#00b050">explanation</font>  | 解释 说明           |
 | 3. plant                                     | 种植  发电厂  （植物）   |
 | 4. plastic                                   | 塑料的  （可塑的  信用卡） |
-| 5. multiple                                  | 大量的（多样的  ）      |
-| 6. pleasant                                  | 高兴的             |
+| 5. multiple                                  | 大量的（多样的  倍数）    |
+| 6. pleasant                                  | 高兴的 （愉快的 好的）    |
 | 7. <font color="#00b050">explosion</font>    | 爆发              |
 | 8. employment                                | 就业              |
 | 9. apply                                     | 运用              |
