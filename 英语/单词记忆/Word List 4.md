@@ -45,7 +45,7 @@
 | 41. ordinary                                                             | 寻常的  （普通的）        |         |
 | 42. organize                                                             | 组织   （整理）         |         |
 | 43. organization                                                         | 组织  （机构）          |         |
-| 44. <font color="#00b050">origin</font>                                  | （起源 ）             |         |
+| 44. <font color="#00b050">origin</font>                                  | （起源  出身）          |         |
 | 45. <font color="#00b050">originate</font>                               | 起源于               |         |
 | 46. <font color="#00b050">impact</font>                                  | 有影响的              |         |
 | 47. expand                                                               | 扩展  扩大            |         |
