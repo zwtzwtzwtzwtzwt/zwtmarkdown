@@ -15,7 +15,7 @@
 | 11. <font color="#00b050">mode</font>                              | 模式  （方法 方式）       |         |
 | 12. <font color="#00b050">commodity</font>                         | （商品）              |         |
 | 13. <font color="#00b050">monitor</font>                           | 监管 （监督   监视器 显示器） |         |
-| 14. <font color="#00b050"><font color="#ff0000">demonstrate</font> | 拥护                | </font> |
+| 14. <font color="#00b050"><font color="#ff0000">demonstrate</font> | （证明  表明）          | </font> |
 | 15. promote                                                        | 推动  促进            |         |
 | 16. motor                                                          | 摩托                |         |
 | 17. remove                                                         | 移除                |         |
