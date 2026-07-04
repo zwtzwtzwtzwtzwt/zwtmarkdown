@@ -25,7 +25,7 @@
 | 21. mysterious                                                      | 神秘的               |         |
 | 22. natural                                                         | 自然的 天然的 （天生的）     |         |
 | 23. connection                                                      | 联系 （连接）           |         |
-| 24. nervous                                                         | 神经                |         |
+| 24. <font color="#00b050">nervous</font>                            | 神经                |         |
 | 25. normal                                                          | 普通的               |         |
 | 26. enormous                                                        | 巨大的               |         |
 | 27. notice                                                          | 提示                |         |
