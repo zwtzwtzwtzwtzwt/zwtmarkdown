@@ -57,7 +57,7 @@
 | 53. quantity                                   | 数量  （大量）               |
 | 54. quarter                                    | 1/4 的  （季度  团体）        |
 | 55. require                                    | 需要 （有赖于   要求）          |
-| 56. requirement                                | 要求  要求                 |
+| 56. requirement                                | 要求  （）                 |
 | 57. request                                    | 请求                     |
 | 58. acquire                                    | 获得 得到                  |
 | 59. enquiry                                    | 询问 咨询                  |
