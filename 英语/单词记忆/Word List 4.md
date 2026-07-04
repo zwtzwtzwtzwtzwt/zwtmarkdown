@@ -12,8 +12,8 @@
 | 8. committee                                 | 委员会           |
 | 9. mission                                   | 使命 任务         |
 | 10. <font color="#00b050">commission</font>  | 委员会           |
-| 11. <font color="#00b050">mode</font>        | 模式            |
-| 12. <font color="#00b050">commodity</font>   |               |
+| 11. <font color="#00b050">mode</font>        | 模式  （方法 方式）   |
+| 12. <font color="#00b050">commodity</font>   | （商品）          |
 | 13. <font color="#00b050">monitor</font>     | 监管            |
 | 14. <font color="#00b050">demonstrate</font> | 拥护            |
 | 15. promote                                  | 推动  促进        |
