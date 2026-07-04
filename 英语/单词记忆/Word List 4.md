@@ -52,7 +52,7 @@
 | 48. particular                                                           | 特定的   （特殊的）       |         |
 | 49. partly                                                               | 部分的  （一定程度上）      |         |
 | 50. <font color="#00b050">counterpart</font>                             | （相当的人  对应的事务）     |         |
-| 51. departure                                                            | 离开                |         |
+| 51. departure                                                            | 离开 （辞职   ）        |         |
 | 52. <font color="#00b050">proportion</font>                              | 份额                |         |
 | 53. participate                                                          | 参与                |         |
 | 54. support                                                              | 支持                |         |
