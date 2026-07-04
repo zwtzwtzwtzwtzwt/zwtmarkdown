@@ -28,7 +28,7 @@
 | 24. <font color="#00b050">nervous</font>                            | 神经的  （焦虑的）        |         |
 | 25. normal                                                          | 普通的  （正常的 一般的）    |         |
 | 26. enormous                                                        | 巨大的               |         |
-| 27. notice                                                          | 提示                |         |
+| 27. <font color="#00b050">notice</font>                             | 提示                |         |
 | 28. <font color="#00b050">notion</font>                             | 公告                |         |
 | 29. ignore                                                          | 忽视                |         |
 | 30. announce                                                        | 宣告                |         |
