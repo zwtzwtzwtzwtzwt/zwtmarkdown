@@ -53,7 +53,7 @@
 | 49. <font color="#00b050">property</font>      | （财产  特性 房地产）           |
 | 50. approval                                   | 同意（批准 通过）              |
 | 51. psychology                                 | 心理学                    |
-| 52. <font color="#00b050">publication</font>   | 发布                     |
+| 52. <font color="#00b050">publication</font>   | 发布（出版 ）                |
 | 53. quantity                                   | 数量                     |
 | 54. quarter                                    | 1/4 的                  |
 | 55. require                                    | 需要 需求                  |
