@@ -19,8 +19,8 @@
 | 15. <font color="#00b050">political</font>   | （政治的 政党的）       |
 | 16. <font color="#00b050">politics</font>    | （政治）            |
 | 17. <font color="#00b050">politician</font>  | （政治家）           |
-| 18. monopoly                                 | 垄断              |
-| 19. suppose                                  | 假设              |
+| 18. monopoly                                 | 垄断  （垄断企业）      |
+| 19. suppose                                  | 假设  （）          |
 | 20. <font color="#00b050">impose</font>      |                 |
 | 21. expose                                   | 暴露              |
 | 22. <font color="#00b050">propose</font>     |                 |
