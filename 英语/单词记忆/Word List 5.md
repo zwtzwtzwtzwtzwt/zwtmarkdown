@@ -27,7 +27,7 @@
 | 23. <font color="#00b050">propose</font>     | （提出  建议 提议 打算 求婚） |
 | 24. proposal                                 | 提议  提案  （求婚）      |
 | 25. position                                 | 位置  立场（职位 地位）     |
-| 26. <font color="#00b050">composition</font> |                   |
+| 26. <font color="#00b050">composition</font> | （作品  构成   ）       |
 | 27. positive                                 | 积极的               |
 | 28. <font color="#00b050">opposite</font>    | 对立的               |
 | 29. possibility                              | 可能性               |
