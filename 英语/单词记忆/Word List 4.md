@@ -49,8 +49,8 @@
 | 45. <font color="#00b050">originate</font>                               | 起源于  （创立  发明）     |         |
 | 46. <font color="#00b050">impact</font>                                  | 有影响  （影响）         |         |
 | 47. expand                                                               | 扩展  扩大            |         |
-| 48. particular                                                           | 特定的               |         |
-| 49. partly                                                               | 部分的               |         |
+| 48. particular                                                           | 特定的   （特殊的）       |         |
+| 49. partly                                                               | 部分的  （）           |         |
 | 50. <font color="#00b050">counterpart</font>                             |                   |         |
 | 51. departure                                                            | 离开                |         |
 | 52. <font color="#00b050">proportion</font>                              | 份额                |         |
