@@ -76,7 +76,7 @@
 | 72. competition                                                          | 比赛                |         |
 | 73. emphasize                                                            | 强调                |         |
 | 74. phenomenon                                                           | 现象                |         |
-| 75. photograph                                                           | 照片                |         |
+| 75. photograph                                                           | 照片 （）             |         |
 | 76. <font color="#00b050">physics</font>                                 | 物理                |         |
 | 77. <font color="#00b050">physical</font>                                | 物理的               |         |
 | 78. replace                                                              | 代替                |         |
