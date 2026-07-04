@@ -12,7 +12,7 @@
 | 8. employment                                | 就业              |
 | 9. apply                                     | 运用 （应用  申请 请求）  |
 | 10. imply                                    | 暗示（表明  说明）      |
-| 11. complex                                  | 复杂的             |
+| 11. complex                                  | 复杂的   （建筑群）     |
 | 12. application                              | 运用  申请          |
 | 13. <font color="#00b050">implication</font> |                 |
 | 14. <font color="#00b050">complicated</font> | 复杂的             |
