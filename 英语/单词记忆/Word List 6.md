@@ -5,7 +5,7 @@
 | --------------------------------------------- | ----------- |
 | 1. <font color="#ff0000">scholar</font>       | （学者 奖学金获得者） |
 | 2. conscious                                  | 有意识的  可以的   |
-| 3. telescope                                  | 望远镜         |
+| 3. telescope                                  | 望远镜 （使缩短）   |
 | 4. description                                | 描述          |
 | 5. <font color="#00b050">segment</font>       | 部分          |
 | 6. <font color="#00b050">section</font>       | 部分 部门       |
