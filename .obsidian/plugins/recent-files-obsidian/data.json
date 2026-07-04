@@ -9,6 +9,34 @@
       "path": "英语/英语单词1到30.pdf"
     },
     {
+      "basename": "Word List 22",
+      "path": "英语/单词记忆/Word List 22.md"
+    },
+    {
+      "basename": "单词记忆",
+      "path": "英语/单词记忆/单词记忆.md"
+    },
+    {
+      "basename": "Word List 30",
+      "path": "英语/单词记忆/Word List 30.md"
+    },
+    {
+      "basename": "Word List 9",
+      "path": "英语/单词记忆/Word List 9.md"
+    },
+    {
+      "basename": "Word List 8",
+      "path": "英语/单词记忆/Word List 8.md"
+    },
+    {
+      "basename": "Word List 7",
+      "path": "英语/单词记忆/Word List 7.md"
+    },
+    {
+      "basename": "Word List 29",
+      "path": "英语/单词记忆/Word List 29.md"
+    },
+    {
       "basename": "Word List 4",
       "path": "英语/单词记忆/Word List 4.md"
     },
@@ -23,18 +51,6 @@
     {
       "basename": "Word List 10",
       "path": "英语/单词记忆/Word List 10.md"
-    },
-    {
-      "basename": "Word List 9",
-      "path": "英语/单词记忆/Word List 9.md"
-    },
-    {
-      "basename": "Word List 8",
-      "path": "英语/单词记忆/Word List 8.md"
-    },
-    {
-      "basename": "Word List 7",
-      "path": "英语/单词记忆/Word List 7.md"
     },
     {
       "basename": "Word List 1",
@@ -181,10 +197,6 @@
       "path": "英语/单词记忆/Word List 11.md"
     },
     {
-      "basename": "Word List 30",
-      "path": "英语/单词记忆/Word List 30.md"
-    },
-    {
       "basename": "Word List 15",
       "path": "英语/单词记忆/Word List 15.md"
     },
@@ -211,10 +223,6 @@
     {
       "basename": "几种不理解的结论的证明",
       "path": "线性代数/几种不理解的结论的证明.md"
-    },
-    {
-      "basename": "单词记忆",
-      "path": "英语/单词记忆/单词记忆.md"
     },
     {
       "basename": "补充公式",
