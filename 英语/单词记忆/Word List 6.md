@@ -12,7 +12,7 @@
 | 7. <font color="#00b050">assemble</font>      | （集合  收集  组装）         |
 | 8. <font color="#ff0000">senior</font>        | （级别高的   资深的  毕业年级）   |
 | 9. <font color="#00b050">present</font>       | 表现（展现  显示 呈现 带来 当前的） |
-| 10. <font color="#00b050">presence</font>     | （存在 出现）              |
+| 10. <font color="#00b050">presence</font>     | （存在 出现  出席）          |
 | 11. represent                                 | 代表                   |
 | 12. representative                            | 代表性的                 |
 | 13. <font color="#00b050">sensitive</font>    | 明智的                  |
