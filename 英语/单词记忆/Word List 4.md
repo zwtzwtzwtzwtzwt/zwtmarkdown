@@ -71,7 +71,7 @@
 | 67. <font color="#00b050">peculiar</font>                                | （特有的  特别的）        |         |
 | 68. expense                                                              | 消费  （开支  费用）      |         |
 | 69. independent                                                          | 独立的               |         |
-| 70. independence                                                         | 独立  （）            |         |
+| 70. independence                                                         | 独立  （自主）          |         |
 | 71. personality                                                          | 个性                |         |
 | 72. competition                                                          | 比赛                |         |
 | 73. emphasize                                                            | 强调                |         |
