@@ -34,7 +34,7 @@
 | 30. announce                                                        | 宣告                |         |
 | 31. innovation                                                      | 创新                |         |
 | 32. nuclear                                                         | 原子核的              |         |
-| 33. obesity                                                         | 肥胖（）              |         |
+| 33. obesity                                                         | 肥胖（症）             |         |
 | 34. <font color="#00b050">obscure</font>                            |                   |         |
 | 35. operation                                                       | 操作 手术  经营         |         |
 | 36. operate                                                         | 操作                |         |
