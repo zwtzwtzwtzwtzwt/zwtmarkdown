@@ -50,8 +50,8 @@
 | 46. <font color="#00b050">impact</font>                                  | 有影响  （影响）         |         |
 | 47. expand                                                               | 扩展  扩大            |         |
 | 48. particular                                                           | 特定的   （特殊的）       |         |
-| 49. partly                                                               | 部分的  （）           |         |
-| 50. <font color="#00b050">counterpart</font>                             |                   |         |
+| 49. partly                                                               | 部分的  （一定程度上）      |         |
+| 50. <font color="#00b050">counterpart</font>                             | （）                |         |
 | 51. departure                                                            | 离开                |         |
 | 52. <font color="#00b050">proportion</font>                              | 份额                |         |
 | 53. participate                                                          | 参与                |         |
