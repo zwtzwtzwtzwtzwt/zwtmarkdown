@@ -4,7 +4,7 @@
 | -------------------------------------------- | ------------- |
 | 1. admire                                    | 钦佩   仰慕  （欣赏） |
 | 2. admit                                     | 承认 （准许）       |
-| 3. <font color="#00b050">commit</font>       | （）            |
+| 3. <font color="#00b050">commit</font>       | （犯  ）         |
 | 4. <font color="#00b050">compromise</font>   |               |
 | 5. <font color="#00b050">admission</font>    | 承认            |
 | 6. dismiss                                   | 开除  摒弃        |
