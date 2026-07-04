@@ -68,7 +68,7 @@
 | 64. <font color="#00b050">comparison</font>                              | （对比    相比  比较）    |         |
 | 65. disappear                                                            | 消失                |         |
 | 66. appearance                                                           | 出现   （外貌）         |         |
-| 67. <font color="#00b050">peculiar</font>                                |                   |         |
+| 67. <font color="#00b050">peculiar</font>                                | （特有的  特别的）        |         |
 | 68. expense                                                              | 消费                |         |
 | 69. independent                                                          | 独立的               |         |
 | 70. independence                                                         | 独立性               |         |
