@@ -53,7 +53,7 @@
 | 49. partly                                                               | 部分的  （一定程度上）      |         |
 | 50. <font color="#00b050">counterpart</font>                             | （相当的人  对应的事务）     |         |
 | 51. departure                                                            | 离开 （辞职   违背）      |         |
-| 52. <font color="#00b050">proportion</font>                              | 份额  （笔记）          |         |
+| 52. <font color="#00b050">proportion</font>                              | 份额  （比例）          |         |
 | 53. participate                                                          | 参与                |         |
 | 54. support                                                              | 支持                |         |
 | 55. import                                                               | 进口                |         |
