@@ -79,5 +79,5 @@
 | 75. photograph                                                           | 照片 （拍照）           |         |
 | 76. <font color="#00b050">physics</font>                                 | 物理                |         |
 | 77. <font color="#00b050">physical</font>                                | （有形的  身体的）        |         |
-| 78. replace                                                              | 代替                |         |
+| 78. replace                                                              | 代替 （取代）           |         |
 | 79. complaint                                                            | 抱怨                |         |
