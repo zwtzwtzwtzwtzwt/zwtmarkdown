@@ -20,8 +20,8 @@
 | 16. <font color="#00b050">motor                             </font> | （汽车 发动机）          |         |
 | 17. remove                                                          | 移除 （去除）           |         |
 | 18. <font color="#00b050">amount</font>                             | （数量 金额）           |         |
-| 19. <font color="#00b050">prompt</font>                             | （促使   ）           |         |
-| 20. immune                                                          | 免疫                |         |
+| 19. <font color="#00b050">prompt</font>                             | （促使   迅速的）        |         |
+| 20. immune                                                          | 免疫  （面授）          |         |
 | 21. mysterious                                                      | 神秘的               |         |
 | 22. natural                                                         | 自然的 天然的           |         |
 | 23. connection                                                      | 联系                |         |
