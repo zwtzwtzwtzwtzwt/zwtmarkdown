@@ -41,7 +41,7 @@
 | 37. expression                                 | 表达 （表情）                |
 | 38. <font color="#00b050">principle</font>     | （原则 ）                  |
 | 39. <font color="#00b050">primary</font>       | 主要的   （重要的  最初的   小学的） |
-| 40. <font color="#00b050">prior</font>         |                        |
+| 40. <font color="#00b050">prior</font>         | （先前的  优先的）             |
 | 41. priority                                   | 优先级                    |
 | 42. private                                    | 私下的 隐私的                |
 | 43. privacy                                    | 隐私                     |
