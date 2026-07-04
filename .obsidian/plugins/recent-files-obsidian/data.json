@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "高数基础模版",
+      "path": "11模版/高数基础模版.md"
+    },
+    {
       "basename": "408",
       "path": "408/408.md"
     },
@@ -317,8 +321,8 @@
       "path": "线性代数/矩阵/矩阵.md"
     },
     {
-      "basename": "模版",
-      "path": "模版/模版.md"
+      "basename": "11模版",
+      "path": "11模版/11模版.md"
     },
     {
       "basename": "2.6 伴随矩阵",
@@ -379,10 +383,6 @@
     {
       "basename": "补充公式",
       "path": "线性代数/补充公式.md"
-    },
-    {
-      "basename": "高数基础模版",
-      "path": "模版/高数基础模版.md"
     },
     {
       "basename": "线性代数",
