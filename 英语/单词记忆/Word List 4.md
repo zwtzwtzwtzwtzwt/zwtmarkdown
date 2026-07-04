@@ -7,7 +7,7 @@
 | 3. <font color="#00b050">commit</font>       | （犯  承诺   投入）  |
 | 4. <font color="#00b050">compromise</font>   | （妥协  折中 让步）   |
 | 5. <font color="#00b050">admission</font>    | 承认  （准许进入）    |
-| 6. dismiss                                   | 开除  摒弃        |
+| 6. dismiss                                   | 开除  摒弃   （驳回） |
 | 7. <font color="#00b050">permission</font>   | 批准 允许         |
 | 8. committee                                 | 委员会           |
 | 9. mission                                   | 使命 任务         |
