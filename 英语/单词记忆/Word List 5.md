@@ -67,8 +67,8 @@
 | 63. range                                      | 范围   （一系列  种类）         |
 | 64. arrange                                    | 安排（整理）                 |
 | 65. <font color="#00b050">reasonable</font>    | 合理的                    |
-| 66. directly                                   | 直接的  （）                |
-| 67. <font color="#00b050">region</font>        | 宗教                     |
+| 66. directly                                   | 直接的  （立即）              |
+| 67. <font color="#00b050">region</font>        | （地区 区域）                |
 | 68. regular                                    | 频繁的 经常的                |
 | 69. regulate                                   | 管理  监管                 |
 | 70. regulation                                 | 政策                     |
