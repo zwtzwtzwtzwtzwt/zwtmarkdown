@@ -9,7 +9,7 @@
 | 4. description                                | 描述（类型）          |
 | 5. <font color="#00b050">segment</font>       | 部分  （划分）        |
 | 6. <font color="#00b050">section</font>       | 部分 （区域  阶层  切开） |
-| 7. <font color="#00b050">assemble</font>      |                 |
+| 7. <font color="#00b050">assemble</font>      | （集合  ）          |
 | 8. senior                                     | 初级的             |
 | 9. <font color="#00b050">present</font>       | 表现              |
 | 10. <font color="#00b050">presence</font>     | 表现              |
