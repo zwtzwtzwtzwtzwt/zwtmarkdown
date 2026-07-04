@@ -1,12 +1,12 @@
 #  按位序插入  
-![](./assets/单链表crud/file-20260604185239129.webp)![](./assets/单链表crud/file-20260604185239145.webp)
+![](./assets/单链表crud/file-20260704193548224.webp)![](./assets/单链表crud/file-20260704193548177.webp)
 # 指定节点后插操作    
-![](./assets/单链表crud/file-20260604185239143.webp)
+![](./assets/单链表crud/file-20260704193548180.webp)
 
 # 指定节点前插操作  
-![](./assets/单链表crud/file-20260604185239142.webp)![](./assets/单链表crud/file-20260604185239139.webp)  
+![](./assets/单链表crud/file-20260704193548182.webp)![](./assets/单链表crud/file-20260704193548183.webp)  
 # 按位序删除  
-![](./assets/单链表crud/file-20260604185239138.webp)C++
+![](./assets/单链表crud/file-20260704193548184.webp)C++
 
 ```
 bool ListDelete(LinkList &L, int i, ElemType &e) {
@@ -51,17 +51,17 @@ bool ListDelete(LinkList &L, int i, ElemType &e) {
 如果是从 1 考试计数 间隔数是位序数-1  
 
 # 删除指定节点  
-![](./assets/单链表crud/file-20260604185239136.webp)  
+![](./assets/单链表crud/file-20260704193548197.webp)  
 
 
 # 按位序查找  
-![](./assets/单链表crud/file-20260604185239135.webp)
+![](./assets/单链表crud/file-20260704193548206.webp)
 
 # 按值查找  
-![](./assets/单链表crud/file-20260604185239134.webp)
+![](./assets/单链表crud/file-20260704193548215.webp)
 
 # 求表长  
-![](./assets/单链表crud/file-20260604185239131.webp)
+![](./assets/单链表crud/file-20260704193548223.webp)
 
 
 # 时间复杂度  
