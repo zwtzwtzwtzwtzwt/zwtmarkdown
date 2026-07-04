@@ -14,7 +14,7 @@
 | 9. <font color="#00b050">present</font>       | 表现（展现  显示 呈现 带来 当前的） |
 | 10. <font color="#00b050">presence</font>     | （存在 出现  出席）          |
 | 11. represent                                 | 代表  （体现 象征）          |
-| 12. representative                            | 代表性的                 |
+| 12. representative                            | 代表性的  （代议制的）         |
 | 13. <font color="#00b050">sensitive</font>    | 明智的                  |
 | 14. consequence                               | 结果                   |
 | 15. <font color="#00b050">consequently</font> | 总结的                  |
@@ -86,4 +86,4 @@
 | 81. <font color="#00b050">summarize</font>    | 总计                   |
 | 82. ensure                                    | 确信                   |
 | 83. insurance                                 | 投保                   |
-| 84. assure                                    | 确信  保证             
+| 84. assure                                    | 确信  保证               |
