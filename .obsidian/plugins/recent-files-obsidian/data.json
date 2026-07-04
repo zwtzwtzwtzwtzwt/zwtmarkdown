@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "计算机网络的基本概念",
-      "path": "3计算机网络/计算机网络的基本概念/计算机网络的基本概念.md"
+      "basename": "模版",
+      "path": "模版/模版.md"
     },
     {
       "basename": "3计算机网络",
@@ -141,10 +141,6 @@
       "path": "9微服务作业/9微服务作业.md"
     },
     {
-      "basename": "11模版",
-      "path": "11模版/11模版.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -158,7 +154,7 @@
     },
     {
       "basename": "高数基础模版",
-      "path": "11模版/高数基础模版.md"
+      "path": "模版/高数基础模版.md"
     },
     {
       "basename": "1高数基础",
