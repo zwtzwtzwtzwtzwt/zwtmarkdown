@@ -57,7 +57,7 @@
 | 53. participate                                                          | 参与                |         |
 | 54. support                                                              | 支持                |         |
 | 55. import                                                               | 进口                |         |
-| 56. <font color="#00b050">transport</font>                               | 交通工具              |         |
+| 56. <font color="#00b050">transport</font>                               | 交通工具  （交通 运输）     |         |
 | 57. patient                                                              | 病人  耐心的           |         |
 | 58. sympathy                                                             | 同情                |         |
 | 59. passion                                                              | 热情                |         |
