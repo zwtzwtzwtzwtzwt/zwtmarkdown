@@ -45,7 +45,7 @@
 | 41. <font color="#ff0000">priority</font>      | （优先事项  优先）             |
 | 42. private                                    | 私下的 隐私的（私立的）           |
 | 43. privacy                                    | 隐私                     |
-| 44. <font color="#00b050">privilege</font>     | （特权  ）                 |
+| 44. <font color="#00b050">privilege</font>     | （特权  特别）               |
 | 45. <font color="#00b050">deprive</font>       |                        |
 | 46. approach                                   | 方式 途径                  |
 | 47. <font color="#00b050">appropriate</font>   |                        |
