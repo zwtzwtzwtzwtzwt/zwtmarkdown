@@ -47,7 +47,7 @@
 | 43. privacy                                    | 隐私                     |
 | 44. <font color="#00b050">privilege</font>     | （特权  特别优待）             |
 | 45. <font color="#00b050">deprive</font>       | （剥夺  ）                 |
-| 46. approach                                   | 方式 途径                  |
+| 46. approach                                   | 方式 途径（）                |
 | 47. <font color="#00b050">appropriate</font>   |                        |
 | 48. <font color="#00b050">proper</font>        |                        |
 | 49. <font color="#00b050">property</font>      | 性质                     |
