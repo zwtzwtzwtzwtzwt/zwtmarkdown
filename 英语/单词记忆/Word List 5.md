@@ -23,7 +23,7 @@
 | 19. suppose                                  | 假设  （推断  认为）    |
 | 20. <font color="#00b050">impose</font>      | （强加  强制实行  使接受） |
 | 21. expose                                   | 暴露（揭露  遭受 接触）   |
-| 22. <font color="#00b050">propose</font>     |                 |
+| 22. <font color="#00b050">propose</font>     | 提出              |
 | 23. proposal                                 | 提议  提案          |
 | 24. position                                 | 位置  立场          |
 | 25. <font color="#00b050">composition</font> |                 |
