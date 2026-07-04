@@ -16,7 +16,7 @@
 | 12. application                              | 运用  申请          |
 | 13. <font color="#00b050">implication</font> | （影响 含义）         |
 | 14. <font color="#00b050">complicated</font> | 复杂的             |
-| 15. <font color="#00b050">political</font>   | 政策的             |
+| 15. <font color="#00b050">political</font>   |                 |
 | 16. <font color="#00b050">politics</font>    | 政策              |
 | 17. <font color="#00b050">politician</font>  |                 |
 | 18. monopoly                                 | 垄断              |
