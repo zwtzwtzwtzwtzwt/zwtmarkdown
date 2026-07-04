@@ -37,7 +37,7 @@
 | 33. <font color="#00b050">appreciate</font>  | （欣赏  重视  感激  意识到） |
 | 34. praise                                   | 表扬 （称赞）           |
 | 35. comprehension                            | 理解力               |
-| 36. comprehensive                            | 理解                |
+| 36. comprehensive                            | （）                |
 | 37. expression                               | 表达                |
 | 38. <font color="#00b050">principle</font>   | 主要的               |
 | 39. <font color="#00b050">primary</font>     | 主要的               |
