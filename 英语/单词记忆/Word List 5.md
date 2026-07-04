@@ -72,7 +72,7 @@
 | 68. regular                                    | 频繁的 经常的（定期的 普通的）       |
 | 69. regulate                                   | 管理  （控制 调整）            |
 | 70. regulation                                 | (规定   管理  规定的)         |
-| 71. <font color="#ff0000">render</font>        | （）                     |
+| 71. <font color="#ff0000">render</font>        | （使     提交  翻译）         |
 | 72. <font color="#00b050">derive</font>        |                        |
 | 73. satisfy                                    | 使满意                    |
 | 74. satisfaction                               | 满意                     |
