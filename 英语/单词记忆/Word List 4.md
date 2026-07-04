@@ -39,7 +39,7 @@
 | 35. operation                                                       | 操作 手术  经营 （运转 公司） |         |
 | 36. operate                                                         | 操作                |         |
 | 37. <font color="#00b050">operator</font>                           | （经营商  操作者  运营公司）  |         |
-| 38. option                                                          | 选择  （选修课）         |         |
+| 38. option                                                          | 选择  （选修课  买卖选择权）  |         |
 | 39. adopt                                                           | 采用  收养            |         |
 | 40. optimistic                                                      | 悲观的               |         |
 | 41. ordinary                                                        | 寻常的               |         |
