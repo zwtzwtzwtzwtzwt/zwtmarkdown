@@ -61,7 +61,7 @@
 | 57. patient                                                              | 病人  耐心的           |         |
 | 58. sympathy                                                             | 同情                |         |
 | 59. passion                                                              | 热情                |         |
-| 60. <font color="#00b050">appeal</font>                                  | （上诉   ）           |         |
+| 60. <font color="#00b050">appeal</font>                                  | （上诉   呼吁   有吸引力）  |         |
 | 61. <font color="#00b050">impulse</font>                                 |                   |         |
 | 62. apparent                                                             | 明显的               |         |
 | 63. separate                                                             | 分离                |         |
