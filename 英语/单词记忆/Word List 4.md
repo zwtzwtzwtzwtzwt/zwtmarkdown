@@ -35,7 +35,7 @@
 | 31. innovation                                                      | 创新                |         |
 | 32. nuclear                                                         | 原子核的              |         |
 | 33. obesity                                                         | 肥胖（症）             |         |
-| 34. <font color="#00b050">obscure</font>                            |                   |         |
+| 34. <font color="#00b050">obscure</font>                            | （无名的 费解的   使费解）   |         |
 | 35. operation                                                       | 操作 手术  经营         |         |
 | 36. operate                                                         | 操作                |         |
 | 37. <font color="#00b050">operator</font>                           |                   |         |
