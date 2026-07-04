@@ -18,9 +18,9 @@
 | 14. <font color="#00b050"><font color="#ff0000">demonstrate</font>  | （证明  表明  游行 示威）   | </font> |
 | 15. promote                                                         | 推动  促进 （晋升）       |         |
 | 16. <font color="#00b050">motor                             </font> | （汽车 发动机）          |         |
-| 17. remove                                                          | 移除                |         |
-| 18. <font color="#00b050">amount</font>                             |                   |         |
-| 19. <font color="#00b050">prompt</font>                             |                   |         |
+| 17. remove                                                          | 移除 （去除）           |         |
+| 18. <font color="#00b050">amount</font>                             | （数量 金额）           |         |
+| 19. <font color="#00b050">prompt</font>                             | （）                |         |
 | 20. immune                                                          | 免疫                |         |
 | 21. mysterious                                                      | 神秘的               |         |
 | 22. natural                                                         | 自然的 天然的           |         |
