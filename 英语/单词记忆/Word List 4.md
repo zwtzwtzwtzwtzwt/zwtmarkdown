@@ -69,7 +69,7 @@
 | 65. disappear                                                            | 消失                |         |
 | 66. appearance                                                           | 出现   （外貌）         |         |
 | 67. <font color="#00b050">peculiar</font>                                | （特有的  特别的）        |         |
-| 68. expense                                                              | 消费                |         |
+| 68. expense                                                              | 消费  （开支  费用）      |         |
 | 69. independent                                                          | 独立的               |         |
 | 70. independence                                                         | 独立性               |         |
 | 71. personality                                                          | 个性                |         |
