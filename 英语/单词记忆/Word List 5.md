@@ -71,7 +71,7 @@
 | 67. <font color="#00b050">region</font>        | （地区 区域）                |
 | 68. regular                                    | 频繁的 经常的（定期的 普通的）       |
 | 69. regulate                                   | 管理  （控制 调整）            |
-| 70. regulation                                 | (规定   规定的)             |
+| 70. regulation                                 | (规定   )                |
 | 71. render                                     | 导致                     |
 | 72. <font color="#00b050">derive</font>        |                        |
 | 73. satisfy                                    | 使满意                    |
