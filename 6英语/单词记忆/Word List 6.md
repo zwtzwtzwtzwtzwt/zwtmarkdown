@@ -44,7 +44,7 @@
 | 39. philosopher                                                                              | 哲学家                     |
 | 40. absorb                                                                                   | 吸收  （理解）                |
 | 41. <font color="#00b050"><font color="#ff0000">prospect</font></font>                       | （前景  可能性  勘测）           |
-| 42. <font color="#00b050">perspective</font>                                                 | （角度  观点 合理）             |
+| 42. <font color="#00b050">perspective</font>                                                 | （角度  观点 合理判断）           |
 | 43. suspect                                                                                  | 怀疑                      |
 | 44. <font color="#00b050">specific</font>                                                    |                         |
 | 45. <font color="#00b050">specialist</font>                                                  |                         |
