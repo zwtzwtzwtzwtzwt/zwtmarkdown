@@ -67,7 +67,7 @@
 | 62. assistant                                                                                | 助手                      |
 | 63. assist                                                                                   | 帮助                      |
 | 64. resistance                                                                               | 抵抗 （阻力）                 |
-| 65. <font color="#00b050">circumstance</font>                                                |                         |
+| 65. <font color="#00b050">circumstance</font>                                                | （条件  状况  环境）            |
 | 66. <font color="#00b050">contrast</font>                                                    | 对比                      |
 | 67. <font color="#00b050">estate</font>                                                      |                         |
 | 68. <font color="#00b050">distinction</font>                                                 |                         |
