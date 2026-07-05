@@ -17,7 +17,7 @@
 | 12. representative                                                         | 代表性的  （代议制的）            |
 | 13. <font color="#00b050">sensitive</font>                                 | （敏感的   过敏的   保密的   体贴的） |
 | 14. consequence                                                            | 结果  （后果  影响）            |
-| 15. <font color="#00b050"><font color="#ff0000">consequently</font></font> | （因此）                    |
+| 15. <font color="#00b050"><font color="#ff0000">consequently</font></font> | （因此  所以）                |
 | 16. <font color="#00b050">pursue</font>                                    | 追求  （追赶）                |
 | 17. <font color="#00b050">pursuit</font>                                   | 追求 （寻求 追赶  事业 爱好）       |
 | 18. suitable                                                               | 合适的                     |
