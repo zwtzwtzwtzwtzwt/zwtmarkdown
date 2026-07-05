@@ -78,8 +78,8 @@
 | 73. <font color="#00b050">constitution</font>                                                | （想法  素质 构造）             |
 | 74. <font color="#00b050">restore</font>                                                     | （恢复 修复  归还）             |
 | 75. storage                                                                                  | 存储                      |
-| 76. restrict                                                                                 | 限制                      |
-| 77. <font color="#00b050">strain</font>                                                      |                         |
+| 76. restrict                                                                                 | 限制（约束）                  |
+| 77. <font color="#00b050">strain</font>                                                      | （压力 ）                   |
 | 78. persuade                                                                                 | 劝说                      |
 | 79. consume                                                                                  | 消耗                      |
 | 80. consumption                                                                              | 消耗                      |
