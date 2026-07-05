@@ -76,7 +76,7 @@
 | 71. <font color="#00b050">constitute</font>                                                  | （组成 构成  是）              |
 | 72. <font color="#00b050">institute</font>                                                   | （指定  提出  机构 学院）         |
 | 73. <font color="#00b050">constitution</font>                                                | （想法  素质 构造）             |
-| 74. <font color="#00b050">restore</font>                                                     | （恢复 修复  规范）             |
+| 74. <font color="#00b050">restore</font>                                                     | （恢复 修复  归还）             |
 | 75. storage                                                                                  | 存储                      |
 | 76. restrict                                                                                 | 限制                      |
 | 77. <font color="#00b050">strain</font>                                                      |                         |
