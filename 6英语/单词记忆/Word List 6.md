@@ -80,8 +80,8 @@
 | 75. storage                                                                                  | 存储                      |
 | 76. restrict                                                                                 | 限制（约束）                  |
 | 77. <font color="#00b050">strain</font>                                                      | （压力  焦虑 拉  过渡使用）        |
-| 78. persuade                                                                                 | 劝说 （）                   |
-| 79. consume                                                                                  | 消耗                      |
+| 78. persuade                                                                                 | 劝说 （使信服）                |
+| 79. consume                                                                                  | 消耗 （消费  ）               |
 | 80. consumption                                                                              | 消耗                      |
 | 81. <font color="#00b050">summarize</font>                                                   | 总计                      |
 | 82. ensure                                                                                   | 确信                      |
