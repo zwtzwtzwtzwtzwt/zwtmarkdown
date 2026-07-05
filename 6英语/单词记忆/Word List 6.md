@@ -39,7 +39,7 @@
 | 34. associate                                                                                | 联系 （副的 准的 同事）           |
 | 35. <font color="#00b050">association</font>                                                 | 联系  （协会  交往）            |
 | 36. resolve                                                                                  | 解决  （决心）                |
-| 37. solution                                                                                 | 解决                      |
+| 37. solution                                                                                 | 解决（方法）                  |
 | 38. philosophy                                                                               | 哲学                      |
 | 39. philosopher                                                                              | 哲学家                     |
 | 40. absorb                                                                                   | 吸收                      |
