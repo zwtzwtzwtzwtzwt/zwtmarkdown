@@ -27,7 +27,7 @@
 | 22. <font color="#00b050"><font color="#ff0000">preserve</font>                      </font> | （保护  维护 保留 储存  区域）      |
 | 23. <font color="#00b050">reserve                             </font>                        | 预约 （保留  储备  保护区）        |
 | 24. <font color="#ff0000">observe</font>                                                     | 遵守（观察  注意到  说）          |
-| 25. <font color="#00b050">observation</font>                                                 |                         |
+| 25. <font color="#00b050">observation</font>                                                 | （观察   ）                 |
 | 26. <font color="#00b050">deserve</font>                                                     | 值得                      |
 | 27. <font color="#00b050">severe</font>                                                      | 严重的                     |
 | 28. resident                                                                                 | 总统                      |
