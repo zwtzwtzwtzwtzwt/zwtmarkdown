@@ -19,7 +19,7 @@
 
 ![](./assets/TCP%20IP%20模型/TCP%20IP%20模型-1783254560440.webp)  
 
-# osi 参考模型 和对比  
+# osi 参考模型和 tcp/ip 的对比  
 
 ![](./assets/TCP%20IP%20模型/TCP%20IP%20模型-1783254619904.webp)  
 
