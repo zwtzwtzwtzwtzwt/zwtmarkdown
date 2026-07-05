@@ -59,7 +59,7 @@
 | 54. instance                                                                                 | 例子                      |
 | 55. distance                                                                                 | 距离                      |
 | 56. stable                                                                                   | 稳定的 （稳重的）               |
-| 57. establish                                                                                | 创建                      |
+| 57. establish                                                                                | 创建 （）                   |
 | 58. status                                                                                   | 状态 地位                   |
 | 59. statement                                                                                | 声明                      |
 | 60. <font color="#00b050">station</font>                                                     | 运动场  站台                 |
