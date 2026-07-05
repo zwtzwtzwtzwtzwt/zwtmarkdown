@@ -70,7 +70,7 @@
 | 65. <font color="#00b050">circumstance</font>                                                | （条件  状况  环境）            |
 | 66. <font color="#00b050">contrast</font>                                                    | 对比                      |
 | 67. <font color="#00b050">estate</font>                                                      | （庄园  遗产）                |
-| 68. <font color="#00b050">distinction</font>                                                 | （）                      |
+| 68. <font color="#00b050">distinction</font>                                                 | （差别  区别  优秀）            |
 | 69. distinguish                                                                              | 分辨                      |
 | 70. stimulate                                                                                | 促进                      |
 | 71. <font color="#00b050">constitute</font>                                                  |                         |
