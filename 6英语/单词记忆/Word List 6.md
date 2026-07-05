@@ -46,7 +46,7 @@
 | 41. <font color="#00b050"><font color="#ff0000">prospect</font></font>                       | （前景  可能性  勘测）           |
 | 42. <font color="#00b050">perspective</font>                                                 | （角度  观点 合理判断）           |
 | 43. suspect                                                                                  | 怀疑  （嫌疑人）               |
-| 44. <font color="#00b050">specific</font>                                                    |                         |
+| 44. <font color="#00b050">specific</font>                                                    | （具体的  明确的  ）            |
 | 45. <font color="#00b050">specialist</font>                                                  |                         |
 | 46. desperate                                                                                | 失望的 绝望的                 |
 | 47. <font color="#00b050">prosperity</font>                                                  |                         |
