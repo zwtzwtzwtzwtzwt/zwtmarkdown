@@ -48,8 +48,8 @@
 | 43. suspect                                                                                  | 怀疑  （嫌疑人）               |
 | 44. <font color="#00b050">specific</font>                                                    | （具体的  明确的  特定的）         |
 | 45. <font color="#00b050">specialist</font>                                                  | （专家 专科医生）               |
-| 46. desperate                                                                                | 失望的 绝望的  （）             |
-| 47. <font color="#00b050">prosperity</font>                                                  |                         |
+| 46. desperate                                                                                | 失望的 绝望的  （拼命的）          |
+| 47. <font color="#00b050">prosperity</font>                                                  | （繁荣  ）                  |
 | 48. atmosphere                                                                               | 气氛 大气                   |
 | 49. response                                                                                 | 回应                      |
 | 50. responsible                                                                              | 负责的                     |
