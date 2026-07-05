@@ -29,7 +29,7 @@
 | 24. <font color="#ff0000">observe</font>                                                     | 遵守（观察  注意到  说）          |
 | 25. <font color="#00b050">observation</font>                                                 | （观察   评论）               |
 | 26. <font color="#00b050">deserve</font>                                                     | 值得 （应得）                 |
-| 27. <font color="#00b050">severe</font>                                                      | 严重的                     |
+| 27. <font color="#00b050">severe</font>                                                      | 严重的 （恶劣的）               |
 | 28. resident                                                                                 | 总统                      |
 | 29. <font color="#00b050">considerable</font>                                                | 大量的                     |
 | 30. design                                                                                   | 设计                      |
