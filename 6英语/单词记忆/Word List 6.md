@@ -36,7 +36,7 @@
 | 31. significant                                                                              | 重要的  （显著的 巨大的）          |
 | 32. significance                                                                             | 重要性  （意义）               |
 | 33. <font color="#00b050">assign</font>                                                      | 分配  （分派 指派 委派）          |
-| 34. associate                                                                                | 联系                      |
+| 34. associate                                                                                | 联系 （副的 同时）              |
 | 35. <font color="#00b050">association</font>                                                 | 联系                      |
 | 36. resolve                                                                                  | 解决                      |
 | 37. solution                                                                                 | 解决                      |
