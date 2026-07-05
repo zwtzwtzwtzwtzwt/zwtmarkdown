@@ -58,7 +58,7 @@
 | 53. substance                                                                                | 物质（物品  根据）              |
 | 54. instance                                                                                 | 例子                      |
 | 55. distance                                                                                 | 距离                      |
-| 56. stable                                                                                   | 稳定的 （）                  |
+| 56. stable                                                                                   | 稳定的 （稳重的）               |
 | 57. establish                                                                                | 创建                      |
 | 58. status                                                                                   | 状态 地位                   |
 | 59. statement                                                                                | 声明                      |
