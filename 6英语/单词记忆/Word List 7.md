@@ -3,7 +3,7 @@
 | 英文单词                                           | 0             |
 | ---------------------------------------------- | ------------- |
 | 1. attach                                      | 粘贴（附上 附加  连接） |
-| 2. attack                                      | 攻击            |
+| 2. attack                                      | 攻击（抨击  发作 袭击） |
 | 3. <font color="#00b050">contact</font>        | 合同            |
 | 4. <font color="#00b050">contain</font>        |               |
 | 5. <font color="#00b050">sustain</font>        | 维持            |
