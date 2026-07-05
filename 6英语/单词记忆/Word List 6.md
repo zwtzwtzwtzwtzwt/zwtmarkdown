@@ -73,7 +73,7 @@
 | 68. <font color="#00b050">distinction</font>                                                 | （差别  区别  优秀）            |
 | 69. distinguish                                                                              | 分辨  （区分 听出）             |
 | 70. stimulate                                                                                | 促进 （刺激 激励）              |
-| 71. <font color="#00b050">constitute</font>                                                  |                         |
+| 71. <font color="#00b050">constitute</font>                                                  | （组成 构成  ）               |
 | 72. <font color="#00b050">institute</font>                                                   |                         |
 | 73. <font color="#00b050">constitution</font>                                                |                         |
 | 74. <font color="#00b050">restore</font>                                                     |                         |
