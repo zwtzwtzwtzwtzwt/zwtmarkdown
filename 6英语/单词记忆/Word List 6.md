@@ -24,7 +24,7 @@
 | 19. series                                                                                   | 一系列  （系列节目）             |
 | 20. conservation                                                                             | 保护   （节约）               |
 | 21. <font color="#00b050">conservative</font>                                                | （保守的  守旧（党）的）           |
-| 22. <font color="#00b050"><font color="#ff0000">preserve</font>                      </font> |                         |
+| 22. <font color="#00b050"><font color="#ff0000">preserve</font>                      </font> | （保护  ）                  |
 | 23. <font color="#00b050">reserve                             </font>                        | 预约 保护                   |
 | 24. <font color="#ff0000">observe</font>                                                     | 遵守                      |
 | 25. <font color="#00b050">observation</font>                                                 |                         |
