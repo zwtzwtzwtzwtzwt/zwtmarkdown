@@ -61,7 +61,7 @@
 | 56. stable                                                                                   | 稳定的 （稳重的）               |
 | 57. establish                                                                                | 创建 （制定  建立  证实）         |
 | 58. status                                                                                   | 状态 地位 （身份）              |
-| 59. statement                                                                                | 声明                      |
+| 59. statement                                                                                | 声明 （陈述 ）                |
 | 60. <font color="#00b050">station</font>                                                     | 运动场  站台                 |
 | 61. <font color="#00b050">consist</font>                                                     | 包含                      |
 | 62. assistant                                                                                | 助手                      |
