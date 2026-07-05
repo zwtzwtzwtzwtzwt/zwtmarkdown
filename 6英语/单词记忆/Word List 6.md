@@ -51,7 +51,7 @@
 | 46. desperate                                                                                | 失望的 绝望的  （拼命的）          |
 | 47. <font color="#00b050">prosperity</font>                                                  | （繁荣  兴旺）                |
 | 48. atmosphere                                                                               | 气氛 大气                   |
-| 49. response                                                                                 | 回应                      |
+| 49. response                                                                                 | 回应（反应）                  |
 | 50. responsible                                                                              | 负责的                     |
 | 51. sponsor                                                                                  | 赞助商                     |
 | 52. <font color="#00b050">spouse</font>                                                      |                         |
