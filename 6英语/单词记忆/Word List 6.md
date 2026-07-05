@@ -85,5 +85,5 @@
 | 80. consumption                                                                              | 消耗 （消费）                 |
 | 81. <font color="#00b050">summarize</font>                                                   | （总结  概括）                |
 | 82. ensure                                                                                   | 确信                      |
-| 83. insurance                                                                                | 投保                      |
+| 83. insurance                                                                                | （保险  ）                  |
 | 84. assure                                                                                   | 确信  保证                  |
