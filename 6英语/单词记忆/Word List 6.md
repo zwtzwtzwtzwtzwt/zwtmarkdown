@@ -66,7 +66,7 @@
 | 61. <font color="#00b050">consist</font>                                                     | 包含 （在于）                 |
 | 62. assistant                                                                                | 助手                      |
 | 63. assist                                                                                   | 帮助                      |
-| 64. resistance                                                                               | 抵抗                      |
+| 64. resistance                                                                               | 抵抗 （阻力）                 |
 | 65. <font color="#00b050">circumstance</font>                                                |                         |
 | 66. <font color="#00b050">contrast</font>                                                    | 对比                      |
 | 67. <font color="#00b050">estate</font>                                                      |                         |
