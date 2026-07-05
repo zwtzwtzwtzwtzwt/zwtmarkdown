@@ -37,7 +37,7 @@
 | 32. significance                                                                             | 重要性  （意义）               |
 | 33. <font color="#00b050">assign</font>                                                      | 分配  （分派 指派 委派）          |
 | 34. associate                                                                                | 联系 （副的 准的 同事）           |
-| 35. <font color="#00b050">association</font>                                                 | 联系                      |
+| 35. <font color="#00b050">association</font>                                                 | 联系  （协会  交往）            |
 | 36. resolve                                                                                  | 解决                      |
 | 37. solution                                                                                 | 解决                      |
 | 38. philosophy                                                                               | 哲学                      |
