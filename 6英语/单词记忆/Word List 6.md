@@ -53,8 +53,8 @@
 | 48. atmosphere                                                                               | 气氛 大气                   |
 | 49. response                                                                                 | 回应（反应）                  |
 | 50. responsible                                                                              | 负责的                     |
-| 51. sponsor                                                                                  | 赞助商 （）                  |
-| 52. <font color="#00b050">spouse</font>                                                      |                         |
+| 51. sponsor                                                                                  | 赞助商 （赞助 举办）             |
+| 52. <font color="#00b050">spouse</font>                                                      | （配偶）                    |
 | 53. substance                                                                                | 物质                      |
 | 54. instance                                                                                 | 例子                      |
 | 55. distance                                                                                 | 举例                      |
