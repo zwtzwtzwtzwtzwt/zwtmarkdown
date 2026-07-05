@@ -33,7 +33,7 @@
 | 28. <font color="#ff0000">resident</font>                                                    | （居民  居住的）               |
 | 29. <font color="#00b050">considerable</font>                                                | 大量的（相当的）                |
 | 30. design                                                                                   | 设计                      |
-| 31. significant                                                                              | 重要的  （）                 |
+| 31. significant                                                                              | 重要的  （显著的 巨大的）          |
 | 32. significance                                                                             | 重要性                     |
 | 33. <font color="#00b050">assign</font>                                                      | 分配                      |
 | 34. associate                                                                                | 联系                      |
