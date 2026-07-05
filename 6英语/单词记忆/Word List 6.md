@@ -42,8 +42,8 @@
 | 37. solution                                                                                 | 解决（方法）                  |
 | 38. philosophy                                                                               | 哲学                      |
 | 39. philosopher                                                                              | 哲学家                     |
-| 40. absorb                                                                                   | 吸收  （）                  |
-| 41. <font color="#00b050">prospect</font>                                                    | 角度                      |
+| 40. absorb                                                                                   | 吸收  （理解）                |
+| 41. <font color="#00b050">prospect</font>                                                    | 角度  （）                  |
 | 42. <font color="#00b050">perspective</font>                                                 |                         |
 | 43. suspect                                                                                  | 怀疑                      |
 | 44. <font color="#00b050">specific</font>                                                    |                         |
