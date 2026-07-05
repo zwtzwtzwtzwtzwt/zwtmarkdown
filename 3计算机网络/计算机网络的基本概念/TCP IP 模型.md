@@ -22,6 +22,7 @@
 # 差错检验的区别  
 ![](./assets/TCP%20IP%20模型/TCP%20IP%20模型-1783254963618.webp)
 
+![](./assets/TCP%20IP%20模型/TCP%20IP%20模型-1783254974706.webp)
 # osi 参考模型和 tcp/ip 的对比  
 
 ![](./assets/TCP%20IP%20模型/TCP%20IP%20模型-1783254619904.webp)  
