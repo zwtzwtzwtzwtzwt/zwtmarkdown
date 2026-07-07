@@ -42,7 +42,7 @@
 | 38. typical                                                         | 典型的  （特有的）       |
 | 39. union                                                           | 联合（工会   联盟）      |
 | 40. unique                                                          | 不同的  （独特的）       |
-| 41. <font color="#00b050"><font color="#ff0000">urban</font></font> | 急迫的              |
+| 41. <font color="#00b050"><font color="#ff0000">urban</font></font> | （城市的）            |
 | 42. urgent                                                          | 急迫的              |
 | 43. <font color="#00b050">urge</font>                               | 强迫               |
 | 44. unusual                                                         | 不寻常的             |
