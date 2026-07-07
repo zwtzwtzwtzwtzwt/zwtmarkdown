@@ -71,9 +71,9 @@
 | 67. <font color="#00b050">visual</font>                               | （视力的）             |
 | 68. convince                                                          | 确信 （信服 说服）        |
 | 69. virtue                                                            | 美德  （优点）          |
-| 70. <font color="#00b050">survival</font>                             | （生存  ）            |
+| 70. <font color="#00b050">survival</font>                             | （生存  残存率）         |
 | 71. vital                                                             | 重要的               |
-| 72. advocate                                                          | 拥护                |
+| 72. advocate                                                          | 拥护  （拥护者）         |
 | 73. <font color="#00b050">voluntary</font>                            | 词汇                |
 | 74. involve                                                           | 包括                |
 | 75. <font color="#00b050">volume</font>                               |                   |
