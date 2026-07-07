@@ -16,7 +16,7 @@
 | 12. affair                                      | 事务           |
 | 13. afford                                      | 承担  （提供）     |
 | 14. afraid                                      | 害怕           |
-| 15. <font color="#00b050">agency</font>         | 代办处          |
+| 15. <font color="#00b050">agency</font>         | （机构）         |
 | 16. ahead                                       | 向前           |
 | 17. <font color="#00b050">alert</font>          |              |
 | 18. <font color="#00b050">alike</font>          |              |
