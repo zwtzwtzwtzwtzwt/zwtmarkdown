@@ -27,8 +27,8 @@
 | 23. <font color="#00b050">theatre</font>       | （戏院   戏剧）        |
 | 24. theory                                     | 理论               |
 | 25. <font color="#00b050">entitle</font>       | 命名   （享有权利）      |
-| 26. tolerate                                   | 容忍 （人搜）          |
-| 27. tolerant                                   | 容忍的              |
+| 26. tolerate                                   | 容忍 （忍受）          |
+| 27. tolerant                                   | 容忍的  （宽容的）       |
 | 28. tolerance                                  | 容忍               |
 | 29. track                                      | 踪迹               |
 | 30. <font color="#00b050">trace</font>         | 踪迹               |
