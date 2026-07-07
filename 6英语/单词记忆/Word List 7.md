@@ -61,7 +61,7 @@
 | 57. <font color="#00b050">version</font>                              | 版本                |
 | 58. <font color="#00b050">controversy</font>                          | （争论  争议）          |
 | 59. <font color="#00b050">controversial</font>                        | （有争议的）            |
-| 60. <font color="#00b050">reverse                             </font> | （转变  ）            |
+| 60. <font color="#00b050">reverse                             </font> | （转变  相反的）         |
 | 61. invest                                                            | 投资                |
 | 62. investment                                                        | 投资                |
 | 63. <font color="#00b050">obvious</font>                              | 明显的               |
