@@ -53,7 +53,7 @@
 | 49. various                                                         | 多样的              |
 | 50. reveal                                                          | 揭示   （揭露  展现）    |
 | 51. <font color="#00b050">revenue</font>                            | （收益  税收）         |
-| 52. <font color="#00b050">convention</font>                         | （习俗  大会  ）       |
+| 52. <font color="#00b050">convention</font>                         | （习俗  大会  规约）     |
 | 53. convenient                                                      | 方便的              |
 | 54. verbal                                                          | 口头的              |
 | 55. universe                                                        | 大学               |
