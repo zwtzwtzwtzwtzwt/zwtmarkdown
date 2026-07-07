@@ -50,7 +50,7 @@
 | 46. executive                                                           | 主管 （行政的  高级的）     |
 | 47. exist                                                               | 存在                |
 | 48. existence                                                           | 存在                |
-| 49. expect                                                              | 期望                |
+| 49. expect                                                              | 期望  （预见）          |
 | 50. expectation                                                         | 期望                |
 | 51. external                                                            | 外部的               |
 | 52. <font color="#00b050">fade</font>                                   |                   |
