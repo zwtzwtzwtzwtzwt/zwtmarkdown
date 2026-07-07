@@ -47,7 +47,7 @@
 | 43. <font color="#00b050">urge</font>                               | （催促  冲动）         |
 | 44. unusual                                                         | 不寻常的             |
 | 45. valuable                                                        | 有价值的  （宝贵的）      |
-| 46. <font color="#ff0000">valid</font>                              | （）               |
+| 46. <font color="#ff0000">valid</font>                              | （合理的  有效的）       |
 | 47. available                                                       | 可用的  空闲的         |
 | 48. variety                                                         | 种类               |
 | 49. various                                                         | 多样的              |
