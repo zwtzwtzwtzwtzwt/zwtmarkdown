@@ -53,8 +53,8 @@
 | 49. expect                                                              | 期望  （预见）          |
 | 50. expectation                                                         | 期望                |
 | 51. external                                                            | 外部的               |
-| 52. <font color="#00b050">fade</font>                                   |                   |
-| 53. <font color="#00b050">fairly</font>                                 | 公平的               |
+| 52. <font color="#00b050">fade</font>                                   | （逐渐消失  变暗）        |
+| 53. <font color="#00b050">fairly</font>                                 | （）                |
 | 54. fake                                                                | 假的 冒牌货            |
 | 55. feature                                                             | 特征                |
 | 56. federal                                                             | 联邦                |
