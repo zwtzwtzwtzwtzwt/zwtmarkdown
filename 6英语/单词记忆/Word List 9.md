@@ -53,7 +53,7 @@
 | 49. branch                                      | 分支  （部门）          |
 | 50. brand                                       | 品牌                |
 | 51. bright                                      | 明亮的  （聪明的）        |
-| 52. broad                                       | 宽广的 （）            |
+| 52. broad                                       | 宽广的 （普遍的  广阔的）    |
 | 53. budget                                      | 预算                |
 | 54. burden                                      | 压力                |
 | 55. butterfly                                   | 蝴蝶                |
