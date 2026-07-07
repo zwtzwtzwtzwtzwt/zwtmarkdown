@@ -39,7 +39,7 @@
 | 35. entertainment                                                       | 娱乐                |
 | 36. enthusiasm                                                          | 热情                |
 | 37. entire                                                              | 整体的               |
-| 38. entrepreneur                                                        | 企业                |
+| 38. entrepreneur                                                        | 企业（家）             |
 | 39. equipment                                                           | 装备                |
 | 40. <font color="#00b050">evolve</font>                                 | 包含                |
 | 41. evolution                                                           | 进化                |
