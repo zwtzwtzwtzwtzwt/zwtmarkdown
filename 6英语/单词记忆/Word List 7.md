@@ -6,9 +6,9 @@
 | 2. attack                                      | 攻击（抨击  发作 袭击）    |
 | 3. <font color="#00b050">contact</font>        | （接触  触摸  交往 联系 ） |
 | 4. <font color="#00b050">contain</font>        | （包含  含有）         |
-| 5. <font color="#00b050">sustain</font>        | 维持  （保持  ）       |
-| 6. content                                     | 内容               |
-| 7. obtain                                      | 获得               |
+| 5. <font color="#00b050">sustain</font>        | 维持  （保持  遭受）     |
+| 6. content                                     | 内容  （满意的）        |
+| 7. obtain                                      | 获得 （）            |
 | 8. <font color="#00b050">retain</font>         |                  |
 | 9. technology                                  | 科技               |
 | 10. <font color="#00b050">technical</font>     | 科技的              |
