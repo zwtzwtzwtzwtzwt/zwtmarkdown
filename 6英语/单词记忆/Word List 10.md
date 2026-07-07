@@ -19,7 +19,7 @@
 | 15. distant                                     | 遥远的          |
 | 16. <font color="#ff0000">district</font>       | （地区 区域）      |
 | 17. divorce                                     | 离婚           |
-| 18. double                                      | 双重           |
+| 18. double                                      | 双重  （加倍）     |
 | 19. doubt                                       | 怀疑           |
 | 20. dozen                                       | 一打           |
 | 21. <font color="#00b050">draft</font>          |              |
