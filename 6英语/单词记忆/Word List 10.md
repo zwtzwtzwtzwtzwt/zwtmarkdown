@@ -70,9 +70,9 @@
 | 66. genius                                                              | 天赋  （天才）          |
 | 67. <font color="#00b050">grant</font>                                  | （补助  授予）          |
 | 68. guarantee                                                           | 保证                |
-| 69. <font color="#00b050">guard</font>                                  | （保护  ）            |
+| 69. <font color="#00b050">guard</font>                                  | （保护  警卫）          |
 | 70. guidance                                                            | 指导                |
-| 71. guide                                                               | 指导                |
+| 71. guide                                                               | 指导  （）            |
 | 72. <font color="#00b050">guilt</font>                                  | 愧疚                |
 | <font color="#00b050">73</font>. guilty                                 |                   |
 | 74. handle                                                              | 解决                |
