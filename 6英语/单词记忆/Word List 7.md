@@ -12,7 +12,7 @@
 | 8. <font color="#00b050">retain</font>         | （保持  保留  拥有）     |
 | 9. technology                                  | 科技 （技术）          |
 | 10. <font color="#00b050">technical</font>     | （技术的  技能的 专业的）   |
-| 11. <font color="#00b050">technique</font>     | 技巧               |
+| 11. <font color="#00b050">technique</font>     | 技巧  （方法）         |
 | 12. detect                                     | 发现               |
 | 13. temperature                                | 温度               |
 | 14. <font color="#00b050">temporary</font>     | 暂时的              |
