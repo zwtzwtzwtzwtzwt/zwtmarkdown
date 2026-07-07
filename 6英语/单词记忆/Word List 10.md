@@ -58,7 +58,7 @@
 | 54. fake                                                                | 假的 （伪造）           |
 | 55. feature                                                             | 特征  （以什么为特色）      |
 | 56. federal                                                             | 联邦政府的             |
-| 57. finance                                                             | 财政                |
+| 57. finance                                                             | 财政 （）             |
 | 58. finding                                                             | 发现                |
 | 59. former                                                              | 之前的               |
 | 60. <font color="#00b050">forth</font>                                  | 北方                |
