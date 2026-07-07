@@ -82,7 +82,7 @@
 | 78. <font color="#00b050">illustrate</font>                             | （说明 阐明）           |
 | 79. <font color="#ff0000">impression</font>                             | （印象）              |
 | 80. <font color="#00b050">incentive</font>                              | （激励 刺激）           |
-| 81. incident                                                            | 事故                |
+| 81. incident                                                            | （事件   冲突）         |
 | 82. increasingly                                                        | 增长的               |
 | 83. <font color="#00b050">indeed</font>                                 |                   |
 | 84. <font color="#00b050">industrial</font>                             |                   |
