@@ -76,7 +76,7 @@
 | 72. <font color="#00b050">guilt</font>                                  | （内疚  罪行）          |
 | <font color="#00b050">73</font>. guilty                                 | （有罪的  感到内疚的）      |
 | 74. handle                                                              | （处理  应付  把手）      |
-| 75. <font color="#00b050">highly</font>                                 | （）                |
+| 75. <font color="#00b050">highly</font>                                 | （极其的  非常）         |
 | 76. humanity                                                            | 谦虚                |
 | 77. ideal                                                               | 理想的               |
 | 78. <font color="#00b050">illustrate</font>                             |                   |
