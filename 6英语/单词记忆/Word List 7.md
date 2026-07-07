@@ -41,7 +41,7 @@
 | 37. <font color="#00b050">triumph</font>       | （伟大胜利   喜悦  战胜）  |
 | 38. typical                                    | 典型的  （特有的）       |
 | 39. union                                      | 联合（工会   联盟）      |
-| 40. unique                                     | 不同的              |
+| 40. unique                                     | 不同的  （独特的）       |
 | 41. <font color="#00b050">urban</font>         | 急迫的              |
 | 42. urgent                                     | 急迫的              |
 | 43. <font color="#00b050">urge</font>          | 强迫               |
