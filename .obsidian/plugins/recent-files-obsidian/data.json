@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "信道划分",
-      "path": "3计算机网络/3数据链路层/介质访问控制/信道划分.md"
+      "basename": "Word List 20",
+      "path": "6英语/单词记忆/Word List 20.md"
+    },
+    {
+      "basename": "Word List 19",
+      "path": "6英语/单词记忆/Word List 19.md"
+    },
+    {
+      "basename": "Word List 18",
+      "path": "6英语/单词记忆/Word List 18.md"
+    },
+    {
+      "basename": "Word List 17",
+      "path": "6英语/单词记忆/Word List 17.md"
+    },
+    {
+      "basename": "Word List 16",
+      "path": "6英语/单词记忆/Word List 16.md"
+    },
+    {
+      "basename": "Word List 15",
+      "path": "6英语/单词记忆/Word List 15.md"
+    },
+    {
+      "basename": "Word List 14",
+      "path": "6英语/单词记忆/Word List 14.md"
+    },
+    {
+      "basename": "Word List 13",
+      "path": "6英语/单词记忆/Word List 13.md"
+    },
+    {
+      "basename": "Word List 11",
+      "path": "6英语/单词记忆/Word List 11.md"
+    },
+    {
+      "basename": "Word List 30",
+      "path": "6英语/单词记忆/Word List 30.md"
+    },
+    {
+      "basename": "Word List 5",
+      "path": "6英语/单词记忆/Word List 5.md"
+    },
+    {
+      "basename": "Word List 1",
+      "path": "6英语/单词记忆/Word List 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "5线性代数/未命名.md"
+    },
+    {
+      "basename": "记忆内容",
+      "path": "5线性代数/记忆内容.md"
+    },
+    {
+      "basename": "几种不理解的结论的证明",
+      "path": "5线性代数/几种不理解的结论的证明.md"
+    },
+    {
+      "basename": "要求为方阵的",
+      "path": "5线性代数/要求为方阵的.md"
+    },
+    {
+      "basename": "方阵行列式为0和不为0",
+      "path": "5线性代数/方阵行列式为0和不为0.md"
+    },
+    {
+      "basename": "408",
+      "path": "408/408.md"
     },
     {
       "basename": "介质访问控制",
       "path": "3计算机网络/3数据链路层/介质访问控制/介质访问控制.md"
+    },
+    {
+      "basename": "信道划分",
+      "path": "3计算机网络/3数据链路层/介质访问控制/信道划分.md"
     },
     {
       "basename": "可靠传输流量控制",
@@ -77,14 +149,6 @@
       "path": "6英语/单词记忆/Word List 29.md"
     },
     {
-      "basename": "Word List 5",
-      "path": "6英语/单词记忆/Word List 5.md"
-    },
-    {
-      "basename": "Word List 30",
-      "path": "6英语/单词记忆/Word List 30.md"
-    },
-    {
       "basename": "Word List 26",
       "path": "6英语/单词记忆/Word List 26.md"
     },
@@ -93,44 +157,8 @@
       "path": "6英语/单词记忆/Word List 25.md"
     },
     {
-      "basename": "Word List 19",
-      "path": "6英语/单词记忆/Word List 19.md"
-    },
-    {
-      "basename": "Word List 20",
-      "path": "6英语/单词记忆/Word List 20.md"
-    },
-    {
-      "basename": "Word List 18",
-      "path": "6英语/单词记忆/Word List 18.md"
-    },
-    {
-      "basename": "Word List 16",
-      "path": "6英语/单词记忆/Word List 16.md"
-    },
-    {
-      "basename": "Word List 17",
-      "path": "6英语/单词记忆/Word List 17.md"
-    },
-    {
-      "basename": "Word List 15",
-      "path": "6英语/单词记忆/Word List 15.md"
-    },
-    {
-      "basename": "Word List 14",
-      "path": "6英语/单词记忆/Word List 14.md"
-    },
-    {
-      "basename": "Word List 13",
-      "path": "6英语/单词记忆/Word List 13.md"
-    },
-    {
       "basename": "Word List 12",
       "path": "6英语/单词记忆/Word List 12.md"
-    },
-    {
-      "basename": "Word List 11",
-      "path": "6英语/单词记忆/Word List 11.md"
     },
     {
       "basename": "Word List 10",
@@ -207,10 +235,6 @@
     {
       "basename": "5.2 秩为1矩阵专题",
       "path": "5线性代数/线性代数没咋了/5矩阵相似理论/5.2 秩为1矩阵专题.pdf"
-    },
-    {
-      "basename": "方阵行列式为0和不为0",
-      "path": "5线性代数/方阵行列式为0和不为0.md"
     },
     {
       "basename": "检错编码（奇偶校验）",
@@ -301,10 +325,6 @@
       "path": "1高数基础/9二重积分/做题方法/极坐标交换积分次序.md"
     },
     {
-      "basename": "408",
-      "path": "408/408.md"
-    },
-    {
       "basename": "7政治",
       "path": "7政治/7政治.md"
     },
@@ -319,10 +339,6 @@
     {
       "basename": "5线性代数",
       "path": "5线性代数/5线性代数.md"
-    },
-    {
-      "basename": "几种不理解的结论的证明",
-      "path": "5线性代数/几种不理解的结论的证明.md"
     },
     {
       "basename": "1-1函数",
@@ -521,10 +537,6 @@
       "path": "6英语/单词记忆/单词记忆.md"
     },
     {
-      "basename": "Word List 1",
-      "path": "6英语/单词记忆/Word List 1.md"
-    },
-    {
       "basename": "5.3 矩阵相似",
       "path": "5线性代数/线性代数没咋了/5矩阵相似理论/5.3 矩阵相似.pdf"
     },
@@ -631,10 +643,6 @@
     {
       "basename": "补充公式",
       "path": "5线性代数/补充公式.md"
-    },
-    {
-      "basename": "要求为方阵的",
-      "path": "5线性代数/要求为方阵的.md"
     },
     {
       "basename": "二项式定理",
