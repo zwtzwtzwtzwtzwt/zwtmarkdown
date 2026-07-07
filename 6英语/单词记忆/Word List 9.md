@@ -75,7 +75,7 @@
 | 71. <font color="#ff0000">circuit</font>        | （电路   上诉）                  |
 | 72. claim                                       | 表明 声明                      |
 | 73. <font color="#00b050">colleague</font>      | （同事 ）                      |
-| 74. <font color="#00b050">column</font>         | （）                         |
+| 74. <font color="#00b050">column</font>         | （专栏  ）                     |
 | 75. <font color="#00b050">command</font>        | 命令                         |
 | 76. <font color="#00b050">competitive</font>    |                            |
 | 77. <font color="#00b050">constant</font>       | 短暂的                        |
