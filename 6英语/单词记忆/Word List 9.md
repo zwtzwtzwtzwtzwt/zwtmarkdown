@@ -92,5 +92,5 @@
 | 88. <font color="#00b050">curb</font>                                  | （控制  抑制）                   |
 | 89. danger                                                             | 危险                         |
 | 90. dangerous                                                          | 危险的                        |
-| 91. dark                                                               | 暗的                         |
-| 92. deal                                                               | 处理  应对                     |
+| 91. dark                                                               | 暗的   黑暗的                   |
+| 92. deal                                                               |                            |
