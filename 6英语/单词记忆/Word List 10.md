@@ -4,7 +4,7 @@
 | ----------------------------------------------- | -------- |
 | 1. decision                                     | 决定  （果断） |
 | 2. delay                                        | 延迟  （推迟） |
-| 3. <font color="#00b050">deliver</font>         | 传递       |
+| 3. <font color="#00b050">deliver</font>         | 传递  （发表） |
 | 4. <font color="#00b050">delivery</font>        | 传递       |
 | 5. <font color="#00b050">dependent</font>       | 依赖的      |
 | 6. <font color="#00b050">desert</font>          | 丢弃       |
