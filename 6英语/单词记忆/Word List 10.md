@@ -47,7 +47,7 @@
 | 43. examination                                                         | 考核 （检查）           |
 | 44. <font color="#00b050">excessive</font>                              | （过分的）             |
 | 45. exchange                                                            | 交换  （交易）          |
-| 46. executive                                                           | 主管                |
+| 46. executive                                                           | 主管 （行政的  ）        |
 | 47. exist                                                               | 存在                |
 | 48. existence                                                           | 存在                |
 | 49. expect                                                              | 期望                |
