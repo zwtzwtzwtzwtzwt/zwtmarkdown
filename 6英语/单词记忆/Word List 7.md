@@ -56,7 +56,7 @@
 | 52. <font color="#00b050">convention</font>                         | （习俗  大会  规约）     |
 | 53. convenient                                                      | 方便的              |
 | 54. verbal                                                          | 口头的 （言语的）        |
-| 55. universe                                                        | 大学               |
+| 55. <font color="#ff0000">universe</font>                           | （宇宙）             |
 | 56. <font color="#00b050">universal</font>                          |                  |
 | 57. <font color="#00b050">version</font>                            | 版本               |
 | 58. <font color="#00b050">controversy</font>                        | 矛盾               |
