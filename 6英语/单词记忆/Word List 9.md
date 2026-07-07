@@ -14,7 +14,7 @@
 | 10. address                                     | 地址 解决 （演讲）   |
 | 11. advantage                                   | 优点 优势        |
 | 12. affair                                      | 事务           |
-| 13. afford                                      | 承担           |
+| 13. afford                                      | 承担  （提供）     |
 | 14. afraid                                      | 害怕           |
 | 15. <font color="#00b050">agency</font>         | 代办处          |
 | 16. ahead                                       | 向前           |
