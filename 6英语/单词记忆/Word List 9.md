@@ -64,7 +64,7 @@
 | 60. <font color="#00b050">ceremony</font>       | （典礼   仪式）         |
 | 61. chain                                       | 链子 一系列  （连锁店）     |
 | 62. challenge                                   | 挑战                |
-| 63. chance                                      | 选择                |
+| 63. chance                                      | （）                |
 | 64. channel                                     | 频道                |
 | 65. <font color="#00b050">character</font>      | 角色  性格            |
 | 66. <font color="#00b050">characterize</font>   |                   |
