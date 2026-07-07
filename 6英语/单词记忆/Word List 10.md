@@ -41,7 +41,7 @@
 | 37. entire                                                              | 整体的               |
 | 38. entrepreneur                                                        | 企业（家）             |
 | 39. equipment                                                           | 装备（设备）            |
-| 40. <font color="#00b050">evolve</font>                                 | （进化  ）            |
+| 40. <font color="#00b050">evolve</font>                                 | （进化  发展为）         |
 | 41. evolution                                                           | 进化                |
 | 42. examine                                                             | 考核                |
 | 43. examination                                                         | 考核 考试             |
