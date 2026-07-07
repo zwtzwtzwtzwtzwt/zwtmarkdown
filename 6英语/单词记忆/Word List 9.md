@@ -89,7 +89,7 @@
 | 85. <font color="#00b050">crash</font>                                 | （坠毁   猛撞  暴跌）              |
 | 86. <font color="#00b050">credit</font>                                | （称赞   学分  ）                |
 | 87. <font color="#00b050">crop</font>                                  | （庄稼   收成）                  |
-| 88. <font color="#00b050">curb</font>                                  | 捕捉                         |
+| 88. <font color="#00b050">curb</font>                                  | （控制  ）                     |
 | 89. danger                                                             | 危险                         |
 | 90. dangerous                                                          | 危险的                        |
 | 91. dark                                                               | 暗的                         |
