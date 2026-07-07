@@ -76,7 +76,7 @@
 | 72. claim                                       | 表明 声明                      |
 | 73. <font color="#00b050">colleague</font>      | （同事 ）                      |
 | 74. <font color="#00b050">column</font>         | （专栏  柱形物  圆柱）              |
-| 75. <font color="#00b050">command</font>        | 命令                         |
+| 75. <font color="#00b050">command</font>        | 命令  （指挥  控制）               |
 | 76. <font color="#00b050">competitive</font>    |                            |
 | 77. <font color="#00b050">constant</font>       | 短暂的                        |
 | 78. context                                     | 文本  上下文                    |
