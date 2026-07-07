@@ -15,7 +15,7 @@
 | 11. dioxide                                     | 二氧化物         |
 | 12. <font color="#00b050">disorder</font>       | （疾病  混乱 ）    |
 | 13. display                                     | 展示  （显示  展览） |
-| 14. <font color="#00b050">dispute</font>        | 争论           |
+| 14. <font color="#00b050">dispute</font>        | 争论  （表示异议）   |
 | 15. distant                                     | 遥远的          |
 | 16. district                                    | 限制           |
 | 17. divorce                                     | 离婚           |
