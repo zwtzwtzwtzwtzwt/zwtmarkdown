@@ -78,7 +78,7 @@
 | 74. involve                                                                                   | 包括（包含  需要  牵涉 使参与） |
 | 75. <font color="#00b050">volume</font>                                                       | （量   体积   ）        |
 | 76. <font color="#00b050"><font color="#ff0000">revolution</font></font>                      | （变革  革命）           |
-| 77. <font color="#00b050">vulnerable</font>                                                   |                    |
+| 77. <font color="#00b050">vulnerable</font>                                                   | （易受伤害的   脆弱的）      |
 | 78. aware                                                                                     | 意识到  知道            |
 |                                                                                               |                    |
 |                                                                                               |                    |
