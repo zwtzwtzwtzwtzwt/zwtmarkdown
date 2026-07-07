@@ -7,7 +7,7 @@
 | 3. <font color="#00b050">deliver</font>         | 传递  （发表） |
 | 4. <font color="#00b050">delivery</font>        | 传递       |
 | 5. <font color="#00b050">dependent</font>       | 依赖的      |
-| 6. <font color="#00b050">desert</font>          | 丢弃       |
+| 6. <font color="#00b050">desert</font>          | 丢弃  （沙漠） |
 | 7. desirable                                    | 渴望的      |
 | 8. despite                                      | 即使       |
 | 9. destroy                                      | 毁坏 摧毁    |
