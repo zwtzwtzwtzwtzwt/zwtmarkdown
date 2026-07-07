@@ -19,7 +19,7 @@
 | 15. attempt                                    | 尝试               |
 | 16. tendency                                   | 趋势  （倾向）         |
 | 17. extend                                     | 扩大 （延长  延伸）      |
-| 18. extent                                     | 程度               |
+| 18. extent                                     | 程度   （范围 ）       |
 | 19. <font color="#00b050">extension</font>     |                  |
 | 20. <font color="#00b050">intense</font>       |                  |
 | 21. determine                                  | 决定               |
