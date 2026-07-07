@@ -67,7 +67,7 @@
 | 63. chance                                      | （机会）              |
 | 64. channel                                     | 频道 （渠道   水渠）      |
 | 65. <font color="#00b050">character</font>      | 角色  性格 （特点  特征）   |
-| 66. <font color="#00b050">characterize</font>   | （以什么为特点   ）       |
+| 66. <font color="#00b050">characterize</font>   | （以什么为特点   描述）     |
 | 67. <font color="#00b050">characteristic</font> |                   |
 | 68. <font color="#00b050">charge</font>         | 充电                |
 | 69. check                                       | 检查                |
