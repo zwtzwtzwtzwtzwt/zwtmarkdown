@@ -59,7 +59,7 @@
 | 55. feature                                                             | 特征  （以什么为特色）      |
 | 56. federal                                                             | 联邦政府的             |
 | 57. finance                                                             | 财政 （金融   资助）      |
-| 58. finding                                                             | （）                |
+| 58. finding                                                             | （调查结果   结论  裁决）   |
 | 59. former                                                              | 之前的               |
 | 60. <font color="#00b050">forth</font>                                  | 北方                |
 | 61. <font color="#00b050">foster</font>                                 | 培育                |
