@@ -59,7 +59,7 @@
 | 55. <font color="#ff0000">universe</font>                           | （宇宙）              |
 | 56. <font color="#00b050">universal</font>                          | （全体的  普遍存在   共同的） |
 | 57. <font color="#00b050">version</font>                            | 版本                |
-| 58. <font color="#00b050">controversy</font>                        | 矛盾（）              |
+| 58. <font color="#00b050">controversy</font>                        | 矛盾（争论  争议）        |
 | 59. <font color="#00b050">controversial</font>                      |                   |
 | 60. reverse                                                         | 翻转                |
 | 61. invest                                                          | 投资                |
