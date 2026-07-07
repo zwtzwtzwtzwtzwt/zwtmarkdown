@@ -40,7 +40,7 @@
 | 36. attribute                                  | 归结于  （特性）        |
 | 37. <font color="#00b050">triumph</font>       | （伟大胜利   喜悦  战胜）  |
 | 38. typical                                    | 典型的  （特有的）       |
-| 39. union                                      | 联合               |
+| 39. union                                      | 联合（工会   联盟）      |
 | 40. unique                                     | 不同的              |
 | 41. <font color="#00b050">urban</font>         | 急迫的              |
 | 42. urgent                                     | 急迫的              |
