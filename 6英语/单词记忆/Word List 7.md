@@ -46,7 +46,7 @@
 | 42. urgent                                                          | 急迫的 （紧急的）        |
 | 43. <font color="#00b050">urge</font>                               | （催促  冲动）         |
 | 44. unusual                                                         | 不寻常的             |
-| 45. valuable                                                        | 有价值的             |
+| 45. valuable                                                        | 有价值的  （宝贵的）      |
 | 46. valid                                                           | 空的               |
 | 47. available                                                       | 可用的  空闲的         |
 | 48. variety                                                         | 种类               |
