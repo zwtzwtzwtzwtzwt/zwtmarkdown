@@ -62,7 +62,7 @@
 | 58. <font color="#ff0000">careful</font>        | （小心的   谨慎的）       |
 | 59. <font color="#00b050">category</font>       | 类别                |
 | 60. <font color="#00b050">ceremony</font>       | （典礼   仪式）         |
-| 61. chain                                       | 链子 一系列            |
+| 61. chain                                       | 链子 一系列  （）        |
 | 62. challenge                                   | 挑战                |
 | 63. chance                                      | 选择                |
 | 64. channel                                     | 频道                |
