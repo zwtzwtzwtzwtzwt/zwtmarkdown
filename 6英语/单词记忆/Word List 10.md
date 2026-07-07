@@ -68,7 +68,7 @@
 | 64. <font color="#00b050">fulfil</font>                                 | （执行 履行  符合 实现）    |
 | 65. generous                                                            | 慷慨的               |
 | 66. genius                                                              | 天赋  （天才）          |
-| 67. <font color="#00b050">grant</font>                                  | 大的                |
+| 67. <font color="#00b050">grant</font>                                  | （）                |
 | 68. guarantee                                                           | 保证                |
 | 69. <font color="#00b050">guard</font>                                  |                   |
 | 70. guidance                                                            | 指导                |
