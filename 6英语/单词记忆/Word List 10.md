@@ -28,7 +28,7 @@
 | 24. <font color="#00b050">earn</font>           | 赢得  （赚取）          |
 | 25. <font color="#00b050">ease</font>           | 容易  （减少   缓和）     |
 | 26. elite                                       | 精英（的）             |
-| 27. <font color="#00b050">embrace</font>        | 拥抱（接收  ）          |
+| 27. <font color="#00b050">embrace</font>        | 拥抱（接收  包含）        |
 | 28. emphasis                                    | 强调                |
 | 29. empty                                       | 空的                |
 | 30. endeavour                                   | 努力                |
