@@ -17,7 +17,7 @@
 | 13. display                                     | 展示  （显示  展览） |
 | 14. <font color="#00b050">dispute</font>        | 争论  （表示异议）   |
 | 15. distant                                     | 遥远的          |
-| 16. district                                    | 限制           |
+| 16. <font color="#ff0000">district</font>       | （地区 区域）      |
 | 17. divorce                                     | 离婚           |
 | 18. double                                      | 双重           |
 | 19. doubt                                       | 怀疑           |
