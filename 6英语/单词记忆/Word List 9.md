@@ -47,7 +47,7 @@
 | 43. blank                                       | 空白 （无表情的）         |
 | 44. block                                       | 阻碍  （大楼）          |
 | 45. boom                                        | 上升   （繁荣 增长）      |
-| 46. <font color="#00b050">boost</font>          | 爆发 上升             |
+| 46. <font color="#00b050">boost</font>          | 爆发 上升 （增长）        |
 | 47. bound                                       | 边界                |
 | 48. bracket                                     | 篮子                |
 | 49. branch                                      | 分支                |
