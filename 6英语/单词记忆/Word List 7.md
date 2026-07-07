@@ -33,7 +33,7 @@
 | 29. track                                      | 踪迹  （跟踪  ）       |
 | 30. <font color="#00b050">trace</font>         | 踪迹  （追溯  寻找）     |
 | 31. <font color="#00b050">trail</font>         | （路线  痕迹  追踪）     |
-| 32. <font color="#00b050">trait</font>         |                  |
+| 32. <font color="#00b050">trait</font>         | （特征  特性）         |
 | 33. attractive                                 | 有吸引力的            |
 | 34. contribute                                 | 贡献               |
 | 35. contribution                               | 贡献               |
