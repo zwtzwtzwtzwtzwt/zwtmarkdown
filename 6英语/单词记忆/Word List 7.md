@@ -26,8 +26,8 @@
 | 22. <font color="#00b050">contest</font>       | 比赛   （提出异议）      |
 | 23. <font color="#00b050">theatre</font>       | （戏院   戏剧）        |
 | 24. theory                                     | 理论               |
-| 25. <font color="#00b050">entitle</font>       | 命名   （享有）        |
-| 26. tolerate                                   | 容忍               |
+| 25. <font color="#00b050">entitle</font>       | 命名   （享有权利）      |
+| 26. tolerate                                   | 容忍 （人搜）          |
 | 27. tolerant                                   | 容忍的              |
 | 28. tolerance                                  | 容忍               |
 | 29. track                                      | 踪迹               |
