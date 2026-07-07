@@ -78,8 +78,8 @@
 | 74. <font color="#00b050">column</font>                                | （专栏  柱形物  圆柱）              |
 | 75. <font color="#00b050">command</font>                               | 命令  （指挥  控制）               |
 | 76. <font color="#00b050">competitive</font>                           | （竞争的   有竞争力的）              |
-| 77. <font color="#00b050"><font color="#ff0000">constant</font></font> | （）                         |
-| 78. context                                                            | 文本  上下文                    |
+| 77. <font color="#00b050"><font color="#ff0000">constant</font></font> | （连续的 不断的 重复的）              |
+| 78. context                                                            | 文本  上下文  （背景）              |
 | 79. <font color="#00b050">continent</font>                             |                            |
 | 80. <font color="#00b050">convey</font>                                |                            |
 | 81. cope                                                               | 应对                         |
