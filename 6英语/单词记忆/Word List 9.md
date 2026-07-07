@@ -80,8 +80,8 @@
 | 76. <font color="#00b050">competitive</font>                           | （竞争的   有竞争力的）              |
 | 77. <font color="#00b050"><font color="#ff0000">constant</font></font> | （连续的 不断的 重复的）              |
 | 78. context                                                            | 文本  上下文  （背景 环境）           |
-| 79. <font color="#00b050">continent</font>                             |                            |
-| 80. <font color="#00b050">convey</font>                                |                            |
+| 79. <font color="#00b050">continent</font>                             | （大陆 州）                     |
+| 80. <font color="#00b050">convey</font>                                | （传达  ）                     |
 | 81. cope                                                               | 应对                         |
 | 82. <font color="#00b050">corporate</font>                             | 合作                         |
 | 83. court                                                              | 场地                         |
