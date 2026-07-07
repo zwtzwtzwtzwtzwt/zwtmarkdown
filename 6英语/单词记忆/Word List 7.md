@@ -44,7 +44,7 @@
 | 40. unique                                                          | 不同的  （独特的）       |
 | 41. <font color="#00b050"><font color="#ff0000">urban</font></font> | （城市的）            |
 | 42. urgent                                                          | 急迫的 （紧急的）        |
-| 43. <font color="#00b050">urge</font>                               | 强迫               |
+| 43. <font color="#00b050">urge</font>                               | 强迫（）             |
 | 44. unusual                                                         | 不寻常的             |
 | 45. valuable                                                        | 有价值的             |
 | 46. valid                                                           | 空的               |
