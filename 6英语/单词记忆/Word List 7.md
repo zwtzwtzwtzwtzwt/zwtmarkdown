@@ -68,7 +68,7 @@
 | 64. victim                                                            | 受害者  （牺牲者）        |
 | 65. evidence                                                          | 证据                |
 | 66. <font color="#00b050">provision</font>                            |                   |
-| 67. <font color="#00b050">visual</font>                               | 虚拟的               |
+| 67. <font color="#00b050">visual</font>                               | （视力的）             |
 | 68. convince                                                          | 确信                |
 | 69. virtue                                                            | 美德                |
 | 70. <font color="#00b050">survival</font>                             | 幸存的               |
