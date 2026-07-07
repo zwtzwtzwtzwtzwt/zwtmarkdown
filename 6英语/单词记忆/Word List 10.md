@@ -80,7 +80,7 @@
 | 76. <font color="#ff0000">humanity                             </font>  | （人类  人性 仁慈）       |
 | 77. ideal                                                               | 理想的               |
 | 78. <font color="#00b050">illustrate</font>                             | （说明 阐明）           |
-| 79. impression                                                          | 表达                |
+| 79. <font color="#ff0000">impression</font>                             | （）                |
 | 80. <font color="#00b050">incentive</font>                              |                   |
 | 81. incident                                                            | 事故                |
 | 82. increasingly                                                        | 增长的               |
