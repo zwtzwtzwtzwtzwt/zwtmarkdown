@@ -87,7 +87,7 @@
 | 83. court                                                              | 场地  （法庭 法院  ）              |
 | 84. <font color="#00b050">craft</font>                                 | （技能  职业 工艺   制作）           |
 | 85. <font color="#00b050">crash</font>                                 | （坠毁   猛撞  暴跌）              |
-| 86. <font color="#00b050">credit</font>                                | 信誉                         |
+| 86. <font color="#00b050">credit</font>                                | （称赞   学分  ）                |
 | 87. <font color="#00b050">crop</font>                                  | （庄稼   收成）                  |
 | 88. <font color="#00b050">curb</font>                                  | 捕捉                         |
 | 89. danger                                                             | 危险                         |
