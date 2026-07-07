@@ -69,8 +69,8 @@
 | 65. evidence                                                          | 证据                |
 | 66. <font color="#00b050">provision</font>                            | （规定 条款  提供  准备）   |
 | 67. <font color="#00b050">visual</font>                               | （视力的）             |
-| 68. convince                                                          | 确信 （信服 ）          |
-| 69. virtue                                                            | 美德                |
+| 68. convince                                                          | 确信 （信服 说服）        |
+| 69. virtue                                                            | 美德  （优点）          |
 | 70. <font color="#00b050">survival</font>                             | 幸存的               |
 | 71. vital                                                             | 重要的               |
 | 72. advocate                                                          | 拥护                |
