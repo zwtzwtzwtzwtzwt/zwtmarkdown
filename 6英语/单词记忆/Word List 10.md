@@ -22,7 +22,7 @@
 | 18. double                                      | 双重  （加倍）     |
 | 19. doubt                                       | 怀疑           |
 | 20. dozen                                       | 一打           |
-| 21. <font color="#00b050">draft</font>          |              |
+| 21. <font color="#00b050">draft</font>          | （草稿  起草）     |
 | 22. drama                                       | 喜剧           |
 | 23. dramatic                                    | 喜剧的          |
 | 24. <font color="#00b050">earn</font>           | 赢得           |
