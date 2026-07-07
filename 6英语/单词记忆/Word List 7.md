@@ -24,7 +24,7 @@
 | 20. <font color="#00b050">intense</font>       | （强烈的  剧烈的  激烈的）  |
 | 21. determine                                  | 决定               |
 | 22. <font color="#00b050">contest</font>       | 比赛   （提出异议）      |
-| 23. <font color="#00b050">theatre</font>       | （）               |
+| 23. <font color="#00b050">theatre</font>       | （戏院   戏剧）        |
 | 24. theory                                     | 理论               |
 | 25. <font color="#00b050">entitle</font>       | 命名               |
 | 26. tolerate                                   | 容忍               |
