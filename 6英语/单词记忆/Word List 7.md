@@ -57,7 +57,7 @@
 | 53. convenient                                                      | 方便的              |
 | 54. verbal                                                          | 口头的 （言语的）        |
 | 55. <font color="#ff0000">universe</font>                           | （宇宙）             |
-| 56. <font color="#00b050">universal</font>                          |                  |
+| 56. <font color="#00b050">universal</font>                          | （整体的）            |
 | 57. <font color="#00b050">version</font>                            | 版本               |
 | 58. <font color="#00b050">controversy</font>                        | 矛盾               |
 | 59. <font color="#00b050">controversial</font>                      |                  |
