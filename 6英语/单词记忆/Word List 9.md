@@ -22,7 +22,7 @@
 | 18. <font color="#00b050">alike</font>          | （相似的  都）       |
 | 19. ambition                                    | 决心             |
 | 20. ancestor                                    | 祖先 原型          |
-| 21. anticipate                                  | 参与             |
+| 21. <font color="#ff0000">anticipate</font>     | （预料  ）         |
 | 22. <font color="#00b050">appoint</font>        |                |
 | 23. <font color="#00b050">argument</font>       |                |
 | 24. <font color="#00b050">arise</font>          | 上升             |
