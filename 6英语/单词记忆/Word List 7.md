@@ -15,7 +15,7 @@
 | 11. <font color="#00b050">technique</font>     | 技巧  （方法）         |
 | 12. detect                                     | 发现               |
 | 13. temperature                                | 温度               |
-| 14. <font color="#00b050">temporary</font>     | 暂时的              |
+| 14. <font color="#00b050">temporary</font>     | 暂时的 （临时的）        |
 | 15. attempt                                    | 尝试               |
 | 16. tendency                                   | 趋势               |
 | 17. extend                                     | 扩大               |
