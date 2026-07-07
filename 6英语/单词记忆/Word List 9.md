@@ -72,7 +72,7 @@
 | 68. <font color="#00b050">charge</font>         | 充电（收费   赋予职责  指控  费用   负责） |
 | 69. check                                       | 检查                         |
 | 70. cigarette                                   | 香烟                         |
-| 71. circuit                                     | 循环                         |
+| 71. <font color="#ff0000">circuit</font>        | （电路   上诉）                  |
 | 72. claim                                       | 表明 声明                      |
 | 73. <font color="#00b050">colleague</font>      | 大学                         |
 | 74. <font color="#00b050">column</font>         | 列                          |
