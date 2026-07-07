@@ -18,7 +18,7 @@
 | 14. <font color="#00b050">temporary</font>     | 暂时的 （临时的）        |
 | 15. attempt                                    | 尝试               |
 | 16. tendency                                   | 趋势  （倾向）         |
-| 17. extend                                     | 扩大               |
+| 17. extend                                     | 扩大 （延长  ）        |
 | 18. extent                                     | 程度               |
 | 19. <font color="#00b050">extension</font>     |                  |
 | 20. <font color="#00b050">intense</font>       |                  |
