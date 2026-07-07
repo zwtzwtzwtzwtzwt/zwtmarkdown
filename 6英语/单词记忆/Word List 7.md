@@ -37,7 +37,7 @@
 | 33. attractive                                 | 有吸引力的            |
 | 34. contribute                                 | 贡献  （捐献）         |
 | 35. contribution                               | 贡献               |
-| 36. attribute                                  | 归结于              |
+| 36. attribute                                  | 归结于  （特性）        |
 | 37. <font color="#00b050">triumph</font>       |                  |
 | 38. typical                                    | 典型的              |
 | 39. union                                      | 联合               |
