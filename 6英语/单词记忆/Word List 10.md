@@ -44,8 +44,8 @@
 | 40. <font color="#00b050">evolve</font>                                 | （进化  发展为）         |
 | 41. evolution                                                           | 进化                |
 | 42. examine                                                             | 考核（调查）            |
-| 43. examination                                                         | 考核 （）             |
-| 44. <font color="#00b050">excessive</font>                              |                   |
+| 43. examination                                                         | 考核 （检查）           |
+| 44. <font color="#00b050">excessive</font>                              | （过渡的）             |
 | 45. exchange                                                            | 交换                |
 | 46. executive                                                           | 主管                |
 | 47. exist                                                               | 存在                |
