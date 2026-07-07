@@ -48,8 +48,8 @@
 | 44. block                                       | 阻碍  （大楼）          |
 | 45. boom                                        | 上升   （繁荣 增长）      |
 | 46. <font color="#00b050">boost</font>          | 爆发 上升 （增长）        |
-| 47. <font color="#ff0000">bound</font>          | （一定会  ）           |
-| 48. <font color="#ff0000">bracket</font>        | 篮子                |
+| 47. <font color="#ff0000">bound</font>          | （一定会  要去  受约束 ）   |
+| 48. <font color="#ff0000">bracket</font>        | （括号 等级  支架  ）     |
 | 49. branch                                      | 分支                |
 | 50. brand                                       | 品牌                |
 | 51. bright                                      | 明亮的               |
