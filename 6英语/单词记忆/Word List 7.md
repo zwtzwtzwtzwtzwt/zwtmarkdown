@@ -51,7 +51,7 @@
 | 47. available                                                       | 可用的  空闲的         |
 | 48. variety                                                         | 种类               |
 | 49. various                                                         | 多样的              |
-| 50. reveal                                                          | 揭示               |
+| 50. reveal                                                          | 揭示   （揭露  展现）    |
 | 51. <font color="#00b050">revenue</font>                            |                  |
 | 52. <font color="#00b050">convention</font>                         |                  |
 | 53. convenient                                                      | 方便的              |
