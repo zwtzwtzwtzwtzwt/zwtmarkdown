@@ -35,7 +35,7 @@
 | 31. assumption                                  | 假设                |
 | 32. attend                                      | 参加（出席）            |
 | 33. <font color="#00b050">authority</font>      | （权利  权威（人士））      |
-| 34. automatic                                   | 自动的               |
+| 34. automatic                                   | 自动的（无意识的）         |
 | 35. award                                       | 回报                |
 | 36. barely                                      | 仅仅                |
 | 37. bay                                         | 海湾                |
