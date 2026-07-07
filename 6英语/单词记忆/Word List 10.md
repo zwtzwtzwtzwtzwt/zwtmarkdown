@@ -84,7 +84,7 @@
 | 80. <font color="#00b050">incentive</font>                              | （激励 刺激）           |
 | 81. incident                                                            | （事件   冲突）         |
 | 82. increasingly                                                        | 增长的               |
-| 83. <font color="#00b050">indeed</font>                                 | （确实  的确  ）        |
+| 83. <font color="#00b050">indeed</font>                                 | （确实  的确  实际上）     |
 | 84. <font color="#00b050">industrial</font>                             |                   |
 | 85. <font color="#00b050">infant</font>                                 |                   |
 | 86. <font color="#00b050">infrastructure</font>                         |                   |
