@@ -57,7 +57,7 @@
 | 53. budget                                      | 预算  （划算的）         |
 | 54. burden                                      | 压力 （负担   烦扰）      |
 | 55. butterfly                                   | 蝴蝶                |
-| 56. <font color="#00b050">campaign</font>       |                   |
+| 56. <font color="#00b050">campaign</font>       | （运动 活动 战斗）        |
 | 57. cancel                                      | 取消                |
 | 58. careful                                     | 关心的               |
 | 59. <font color="#00b050">category</font>       | 类别                |
