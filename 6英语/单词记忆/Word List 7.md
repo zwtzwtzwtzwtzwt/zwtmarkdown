@@ -67,7 +67,7 @@
 | 63. <font color="#00b050">obvious</font>                              | 明显的               |
 | 64. victim                                                            | 受害者  （牺牲者）        |
 | 65. evidence                                                          | 证据                |
-| 66. <font color="#00b050">provision</font>                            |                   |
+| 66. <font color="#00b050">provision</font>                            | （）                |
 | 67. <font color="#00b050">visual</font>                               | （视力的）             |
 | 68. convince                                                          | 确信                |
 | 69. virtue                                                            | 美德                |
