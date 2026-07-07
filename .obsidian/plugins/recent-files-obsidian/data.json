@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Word List 27",
+      "path": "6英语/单词记忆/Word List 27.md"
+    },
+    {
       "basename": "Word List 10",
       "path": "6英语/单词记忆/Word List 10.md"
+    },
+    {
+      "basename": "Word List 11",
+      "path": "6英语/单词记忆/Word List 11.md"
     },
     {
       "basename": "Word List 9",
@@ -11,10 +19,6 @@
     {
       "basename": "英语单词1到30",
       "path": "6英语/英语单词1到30.pdf"
-    },
-    {
-      "basename": "Word List 11",
-      "path": "6英语/单词记忆/Word List 11.md"
     },
     {
       "basename": "Word List 8",
@@ -603,10 +607,6 @@
     {
       "basename": "无穷大转换为无穷小方法",
       "path": "1高数基础/1-2极限/补充理解/无穷大转换为无穷小方法.md"
-    },
-    {
-      "basename": "Word List 27",
-      "path": "6英语/单词记忆/Word List 27.md"
     }
   ],
   "omittedPaths": [],
