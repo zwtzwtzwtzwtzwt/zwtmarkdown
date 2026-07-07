@@ -87,6 +87,6 @@
 | 83. <font color="#00b050">indeed</font>                                 | （确实  的确  实际上）     |
 | 84. <font color="#00b050">industrial</font>                             | （工业的 产业的）         |
 | 85. <font color="#00b050">infant</font>                                 | （婴儿  初期的）         |
-| 86. <font color="#00b050">infrastructure</font>                         | （）                |
-| 87. <font color="#00b050">initiative</font>                             |                   |
+| 86. <font color="#00b050">infrastructure</font>                         | （基础设施）            |
+| 87. <font color="#00b050">initiative</font>                             | （倡议  主动性）         |
 | 88. insist                                                              | 坚持                |
