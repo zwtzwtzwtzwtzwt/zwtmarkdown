@@ -32,9 +32,9 @@
 | 28. emphasis                                                            | 强调                |
 | 29. empty                                                               | 空的                |
 | 30. <font color="#00b050">endeavour                             </font> | 努力  （尝试）          |
-| 31. engage                                                              | 参与  （）            |
+| 31. engage                                                              | 参与  （聘用）          |
 | 32. engineer                                                            | 工程师               |
-| 33. <font color="#00b050">engineering</font>                            |                   |
+| 33. <font color="#00b050">engineering</font>                            | （工程）              |
 | 34. enhance                                                             | 提高                |
 | 35. entertainment                                                       | 娱乐                |
 | 36. enthusiasm                                                          | 热情                |
