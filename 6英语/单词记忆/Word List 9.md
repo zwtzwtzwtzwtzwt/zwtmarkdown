@@ -37,7 +37,7 @@
 | 33. <font color="#00b050">authority</font>      | （权利  权威（人士））      |
 | 34. automatic                                   | 自动的（无意识的）         |
 | 35. <font color="#ff0000">award</font>          | （奖励  奖项）          |
-| 36. barely                                      | 仅仅                |
+| 36. barely                                      | 仅仅  （几乎不）         |
 | 37. bay                                         | 海湾                |
 | 38. bear                                        | 忍受 熊              |
 | 39. <font color="#00b050">behalf</font>         | 行为                |
