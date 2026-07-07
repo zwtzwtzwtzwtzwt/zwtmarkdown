@@ -93,4 +93,4 @@
 | 89. danger                                                             | 危险                         |
 | 90. dangerous                                                          | 危险的                        |
 | 91. dark                                                               | 暗的   黑暗的                   |
-| 92. deal                                                               |                            |
+| 92. <font color="#ff0000">deal</font>                                  | （协议  交易  待遇）               |
