@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "408",
+      "path": "408/408.md"
+    },
+    {
+      "basename": "测试",
+      "path": "测试.md"
+    },
+    {
       "basename": "目录",
       "path": "408/目录.md"
     },
     {
       "basename": "目录",
       "path": "408/目录.pdf"
-    },
-    {
-      "basename": "测试",
-      "path": "测试.md"
     },
     {
       "basename": "Word List 20",
@@ -79,10 +83,6 @@
     {
       "basename": "方阵行列式为0和不为0",
       "path": "5线性代数/方阵行列式为0和不为0.md"
-    },
-    {
-      "basename": "408",
-      "path": "408/408.md"
     },
     {
       "basename": "介质访问控制",
