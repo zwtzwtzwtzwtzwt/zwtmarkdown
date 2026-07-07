@@ -43,7 +43,7 @@
 | 39. <font color="#00b050">behalf</font>         | （代表）              |
 | 40. <font color="#00b050">behave</font>         | （表现）              |
 | 41. beneath                                     | 在什么下面             |
-| 42. blame                                       | 责怪                |
+| 42. blame                                       | 责怪  （责任）          |
 | 43. blank                                       | 空白                |
 | 44. block                                       | 阻碍                |
 | 45. boom                                        | 上升                |
