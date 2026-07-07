@@ -30,7 +30,7 @@
 | 26. tolerate                                   | 容忍 （忍受）          |
 | 27. tolerant                                   | 容忍的  （宽容的）       |
 | 28. tolerance                                  | 容忍 （宽容  忍耐力）     |
-| 29. track                                      | 踪迹               |
+| 29. track                                      | 踪迹  （）           |
 | 30. <font color="#00b050">trace</font>         | 踪迹               |
 | 31. <font color="#00b050">trail</font>         | 试验               |
 | 32. <font color="#00b050">trait</font>         |                  |
