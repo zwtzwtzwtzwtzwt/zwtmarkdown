@@ -44,7 +44,7 @@
 | 40. <font color="#00b050">behave</font>         | （表现）              |
 | 41. beneath                                     | 在什么下面             |
 | 42. blame                                       | 责怪  （责任）          |
-| 43. blank                                       | 空白                |
+| 43. blank                                       | 空白 （无表情的）         |
 | 44. block                                       | 阻碍                |
 | 45. boom                                        | 上升                |
 | 46. <font color="#00b050">boost</font>          | 爆发 上升             |
