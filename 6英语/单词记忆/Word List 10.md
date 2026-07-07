@@ -25,7 +25,7 @@
 | 21. <font color="#00b050">draft</font>          | （草稿  起草）          |
 | 22. drama                                       | 戏剧                |
 | 23. dramatic                                    | 戏剧的  （巨大的  引人注目的） |
-| 24. <font color="#00b050">earn</font>           | 赢得                |
+| 24. <font color="#00b050">earn</font>           | 赢得  （赚取）          |
 | 25. <font color="#00b050">ease</font>           | 容易                |
 | 26. elite                                       | 精英                |
 | 27. <font color="#00b050">embrace</font>        | 拥抱                |
