@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "测试",
+      "path": "测试.md"
+    },
+    {
       "basename": "目录",
       "path": "408/目录.md"
     },
@@ -475,10 +479,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "测试",
-      "path": "测试.md"
     },
     {
       "basename": "file-20260523091444751",
