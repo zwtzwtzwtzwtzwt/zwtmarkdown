@@ -69,7 +69,7 @@
 | 65. <font color="#00b050">character</font>      | 角色  性格 （特点  特征）   |
 | 66. <font color="#00b050">characterize</font>   | （以什么为特点   描述  刻画） |
 | 67. <font color="#00b050">characteristic</font> | （特点  品质 特有的 ）     |
-| 68. <font color="#00b050">charge</font>         | 充电（收费   ）         |
+| 68. <font color="#00b050">charge</font>         | 充电（收费   赋予职责  ）   |
 | 69. check                                       | 检查                |
 | 70. cigarette                                   | 香烟                |
 | 71. circuit                                     | 循环                |
