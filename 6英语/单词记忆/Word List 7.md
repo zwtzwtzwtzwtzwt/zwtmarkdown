@@ -38,7 +38,7 @@
 | 34. contribute                                 | 贡献  （捐献）         |
 | 35. contribution                               | 贡献               |
 | 36. attribute                                  | 归结于  （特性）        |
-| 37. <font color="#00b050">triumph</font>       | （伟大胜利   ）        |
+| 37. <font color="#00b050">triumph</font>       | （伟大胜利   喜悦  战胜）  |
 | 38. typical                                    | 典型的              |
 | 39. union                                      | 联合               |
 | 40. unique                                     | 不同的              |
