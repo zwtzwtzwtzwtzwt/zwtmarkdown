@@ -11,7 +11,7 @@
 | 7. obtain                                      | 获得 （赢得）          |
 | 8. <font color="#00b050">retain</font>         | （保持  保留  拥有）     |
 | 9. technology                                  | 科技 （技术）          |
-| 10. <font color="#00b050">technical</font>     | 科技的              |
+| 10. <font color="#00b050">technical</font>     | （技术的  ）          |
 | 11. <font color="#00b050">technique</font>     | 技巧               |
 | 12. detect                                     | 发现               |
 | 13. temperature                                | 温度               |
