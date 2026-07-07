@@ -55,7 +55,7 @@
 | 51. <font color="#00b050">revenue</font>                            | （收益  税收）         |
 | 52. <font color="#00b050">convention</font>                         | （习俗  大会  规约）     |
 | 53. convenient                                                      | 方便的              |
-| 54. verbal                                                          | 口头的              |
+| 54. verbal                                                          | 口头的 （言语的）        |
 | 55. universe                                                        | 大学               |
 | 56. <font color="#00b050">universal</font>                          |                  |
 | 57. <font color="#00b050">version</font>                            | 版本               |
