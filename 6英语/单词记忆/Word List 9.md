@@ -40,8 +40,8 @@
 | 36. barely                                      | 仅仅  （几乎不）         |
 | 37. bay                                         | 海湾                |
 | 38. bear                                        | 忍受 熊              |
-| 39. <font color="#00b050">behalf</font>         | 行为                |
-| 40. <font color="#00b050">behave</font>         | 行为                |
+| 39. <font color="#00b050">behalf</font>         | （代表）              |
+| 40. <font color="#00b050">behave</font>         | （表现）              |
 | 41. beneath                                     | 在什么下面             |
 | 42. blame                                       | 责怪                |
 | 43. blank                                       | 空白                |
