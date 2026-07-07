@@ -30,7 +30,7 @@
 | 26. aside                                       | 在一旁            |
 | 27. aspect                                      | 方面             |
 | 28. assess                                      | 评估             |
-| 29. <font color="#00b050">asset</font>          |                |
+| 29. <font color="#00b050">asset</font>          | （资产  ）         |
 | 30. assume                                      | 假定             |
 | 31. assumption                                  | 假设             |
 | 32. attend                                      | 参加             |
