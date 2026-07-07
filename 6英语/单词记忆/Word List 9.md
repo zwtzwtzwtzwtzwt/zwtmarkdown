@@ -25,7 +25,7 @@
 | 21. <font color="#ff0000">anticipate</font>     | （预料  期待）       |
 | 22. <font color="#00b050">appoint</font>        | （委派  任命）       |
 | 23. <font color="#00b050">argument</font>       | （争论  辩论）       |
-| 24. <font color="#00b050">arise</font>          | 上升             |
+| 24. <font color="#00b050">arise</font>          | （引发 引起 ）       |
 | 25. <font color="#00b050">arouse</font>         | 激发 （引起 ）       |
 | 26. aside                                       | 在一旁            |
 | 27. aspect                                      | 方面             |
