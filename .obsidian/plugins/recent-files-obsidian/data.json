@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "后退N帧协议（GBN）",
+      "path": "3计算机网络/3数据链路层/后退N帧协议（GBN）.md"
+    },
+    {
       "basename": "集线器和交换机的区别（为什么后者不会有冲突）",
       "path": "3计算机网络/2物理层/集线器和交换机的区别（为什么后者不会有冲突）.md"
     },
     {
-      "basename": "Word List 28",
-      "path": "6英语/单词记忆/Word List 28.md"
-    },
-    {
       "basename": "英语单词1到30",
       "path": "6英语/英语单词1到30.pdf"
+    },
+    {
+      "basename": "Word List 28",
+      "path": "6英语/单词记忆/Word List 28.md"
     },
     {
       "basename": "Word List 29",
@@ -103,10 +107,6 @@
     {
       "basename": "6英语",
       "path": "6英语/6英语.md"
-    },
-    {
-      "basename": "后退N帧协议（GBN）",
-      "path": "3计算机网络/3数据链路层/后退N帧协议（GBN）.md"
     },
     {
       "basename": "停止-等待协议",
