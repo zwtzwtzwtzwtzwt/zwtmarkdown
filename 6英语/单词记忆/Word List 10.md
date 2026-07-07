@@ -12,7 +12,7 @@
 | 8. despite                                      | 即使          |
 | 9. destroy                                      | 毁坏 摧毁       |
 | 10. digital                                     | 数字的         |
-| 11. dioxide                                     | 氧化物         |
+| 11. dioxide                                     | 二氧化物        |
 | 12. <font color="#00b050">disorder</font>       |             |
 | 13. display                                     | 展示          |
 | 14. <font color="#00b050">dispute</font>        | 争论          |
