@@ -65,9 +65,9 @@
 | 61. <font color="#00b050">foster</font>                                 | 培育   （促进  培养）     |
 | 62. <font color="#00b050">foundation</font>                             | 基础   （基金会）        |
 | 63. <font color="#00b050">frame</font>                                  | 框架  （体系  体格）      |
-| 64. <font color="#00b050">fulfil</font>                                 | （执行 履行  ）         |
+| 64. <font color="#00b050">fulfil</font>                                 | （执行 履行  符合 实现）    |
 | 65. generous                                                            | 慷慨的               |
-| 66. genius                                                              | 天赋                |
+| 66. genius                                                              | 天赋  （天才）          |
 | 67. <font color="#00b050">grant</font>                                  | 大的                |
 | 68. guarantee                                                           | 保证                |
 | 69. <font color="#00b050">guard</font>                                  |                   |
