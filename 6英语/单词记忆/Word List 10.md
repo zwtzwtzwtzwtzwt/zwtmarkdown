@@ -23,8 +23,8 @@
 | 19. doubt                                       | 怀疑           |
 | 20. dozen                                       | 一打           |
 | 21. <font color="#00b050">draft</font>          | （草稿  起草）     |
-| 22. drama                                       | 喜剧           |
-| 23. dramatic                                    | 喜剧的          |
+| 22. drama                                       | 戏剧           |
+| 23. dramatic                                    | 戏剧的  （巨大的 ）  |
 | 24. <font color="#00b050">earn</font>           | 赢得           |
 | 25. <font color="#00b050">ease</font>           | 容易           |
 | 26. elite                                       | 精英           |
