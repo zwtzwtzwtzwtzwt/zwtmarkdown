@@ -75,7 +75,7 @@
 | 71. vital                                                                                     | 重要的               |
 | 72. advocate                                                                                  | 拥护  （拥护者）         |
 | 73. <font color="#00b050"><font color="#ff0000">voluntary</font>                      </font> | 词汇                |
-| 74. involve                                                                                   | 包括（包含  需要  ）      |
+| 74. involve                                                                                   | 包括（包含  需要  牵涉 ）   |
 | 75. <font color="#00b050">volume</font>                                                       |                   |
 | 76. <font color="#00b050">revolution</font>                                                   | 进化                |
 | 77. <font color="#00b050">vulnerable</font>                                                   |                   |
