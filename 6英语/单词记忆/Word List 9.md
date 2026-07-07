@@ -88,7 +88,7 @@
 | 84. <font color="#00b050">craft</font>                                 | （技能  职业 工艺   制作）           |
 | 85. <font color="#00b050">crash</font>                                 | （坠毁   猛撞  暴跌）              |
 | 86. <font color="#00b050">credit</font>                                | 信誉                         |
-| 87. <font color="#00b050">crop</font>                                  |                            |
+| 87. <font color="#00b050">crop</font>                                  | （）                         |
 | 88. <font color="#00b050">curb</font>                                  | 捕捉                         |
 | 89. danger                                                             | 危险                         |
 | 90. dangerous                                                          | 危险的                        |
