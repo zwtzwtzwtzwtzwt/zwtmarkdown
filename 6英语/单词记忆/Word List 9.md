@@ -54,7 +54,7 @@
 | 50. brand                                       | 品牌                |
 | 51. bright                                      | 明亮的  （聪明的）        |
 | 52. broad                                       | 宽广的 （普遍的  广阔的）    |
-| 53. budget                                      | 预算                |
+| 53. budget                                      | 预算  （划算的）         |
 | 54. burden                                      | 压力                |
 | 55. butterfly                                   | 蝴蝶                |
 | 56. <font color="#00b050">campaign</font>       |                   |
