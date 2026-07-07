@@ -83,8 +83,8 @@
 | 79. <font color="#00b050">continent</font>                             | （大陆 州）                     |
 | 80. <font color="#00b050">convey</font>                                | （传达  传递）                   |
 | 81. cope                                                               | 应对                         |
-| 82. <font color="#00b050">corporate</font>                             | （公司的  法人的   ）              |
-| 83. court                                                              | 场地                         |
+| 82. <font color="#00b050">corporate</font>                             | （公司的  法人的   共同的）           |
+| 83. court                                                              | 场地  （法庭 法院）                |
 | 84. <font color="#00b050">craft</font>                                 |                            |
 | 85. <font color="#00b050">crash</font>                                 |                            |
 | 86. <font color="#00b050">credit</font>                                | 信誉                         |
