@@ -59,7 +59,7 @@
 | 55. butterfly                                   | 蝴蝶                |
 | 56. <font color="#00b050">campaign</font>       | （运动 活动 战斗）        |
 | 57. cancel                                      | 取消                |
-| 58. careful                                     | 关心的               |
+| 58. <font color="#ff0000">careful</font>        | （）                |
 | 59. <font color="#00b050">category</font>       | 类别                |
 | 60. <font color="#00b050">ceremony</font>       | 庆祝                |
 | 61. chain                                       | 链子 一系列            |
