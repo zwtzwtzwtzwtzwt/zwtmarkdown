@@ -65,7 +65,7 @@
 | 61. chain                                       | 链子 一系列  （连锁店）     |
 | 62. challenge                                   | 挑战                |
 | 63. chance                                      | （机会）              |
-| 64. channel                                     | 频道 （渠道   ）        |
+| 64. channel                                     | 频道 （渠道   水渠）      |
 | 65. <font color="#00b050">character</font>      | 角色  性格            |
 | 66. <font color="#00b050">characterize</font>   |                   |
 | 67. <font color="#00b050">characteristic</font> |                   |
