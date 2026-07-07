@@ -56,7 +56,7 @@
 | 52. <font color="#00b050">fade</font>                                   | （逐渐消失  变暗）        |
 | 53. <font color="#00b050">fairly</font>                                 | 公平的 （相当）          |
 | 54. fake                                                                | 假的 （伪造）           |
-| 55. feature                                                             | 特征                |
+| 55. feature                                                             | 特征  （以什么为特色）      |
 | 56. federal                                                             | 联邦                |
 | 57. finance                                                             | 财政                |
 | 58. finding                                                             | 发现                |
