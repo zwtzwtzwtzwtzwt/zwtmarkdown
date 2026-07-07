@@ -21,7 +21,7 @@
 | 17. extend                                     | 扩大 （延长  延伸）      |
 | 18. extent                                     | 程度   （范围 ）       |
 | 19. <font color="#00b050">extension</font>     | （延期   扩大）        |
-| 20. <font color="#00b050">intense</font>       | （强烈的  ）          |
+| 20. <font color="#00b050">intense</font>       | （强烈的  剧烈的  激烈的）  |
 | 21. determine                                  | 决定               |
 | 22. <font color="#00b050">contest</font>       | 比赛               |
 | 23. <font color="#00b050">theatre</font>       |                  |
