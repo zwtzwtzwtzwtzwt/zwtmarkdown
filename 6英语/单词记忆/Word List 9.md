@@ -11,7 +11,7 @@
 | 7. acknowledge                                  | 承认  （收到  感谢） |
 | 8. activity                                     | 活动           |
 | 9. <font color="#00b050">addition</font>        | （添加  加法）     |
-| 10. address                                     | 地址 解决        |
+| 10. address                                     | 地址 解决 （演讲）   |
 | 11. advantage                                   | 优点 优势        |
 | 12. affair                                      | 事务           |
 | 13. afford                                      | 承担           |
