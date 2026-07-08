@@ -6,4 +6,5 @@
 ![](./assets/ppp协议/ppp协议-1783525148860.webp)  
 
 
-# LCP 协议  
+# LCP 协议  （ppp 子协议）  
+
