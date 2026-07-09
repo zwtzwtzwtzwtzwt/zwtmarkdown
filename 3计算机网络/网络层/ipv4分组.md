@@ -13,7 +13,7 @@
 ![](./assets/ipv4分组/ipv4分组-1783583113941.webp)  
 
 
-# ttl 字段  协议  
+# ttl 字段  协议  首部校验和
 ## ttl
 ![](./assets/ipv4分组/ipv4分组-1783583229155.webp)  
 
