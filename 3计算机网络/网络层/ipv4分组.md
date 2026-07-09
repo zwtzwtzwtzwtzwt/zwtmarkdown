@@ -13,9 +13,11 @@
 ![](./assets/ipv4分组/ipv4分组-1783583113941.webp)  
 
 
-# ttl 字段
+# ttl 字段  协议  
+## ttl
 ![](./assets/ipv4分组/ipv4分组-1783583229155.webp)  
 
 ![](./assets/ipv4分组/ipv4分组-1783583277297.webp)![](./assets/ipv4分组/ipv4分组-1783583329466.webp)  
 
-# 协议  
+## 协议  
+
