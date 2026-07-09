@@ -14,4 +14,6 @@
 
 
 # ttl 协议  
-![](./assets/ipv4分组/ipv4分组-1783583229155.webp)
+![](./assets/ipv4分组/ipv4分组-1783583229155.webp)  
+
+![](./assets/ipv4分组/ipv4分组-1783583277297.webp)
