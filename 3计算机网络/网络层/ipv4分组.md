@@ -8,5 +8,5 @@
 ![](./assets/ipv4分组/ipv4分组-1783580237793.webp)  
 
 # ip 数据报的分片  
-
+![](./assets/ipv4分组/ipv4分组-1783581011035.webp)
 ![](./assets/ipv4分组/ipv4分组-1783580334274.webp)![](./assets/ipv4分组/ipv4分组-1783580689689.webp)
