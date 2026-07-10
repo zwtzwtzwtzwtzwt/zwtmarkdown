@@ -5,6 +5,10 @@
       "path": "3计算机网络/6应用层/DNS/DNS域名解析（怎么将域名转换为ip地址）.md"
     },
     {
+      "basename": "DNS层次域名空间",
+      "path": "3计算机网络/6应用层/DNS/DNS层次域名空间.md"
+    },
+    {
       "basename": "tcp报文段格式",
       "path": "3计算机网络/5传输层/tcp/tcp报文段格式.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "单播  广播 多播 任播的特点和区别",
       "path": "3计算机网络/单播  广播 多播 任播的特点和区别.md"
-    },
-    {
-      "basename": "DNS层次域名空间",
-      "path": "3计算机网络/6应用层/DNS/DNS层次域名空间.md"
     },
     {
       "basename": "DNS概述",
