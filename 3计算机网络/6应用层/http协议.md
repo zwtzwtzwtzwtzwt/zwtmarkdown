@@ -8,3 +8,4 @@
 ![](./assets/http协议/http协议-1783694590006.webp)  
 
 # 例题  
+![](./assets/http协议/http协议-1783694666418.webp)
