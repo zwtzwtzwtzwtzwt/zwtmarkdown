@@ -14,3 +14,4 @@ udp 的广播  可以实现直播
 ![](./assets/udp%20以及它和tcp的区别/udp%20以及它和tcp的区别-1783646996111.webp)  
 ![](./assets/udp%20以及它和tcp的区别/udp%20以及它和tcp的区别-1783647554486.webp)
 # 总结  
+![](./assets/udp%20以及它和tcp的区别/udp%20以及它和tcp的区别-1783647596650.webp)
