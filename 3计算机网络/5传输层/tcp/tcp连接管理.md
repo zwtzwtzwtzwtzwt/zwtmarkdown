@@ -8,4 +8,7 @@
 
 ![](./assets/tcp连接管理/tcp连接管理-1783654953970.webp)  
 
-![](./assets/tcp连接管理/tcp连接管理-1783655350447.webp)![](./assets/tcp连接管理/tcp连接管理-1783655424505.webp)
+![](./assets/tcp连接管理/tcp连接管理-1783655350447.webp)![](./assets/tcp连接管理/tcp连接管理-1783655424505.webp)  
+
+## 状态变化  
+
