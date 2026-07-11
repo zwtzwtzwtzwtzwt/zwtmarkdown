@@ -12,4 +12,6 @@
 ![](./assets/tcp拥塞控制/tcp拥塞控制-1783762135105.webp)
 
 
-![](./assets/tcp拥塞控制/tcp拥塞控制-1783762202202.webp)![](./assets/tcp拥塞控制/tcp拥塞控制-1783762425649.webp)
+![](./assets/tcp拥塞控制/tcp拥塞控制-1783762202202.webp)![](./assets/tcp拥塞控制/tcp拥塞控制-1783762425649.webp)  
+
+![](./assets/tcp拥塞控制/tcp拥塞控制-1783762709854.webp)
