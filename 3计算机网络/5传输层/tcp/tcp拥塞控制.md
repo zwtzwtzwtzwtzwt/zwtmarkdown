@@ -30,4 +30,4 @@
 
 ![](./assets/tcp拥塞控制/tcp拥塞控制-1783763802362.webp)![](./assets/tcp拥塞控制/tcp拥塞控制-1783763879507.webp)  
 
-![](./assets/tcp拥塞控制/tcp拥塞控制-1783763912330.webp)
+![](./assets/tcp拥塞控制/tcp拥塞控制-1783763943387.webp)
