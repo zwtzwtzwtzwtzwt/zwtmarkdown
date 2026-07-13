@@ -82,7 +82,7 @@
 | 76. <font color="#00b050">contrary</font>                                | （相反的）                |
 | 77. <font color="#00b050">corporation</font>                             | 公司 企业                |
 | 78. account                                                              | 账户 （解释  描述 账目）       |
-| 79. encounter                                                            | 遭遇  （邂逅）             |
+| 79. <font color="#00b050">encounter</font>                               | 遭遇  （邂逅）             |
 | 80. discover                                                             | 发现                   |
 | 81. discovery                                                            | 发现                   |
 | 82. <font color="#00b050">recovery</font>                                | （复苏 改善 ）             |
