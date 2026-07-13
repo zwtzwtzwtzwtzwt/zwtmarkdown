@@ -50,7 +50,7 @@
 | 46. <font color="#ff0000">ethic</font>                                 | 道德 （伦理学）                |
 | 47. inevitable                                                         | 不可避免的                   |
 | 48. extreme                                                            | 极端的  （极端的）              |
-| 49. <font color="#00b050">surface</font>                               | 表面  （暴露）                |
+| 49. <font color="#00b050">surface</font>                               | 表面  （外观 暴露）             |
 | 50. defence                                                            | 防御 抵御 （辩护）              |
 | 51. differ                                                             | 不同                      |
 | 52. difference                                                         | 不同                      |
