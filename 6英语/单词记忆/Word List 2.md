@@ -41,7 +41,7 @@
 | 37. endure                                                             | 忍受                      |
 | 38. dynamic                                                            | 动态的                     |
 | 39. economics                                                          | 经济（学）                   |
-| 40. <font color="#00b050">electricity</font>                           | （电）                     |
+| 40. <font color="#00b050">electricity</font>                           | （电 电力）                  |
 | 41. <font color="#00b050">electrical</font>                            | （电的）                    |
 | 42. <font color="#00b050">electronic</font>                            | （电子的）                   |
 | 43. equality                                                           | 平等                      |
