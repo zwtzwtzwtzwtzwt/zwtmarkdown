@@ -7,7 +7,7 @@
 | 3. <font color="#00b050">critical</font>                               | 批判的  （重要的  关键的）         |
 | 4. <font color="#00b050">criticism</font>                              | （批评  批判 评论）             |
 | 5. <font color="#ff0000">crucial</font>                                | （至关重要的）                 |
-| 6. crude                                                               | 粗鲁的  （粗糙的  天然的  原油）     |
+| 6. <font color="#00b050">crude</font>                                  | 粗鲁的  （粗糙的  天然的  原油）     |
 | 7. cultivate                                                           | 培育 培养  （获得  建立）         |
 | 8. cure                                                                | 治疗 治愈  （药 疗法 消除  解决 措施） |
 | 9. <font color="#00b050">security</font>                               | 安全措施  （保安部门 安全）         |
