@@ -64,7 +64,7 @@
 | 60. locate                                                               | 位于  （确定地点 ）         |
 | 61. location                                                             | 位置                  |
 | 62. logical                                                              | 有逻辑的                |
-| 63. reluctant                                                            | 不情愿的 （勉强的）          |
+| 63. <font color="#00b050">reluctant</font>                               | 不情愿的 （勉强的）          |
 | 64. pollution                                                            | 污染 （垃圾）             |
 | 65. analyse                                                              | 分析                  |
 | 66. analysis                                                             | 分析                  |
