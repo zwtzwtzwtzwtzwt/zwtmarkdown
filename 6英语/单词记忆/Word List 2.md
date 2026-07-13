@@ -85,7 +85,7 @@
 | 81. <font color="#00b050">influential</font>                           | （有影响力的（人））              |
 | 82. <font color="#00b050">inform</font>                                | （通知  影响）                |
 | 83. <font color="#00b050">formation</font>                             | （形成 组成   队形）            |
-| 84. transform                                                          | （转换  改变）                |
+| 84. <font color="#00b050">transform</font>                             | （转换  改变）                |
 | 85. <font color="#00b050">comfort</font>                               | 舒适的 （安慰 宽慰）             |
 | 86. <font color="#00b050">reinforce</font>                             | （加强 增强）                 |
 | 87. fortune                                                            | 幸运                      |
