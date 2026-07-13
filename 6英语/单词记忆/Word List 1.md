@@ -26,7 +26,7 @@
 | 20. debate                                                               | 辩论                   |
 | 21. battle                                                               | 战斗 （斗争）              |
 | 22. bias                                                                 | 偏见 （偏爱）              |
-| 23. <font color="#ff0000">combine</font>                                 | （结合   组成    兼备）      |
+| 23. <font color="#ff0000">combine</font>                                 | （结合   组和    兼备）      |
 | 24. <font color="#ff0000">biology</font>                                 | （生理习性  生物学）          |
 | 25. neighborhood                                                         | 社区  （邻居）             |
 | 26. <font color="#00b050">brief</font>                                   | 简明的   （短暂的）          |
