@@ -9,7 +9,7 @@
 | 3. agent                                                                 | 代理人  （因素）            |
 | 4. react                                                                 | 反应  （过敏）             |
 | 5. actual                                                                | 实际的                  |
-| 6. <font color="#00b050">interact</font>                                 | 交流                   |
+| 6. <font color="#00b050">interact</font>                                 | 交流  交往               |
 | 7. exact                                                                 | 精确的                  |
 | 8. <font color="#00b050">transaction                             </font> | 交易                   |
 | 9. parallel                                                              | 平行的  平行线  相似的  同时发生的 |
