@@ -29,7 +29,7 @@
 | 23. <font color="#ff0000">combine</font>                                 | （结合   组成    兼备）      |
 | 24. <font color="#ff0000">biology</font>                                 | （生理习性  生物学）          |
 | 25. neighborhood                                                         | 社区  （邻居）             |
-| 26. brief                                                                | 简明的   （短暂的）          |
+| 26. <font color="#00b050">brief</font>                                   | 简明的   （短暂的）          |
 | 27. cancer                                                               | 癌症                   |
 | 28. candidate                                                            | 候选人  （申请人）           |
 | 29. capital                                                              | （资本  资金）  首都   大写的   |
