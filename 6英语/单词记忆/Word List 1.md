@@ -20,7 +20,7 @@
 | 14. <font color="#00b050">annual</font>                                  | （年度的  年刊）            |
 | 15. anxiety                                                              | 焦虑   渴望              |
 | 16. anxious                                                              | 焦虑的  （渴望的）           |
-| 17. adapt                                                                | 适应  （改写  改编）         |
+| 17. <font color="#00b050">adapt                             </font>      | 适应  （改写  改编）         |
 | 18. automation                                                           | 自动化                  |
 | 19. abandon                                                              | 抛弃  丢弃               |
 | 20. debate                                                               | 辩论                   |
