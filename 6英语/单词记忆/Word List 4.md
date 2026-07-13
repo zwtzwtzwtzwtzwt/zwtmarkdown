@@ -77,7 +77,7 @@
 | 73. emphasize                                                            | 强调                  |         |
 | 74. phenomenon                                                           | 现象                  |         |
 | 75. photograph                                                           | 照片 （拍照）             |         |
-| 76. <font color="#00b050">physics</font>                                 | 物理                  |         |
+| 76. <font color="#00b050">physics</font>                                 | 物理学                 |         |
 | 77. <font color="#00b050">physical</font>                                | （有形的  身体的  符合自然规律的） |         |
 | 78. replace                                                              | 代替 （取代）             |         |
 | 79. complaint                                                            | 抱怨                  |         |
