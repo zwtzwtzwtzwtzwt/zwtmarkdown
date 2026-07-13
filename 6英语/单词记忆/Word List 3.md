@@ -69,7 +69,7 @@
 | 65. analyse                                                              | 分析                  |
 | 66. analysis                                                             | 分析                  |
 | 67. permanent                                                            | 永久的  （长久的 终身的）      |
-| 68. maintain                                                             | 保持 （维持 保养）          |
+| 68. <font color="#00b050">maintain</font>                                | 保持 （维持 保养）          |
 | 69. management                                                           | 管理                  |
 | 70. <font color="#00b050">majority                             </font>   | （大多数  多数票）          |
 | 71. <font color="#ff0000">demand                             </font>     | （需求 要求）             |
