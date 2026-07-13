@@ -64,7 +64,7 @@
 | 60. <font color="#00b050">appeal</font>                                  | （上诉   呼吁   有吸引力）    |         |
 | 61. <font color="#00b050">impulse</font>                                 | （冲动   脉冲）           |         |
 | 62. apparent                                                             | 明显的                 |         |
-| 63. separate                                                             | 分离  （不同的 区分）        |         |
+| 63. <font color="#00b050">separate                             </font>   | 分离  （不同的 区分）        |         |
 | 64. <font color="#00b050">comparison</font>                              | （对比    相比  比较）      |         |
 | 65. disappear                                                            | 消失                  |         |
 | 66. appearance                                                           | 出现   （外貌）           |         |
@@ -81,3 +81,4 @@
 | 77. <font color="#00b050">physical</font>                                | （有形的  身体的  符合自然规律的） |         |
 | 78. replace                                                              | 代替 （取代）             |         |
 | 79. complaint                                                            | 抱怨                  |         |
+|                                                                          |                     |         |
