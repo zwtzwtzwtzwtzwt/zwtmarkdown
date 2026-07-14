@@ -20,7 +20,7 @@
 | 13. <font color="#00b050">schedule</font>                                                  | 规划（安排 计划）           |
 | 14. score                                                                                  | 分数（比分 得分）           |
 | 15. secret                                                                                 | 秘密的（秘密）             |
-| 16. secretary                                                                              | 秘书 （部长 大臣）          |
+| 16. <font color="#00b050">secretary                             </font>                    | 秘书 （部长 大臣）          |
 | 17. sector                                                                                 | 部门（领域 行业 地带）        |
 | 18. <font color="#00b050"><font color="#ff0000">secure</font>                      </font> | （可靠的 稳固的 安全的 获得 实现） |
 | 19. seldom                                                                                 | 很少                  |
