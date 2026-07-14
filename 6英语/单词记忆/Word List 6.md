@@ -54,7 +54,7 @@
 | 49. response                                                                                 | 回应（反应）                  |
 | 50. responsible                                                                              | 负责的                     |
 | 51. sponsor                                                                                  | 赞助商 （赞助 举办）             |
-| 52. <font color="#00b050">spouse</font>                                                      | （配偶）                    |
+| 52. <font color="#00b050"><font color="#ff0000">spouse</font></font>                         | （配偶）                    |
 | 53. substance                                                                                | 物质（物品  根据）              |
 | 54. instance                                                                                 | 例子                      |
 | 55. distance                                                                                 | 距离                      |
