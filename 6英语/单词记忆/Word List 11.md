@@ -9,7 +9,7 @@
 | 3. <font color="#00b050">institution</font>                                                 | （机构 风俗 习惯）        |
 | 4. intend                                                                                   | 想要 （打算）           |
 | 5. intention                                                                                | 意向 （意图 打算）        |
-| 6. interpret                                                                                | 阐释 （领会  口译）       |
+| 6. <font color="#00b050">interpret                             </font>                      | 阐释 （领会  口译）       |
 | 7. interview                                                                                | 采访 面试             |
 | 8. kingdom                                                                                  | 王国  （领域）          |
 | 9. landscape                                                                                | 风景 （风景画）          |
