@@ -18,7 +18,7 @@
 | 14. afraid                                                             | 害怕                         |
 | 15. <font color="#00b050">agency</font>                                | （机构）                       |
 | 16. ahead                                                              | 向前                         |
-| 17. <font color="#00b050">alert</font>                                 | （意识到   警惕  警报）             |
+| 17. <font color="#00b050"><font color="#ff0000">alert</font></font>    | （意识到   警惕  警报）             |
 | 18. <font color="#00b050">alike</font>                                 | （相似的  都）                   |
 | 19. ambition                                                           | 决心                         |
 | 20. ancestor                                                           | 祖先 原型                      |
