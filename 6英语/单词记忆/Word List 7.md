@@ -74,7 +74,7 @@
 | 70. <font color="#00b050">survival</font>                                                     | （生存  残存率）          |
 | 71. vital                                                                                     | 重要的                |
 | 72. advocate                                                                                  | 拥护  （拥护者）          |
-| 73. <font color="#00b050"><font color="#ff0000">voluntary</font>                      </font> | （自愿的  ）            |
+| 73. <font color="#00b050"><font color="#ff0000">voluntary</font>                      </font> | （自愿的  义务性的）        |
 | 74. involve                                                                                   | 包括（包含  需要  牵涉 使参与） |
 | 75. <font color="#00b050">volume</font>                                                       | （量   体积   ）        |
 | 76. <font color="#00b050"><font color="#ff0000">revolution</font></font>                      | （变革  革命）           |
