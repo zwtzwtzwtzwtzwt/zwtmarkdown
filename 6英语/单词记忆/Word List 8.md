@@ -16,8 +16,8 @@
 | 12. meanwhile                                                               | 同时              |
 | 13. <font color="#00b050">moreover</font>                                   | （此外 而且）         |
 | 14. newspaper                                                               | 报纸              |
-| 15. <font color="#00b050">outcome</font>                                    | （结果 后果）         |
-| 16. <font color="#00b050">outline</font>                                    | （概述 纲要）         |
+| 15. <font color="#00b050"><font color="#ff0000">outcome</font></font>       | （结果 后果）         |
+| 16. <font color="#00b050"><font color="#ff0000">outline</font></font>       | （概述 纲要）         |
 | 17. output                                                                  | 输出  （产量）        |
 | 18. overall                                                                 | 整体 （总体的 全面的 总计） |
 | 19. <font color="#00b050">overlook</font>                                   | 俯瞰   （忽略）       |
