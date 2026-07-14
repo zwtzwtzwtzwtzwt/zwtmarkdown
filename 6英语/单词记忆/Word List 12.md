@@ -43,7 +43,7 @@
 | 36. spot                                                                                   | 发现  （小圆点 场所）        |
 | 37. square                                                                                 | 平方（正方形）             |
 | 38. <font color="#00b050">staff</font>                                                     | 全体员工 （任职于）          |
-| 39. stage                                                                                  | 舞台 （时期 阶段）          |
+| 39. <font color="#00b050">stage</font>                                                     | 舞台 （时期 阶段）          |
 | 40. statistics                                                                             | （统计学）               |
 | 41. <font color="#00b050">stem</font>                                                      | （阻止  杆茎）            |
 | 42. <font color="#00b050">stick</font>                                                     | （粘住  刺入 条状物）        |
