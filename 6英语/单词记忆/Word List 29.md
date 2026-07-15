@@ -5,7 +5,7 @@
 | 1. load                                     | 加载              |     |
 | 2. log                                      | 日志              |     |
 | 3. loosen                                   | 放松 松开           |     |
-| 4. lounge                                   | 公共休息室  坐        |     |
+| 4. <font color="#00b050">lounge</font>      | 公共休息室  坐        |     |
 | 5. loyalty                                  | 忠诚              |     |
 | 6. luggage                                  | 行李              |     |
 | 7. <font color="#00b050">lumber</font>      | 木材 杂物           |     |
@@ -18,10 +18,10 @@
 | 14. <font color="#00b050">mercury</font>    | 水银              |     |
 | 15. mercy                                   | 仁慈  宽恕          |     |
 | 16. <font color="#00b050">mill</font>       | 工厂  碾碎          |     |
-| 17. molecule                                | 分子              |     |
-| 18. momentum                                | 势头              |     |
+| 17. <font color="#00b050">molecule</font>   | 分子              |     |
+| 18. <font color="#00b050">momentum</font>   | 势头              |     |
 | 19. monster                                 | 怪物 巨大的          |     |
-| 20. mould                                   | 形成  霉菌  类型      |     |
+| 20. <font color="#00b050">mould</font>      | 形成  霉菌  类型      |     |
 | 21. municipal                               | 地方政府的           |     |
 | 22. murder                                  | 谋杀              |     |
 | 23. necklace                                | 项链              |     |
