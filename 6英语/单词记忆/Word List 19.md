@@ -22,9 +22,9 @@
 | 18. betray                                    | （暴露  背弃  ）    |
 | 19. bid                                       | 投标            |
 | 20. blow                                      | 吹             |
-| 21. bold                                      | 勇敢的           |
-| 22. bother                                    |               |
-| 23. breath                                    |               |
+| 21. bold                                      | 勇敢的 坚硬的       |
+| 22. bother                                    | 打扰            |
+| 23. breath                                    | 呼吸            |
 | 24. breathe                                   |               |
 | 25. brush                                     |               |
 | 26. cable                                     |               |
