@@ -38,12 +38,12 @@
 | 34. laser                                  | 激光  激光器           |
 | 35. <font color="#00b050">lawn</font>      | 草坪 草地             |
 | 36. layer                                  | 层 层级  阶级          |
-| 37. lest                                   | 唯恐 免得 避免          |
-| 38. limb                                   | 臂 腿 边缘  边缘树枝      |
-| 39. loan                                   | 借款                |
-| 40. loom                                   | 纺织机               |
+| 37. <font color="#00b050">lest</font>      | 唯恐 免得 避免          |
+| 38. <font color="#00b050">limb</font>      | 臂 腿 边缘  边缘树枝      |
+| 39. <font color="#00b050">loan</font>      | 借款                |
+| 40. <font color="#00b050">loom</font>      | 纺织机               |
 | 41. loyal                                  | 忠诚的 忠实的           |
-| 42. lure                                   | 引诱  诱惑  诱惑力       |
+| 42. <font color="#00b050">lure</font>      | 引诱  诱惑  诱惑力       |
 | 43. mathematics                            | 数学  （计算）          |
 | 44. mathematical                           | 数学的               |
 | 45. medal                                  | 奖牌                |
