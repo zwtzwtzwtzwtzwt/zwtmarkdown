@@ -59,8 +59,8 @@
 | 55. disguise                                  | 伪装            |
 | 56. dislike                                   | 不喜欢           |
 | 57. <font color="#00b050">doom</font>         | （厄运   ）       |
-| 58. <font color="#00b050">drought</font>      | （）            |
-| 59. <font color="#00b050">eager</font>        | 渴望            |
+| 58. <font color="#00b050">drought</font>      | （旱灾  干旱）      |
+| 59. <font color="#00b050">eager</font>        | 渴望的           |
 | 60. edge                                      | 边缘            |
 | 61. elementary                                | 基本的           |
 | 62. <font color="#00b050">embryo</font>       |               |
