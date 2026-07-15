@@ -53,7 +53,7 @@
 | 49. <font color="#00b050">consultant</font>  | （顾问）               |
 | 50. <font color="#00b050">cosmic</font>      | （宇宙的 特大的）          |
 | 51. <font color="#00b050">discourage</font>  | （阻止  使泄气）          |
-| 52. accordingly                              | 相应的（因此）            |
+| 52. <font color="#00b050">accordingly</font> | 相应的（因此）            |
 | 53. <font color="#00b050">recover</font>     | （复原 恢复）            |
 | 54. incredible                               | （极好的 极大的  难以置信的）   |
 | 55. concrete                                 | 具体的  （混泥土）         |
