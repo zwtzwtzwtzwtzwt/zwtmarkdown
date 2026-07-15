@@ -9,7 +9,7 @@
 | 5. loyalty                                  | 忠诚              |     |
 | 6. luggage                                  | 行李              |     |
 | 7. lumber                                   | 木材 杂物           |     |
-| 8. lump                                     | 归并  块  肿块       |     |
+| 8. <font color="#00b050">lump</font>        | 归并  块  肿块       |     |
 | 9. march                                    | 游行  进行曲 进军      |     |
 | 10. mask                                    | 掩盖  面罩 口罩       |     |
 | 11. mayor                                   | 市长              |     |
