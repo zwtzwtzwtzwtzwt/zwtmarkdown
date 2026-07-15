@@ -28,9 +28,9 @@
 | 24. breathe                                   | 呼吸            |
 | 25. brush                                     | 刷             |
 | 26. cable                                     | 有能力的          |
-| 27. calendar                                  |               |
+| 27. calendar                                  | 日程            |
 | 28. <font color="#00b050">calm</font>         |               |
-| 29. <font color="#00b050">cater</font>        |               |
+| 29. <font color="#00b050">cater</font>        | 适合            |
 | 30. <font color="#00b050">chamber</font>      |               |
 | 31. <font color="#00b050">chancellor</font>   |               |
 | 32. cheat                                     |               |
