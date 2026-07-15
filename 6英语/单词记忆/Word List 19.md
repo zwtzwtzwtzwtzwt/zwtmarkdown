@@ -30,8 +30,8 @@
 | 26. cable                                     | 有能力的          |
 | 27. calendar                                  | 日程            |
 | 28. <font color="#00b050">calm</font>         | （镇静的 平静的      |
-| 29. <font color="#00b050">cater</font>        | （满足   ）       |
-| 30. <font color="#00b050">chamber</font>      | 室             |
+| 29. <font color="#00b050">cater</font>        | （满足   承办）     |
+| 30. <font color="#00b050">chamber</font>      | 室  （房间）       |
 | 31. <font color="#00b050">chancellor</font>   |               |
 | 32. cheat                                     | 欺骗            |
 | 33. <font color="#00b050">cheque</font>       |               |
