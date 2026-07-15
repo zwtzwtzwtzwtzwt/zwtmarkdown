@@ -41,7 +41,7 @@
 | 37. <font color="#00b050">comply</font>       | （遵从  服从）      |
 | 38. <font color="#00b050">correlate</font>    | （密切相关）        |
 | 39. <font color="#00b050">courtesy</font>     | （礼貌）          |
-| 40. <font color="#00b050">crack</font>        |               |
+| 40. <font color="#00b050">crack</font>        | （裂缝   裂开）     |
 | 41. creep                                     | 爬行            |
 | 42. crowd                                     | 拥挤的           |
 | 43. <font color="#00b050">cucumber</font>     |               |
