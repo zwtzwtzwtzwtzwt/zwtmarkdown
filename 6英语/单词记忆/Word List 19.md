@@ -48,10 +48,10 @@
 | 44. cue                                       | 暗示            |
 | 45. dare                                      | 敢于            |
 | 46. <font color="#00b050">dean</font>         |               |
-| 47. <font color="#00b050">decay</font>        |               |
-| 48. <font color="#00b050">decorate</font>     |               |
-| 49. deem                                      |               |
-| 50. delight                                   |               |
+| 47. <font color="#00b050">decay</font>        | 背叛            |
+| 48. <font color="#00b050">decorate</font>     | 装饰            |
+| 49. deem                                      | 似乎            |
+| 50. delight                                   | 高兴的           |
 | 51. <font color="#00b050">deploy</font>       |               |
 | 52. diligent                                  |               |
 | 53. <font color="#00b050">disappoint</font>   |               |
