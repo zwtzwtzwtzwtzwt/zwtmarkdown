@@ -31,7 +31,7 @@
 | 27. calendar                                  | 日程            |
 | 28. <font color="#00b050">calm</font>         |               |
 | 29. <font color="#00b050">cater</font>        | 适合            |
-| 30. <font color="#00b050">chamber</font>      |               |
+| 30. <font color="#00b050">chamber</font>      | 室             |
 | 31. <font color="#00b050">chancellor</font>   |               |
 | 32. cheat                                     |               |
 | 33. <font color="#00b050">cheque</font>       |               |
