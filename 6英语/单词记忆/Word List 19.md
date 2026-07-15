@@ -52,15 +52,15 @@
 | 48. <font color="#00b050">decorate</font>   |               |
 | 49. deem                                    |               |
 | 50. delight                                 |               |
-| 51. deploy                                  |               |
+| 51. <font color="#00b050">deploy</font>     |               |
 | 52. diligent                                |               |
-| 53. disappoint                              |               |
-| 54. discard                                 |               |
+| 53. <font color="#00b050">disappoint</font> |               |
+| 54. <font color="#00b050">discard</font>    |               |
 | 55. disguise                                |               |
 | 56. dislike                                 |               |
-| 57. doom                                    |               |
-| 58. drought                                 |               |
-| 59. eager                                   |               |
+| 57. <font color="#00b050">doom</font>       |               |
+| 58. <font color="#00b050">drought</font>    |               |
+| 59. <font color="#00b050">eager</font>      |               |
 | 60. edge                                    |               |
 | 61. elementary                              |               |
 | 62. embryo                                  |               |
