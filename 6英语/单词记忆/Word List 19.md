@@ -45,8 +45,8 @@
 | 41. creep                                     | 爬行            |
 | 42. crowd                                     | 拥挤的           |
 | 43. <font color="#00b050">cucumber</font>     |               |
-| 44. cue                                       |               |
-| 45. dare                                      |               |
+| 44. cue                                       | 暗示            |
+| 45. dare                                      | 敢于            |
 | 46. <font color="#00b050">dean</font>         |               |
 | 47. <font color="#00b050">decay</font>        |               |
 | 48. <font color="#00b050">decorate</font>     |               |
