@@ -44,7 +44,7 @@
 | 40. <font color="#00b050">crack</font>        | （裂缝   裂开 解决）  |
 | 41. creep                                     | 爬行  (融入  悄悄)  |
 | 42. <font color="#00b050">crowd</font>        | （人群   挤满  拥挤） |
-| 43. <font color="#00b050">cucumber</font>     | （）            |
+| 43. <font color="#00b050">cucumber</font>     | （黄瓜）          |
 | 44. cue                                       | 暗示            |
 | 45. dare                                      | 敢于            |
 | 46. <font color="#00b050">dean</font>         |               |
