@@ -50,7 +50,7 @@
 | 46. <font color="#00b050">dean</font>         | （院长）          |
 | 47. <font color="#00b050">decay</font>        | （衰败  腐烂  衰退）  |
 | 48. <font color="#00b050">decorate</font>     | 装饰            |
-| 49. deem                                      | 似乎            |
+| 49. deem                                      | （认为 ）         |
 | 50. delight                                   | 高兴的           |
 | 51. <font color="#00b050">deploy</font>       |               |
 | 52. diligent                                  | 勤奋的           |
