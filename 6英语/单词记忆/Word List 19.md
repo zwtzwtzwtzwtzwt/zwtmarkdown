@@ -39,8 +39,8 @@
 | 35. clue                                      | 线索            |
 | 36. coach                                     | 教练            |
 | 37. <font color="#00b050">comply</font>       | （遵从  服从）      |
-| 38. <font color="#00b050">correlate</font>    |               |
-| 39. <font color="#00b050">courtesy</font>     |               |
+| 38. <font color="#00b050">correlate</font>    | （密切相关）        |
+| 39. <font color="#00b050">courtesy</font>     | （礼貌）          |
 | 40. <font color="#00b050">crack</font>        |               |
 | 41. creep                                     | 爬行            |
 | 42. crowd                                     | 拥挤的           |
