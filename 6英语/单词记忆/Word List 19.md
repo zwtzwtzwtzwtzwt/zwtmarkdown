@@ -18,7 +18,7 @@
 | 14. backward                                  | 向后的 迟钝的 倒着    |
 | 15. <font color="#00b050">bargain</font>      | 便宜货  协议  讨价还价 |
 | 16. battery                                   | 电池  一系列       |
-| 17. <font color="#00b050">beam</font>         |               |
+| 17. <font color="#00b050">beam</font>         | （）            |
 | 18. betray                                    |               |
 | 19. bid                                       |               |
 | 20. blow                                      |               |
