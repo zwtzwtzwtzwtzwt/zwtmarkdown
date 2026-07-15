@@ -33,8 +33,8 @@
 | 29. <font color="#00b050">cater</font>        | （满足   承办）     |
 | 30. <font color="#00b050">chamber</font>      | 室  （房间）       |
 | 31. <font color="#00b050">chancellor</font>   | （财政大臣）        |
-| 32. cheat                                     | 欺骗            |
-| 33. <font color="#00b050">cheque</font>       |               |
+| 32. cheat                                     | 欺骗 （作弊）       |
+| 33. <font color="#00b050">cheque</font>       | （支票）          |
 | 34. clone                                     | 克隆            |
 | 35. clue                                      | 线索            |
 | 36. coach                                     | 教练            |
