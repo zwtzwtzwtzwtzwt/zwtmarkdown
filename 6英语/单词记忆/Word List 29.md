@@ -8,16 +8,16 @@
 | 4. lounge                                   | 公共休息室  坐        |     |
 | 5. loyalty                                  | 忠诚              |     |
 | 6. luggage                                  | 行李              |     |
-| 7. lumber                                   | 木材 杂物           |     |
+| 7. <font color="#00b050">lumber</font>      | 木材 杂物           |     |
 | 8. <font color="#00b050">lump</font>        | 归并  块  肿块       |     |
 | 9. march                                    | 游行  进行曲 进军      |     |
 | 10. mask                                    | 掩盖  面罩 口罩       |     |
 | 11. mayor                                   | 市长              |     |
-| 12. medieval                                | 中世纪的            |     |
-| 13. menace                                  | 威胁              |     |
-| 14. mercury                                 | 水银              |     |
+| 12. <font color="#00b050">medieval</font>   | 中世纪的            |     |
+| 13. <font color="#00b050">menace</font>     | 威胁              |     |
+| 14. <font color="#00b050">mercury</font>    | 水银              |     |
 | 15. mercy                                   | 仁慈  宽恕          |     |
-| 16. mill                                    | 工厂  碾碎          |     |
+| 16. <font color="#00b050">mill</font>       | 工厂  碾碎          |     |
 | 17. molecule                                | 分子              |     |
 | 18. momentum                                | 势头              |     |
 | 19. monster                                 | 怪物 巨大的          |     |
