@@ -47,9 +47,9 @@
 | 43. <font color="#00b050">cucumber</font>   |               |
 | 44. cue                                     |               |
 | 45. dare                                    |               |
-| 46. dean                                    |               |
-| 47. decay                                   |               |
-| 48. decorate                                |               |
+| 46. <font color="#00b050">dean</font>       |               |
+| 47. <font color="#00b050">decay</font>      |               |
+| 48. <font color="#00b050">decorate</font>   |               |
 | 49. deem                                    |               |
 | 50. delight                                 |               |
 | 51. deploy                                  |               |
