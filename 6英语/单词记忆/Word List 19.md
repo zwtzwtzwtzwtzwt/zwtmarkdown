@@ -57,11 +57,11 @@
 | 53. <font color="#00b050">disappoint</font>   | 失望的           |
 | 54. <font color="#00b050">discard</font>      |               |
 | 55. disguise                                  | 伪装            |
-| 56. dislike                                   |               |
+| 56. dislike                                   | 不喜欢           |
 | 57. <font color="#00b050">doom</font>         |               |
 | 58. <font color="#00b050">drought</font>      |               |
-| 59. <font color="#00b050">eager</font>        |               |
-| 60. edge                                      |               |
+| 59. <font color="#00b050">eager</font>        | 渴望            |
+| 60. edge                                      | 边缘            |
 | 61. elementary                                |               |
 | 62. <font color="#00b050">embryo</font>       |               |
 | 63. emergency                                 |               |
