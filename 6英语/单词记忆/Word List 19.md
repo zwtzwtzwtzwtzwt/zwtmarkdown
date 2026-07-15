@@ -29,8 +29,8 @@
 | 25. brush                                     | 刷             |
 | 26. cable                                     | 有能力的          |
 | 27. calendar                                  | 日程            |
-| 28. <font color="#00b050">calm</font>         | （）            |
-| 29. <font color="#00b050">cater</font>        | 适合            |
+| 28. <font color="#00b050">calm</font>         | （镇静的 平静的      |
+| 29. <font color="#00b050">cater</font>        | （满足   ）       |
 | 30. <font color="#00b050">chamber</font>      | 室             |
 | 31. <font color="#00b050">chancellor</font>   |               |
 | 32. cheat                                     | 欺骗            |
