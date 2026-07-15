@@ -38,7 +38,7 @@
 | 34. clone                                     | 克隆            |
 | 35. clue                                      | 线索            |
 | 36. coach                                     | 教练            |
-| 37. <font color="#00b050">comply</font>       |               |
+| 37. <font color="#00b050">comply</font>       | （）            |
 | 38. <font color="#00b050">correlate</font>    |               |
 | 39. <font color="#00b050">courtesy</font>     |               |
 | 40. <font color="#00b050">crack</font>        |               |
