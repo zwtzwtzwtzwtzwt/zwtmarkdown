@@ -69,6 +69,6 @@
 | 65. enrich                                                                                            | 富裕            |
 | 66. <font color="#00b050">enterprise</font>                                                           | 企业 （事业）       |
 | 67. <font color="#00b050">enthusiastic</font>                                                         | 热情            |
-| 68. equip                                                                                             | 装备  配备 （能够）   |
+| 68. equip                                                                                             | 装备  配备 （能够胜任） |
 | 69. excitement                                                                                        | 兴奋            |
 | 70. exploit                                                                                           | 剥削            |
