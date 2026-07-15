@@ -33,10 +33,10 @@
 | 29. <font color="#00b050">cater</font>        | 适合            |
 | 30. <font color="#00b050">chamber</font>      | 室             |
 | 31. <font color="#00b050">chancellor</font>   |               |
-| 32. cheat                                     |               |
+| 32. cheat                                     | 欺骗            |
 | 33. <font color="#00b050">cheque</font>       |               |
-| 34. clone                                     |               |
-| 35. clue                                      |               |
+| 34. clone                                     | 克隆            |
+| 35. clue                                      | 线索            |
 | 36. coach                                     |               |
 | 37. <font color="#00b050">comply</font>       |               |
 | 38. <font color="#00b050">correlate</font>    |               |
