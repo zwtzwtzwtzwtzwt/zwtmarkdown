@@ -20,8 +20,8 @@
 | 16. battery                                                                                           | 电池  一系列       |
 | 17. <font color="#00b050">beam</font>                                                                 | （光线   梁）      |
 | 18. <font color="#00b050">betray</font>                                                               | （暴露  背弃  ）    |
-| 19. <font color="#00b050">bid                             </font>                                     | 投标（出价）        |
-| 20. <font color="#00b050">blow</font>                                                                 | 吹             |
+| 19. <font color="#00b050">bid                             </font>                                     | 投标（出价  努力尝试）  |
+| 20. <font color="#00b050">blow</font>                                                                 | （挫折 打击）吹      |
 | 21. <font color="#00b050">bold                             </font>                                    | 勇敢的 坚硬的       |
 | 22. bother                                                                                            | 打扰            |
 | 23. breath                                                                                            | 呼吸            |
