@@ -16,17 +16,17 @@
 | 12. <font color="#00b050">furnace</font>   | 火炉 （熔炉）           |
 | 13. <font color="#00b050">furnish</font>   | （提供  供应 布置家具）     |
 | 14. gaze                                   | 盯着 凝视             |
-| 15. genuine                                | 真诚的 真正的           |
+| 15. <font color="#00b050">genuine</font>   | 真诚的 真正的           |
 | 16. glance                                 | 一瞥  浏览 略看         |
 | 17. grasp                                  | 抓住  理解 掌握 领会      |
 | 18. harsh                                  | 严厉的 刺耳的 （艰苦严酷的）   |
 | 19. harvest                                | 收获 0（收成  收割）      |
 | 20. heaven                                 | 天堂  天空            |
 | 21. helmet                                 | 头盔                |
-| 22. hinder                                 | 阻碍                |
+| 22. <font color="#00b050">hinder</font>    | 阻碍                |
 | 23. holder                                 | 拥有者               |
 | 24. horizon                                | 视野 见识  地平线        |
-| 25. hormone                                | 激素  荷尔蒙           |
+| 25. <font color="#00b050">hormone</font>   | 激素  荷尔蒙           |
 | 26. illness                                | （疾病 犯病期）          |
 | 27. index                                  | 指标 0（指数）          |
 | 28. initiate                               | 开始 （使了解 新人）       |
