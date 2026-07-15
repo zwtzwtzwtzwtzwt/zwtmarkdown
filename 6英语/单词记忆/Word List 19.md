@@ -63,7 +63,7 @@
 | 59. <font color="#00b050">eager</font>        | 渴望的           |
 | 60. edge                                      | 边缘            |
 | 61. elementary                                | 基本的           |
-| 62. <font color="#00b050">embryo</font>       | （胚胎  ）        |
+| 62. <font color="#00b050">embryo</font>       | （胚胎  萌芽的）     |
 | 63. emergency                                 | 紧急情况          |
 | 64. engagement                                | 参与            |
 | 65. enrich                                    | 富裕            |
