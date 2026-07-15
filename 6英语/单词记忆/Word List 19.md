@@ -21,7 +21,7 @@
 | 17. <font color="#00b050">beam</font>                                                                 | （光线   梁）      |
 | 18. <font color="#00b050">betray</font>                                                               | （暴露  背弃  ）    |
 | 19. <font color="#00b050">bid                             </font>                                     | 投标            |
-| 20. blow                                                                                              | 吹             |
+| 20. <font color="#00b050">blow</font>                                                                 | 吹             |
 | 21. bold                                                                                              | 勇敢的 坚硬的       |
 | 22. bother                                                                                            | 打扰            |
 | 23. breath                                                                                            | 呼吸            |
