@@ -64,8 +64,8 @@
 | 60. edge                                      | 边缘            |
 | 61. elementary                                | 基本的           |
 | 62. <font color="#00b050">embryo</font>       |               |
-| 63. emergency                                 |               |
-| 64. engagement                                |               |
+| 63. emergency                                 | 紧急情况          |
+| 64. engagement                                | 参与            |
 | 65. enrich                                    |               |
 | 66. <font color="#00b050">enterprise</font>   |               |
 | 67. <font color="#00b050">enthusiastic</font> |               |
