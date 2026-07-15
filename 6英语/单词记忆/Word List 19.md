@@ -2,7 +2,7 @@
 
 | 英文单词                                          | 0             |
 | --------------------------------------------- | ------------- |
-| 1. academy                                    | 学院 研究院  学会    |
+| 1. <font color="#00b050">academy</font>       | 学院 研究院  学会    |
 | 2. acceptance                                 | 接受 赞成 认可      |
 | 3. acre                                       | 英亩            |
 | 4. afterwards                                 | 后来            |
@@ -71,4 +71,4 @@
 | 67. <font color="#00b050">enthusiastic</font> | 热情            |
 | 68. equip                                     | 装备  配备        |
 | 69. excitement                                | 兴奋            |
-| 70. exploit                                   |               |
+| 70. exploit                                   | 剥削            |
