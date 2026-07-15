@@ -46,12 +46,12 @@
 | 42. <font color="#00b050">lure</font>      | 引诱  诱惑  诱惑力       |
 | 43. mathematics                            | 数学  （计算）          |
 | 44. mathematical                           | 数学的               |
-| 45. medal                                  | 奖牌                |
-| 46. medium                                 | 媒介   中等的  媒体      |
-| 47. melt                                   | 融化 使心软            |
-| 48. metal                                  | 金属的               |
+| 45. <font color="#00b050">medal</font>     | 奖牌                |
+| 46. <font color="#00b050">medium</font>    | 媒介   中等的  媒体      |
+| 47. <font color="#00b050">melt</font>      | 融化 使心软            |
+| 48. <font color="#00b050">metal</font>     | 金属的               |
 | 49. mild                                   | 轻微的               |
-| 50. mineral                                | 矿物的 矿物质的          |
+| 50. <font color="#00b050">mineral</font>   | 矿物的 矿物质的          |
 | 51. minor                                  | 小的 未成年的 轻微的       |
 | 52. mislead                                | 误导                |
 | 53. mock                                   | 嘲讽   虚假的 仿制的      |
