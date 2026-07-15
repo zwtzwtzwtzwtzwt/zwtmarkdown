@@ -47,8 +47,8 @@
 | 43. <font color="#00b050">cucumber</font>     | （黄瓜）          |
 | 44. cue                                       | 暗示            |
 | 45. dare                                      | 敢于            |
-| 46. <font color="#00b050">dean</font>         | （）            |
-| 47. <font color="#00b050">decay</font>        | 背叛            |
+| 46. <font color="#00b050">dean</font>         | （院长）          |
+| 47. <font color="#00b050">decay</font>        | （衰败  ）        |
 | 48. <font color="#00b050">decorate</font>     | 装饰            |
 | 49. deem                                      | 似乎            |
 | 50. delight                                   | 高兴的           |
