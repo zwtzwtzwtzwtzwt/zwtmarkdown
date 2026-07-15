@@ -21,8 +21,8 @@
 | 17. <font color="#00b050">beam</font>         | （光线   梁）      |
 | 18. betray                                    | （暴露  背弃  ）    |
 | 19. bid                                       | 投标            |
-| 20. blow                                      |               |
-| 21. bold                                      |               |
+| 20. blow                                      | 吹             |
+| 21. bold                                      | 勇敢的           |
 | 22. bother                                    |               |
 | 23. breath                                    |               |
 | 24. breathe                                   |               |
