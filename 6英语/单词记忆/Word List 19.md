@@ -66,9 +66,9 @@
 | 62. <font color="#00b050">embryo</font>       |               |
 | 63. emergency                                 | 紧急情况          |
 | 64. engagement                                | 参与            |
-| 65. enrich                                    |               |
-| 66. <font color="#00b050">enterprise</font>   |               |
-| 67. <font color="#00b050">enthusiastic</font> |               |
+| 65. enrich                                    | 富裕            |
+| 66. <font color="#00b050">enterprise</font>   | 企业            |
+| 67. <font color="#00b050">enthusiastic</font> | 热情            |
 | 68. equip                                     |               |
 | 69. excitement                                |               |
 | 70. exploit                                   |               |
