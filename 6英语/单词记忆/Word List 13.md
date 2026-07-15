@@ -4,7 +4,7 @@
 | -------------------------------------------- | ------------------ |
 | 1. abolish                                   | 废除                 |
 | 2. activate                                  | 激活                 |
-| 3. agenda                                    | 日程                 |
+| 3. <font color="#00b050">agenda</font>       | 日程                 |
 | 4. alcohol                                   | 酒精                 |
 | 5. <font color="#00b050">alien</font>        | （外国人  外侨  陌生的）     |
 | 6. ambitious                                 | 有决心的               |
