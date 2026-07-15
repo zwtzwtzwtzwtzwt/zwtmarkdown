@@ -25,9 +25,9 @@
 | 21. bold                                      | 勇敢的 坚硬的       |
 | 22. bother                                    | 打扰            |
 | 23. breath                                    | 呼吸            |
-| 24. breathe                                   |               |
-| 25. brush                                     |               |
-| 26. cable                                     |               |
+| 24. breathe                                   | 呼吸            |
+| 25. brush                                     | 刷             |
+| 26. cable                                     | 有能力的          |
 | 27. calendar                                  |               |
 | 28. <font color="#00b050">calm</font>         |               |
 | 29. <font color="#00b050">cater</font>        |               |
