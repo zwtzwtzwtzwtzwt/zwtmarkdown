@@ -42,8 +42,8 @@
 | 38. <font color="#00b050">correlate</font>    | （密切相关）        |
 | 39. <font color="#00b050">courtesy</font>     | （礼貌）          |
 | 40. <font color="#00b050">crack</font>        | （裂缝   裂开 解决）  |
-| 41. creep                                     | 爬行  (融入  )    |
-| 42. crowd                                     | 拥挤的           |
+| 41. creep                                     | 爬行  (融入  悄悄)  |
+| 42. <font color="#00b050">crowd</font>        |               |
 | 43. <font color="#00b050">cucumber</font>     |               |
 | 44. cue                                       | 暗示            |
 | 45. dare                                      | 敢于            |
