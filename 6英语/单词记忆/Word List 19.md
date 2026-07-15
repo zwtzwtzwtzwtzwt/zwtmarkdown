@@ -62,7 +62,7 @@
 | 58. <font color="#00b050">drought</font>      |               |
 | 59. <font color="#00b050">eager</font>        | 渴望            |
 | 60. edge                                      | 边缘            |
-| 61. elementary                                |               |
+| 61. elementary                                | 基本的           |
 | 62. <font color="#00b050">embryo</font>       |               |
 | 63. emergency                                 |               |
 | 64. engagement                                |               |
