@@ -27,7 +27,7 @@
 | 23. breath                                                                                            | 呼吸            |
 | 24. breathe                                                                                           | 呼吸            |
 | 25. brush                                                                                             | 刷             |
-| 26. cable                                                                                             | 有能力的          |
+| 26. <font color="#ff0000">cable                             </font>                                   | 有能力的          |
 | 27. calendar                                                                                          | 日程            |
 | 28. <font color="#00b050">calm</font>                                                                 | （镇静的 平静的      |
 | 29. <font color="#00b050">cater</font>                                                                | （满足   承办）     |
