@@ -37,13 +37,13 @@
 | 33. <font color="#00b050">cheque</font>       |               |
 | 34. clone                                     | 克隆            |
 | 35. clue                                      | 线索            |
-| 36. coach                                     |               |
+| 36. coach                                     | 教练            |
 | 37. <font color="#00b050">comply</font>       |               |
 | 38. <font color="#00b050">correlate</font>    |               |
 | 39. <font color="#00b050">courtesy</font>     |               |
 | 40. <font color="#00b050">crack</font>        |               |
-| 41. creep                                     |               |
-| 42. crowd                                     |               |
+| 41. creep                                     | 爬行            |
+| 42. crowd                                     | 拥挤的           |
 | 43. <font color="#00b050">cucumber</font>     |               |
 | 44. cue                                       |               |
 | 45. dare                                      |               |
