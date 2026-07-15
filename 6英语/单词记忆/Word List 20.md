@@ -8,13 +8,13 @@
 | 4. fantastic                               | 奇幻的  极好的          |
 | 5. fellow                                  | 同伴的 同伴            |
 | 6. fetch                                   | 卖得  拿来            |
-| 7. flash                                   | 闪光 闪现 0（奢华的）      |
+| 7. <font color="#00b050">flash</font>      | 闪光 闪现 0（奢华的）      |
 | 8. flaw                                    | 缺陷 缺点 瑕疵          |
 | 9. float                                   | 漂浮 （提出 彩车）        |
 | 10. foresee                                | 预知 预见             |
 | 11. frank                                  | 坦率的 坦诚地           |
-| 12. furnace                                | 火炉 （熔炉）           |
-| 13. furnish                                | （提供  供应 布置家具）     |
+| 12. <font color="#00b050">furnace</font>   | 火炉 （熔炉）           |
+| 13. <font color="#00b050">furnish</font>   | （提供  供应 布置家具）     |
 | 14. gaze                                   | 盯着 凝视             |
 | 15. genuine                                | 真诚的 真正的           |
 | 16. glance                                 | 一瞥  浏览 略看         |
