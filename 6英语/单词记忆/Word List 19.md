@@ -65,7 +65,7 @@
 | 61. elementary                                                                                        | 基本的           |
 | 62. <font color="#00b050">embryo</font>                                                               | （胚胎  萌芽的）     |
 | 63. emergency                                                                                         | 紧急情况          |
-| 64. <font color="#00b050"><font color="#ff0000">engagement</font>                             </font> | 参与            |
+| 64. <font color="#00b050"><font color="#ff0000">engagement</font>                             </font> | 参与 （约会）       |
 | 65. enrich                                                                                            | 富裕            |
 | 66. <font color="#00b050">enterprise</font>                                                           | 企业            |
 | 67. <font color="#00b050">enthusiastic</font>                                                         | 热情            |
