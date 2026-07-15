@@ -16,7 +16,7 @@
 | 12. awkward                                | 尴尬的           |
 | 13. bachelor                               | 学士  单身汉       |
 | 14. backward                               | 向后的 迟钝的 倒着    |
-| 15. bargain                                | 便宜货  协议  讨价还价 |
+| 15. <font color="#00b050">bargain</font>   | 便宜货  协议  讨价还价 |
 | 16. battery                                | 电池  一系列       |
 | 17. beam                                   |               |
 | 18. betray                                 |               |
