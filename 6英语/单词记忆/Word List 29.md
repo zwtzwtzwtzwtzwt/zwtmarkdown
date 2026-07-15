@@ -22,12 +22,12 @@
 | 18. <font color="#00b050">momentum</font>   | 势头              |     |
 | 19. monster                                 | 怪物 巨大的          |     |
 | 20. <font color="#00b050">mould</font>      | 形成  霉菌  类型      |     |
-| 21. municipal                               | 地方政府的           |     |
+| 21. <font color="#00b050">municipal</font>  | 地方政府的           |     |
 | 22. murder                                  | 谋杀              |     |
 | 23. necklace                                | 项链              |     |
 | 24. nickname                                | 绰号  外号          |     |
 | 25. nursery                                 | 托儿所  幼儿教育的      |     |
-| 26. obedient                                | 顺从的             |     |
+| 26. <font color="#00b050">obedient</font>   | 顺从的             |     |
 | 27. obey                                    | 遵从 服从           |     |
 | 28. odds                                    | 概率  不利条件        |     |
 | 29. offspring                               | 孩子 后代 幼崽        |     |
