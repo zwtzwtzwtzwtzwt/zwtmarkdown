@@ -58,8 +58,8 @@
 | 54. <font color="#00b050">discard</font>      | （抛弃  丢弃）      |
 | 55. disguise                                  | 伪装            |
 | 56. dislike                                   | 不喜欢           |
-| 57. <font color="#00b050">doom</font>         |               |
-| 58. <font color="#00b050">drought</font>      |               |
+| 57. <font color="#00b050">doom</font>         | （厄运   ）       |
+| 58. <font color="#00b050">drought</font>      | （）            |
 | 59. <font color="#00b050">eager</font>        | 渴望            |
 | 60. edge                                      | 边缘            |
 | 61. elementary                                | 基本的           |
