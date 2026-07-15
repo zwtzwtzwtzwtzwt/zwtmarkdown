@@ -53,10 +53,10 @@
 | 49. deem                                      | 似乎            |
 | 50. delight                                   | 高兴的           |
 | 51. <font color="#00b050">deploy</font>       |               |
-| 52. diligent                                  |               |
-| 53. <font color="#00b050">disappoint</font>   |               |
+| 52. diligent                                  | 勤奋的           |
+| 53. <font color="#00b050">disappoint</font>   | 失望的           |
 | 54. <font color="#00b050">discard</font>      |               |
-| 55. disguise                                  |               |
+| 55. disguise                                  | 伪装            |
 | 56. dislike                                   |               |
 | 57. <font color="#00b050">doom</font>         |               |
 | 58. <font color="#00b050">drought</font>      |               |
