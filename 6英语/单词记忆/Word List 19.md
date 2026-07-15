@@ -54,8 +54,8 @@
 | 50. delight                                   | 高兴的           |
 | 51. <font color="#00b050">deploy</font>       | （利用 部署 调度）    |
 | 52. diligent                                  | 勤奋的           |
-| 53. <font color="#00b050">disappoint</font>   | 失望的           |
-| 54. <font color="#00b050">discard</font>      |               |
+| 53. <font color="#00b050">disappoint</font>   | 失望            |
+| 54. <font color="#00b050">discard</font>      | （抛弃  丢弃）      |
 | 55. disguise                                  | 伪装            |
 | 56. dislike                                   | 不喜欢           |
 | 57. <font color="#00b050">doom</font>         |               |
