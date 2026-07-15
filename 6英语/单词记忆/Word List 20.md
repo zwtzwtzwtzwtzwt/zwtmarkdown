@@ -29,14 +29,14 @@
 | 25. <font color="#00b050">hormone</font>   | 激素  荷尔蒙           |
 | 26. illness                                | （疾病 犯病期）          |
 | 27. index                                  | 指标 0（指数）          |
-| 28. initiate                               | 开始 （使了解 新人）       |
+| 28. <font color="#00b050">initiate</font>  | 开始 （使了解 新人）       |
 | 29. injury                                 | 伤害                |
 | 30. inner                                  | 内部的 内心的           |
 | 31. keen                                   | 热衷于  0（强烈的）       |
 | 32. ladder                                 | 阶梯  梯子            |
-| 33. lane                                   | 道 0（车道 小路）        |
+| 33. <font color="#00b050">lane</font>      | 道 0（车道 小路）        |
 | 34. laser                                  | 激光  激光器           |
-| 35. lawn                                   | 草坪 草地             |
+| 35. <font color="#00b050">lawn</font>      | 草坪 草地             |
 | 36. layer                                  | 层 层级  阶级          |
 | 37. lest                                   | 唯恐 免得 避免          |
 | 38. limb                                   | 臂 腿 边缘  边缘树枝      |
