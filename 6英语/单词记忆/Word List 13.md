@@ -68,8 +68,8 @@
 | 64. <font color="#00b050">dictate</font>     | （支配   影响 口述）       |
 | 65. dose                                     | （一剂 ）              |
 | 66. <font color="#00b050">mandate</font>     | （指令  委托）           |
-| 67. edition                                  | （版本  版次）           |
-| 68. division                                 | 分开 （分配  分歧 差异）     |
+| 67. <font color="#00b050">edition</font>     | （版本  版次）           |
+| 68. <font color="#00b050">division</font>    | 分开 （分配  分歧 差异）     |
 | 69. document                                 | 文件（文献  记录）         |
 | 70. <font color="#00b050">paradox</font>     | （悖论  矛盾的）          |
 | 71. <font color="#00b050">drastic</font>     | （急剧的  严重的）         |
