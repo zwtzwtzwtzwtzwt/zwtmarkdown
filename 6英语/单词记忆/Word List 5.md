@@ -13,8 +13,8 @@
 | 9. apply                                       | 运用 （应用  申请 请求）         |
 | 10. imply                                      | 暗示（表明  说明）             |
 | 11. complex                                    | 复杂的   （建筑群）            |
-| 12. application                                | 运用  申请                 |
 | 13. <font color="#00b050">implication</font>   | （影响 含义）                |
+| 12. application                                | 运用  申请                 |
 | 14. <font color="#00b050">complicated</font>   | 复杂的                    |
 | 15. <font color="#00b050">political</font>     | （政治的 政党的）              |
 | 16. <font color="#00b050">politics</font>      | （政治）                   |
