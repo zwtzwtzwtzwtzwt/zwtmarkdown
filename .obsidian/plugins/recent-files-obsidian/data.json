@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6英语/单词记忆/未命名.md"
+    },
+    {
+      "basename": "Word List 1",
+      "path": "6英语/单词记忆/Word List 1.md"
+    },
+    {
+      "basename": "关键路径",
+      "path": "2数据结构/7图/关键路径.md"
+    },
+    {
+      "basename": "拓补排序",
+      "path": "2数据结构/7图/拓补排序.md"
+    },
+    {
+      "basename": "floyd算法",
+      "path": "2数据结构/7图/floyd算法.md"
+    },
+    {
+      "basename": "有向无环图（DAG）描述表达式",
+      "path": "2数据结构/7图/有向无环图（DAG）描述表达式.md"
+    },
+    {
+      "basename": "图的广度优先遍历",
+      "path": "2数据结构/7图/图的广度优先遍历.md"
+    },
+    {
+      "basename": "图的深度优先遍历",
+      "path": "2数据结构/7图/图的深度优先遍历.md"
+    },
+    {
+      "basename": "最小生成树",
+      "path": "2数据结构/7图/最小生成树.md"
+    },
+    {
+      "basename": "图的基本操作",
+      "path": "2数据结构/7图/图的基本操作.md"
+    },
+    {
+      "basename": "邻接矩阵法  （顺序存储）",
+      "path": "2数据结构/7图/邻接矩阵法  （顺序存储）.md"
+    },
+    {
+      "basename": "十字链表法 邻接多重表",
+      "path": "2数据结构/7图/十字链表法 邻接多重表.md"
+    },
+    {
+      "basename": "邻接表法   顺序存储+链式存储",
+      "path": "2数据结构/7图/邻接表法   顺序存储+链式存储.md"
+    },
+    {
+      "basename": "图的基本概念",
+      "path": "2数据结构/7图/图的基本概念.md"
+    },
+    {
       "basename": "并查集（双亲表示法）",
       "path": "2数据结构/6树/5树和二叉树的应用/并查集（双亲表示法）.md"
     },
@@ -155,10 +211,6 @@
     {
       "basename": "Word List 2",
       "path": "6英语/单词记忆/Word List 2.md"
-    },
-    {
-      "basename": "Word List 1",
-      "path": "6英语/单词记忆/Word List 1.md"
     },
     {
       "basename": "Word List 18",
