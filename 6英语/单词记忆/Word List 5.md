@@ -36,7 +36,7 @@
 | 32. <font color="#00b050">practical</font>     | 实际的  （实践的   实用的）       |
 | 33. <font color="#00b050">appreciate</font>    | （欣赏  重视  感激  意识到）      |
 | 34. praise                                     | 表扬 （称赞）                |
-| 35. comprehension                              | 理解力                    |
+| 35. <font color="#00b050">comprehension</font> | 理解力                    |
 | 36. <font color="#ff0000">comprehensive</font> | （全面的  详细的）             |
 | 37. expression                                 | 表达 （表情）                |
 | 38. <font color="#00b050">principle</font>     | （原则 ）                  |
