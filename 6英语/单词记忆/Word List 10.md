@@ -42,7 +42,7 @@
 | 38. entrepreneur                                                                              | 企业（家）             |
 | 39. equipment                                                                                 | 装备（设备）            |
 | 40. <font color="#00b050">evolve</font>                                                       | （进化  发展为）         |
-| 41. evolution                                                                                 | 进化                |
+| 41. <font color="#00b050">evolution</font>                                                    | 进化                |
 | 42. examine                                                                                   | 考核（调查）            |
 | 43. examination                                                                               | 考核 （检查）           |
 | 44. <font color="#00b050">excessive</font>                                                    | （过分的）             |
