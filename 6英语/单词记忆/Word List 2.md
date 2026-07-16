@@ -46,7 +46,7 @@
 | 42. <font color="#00b050">electronic</font>                            | （电子的）                   |
 | 43. equality                                                           | 平等                      |
 | 44. adequate                                                           | 足够的                     |
-| 45. estimate                                                           | 估计 预估                   |
+| 45. <font color="#00b050">estimate</font>                              | 估计 预估                   |
 | 46. <font color="#ff0000">ethic</font>                                 | 道德 （伦理学）                |
 | 47. inevitable                                                         | 不可避免的                   |
 | 48. extreme                                                            | 极端的  （极端的）              |
