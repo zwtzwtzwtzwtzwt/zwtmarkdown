@@ -71,7 +71,7 @@
 | 66. <font color="#00b050">contrast</font>                                                    | 对比                      |
 | 67. <font color="#00b050">estate</font>                                                      | （庄园  遗产）                |
 | 68. <font color="#00b050">distinction</font>                                                 | （差别  区别  优秀）            |
-| 69. distinguish                                                                              | 分辨  （区分 听出）             |
+| 69. <font color="#00b050">distinguish</font>                                                 | 分辨  （区分 听出）             |
 | 70. stimulate                                                                                | 促进 （刺激 激励）              |
 | 71. <font color="#00b050">constitute</font>                                                  | （组成 构成  是）              |
 | 72. <font color="#00b050">institute</font>                                                   | （指定  提出  机构 学院）         |
