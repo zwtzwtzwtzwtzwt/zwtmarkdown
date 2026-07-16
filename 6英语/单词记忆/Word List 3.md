@@ -86,7 +86,7 @@
 | 82. <font color="#00b050">mental</font>                                                      | （心理上的   脑力 智力的）     |
 | 83. commercial                                                                               | 贸易的 （商业的）           |
 | 84. emerge                                                                                   | 浮现                  |
-| 85. immigrant                                                                                | （移民）                |
+| 85. <font color="#00b050">immigrant</font>                                                   | （移民）                |
 | 86. military                                                                                 | 军事的 （军队的）           |
 | 87. <font color="#00b050">diminish</font>                                                    | （减少   降低  削弱）       |
 | 88. minimum                                                                                  | 最小的                 |
