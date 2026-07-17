@@ -81,7 +81,7 @@
 | 75. <font color="#00b050">reform</font>                                                     | 改革 （改进）           |
 | 76. refuse                                                                                  | 拒绝（垃圾）            |
 | 77. regard                                                                                  | 视为  （看待 关心）       |
-| 78. <font color="#00b050">regardless</font>                                                 |                   |
+| 78. <font color="#00b050">regardless</font>                                                 | （无论 不管）           |
 | 79. register                                                                                | 注册 （登记）           |
 | 80. regret                                                                                  | 后悔（遗憾）            |
 | 81. <font color="#00b050">relate</font>                                                     | （相关  有关联 讲述）      |
