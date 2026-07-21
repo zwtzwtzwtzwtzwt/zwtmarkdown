@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "最小生成树",
+      "path": "2数据结构/7图/最小生成树.md"
+    },
+    {
       "basename": "判断图是否有回路的方法",
       "path": "2数据结构/7图/判断图是否有回路的方法.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "最短路径问题-Dijkstra算法",
       "path": "2数据结构/7图/最短路径问题-Dijkstra算法.md"
-    },
-    {
-      "basename": "最小生成树",
-      "path": "2数据结构/7图/最小生成树.md"
     },
     {
       "basename": "图的基本概念",
