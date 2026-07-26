@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "2数据结构/9查找/B树/未命名.md"
+    },
+    {
+      "basename": "1高数",
+      "path": "1高数/1高数.md"
+    },
+    {
       "basename": "求极限方法",
       "path": "1高数/1-2极限/记忆内容/求极限方法.md"
     },
@@ -363,10 +371,6 @@
     {
       "basename": "5操作系统",
       "path": "5操作系统/5操作系统.md"
-    },
-    {
-      "basename": "1高数",
-      "path": "1高数/1高数.md"
     }
   ],
   "omittedPaths": [],
