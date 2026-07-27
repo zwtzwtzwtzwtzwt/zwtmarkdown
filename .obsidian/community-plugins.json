@@ -20,5 +20,8 @@
   "vscode-editor",
   "obsidian-advanced-slides",
   "images-preview",
-  "obsidian-show-file-path"
+  "obsidian-show-file-path",
+  "excalibrain",
+  "dataview",
+  "obsidian-excalidraw-plugin"
 ]
