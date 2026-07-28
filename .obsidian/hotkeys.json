@@ -41,5 +41,13 @@
       ],
       "key": "."
     }
+  ],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
   ]
 }
