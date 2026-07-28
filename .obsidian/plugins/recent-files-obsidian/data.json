@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "练习题目",
+      "path": "1高数/3微分中值定理与导数应用/题目/练习题目.md"
+    },
+    {
+      "basename": "答案",
+      "path": "1高数/3微分中值定理与导数应用/题目/答案.md"
+    },
+    {
       "basename": "基本知识点",
       "path": "1高数/3微分中值定理与导数应用/记忆内容/基本知识点.md"
+    },
+    {
+      "basename": "严格单调与非严格（导数）",
+      "path": "1高数/1-1函数/2函数的性态（强化）/严格单调与非严格（导数）.md"
+    },
+    {
+      "basename": "第二节 导数应用",
+      "path": "数学讲义/高数强化讲义-拆分/第二章 一元函数微分学/第二节 导数应用.pdf"
+    },
+    {
+      "basename": "常数函数的极值与驻点分析",
+      "path": "1高数/3微分中值定理与导数应用/注意事项/常数函数的极值与驻点分析.md"
+    },
+    {
+      "basename": "Drawing 2026-07-27 16.37.11.excalidraw",
+      "path": "Excalidraw/Drawing 2026-07-27 16.37.11.excalidraw.md"
     },
     {
       "basename": "求斜渐近线的快速方法",
@@ -297,10 +321,6 @@
       "path": "Excalidraw/Drawing 2026-07-27 16.37.37.excalidraw.md"
     },
     {
-      "basename": "Drawing 2026-07-27 16.37.11.excalidraw",
-      "path": "Excalidraw/Drawing 2026-07-27 16.37.11.excalidraw.md"
-    },
-    {
       "basename": "Drawing 2026-07-27 16.34.54.excalidraw",
       "path": "Excalidraw/Drawing 2026-07-27 16.34.54.excalidraw.md"
     },
@@ -375,10 +395,6 @@
     {
       "basename": "某一点的导数判断",
       "path": "1高数/1-1函数/2函数的性态（强化）/某一点的导数判断.md"
-    },
-    {
-      "basename": "严格单调与非严格（导数）",
-      "path": "1高数/1-1函数/2函数的性态（强化）/严格单调与非严格（导数）.md"
     },
     {
       "basename": "1-1函数",
