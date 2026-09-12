@@ -66,3 +66,4 @@
 
 # traceroute  
 
+![](./assets/icmp协议（差错报告）/icmp协议（差错报告）-1789205901099.webp)
