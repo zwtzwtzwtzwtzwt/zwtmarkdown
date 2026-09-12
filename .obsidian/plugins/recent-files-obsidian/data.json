@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "流程分析",
+      "path": "3计算机网络/4网络层/流程分析.md"
+    },
+    {
       "basename": "子网划分和子网掩码",
       "path": "3计算机网络/4网络层/子网划分和子网掩码.md"
+    },
+    {
+      "basename": "公网ip和内网ip",
+      "path": "3计算机网络/扩展内容/公网ip和内网ip.md"
+    },
+    {
+      "basename": "ip地址",
+      "path": "3计算机网络/4网络层/ip地址.md"
     },
     {
       "basename": "ipv4分组 数据报分片",
@@ -11,10 +23,6 @@
     {
       "basename": "二进制记忆",
       "path": "4计算机组成原理/强化记忆/二进制记忆.md"
-    },
-    {
-      "basename": "ip地址",
-      "path": "3计算机网络/4网络层/ip地址.md"
     },
     {
       "basename": "冲突域  广播域",
@@ -75,10 +83,6 @@
     {
       "basename": "网段",
       "path": "3计算机网络/扩展内容/网段.md"
-    },
-    {
-      "basename": "公网ip和内网ip",
-      "path": "3计算机网络/4网络层/公网ip和内网ip.md"
     },
     {
       "basename": "网络层的的功能",
@@ -195,10 +199,6 @@
     {
       "basename": "编码和调制",
       "path": "3计算机网络/2物理层/编码和调制.md"
-    },
-    {
-      "basename": "以太网和IEEE802.3",
-      "path": "3计算机网络/3数据链路层/局域网/以太网和IEEE802.3.md"
     }
   ],
   "omittedPaths": [],
