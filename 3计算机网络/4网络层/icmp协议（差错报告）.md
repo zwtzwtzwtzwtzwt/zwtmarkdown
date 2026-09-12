@@ -64,7 +64,9 @@
 
 
 
-# traceroute  （追踪 路由器路径）
+# traceroute  （追踪 路由器路径  利用时间超过报文）
 
 ![](./assets/icmp协议（差错报告）/icmp协议（差错报告）-1789205901099.webp)  
+
+![](./assets/icmp协议（差错报告）/icmp协议（差错报告）-1789206035191.webp)  
 
