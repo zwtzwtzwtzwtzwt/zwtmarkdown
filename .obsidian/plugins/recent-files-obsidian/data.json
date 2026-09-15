@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rip的优点",
+      "path": "3计算机网络/4网络层/路由协议/rip协议/rip的优点.md"
+    },
+    {
       "basename": "rip协议缺点",
       "path": "3计算机网络/4网络层/路由协议/rip协议/rip协议缺点.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tcp协议框架梳理",
       "path": "3计算机网络/5传输层/tcp/tcp协议框架梳理.md"
-    },
-    {
-      "basename": "传输方式",
-      "path": "3计算机网络/2物理层/传输方式.md"
     }
   ],
   "omittedPaths": [],
