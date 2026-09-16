@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ospf的特点",
+      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的特点.md"
+    },
+    {
       "basename": "rip的优点",
       "path": "3计算机网络/4网络层/路由协议/rip协议/rip的优点.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tcp报文段格式",
       "path": "3计算机网络/5传输层/tcp/tcp报文段格式.md"
-    },
-    {
-      "basename": "tcp协议框架梳理",
-      "path": "3计算机网络/5传输层/tcp/tcp协议框架梳理.md"
     }
   ],
   "omittedPaths": [],
