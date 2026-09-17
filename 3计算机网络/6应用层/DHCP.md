@@ -23,4 +23,7 @@ dhcp 接收到主机发过来的分配 ip 的请求时     每个 dhcp 都会去
 此时  主机选取其中的一个  并不能用它  而是返回一个报文  告诉自己会使用哪个报文  
 
 ## acknowledge  
-![](./assets/DHCP/DHCP-1789637059500.webp)
+![](./assets/DHCP/DHCP-1789637059500.webp)  
+
+# 总结  
+![](./assets/DHCP/DHCP-1789637141482.webp)
