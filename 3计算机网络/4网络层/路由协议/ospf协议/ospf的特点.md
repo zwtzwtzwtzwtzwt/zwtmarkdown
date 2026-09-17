@@ -37,4 +37,8 @@
 ![](./assets/ospf的特点/ospf的特点-1789628759668.webp)
 
 
-![](./assets/ospf的特点/ospf的特点-1789628808027.webp)
+![](./assets/ospf的特点/ospf的特点-1789628808027.webp)  
+
+
+# 总结  
+
