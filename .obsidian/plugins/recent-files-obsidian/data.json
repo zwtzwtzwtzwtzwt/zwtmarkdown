@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "ospf的",
+      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的.md"
+    },
+    {
       "basename": "ospf的基本工作原理",
       "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的基本工作原理.md"
+    },
+    {
+      "basename": "ospf的特点",
+      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的特点.md"
     },
     {
       "basename": "ppp协议和arp协议的区别、",
@@ -67,10 +75,6 @@
     {
       "basename": "rip协议缺点",
       "path": "3计算机网络/4网络层/路由协议/rip协议/rip协议缺点.md"
-    },
-    {
-      "basename": "ospf的特点",
-      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的特点.md"
     },
     {
       "basename": "可靠传输和流量控制",
@@ -195,10 +199,6 @@
     {
       "basename": "二进制记忆",
       "path": "4计算机组成原理/强化记忆/二进制记忆.md"
-    },
-    {
-      "basename": "icmp协议（差错报告）",
-      "path": "3计算机网络/4网络层/icmp协议（差错报告）.md"
     }
   ],
   "omittedPaths": [],
