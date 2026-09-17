@@ -26,4 +26,7 @@ dhcp 接收到主机发过来的分配 ip 的请求时     每个 dhcp 都会去
 ![](./assets/DHCP/DHCP-1789637059500.webp)  
 
 # 总结  
-![](./assets/DHCP/DHCP-1789637141482.webp)
+![](./assets/DHCP/DHCP-1789637141482.webp)  
+
+
+![](./assets/DHCP/DHCP-1789637159886.webp)
