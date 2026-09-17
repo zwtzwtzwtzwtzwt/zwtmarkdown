@@ -16,6 +16,9 @@
 
 
 
-## opfs 的权值设置  
+## opfs 的特点  
+### 自定义权值
 
-![](./assets/ospf的特点/ospf的特点-1789627905071.webp)
+![](./assets/ospf的特点/ospf的特点-1789627905071.webp)  
+
+![](./assets/ospf的特点/ospf的特点-1789627959627.webp)
