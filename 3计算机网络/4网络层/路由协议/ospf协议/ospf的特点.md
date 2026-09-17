@@ -22,7 +22,7 @@
 ![](./assets/ospf的特点/ospf的特点-1789627905071.webp)  
 
 ![](./assets/ospf的特点/ospf的特点-1789627959627.webp)  
-### 
+### 可以由多个相同代价的路径
 ![](./assets/ospf的特点/ospf的特点-1789628024178.webp)  
 
 ![](./assets/ospf的特点/ospf的特点-1789628179701.webp)一个单位获得 CIDR 地址块后，可以把它刨分为多个子网   
