@@ -27,4 +27,7 @@
 
 ![](./assets/ospf的特点/ospf的特点-1789628179701.webp)一个单位获得 CIDR 地址块后，可以把它刨分为多个子网   
 
-![](./assets/ospf的特点/ospf的特点-1789628489611.webp)![](./assets/ospf的特点/ospf的特点-1789628608375.webp)
+![](./assets/ospf的特点/ospf的特点-1789628489611.webp)![](./assets/ospf的特点/ospf的特点-1789628608375.webp)  
+
+
+###
