@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vpn",
+      "path": "3计算机网络/扩展内容/vpn.md"
+    },
+    {
       "basename": "rip协议",
       "path": "3计算机网络/4网络层/路由选择协议/rip协议/rip协议.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5定积分与反常积分",
       "path": "1高数/5定积分与反常积分/5定积分与反常积分.md"
-    },
-    {
-      "basename": "导数不存在的情况",
-      "path": "1高数/2导数与微分/补充理解/导数不存在的情况.md"
     }
   ],
   "omittedPaths": [],
