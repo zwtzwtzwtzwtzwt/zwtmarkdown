@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DHCP",
+      "path": "3计算机网络/6应用层/DHCP.md"
+    },
+    {
       "basename": "ospf的分组类型",
       "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的分组类型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "内网穿透",
       "path": "3计算机网络/扩展内容/内网穿透.md"
-    },
-    {
-      "basename": "二进制记忆",
-      "path": "4计算机组成原理/强化记忆/二进制记忆.md"
     }
   ],
   "omittedPaths": [],
