@@ -5,6 +5,10 @@
       "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的基本工作原理.md"
     },
     {
+      "basename": "ospf的特点",
+      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的特点.md"
+    },
+    {
       "basename": "可靠传输和流量控制",
       "path": "3计算机网络/5传输层/tcp/可靠传输和流量控制.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "tcp拥塞控制",
       "path": "3计算机网络/5传输层/tcp/tcp拥塞控制.md"
-    },
-    {
-      "basename": "ospf的特点",
-      "path": "3计算机网络/4网络层/路由协议/ospf协议/ospf的特点.md"
     },
     {
       "basename": "无分类编址cidr和变长子网划分",
