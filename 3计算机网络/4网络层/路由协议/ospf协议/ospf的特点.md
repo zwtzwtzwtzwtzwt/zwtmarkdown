@@ -21,4 +21,6 @@
 
 ![](./assets/ospf的特点/ospf的特点-1789627905071.webp)  
 
-![](./assets/ospf的特点/ospf的特点-1789627959627.webp)
+![](./assets/ospf的特点/ospf的特点-1789627959627.webp)  
+
+![](./assets/ospf的特点/ospf的特点-1789628024178.webp)
