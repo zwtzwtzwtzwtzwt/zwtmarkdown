@@ -17,4 +17,5 @@
 
 ## request  
 
-![](./assets/DHCP/DHCP-1789636337841.webp)
+![](./assets/DHCP/DHCP-1789636337841.webp)  
+同一个网络中会有多个 dhcp 服务器  
