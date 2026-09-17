@@ -2,4 +2,6 @@
 
 ![](./assets/DHCP/DHCP-1789633393228.webp)  
 
-![](./assets/DHCP/DHCP-1789634096080.webp)
+![](./assets/DHCP/DHCP-1789634096080.webp)  
+
+![](./assets/DHCP/DHCP-1789634257201.webp)
