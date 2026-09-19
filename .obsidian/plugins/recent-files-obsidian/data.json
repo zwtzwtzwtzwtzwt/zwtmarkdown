@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6英语/从句/未命名.md"
+    },
+    {
       "basename": "ospf的分组类型",
       "path": "3计算机网络/4网络层/路由选择协议/ospf协议/ospf的分组类型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "无分类编址cidr和变长子网划分",
       "path": "3计算机网络/4网络层/无分类编址cidr和变长子网划分.md"
-    },
-    {
-      "basename": "FTP文件传输协议",
-      "path": "3计算机网络/6应用层/FTP文件传输协议.md"
     }
   ],
   "omittedPaths": [],
