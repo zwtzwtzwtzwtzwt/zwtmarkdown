@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "测试",
+      "path": "测试.md"
     },
     {
       "basename": "3计算机网络",
@@ -191,14 +195,6 @@
     {
       "basename": "对称密钥密码体制",
       "path": "3计算机网络/网络安全/对称密钥密码体制.md"
-    },
-    {
-      "basename": "密码学相关概念",
-      "path": "3计算机网络/网络安全/密码学相关概念.md"
-    },
-    {
-      "basename": "网络安全概述",
-      "path": "3计算机网络/网络安全/网络安全概述.md"
     }
   ],
   "omittedPaths": [],
