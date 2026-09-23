@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "培训/数据库/未命名.md"
+    },
+    {
       "basename": "数据库学习",
       "path": "培训/数据库/数据库学习.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实体鉴别",
       "path": "3计算机网络/网络安全/实体鉴别.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "3计算机网络/网络安全/网络安全.md"
     }
   ],
   "omittedPaths": [],
