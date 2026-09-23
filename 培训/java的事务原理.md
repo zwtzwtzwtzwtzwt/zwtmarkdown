@@ -127,12 +127,21 @@ Java 内存对象、RPC 调用、文件操作，Spring 无法回滚。只有数�
 
 ## 五、JDBC 事务 vs Spring 事务对比
 
-||JDBC 原生事务|Spring @Transactional|
+
+|对比项|JDBC 原生事务|Spring @Transactional|
 |---|---|---|
-|开启方式|手动写 `setAutoCommit(false)` |AOP 自动拦截，底层调用 setAutoCommit(false)|
-|代码侵入|高，try-catch 手动 commit/rollback|低，注解声明式|
-|连接管理|自己维护 Connection|Spring+ThreadLocal 绑定连接，整合连接池|
-|功能|基础事务|传播机制、隔离级别、只读事务、超时|
+|开启方式|手动写 `setAutoCommit(false)` |AOP 自动拦截，底层调用 `setAutoCommit(false)` |
+|代码侵入|高，需要手写 try-catch、手动 commit/rollback|低，注解声明式，业务代码无事务样板代码|
+|连接管理|自己维护 Connection|Spring + ThreadLocal 绑定连接，整合连接池|
+|功能|基础事务（开启、提交、回滚）|传播机制、隔离级别、只读事务、事务超时|
+
+> 补充要点（面试备用）
+
+1. 两者底层本质一致：都是依赖 JDBC Connection API，由驱动向 MySQL 发送事务指令。
+2. Spring 利用 ThreadLocal 把 Connection 绑定到当前线程，保证同一个事务内多次获取连接拿到同一个连接。
+3. Spring 额外增强：事务传播、隔离级别设置、事务超时、只读标记、回滚规则配置。
+
+需要我把这个表格压缩成面试口述精简版吗？
 
 ## 六、一句话面试总结
 
