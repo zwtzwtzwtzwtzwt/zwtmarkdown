@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "培训/数据库/未命名.md"
+    },
+    {
       "basename": "数据库查询顺序",
       "path": "培训/数据库/数据库查询顺序.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ospf的分组类型",
       "path": "3计算机网络/4网络层/路由选择协议/ospf协议/ospf的分组类型.md"
-    },
-    {
-      "basename": "bgp四种报文",
-      "path": "3计算机网络/4网络层/路由选择协议/bgp外部网关协议/bgp四种报文.md"
     }
   ],
   "omittedPaths": [],
