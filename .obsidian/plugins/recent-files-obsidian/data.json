@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "微服务中间件配置",
+      "path": "9微服务作业/微服务中间件配置.md"
+    },
+    {
+      "basename": "compose 操作",
+      "path": "9微服务作业/compose 操作.md"
+    },
+    {
       "basename": "B树的基本概念",
       "path": "2数据结构/9查找/B树/B树的基本概念.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "宾语补语从句",
       "path": "6英语/从句/名词从句/宾语补语从句.md"
-    },
-    {
-      "basename": "同位语从句",
-      "path": "6英语/从句/名词从句/同位语从句.md"
-    },
-    {
-      "basename": "表语从句",
-      "path": "6英语/从句/名词从句/表语从句.md"
     }
   ],
   "omittedPaths": [],
