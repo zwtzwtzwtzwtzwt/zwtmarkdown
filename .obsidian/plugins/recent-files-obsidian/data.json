@@ -9,6 +9,10 @@
       "path": "README.md"
     },
     {
+      "basename": "项目结构",
+      "path": "9微服务作业/项目结构.md"
+    },
+    {
       "basename": "Java 后端 DTO等",
       "path": "9微服务作业/Java 后端 DTO等.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "副词从句（状语从句）",
       "path": "6英语/从句/副词从句（状语从句）/副词从句（状语从句）.md"
-    },
-    {
-      "basename": "9微服务作业",
-      "path": "9微服务作业/9微服务作业.md"
     }
   ],
   "omittedPaths": [],
