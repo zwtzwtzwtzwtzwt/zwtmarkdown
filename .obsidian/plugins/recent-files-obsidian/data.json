@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "数据库查询顺序",
+      "path": "培训/数据库/数据库查询顺序.md"
+    },
+    {
+      "basename": "子查询的执行时机",
+      "path": "培训/数据库/子查询的执行时机.md"
+    },
+    {
+      "basename": "数据库学习",
+      "path": "培训/数据库/数据库学习.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "培训/数据库/数据库.md"
+    },
+    {
+      "basename": "compose 操作",
+      "path": "9微服务作业/compose 操作.md"
+    },
+    {
+      "basename": "Java 后端 DTO等",
+      "path": "9微服务作业/Java 后端 DTO等.md"
+    },
+    {
       "basename": "java核心类库",
       "path": "9微服务作业/java核心类库.md"
     },
@@ -41,16 +65,8 @@
       "path": "9微服务作业/项目结构.md"
     },
     {
-      "basename": "Java 后端 DTO等",
-      "path": "9微服务作业/Java 后端 DTO等.md"
-    },
-    {
       "basename": "微服务中间件配置",
       "path": "9微服务作业/微服务中间件配置.md"
-    },
-    {
-      "basename": "compose 操作",
-      "path": "9微服务作业/compose 操作.md"
     },
     {
       "basename": "B树的基本概念",
@@ -65,24 +81,12 @@
       "path": "培训/数据库/内连接和外连接处理null.md"
     },
     {
-      "basename": "数据库学习",
-      "path": "培训/数据库/数据库学习.md"
-    },
-    {
       "basename": "相关与非相关子查询的不同",
       "path": "培训/数据库/相关与非相关子查询的不同.md"
     },
     {
       "basename": "子查询位置",
       "path": "培训/数据库/子查询位置.md"
-    },
-    {
-      "basename": "数据库查询顺序",
-      "path": "培训/数据库/数据库查询顺序.md"
-    },
-    {
-      "basename": "子查询的执行时机",
-      "path": "培训/数据库/子查询的执行时机.md"
     },
     {
       "basename": "单行函数与聚合函数",
@@ -103,10 +107,6 @@
     {
       "basename": "主语从句",
       "path": "6英语/从句/名词从句/主语从句.md"
-    },
-    {
-      "basename": "数据库",
-      "path": "培训/数据库/数据库.md"
     },
     {
       "basename": "培训",
