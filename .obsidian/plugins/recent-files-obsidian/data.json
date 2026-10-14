@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "java核心类库",
+      "path": "9微服务作业/java核心类库.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "方式",
       "path": "6英语/从句/副词从句（状语从句）/方式.md"
-    },
-    {
-      "basename": "条件",
-      "path": "6英语/从句/副词从句（状语从句）/条件.md"
     }
   ],
   "omittedPaths": [],
