@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "信号量实现互斥和同步",
+      "path": "5操作系统/同步与互斥/信号量实现互斥和同步.md"
+    },
+    {
+      "basename": "信号量机制",
+      "path": "5操作系统/同步与互斥/信号量机制.md"
+    },
+    {
+      "basename": "同步与互斥的基本概念",
+      "path": "5操作系统/同步与互斥/同步与互斥的基本概念.md"
+    },
+    {
       "basename": "进程互斥的硬件实现方法",
       "path": "5操作系统/同步与互斥/进程互斥的硬件实现方法.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "互斥锁",
       "path": "5操作系统/同步与互斥/互斥锁.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "打包",
@@ -187,18 +199,6 @@
     {
       "basename": "条件",
       "path": "6英语/从句/副词从句（状语从句）/条件.md"
-    },
-    {
-      "basename": "语言成分",
-      "path": "6英语/语言成分.md"
-    },
-    {
-      "basename": "让步",
-      "path": "6英语/从句/副词从句（状语从句）/让步.md"
-    },
-    {
-      "basename": "比较",
-      "path": "6英语/从句/副词从句（状语从句）/比较.md"
     }
   ],
   "omittedPaths": [],
