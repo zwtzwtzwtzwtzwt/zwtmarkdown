@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "9微服务作业/未命名.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "B+树",
+      "path": "2数据结构/9查找/B树/B+树.md"
+    },
+    {
+      "basename": "B树的基本概念",
+      "path": "2数据结构/9查找/B树/B树的基本概念.md"
+    },
+    {
+      "basename": "B树的插入删除",
+      "path": "2数据结构/9查找/B树/B树的插入删除.md"
+    },
+    {
+      "basename": "重点知识点",
+      "path": "2数据结构/9查找/B树/重点知识点.md"
+    },
+    {
       "basename": "使用 RedisStream 搭建消息队列",
       "path": "简历面试/使用 RedisStream 搭建消息队列.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "java核心类库",
       "path": "9微服务作业/java核心类库.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "信号量实现互斥和同步",
@@ -71,10 +91,6 @@
     {
       "basename": "微服务中间件配置",
       "path": "9微服务作业/微服务中间件配置.md"
-    },
-    {
-      "basename": "B树的基本概念",
-      "path": "2数据结构/9查找/B树/B树的基本概念.md"
     },
     {
       "basename": "B树",
@@ -183,22 +199,6 @@
     {
       "basename": "倒装句",
       "path": "6英语/倒装句.md"
-    },
-    {
-      "basename": "句子分类",
-      "path": "6英语/句子分类.md"
-    },
-    {
-      "basename": "结果",
-      "path": "6英语/从句/副词从句（状语从句）/结果.md"
-    },
-    {
-      "basename": "目的",
-      "path": "6英语/从句/副词从句（状语从句）/目的.md"
-    },
-    {
-      "basename": "原因",
-      "path": "6英语/从句/副词从句（状语从句）/原因.md"
     }
   ],
   "omittedPaths": [],
