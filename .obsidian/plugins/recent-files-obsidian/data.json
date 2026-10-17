@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "培训/数据库/未命名.md"
+    },
+    {
+      "basename": "数据库查询顺序",
+      "path": "培训/数据库/数据库查询顺序.md"
+    },
+    {
+      "basename": "数据库索引",
+      "path": "培训/数据库/数据库索引.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "使用 RedisStream 搭建消息队列",
       "path": "简历面试/使用 RedisStream 搭建消息队列.md"
-    },
-    {
-      "basename": "数据库查询顺序",
-      "path": "培训/数据库/数据库查询顺序.md"
     },
     {
       "basename": "子查询的执行时机",
@@ -113,10 +121,6 @@
       "path": "培训/数据库/单行函数与聚合函数.md"
     },
     {
-      "basename": "数据库索引",
-      "path": "培训/数据库/数据库索引.md"
-    },
-    {
       "basename": "网络地址转换nat技术",
       "path": "3计算机网络/4网络层/网络地址转换nat技术.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "强调句",
       "path": "6英语/强调句.md"
-    },
-    {
-      "basename": "倒装句",
-      "path": "6英语/倒装句.md"
     }
   ],
   "omittedPaths": [],
