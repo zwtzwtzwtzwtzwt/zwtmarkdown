@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "不知道的",
+      "path": "培训/数据库/不知道的.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "子查询的执行时机",
+      "path": "培训/数据库/子查询的执行时机.md"
+    },
+    {
+      "basename": "数据库学习",
+      "path": "培训/数据库/数据库学习.md"
+    },
+    {
+      "basename": "数据库索引",
+      "path": "培训/数据库/数据库索引.md"
     },
     {
       "basename": "SpringEvent运行机制",
       "path": "file:E:/finnal/springai/xiaoha-ai-robot-springboot/src/main/java/com/quanxiaoha/ai/robot/event/SpringEvent运行机制.md"
     },
     {
-      "basename": "不知道的",
-      "path": "培训/数据库/不知道的.md"
-    },
-    {
       "basename": "数据库查询顺序",
       "path": "培训/数据库/数据库查询顺序.md"
-    },
-    {
-      "basename": "数据库索引",
-      "path": "培训/数据库/数据库索引.md"
     },
     {
       "basename": "枚举类和record",
@@ -43,14 +51,6 @@
     {
       "basename": "使用 RedisStream 搭建消息队列",
       "path": "简历面试/使用 RedisStream 搭建消息队列.md"
-    },
-    {
-      "basename": "子查询的执行时机",
-      "path": "培训/数据库/子查询的执行时机.md"
-    },
-    {
-      "basename": "数据库学习",
-      "path": "培训/数据库/数据库学习.md"
     },
     {
       "basename": "数据库",
