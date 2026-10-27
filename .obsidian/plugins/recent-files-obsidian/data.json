@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "不知道的",
-      "path": "培训/数据库/不知道的.md"
+      "basename": "二进制记忆",
+      "path": "4计算机组成原理/强化记忆/二进制记忆.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "不知道的",
+      "path": "培训/数据库/不知道的.md"
     },
     {
       "basename": "子查询的执行时机",
@@ -195,10 +199,6 @@
     {
       "basename": "虚拟语气",
       "path": "6英语/虚拟语气.md"
-    },
-    {
-      "basename": "定语从句（形容词从句  关系从句）",
-      "path": "6英语/从句/定语从句（形容词从句  关系从句）.md"
     }
   ],
   "omittedPaths": [],
