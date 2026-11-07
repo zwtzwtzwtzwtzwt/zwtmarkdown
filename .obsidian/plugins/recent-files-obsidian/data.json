@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "五十音图",
       "path": "日语学习/五十音图.md"
     },
@@ -9,20 +13,16 @@
       "path": "日语学习/日语长音.md"
     },
     {
+      "basename": "二进制记忆",
+      "path": "4计算机组成原理/强化记忆/二进制记忆.md"
+    },
+    {
       "basename": "日语学习",
       "path": "日语学习/日语学习.md"
     },
     {
       "basename": "培训",
       "path": "培训/培训.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "二进制记忆",
-      "path": "4计算机组成原理/强化记忆/二进制记忆.md"
     },
     {
       "basename": "不知道的",
