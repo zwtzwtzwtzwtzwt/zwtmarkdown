@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "日语长音",
-      "path": "日语学习/日语长音.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "提示词模板-数据编目 - 副本",
+      "path": "file:F:/桌面/数据编目/提示词模板-数据编目 - 副本.md"
     },
     {
       "basename": "五十音图",
       "path": "日语学习/五十音图.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "日语长音",
+      "path": "日语学习/日语长音.md"
     },
     {
       "basename": "二进制记忆",
@@ -195,10 +199,6 @@
     {
       "basename": "ip地址",
       "path": "3计算机网络/4网络层/ip地址.md"
-    },
-    {
-      "basename": "ipv4分组 数据报分片",
-      "path": "3计算机网络/4网络层/ipv4分组 数据报分片.md"
     }
   ],
   "omittedPaths": [],
