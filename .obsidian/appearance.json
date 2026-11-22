@@ -4,5 +4,6 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "custom-rainbow-colors"
-  ]
+  ],
+  "showRibbon": true
 }
