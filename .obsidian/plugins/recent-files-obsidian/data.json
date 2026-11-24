@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "练习",
+      "path": "日语学习/练习.md"
+    },
+    {
+      "basename": "日语动词变形规则",
+      "path": "日语学习/日语动词变形规则.md"
+    },
+    {
       "basename": "月  季节",
       "path": "日语学习/时间/月  季节.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "日语名词与形容词变形规则",
       "path": "日语学习/日语名词与形容词变形规则.md"
-    },
-    {
-      "basename": "日语动词变形规则",
-      "path": "日语学习/日语动词变形规则.md"
     },
     {
       "basename": "日语长音",
@@ -195,10 +199,6 @@
     {
       "basename": "网络地址转换nat技术",
       "path": "3计算机网络/4网络层/网络地址转换nat技术.md"
-    },
-    {
-      "basename": "java的事务原理",
-      "path": "培训/java的事务原理.md"
     }
   ],
   "omittedPaths": [],
