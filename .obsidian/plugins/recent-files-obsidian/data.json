@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "疑问词",
+      "path": "日语学习/语法总结/疑问词.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "相关与非相关子查询的不同",
       "path": "培训/数据库/相关与非相关子查询的不同.md"
-    },
-    {
-      "basename": "子查询位置",
-      "path": "培训/数据库/子查询位置.md"
     }
   ],
   "omittedPaths": [],
