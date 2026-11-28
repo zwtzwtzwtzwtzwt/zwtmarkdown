@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "片假名记忆",
+      "path": "日语学习/记忆/片假名记忆.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "微服务中间件配置",
       "path": "9微服务作业/微服务中间件配置.md"
-    },
-    {
-      "basename": "B树",
-      "path": "2数据结构/9查找/B树/B树.md"
     }
   ],
   "omittedPaths": [],
