@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "日语学习/语法总结/未命名.md"
+    },
+    {
       "basename": "上课笔记",
       "path": "日语学习/上课笔记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "B树",
       "path": "2数据结构/9查找/B树/B树.md"
-    },
-    {
-      "basename": "内连接和外连接处理null",
-      "path": "培训/数据库/内连接和外连接处理null.md"
     }
   ],
   "omittedPaths": [],
